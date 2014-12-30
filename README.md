@@ -1,0 +1,4 @@
+SwiftResource
+=============
+
+Swift Language Resources
