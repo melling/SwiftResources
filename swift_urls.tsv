@@ -369,13 +369,13 @@ tutorial	http://www.mav3r1ck.com/uitapgesturerecognizer	UITapGestureRecognizer		
 tutorial	http://natashatherobot.com/unit-test-optionals-swift	How To Unit Test With Optionals In Swift		20141225
 tutorial	http://commandshift.co.uk/blog/2014/12/28/nice-web-services-swift-edition	Nice Web Services, Swift Edition		20141228
 tutorial	http://www.mav3r1ck.com/clock	Swift Clock App		20141116
-advanced	http://airspeedvelocity.net/2014/09/24/which-function-does-swift-call-part-2-single-arguments	Which function does Swift call? Part 2: Single Arguments		20140924
-advanced	http://airspeedvelocity.net/2014/10/07/which-function-does-swift-call-part-3-protocol-composition	Which function does Swift call? Part 3: Protocol Composition		20141007
-advanced	http://airspeedvelocity.net/2014/10/26/which-function-does-swift-call-part-4-generics	Which function does Swift call? Part 4: Generics		20141026
-advanced	http://airspeedvelocity.net/2014/11/10/which-function-does-swift-call-part-5-range-vs-interval	Which function does Swift call? Part 5: Range vs Interval		20141110
-advanced	http://airspeedvelocity.net/2014/11/16/which-function-does-swift-call-part-6-tinkering-with-priorities	Which function does Swift call? Part 6: Tinkering with priorities		20141116
-advanced	http://airspeedvelocity.net/2014/11/27/running-totals-and-force-unwraps	Running Totals and Force Unwraps		20141127
-advanced	http://airspeedvelocity.net/2014/12/05/zipwith-pipe-forward-and-treating-functions-like-objects	zipWith, pipe forward, and treating functions like objects		20141205
+advanced	http://airspeedvelocity.net/2014/09/24/which-function-does-swift-call-part-2-single-arguments	Which function does Swift call? Part 2: Single_Arguments		20140924
+advanced	http://airspeedvelocity.net/2014/10/07/which-function-does-swift-call-part-3-protocol-composition	Which function does Swift call? Part 3: Protocol_Composition		20141007
+advanced	http://airspeedvelocity.net/2014/10/26/which-function-does-swift-call-part-4-generics	Which function does Swift call? Part 4:_Generics		20141026
+advanced	http://airspeedvelocity.net/2014/11/10/which-function-does-swift-call-part-5-range-vs-interval	Which function does Swift call? Part 5: Range vs_Interval		20141110
+advanced	http://airspeedvelocity.net/2014/11/16/which-function-does-swift-call-part-6-tinkering-with-priorities	Which function does Swift call? Part 6: Tinkering with_priorities		20141116
+advanced	http://airspeedvelocity.net/2014/11/27/running-totals-and-force-unwraps	Running Totals and Force_Unwraps		20141127
+advanced	http://airspeedvelocity.net/2014/12/05/zipwith-pipe-forward-and-treating-functions-like-objects	zipWith, pipe forward, and treating functions like_objects		20141205
 advanced	http://nomothetis.svbtle.com/the-culmination-i	The Culmination: Part I		20140826
 advanced	http://nomothetis.svbtle.com/the-culmination-part-ii	The Culmination: Part II		20140828
 advanced	http://nomothetis.svbtle.com/the-culmination-final-part	The Culmination: Final Part		20140830
@@ -401,7 +401,7 @@ tutorial	http://www.mav3r1ck.com/swipe-gesture-recognizers	Swipe gesture recogni
 advanced	http://natashatherobot.com/swift-string-ranges-the-functional	Swift: Using String Ranges The Functional Way		20141203
 advanced	http://natecook.com/blog/2014/08/set-type-follow-up	Set Type Follow-up		20140825
 advanced	http://natecook.com/blog/2014/08/creating-a-set-type-in-swift	Creating a Set Type in Swift		20140820
-advanced	http://natecook.com/blog/2014/07/c-style-typedef-enums-in-swift	C-Style "typedef enum" in Swift		20140711
+advanced	http://natecook.com/blog/2014/07/c-style-typedef-enums-in-swift	C-Style 'typedef enum' in Swift		20140711
 advanced	http://natecook.com/blog/2014/08/swifts-hidden-array-each-method	Swift's Hidden Array.each Method		20140826
 advanced	http://natecook.com/blog/2014/08/generic-functions-for-incompatible-types	Generic Functions for Incompatible Types		20140829
 tutorial	http://natecook.com/blog/2014/09/introducing-swifter	Introducing Swifter		20140905
