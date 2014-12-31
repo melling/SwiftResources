@@ -6,7 +6,7 @@ advanced	http://www.shrikar.com/blog/2014/12/06/ios-app-as-a-money-making-machin
 advanced	http://www.shrikar.com/blog/2014/11/06/ios-app-development-upload-images-to-aws-s3	iOS App Development : Upload Images to AWS S3		20141106
 advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html	Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)		20141214
 advanced	http://sketchytech.blogspot.com/2014/12/swift-notes-on-relative-positioning-and.html	Notes on the relative positioning and transformation of layers and sublayers (CALayer, frame, bounds, transform, position, Xcode)		20141210
-advanced	http://sketchytech.blogspot.com/2014/12/the-inspiration-of-hexagons-for-drawing.html	The Inspiration of Hexagons for Drawing in 3D	sharing-swift-app-uiactivityviewcontroller	20141205
+advanced	http://sketchytech.blogspot.com/2014/12/the-inspiration-of-hexagons-for-drawing.html	The Inspiration of Hexagons for Drawing in 3D		20141205
 advanced	http://2014.funswiftconf.com	2014 Functional Swift Conf	#functional	20141206
 advanced	http://blog.human-friendly.com/how-i-handle-optionals-in-swift	How I Handle Optionals In Swift		20141220
 advanced	http://blog.human-friendly.com/swift-optimisation-again-slides-from-swift-london-21st-october-2014	Swift Optimisation Again - Slides from Swift London 21st October 2014	#video	20141021
@@ -338,3 +338,30 @@ tutorial	http://www.knowstack.com/swift-ios-custom-uitableviewcell	Swift iOS Cus
 advanced	http://iosdeveloperzone.com/2014/10/07/swift-standard-library-transcode	Swift Standard Library: transcode		20141007
 tutorial	http://iosdeveloperzone.com/2014/10/06/simplifying-autolayout-code-with-swift	Simplifying Autolayout Code with Swift	#autolayout	20141006
 advanced	http://iosdeveloperzone.com/2014/10/03/using-commoncrypto-in-swift	Using CommonCrypto in Swift		20141003
+advanced	http://www.screaming.org/blog/2014/09/09/toy-layout-engine-3	Let's Build a Browser Engine in Swift, Part 3		20140909
+tutorial	http://sketchytech.blogspot.com/2014/12/swift-failing-with-class.html	Swift: Failing with Class (failable initializer, nil coalescing operator)		20141218
+tutorial	http://mookid.dk/oncode/archives/3780	Playing with UIView shadows		20140616
+tutorial	http://mookid.dk/oncode/archives/3815	Swift gesture recognizer that accepts a func		20140621
+tutorial	http://mookid.dk/oncode/archives/3795	How to create a draggable cookie with Swift		20140621
+tutorial	http://jamesonquave.com/blog/taking-control-of-the-iphone-camera-in-ios-8-with-swift-part-2	Taking control of the iPhone camera in iOS 8 with Swift (Part 2)		20140930
+advanced	http://jamesonquave.com/blog/using-equatable-and-nilliteralconvertible-to-re-implement-optionals-in-swift-part-2	Using Equatable and NilLiteralConvertible to re-implement Optionals in Swift (Part 2)		20141206
+advanced	http://jamesonquave.com/blog/re-implementing-optionals-using-swifts-powerful-enum-type	Re-implementing Optionals using Swift’s powerful enum type		20141206
+tutorial	http://www.shrikar.com/blog/2014/11/24/ios-8-notifications-in-swift	iOS 8 Notifications		20141124
+tutorial	http://www.shrikar.com/blog/2014/12/11/ios-sharing-with-uiactivityviewcontroller-in-swift	iOS Sharing With UIActivityViewController		20141211
+tutorial	http://www.shrikar.com/blog/2014/11/18/ios-development-tutorial-visual-blur-with-uivisualeffectview	iOS Development Tutorial: Visual Blur With UIVisualEffectView		20141118
+tutorial	http://peterwitham.com/swift/basics/auto-layout-constraints-basics	Auto Layout & Constraints – The Basics		20141028
+tutorial	http://peterwitham.com/swift/intermediate/display-an-alert	Display an Alert or Action Sheet Using Swift in iOS 8		20141122
+tutorial	http://www.ioscreator.com/tutorials/display-activity-indicator-status-bar-ios8-swift	Display Activity Indicator on Status Bar in iOS8 with Swift		20141202
+tutorial	http://www.ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift	Attributed Strings Tutorial in iOS8 with Swift		20141208
+tutorial	http://www.ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift	Customizing Header and Footer of Table View in iOS8 with Swift		20141210
+tutorial	http://www.ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift	Today Extensions Tutorial in iOS8 with Swift		20141217
+tutorial	http://www.ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift	Custom Fonts in Interface Builder Tutorial in iOS8 with Swift		20141222
+tutorial	http://www.ioscreator.com/tutorials/prototype-cells-tableview-tutorial-ios8-swift	Prototype Cells in Tableview Tutorial in iOS8 with Swift		20140813
+tutorial	http://www.ioscreator.com/tutorials/mapkit-tutorial-swift-ios8	MapKit Tutorial with Swift in iOS8		20140818
+tutorial	http://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift	Calculator Tutorial in iOS8 with Swift		20140630
+tutorial	http://www.ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift	TableView Tutorial in iOS8 with Swift		20140623
+tutorial	http://www.ioscreator.com/tutorials/display-date-date-picker-ios8-swift	Displaying Date with Date Picker in iOS8 with Swift		20140814
+tutorial	http://www.ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift	Segmented Control Tutorial in iOS8 with Swift		20140815
+tutorial	http://www.ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift	Display an Alert View in iOS8 with Swift		20140625
+tutorial	http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift	Webview Tutorial in iOS8 with Swift		20140709
+tutorial	http://www.ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift	UISwitch Tutorial in iOS8 with Swift		20140721
