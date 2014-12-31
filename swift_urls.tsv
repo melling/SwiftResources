@@ -333,3 +333,8 @@ tutorial	http://iosdeveloperzone.com/2014/10/15/swift-parameter-labels	Swift Par
 tutorial	http://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift	UIKit Dynamics - Attachment Behaviour Tutorial in iOS8 with Swift		20141230
 tutorial	http://memkite.com/blog/2014/12/30/example-of-sharing-memory-between-gpu-and-cpu-with-swift-and-metal-for-ios8	Example of Sharing Memory Between GPU and CPU with Swift and Metal for iOS8	#metal	20141230
 tutorial	http://www.raywenderlich.com/84341/create-breakout-game-sprite-kit-swift	How To Create a Breakout Game with Sprite Kit and Swift	#sprite-kit	20141230
+tutorial	http://www.knowstack.com/swift-ios-uitableview	Swift iOS UITableView	#uitableview	20141226
+tutorial	http://www.knowstack.com/swift-ios-custom-uitableviewcell	Swift iOS Custom UITableViewCell	#uitableview	20141226
+advanced	http://iosdeveloperzone.com/2014/10/07/swift-standard-library-transcode	Swift Standard Library: transcode		20141007
+tutorial	http://iosdeveloperzone.com/2014/10/06/simplifying-autolayout-code-with-swift	Simplifying Autolayout Code with Swift	#autolayout	20141006
+advanced	http://iosdeveloperzone.com/2014/10/03/using-commoncrypto-in-swift	Using CommonCrypto in Swift		20141003
