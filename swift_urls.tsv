@@ -414,3 +414,14 @@ tutorial	http://medium.com/swift-programming/learn-nsurlsession-using-swift-part
 advanced	http://medium.com/swift-programming/dynamic-layouts-in-swift-b56cf8049b08	Dynamic Layouts in Swift		20141107
 advanced	http://medium.com/swift-programming/secret-of-swift-performance-a8ee86060843	Secret of Swift Performance: Part 1		20141119
 advanced	http://medium.com/swift-programming/secret-of-swift-performance-fcc5d2a437a8	Secret of Swift Performance: Part 2		20141122
+tutorial	http://shrikar.com/blog/2014/12/31/ios-app-design-using-xcode-6-and-interface-builder-yik-yak-clone-part-1	iOS App Design Using Xcode 6 and Interface Builder - Yik Yak Clone Part 1		20141231
+tutorial	http://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift	User Accounts on iOS with Ruby on Rails and Swift		20150101
+tutorial	http://ios-blog.co.uk/tutorials/connect-your-swift-application-to-parse-com	Connect your Swift Application to Parse.com		20141122
+tutorial	http://ios-blog.co.uk/tutorials/swift-create-user-sign-up-based-app-with-parse-com-using-pfuser	Swift: Create user sign up based app with Parse.com using PFUser		20141123
+tutorial	http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith	Swift: Create a login app with Parse.com PFUser & Keychain Locksmith		20141129
+tutorial	http://ios-blog.co.uk/swift-tutorials/swift-enumerations	Swift: Enumerations		20141205
+tutorial	http://ios-blog.co.uk/tutorials/swift-how-to-send-a-post-request-to-a-php-script	Swift: How to send a POST Request to a PHP Script		20141208
+tutorial	http://ios-blog.co.uk/swift-tutorials/swift-nstimer-tutorial-lets-create-a-counter-application	Swift NSTimer Tutorial – Lets create a counter application		20141215
+tutorial	http://ios-blog.co.uk/tutorials/swift-tuples	Swift: Tuples an introduction		20141216
+tutorial	http://ios-blog.co.uk/tutorials/swift-type-annotations	Swift: Type Annotations		20141218
+libs	https://github.com/MaddTheSane/SwiftMacTypes	SwiftAdditions		20010101
