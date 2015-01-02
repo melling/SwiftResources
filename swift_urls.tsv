@@ -424,4 +424,4 @@ tutorial	http://ios-blog.co.uk/tutorials/swift-how-to-send-a-post-request-to-a-p
 tutorial	http://ios-blog.co.uk/swift-tutorials/swift-nstimer-tutorial-lets-create-a-counter-application	Swift NSTimer Tutorial – Lets create a counter application		20141215
 tutorial	http://ios-blog.co.uk/tutorials/swift-tuples	Swift: Tuples an introduction		20141216
 tutorial	http://ios-blog.co.uk/tutorials/swift-type-annotations	Swift: Type Annotations		20141218
-libs	https://github.com/MaddTheSane/SwiftMacTypes	SwiftAdditions		20010101
+libs	https://github.com/MaddTheSane/SwiftMacTypes	SwiftAdditions: A Swift bridge for the data types in the MacTypes header.		20010101
