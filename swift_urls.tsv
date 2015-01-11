@@ -430,3 +430,26 @@ tutorial	http://airspeedvelocity.net/2015/01/02/more-fun-with-implicitly-wrapped
 tutorial	http://medium.com/@glenyi/coco-love-f6cd5a30f63e	CoCo Love: Building the 'hit' app in Swift. CAEmitterLayer, CAEmitterCell and lazy stored properties.	#CAEmitterLayer	20141230
 advanced	http://www.javiersoto.me/post/106875422394	Functor and Monad in Swift	#functional	20150102
 beginner	http://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675	Swiftris: Tetris Clone in Swift		20010101
+tutorial	http://ios-blog.co.uk/tutorials/quick-tip-implementing-uialertview-in-swift	Quick tip: Implementing UIAlertView in Swift		20140927
+tutorial	http://www.shrikar.com/blog/2015/01/03/integrate-parse-with-swift-in-ios8-using-cocoapods	Integrate Parse With Swift in iOS8 Using CocoaPods		20150103
+tutorial	http://www.shrikar.com/blog/2015/01/03/parse-backed-uitableview-in-ios-8-build-yik-yak-clone-part-2	Parse Backed UITableView in iOS 8 : Build Yik Yak Clone Part 2		20150103
+tutorial	http://www.shrikar.com/blog/2015/01/08/using-uitableview-and-footerview-to-implement-commenting-system-building-yik-yak-clone-part-3	Using UITableView and FooterView to Implement Commenting System: Building Yik Yak Clone Part 3		20150108
+tutorial	http://flexmonkey.blogspot.com/2015/01/phimagemanager-core-data-and-twitter.html	PHImageManager, Core Data and Twitter Integration in Swift		20150101
+tutorial	http://flexmonkey.blogspot.com/2015/01/creating-phimagemanager-browserpicker.html	Creating a PHImageManager Browser/Picker in Swift		20150101
+tutorial	http://ios-blog.co.uk/tutorials/how-to-create-an-objective-c-bridging-header	How to create an Objective-C Bridging header		20150108
+tutorial	http://www.ioscreator.com/tutorials/scene-kit-primitives-tutorial-swift	Scene Kit - Primitives Tutorial with Swift		20150105
+tutorial	http://www.ioscreator.com/tutorials/reordering-rows-table-view-ios8-swift	Reordering Rows from Table View in iOS8 with Swift		20150106
+tutorial	http://www.ioscreator.com/tutorials/airprint-tutorial-ios8-swift	AirPrint Tutorial in iOS8 with Swift		20150108
+tutorial	http://natashatherobot.com/mutating-functions-swift-structs	Mutating Functions in Swift Structs		20150107
+tutorial	http://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1	Grand Central Dispatch Tutorial for Swift: Part 1/2		20150107
+tutorial	http://www.raywenderlich.com/79150/grand-central-dispatch-tutorial-swift-part-2	Grand Central Dispatch Tutorial for Swift: Part 2/2		20150107
+tutorial	http://www.raywenderlich.com/85515/liquidfun-tutorial-1	LiquidFun Tutorial with Metal and Swift – Part 1		20150106
+tutorial	http://www.raywenderlich.com/90592/liquidfun-tutorial-2	LiquidFun Tutorial with Metal and Swift – Part 2		20150108
+tutorial	http://medium.com/swift-programming/finding-closure-d5e14c939c84	Finding closure: Using closures in Swift		20150105
+tutorial	http://www.raywenderlich.com/93104/video-tutorial-swift-scroll-view-school-part-0-introduction	Video Tutorial: Swift Scroll View School Part 0: Introduction		20150105
+tutorial	http://natashatherobot.com/unit-testing-swift-dependency-injection	Unit Testing in Swift: Dependency Injection		20150102
+tutorial	http://natashatherobot.com/functional-swift-tail-recursion	Functional Swift: Tail Recursion Explained		20150102
+tutorial	http://natashatherobot.com/unit-testing-in-swift-a-quick-look-at-quick	Unit Testing in Swift: A Quick Look at Quick		20150105
+tutorial	http://jamesonquave.com/blog/core-animation-swift-tutorial-animatable-properties	Core Animation Swift Tutorial – Animatable Properties		20150106
+tutorial	http://peterwitham.com/swift/intermediate/alert-with-user-entry	Display an Alert with Text Field Entry		20150106
+tutorial	http://www.codingexplorer.com/hello-world-first-ios-app-swift	Hello World! Your first iOS App in Swift		20150106
