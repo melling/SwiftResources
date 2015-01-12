@@ -70,15 +70,15 @@ advanced	http://www.weheartswift.com/introduction-scenekit-part-1	Introduction T
 advanced	http://www.weheartswift.com/introduction-scenekit-part-2	Introduction To SceneKit – Part 2	#SceneKit	20141111
 advanced	http://www.weheartswift.com/introduction-scenekit-part-3	Introduction To SceneKit – Part 3	#SceneKit	20141205
 advanced	http://www.youtube.com/watch?v=_ZenKrXkj74	Functional Programming in Swift	#functional	20140911
-libs	http://github.com/Alamofire/Alamofire/	Elegant Networking in Swift		20010101
-libs	http://github.com/ankurp/Dollar.swift/	A functional tool-belt for Swift Language similar to Lo-Dash or Underscore in Javascript		20010101
+libs	http://github.com/Alamofire/Alamofire	Elegant Networking in Swift		20010101
+libs	http://github.com/ankurp/Dollar.swift	A functional tool-belt for Swift Language similar to Lo-Dash or Underscore in Javascript		20010101
 libs	http://github.com/croath/UIImageView-BetterFace-Swift	UIImageView-BetterFace-Swift		20010101
 libs	http://github.com/indragiek/SwiftAutoLayout	Tiny Swift DSL for Autolayout		20010101
 libs	http://github.com/kylef/QueryKit	A simple CoreData query language for Swift		20010101
 libs	http://github.com/lexrus/LTBouncyPlaceholder	A learning-by-doing UITextField extension		20010101
 libs	http://github.com/lexrus/LTMorphingLabel	Cloning the original Morphing Label of iOS 8 introduced in WWDC 2014		20010101
 libs	http://github.com/mattdonnelly/Swifter	Twitter Framework		20010101
-libs	http://github.com/mattt/Euler/	Swift Custom Operators for Mathematical Notation		20010101
+libs	http://github.com/mattt/Euler	Swift Custom Operators for Mathematical Notation		20010101
 libs	http://github.com/nghialv/Net	Http Request wrapper		20010101
 libs	http://github.com/pkluz/PKHUD	Reimplementation of the Apple HUD (Volume, Ringer, Rotation,...		20010101
 libs	http://github.com/practicalswift/Pythonic.swift	Pythonic Swift		20010101
@@ -221,8 +221,8 @@ tutorial	http://www.makegameswith.us/gamernews/399/create-the-game-of-life-using
 tutorial	http://www.mav3r1ck.com/uilongpressgesturerecognizer	LongPressGestureRecognizer		20141206
 tutorial	http://www.mikeash.com/pyblog/friday-qa-2014-06-20-interesting-swift-features.html	Interesting Swift Features		20140620
 tutorial	http://www.nottombrown.com/blog/2014/08/14/swift-for-rubyists-optionals	Swift for Rubyists: Optionals		20140814
-tutorial	http://www.pumpmybicep.com/2014/07/02/uitableview-deleting-moving-and-viewing-rows.html	UITableView: Deleting, Moving, and Viewing Rows	#UITableView	20010101
-tutorial	http://www.pumpmybicep.com/2014/07/22/implementing-core-data-nsmanagedobject-subclasses-in-swift.html	Implementing Core Data NSManagedObject Subclasses	#core-data	20010101
+tutorial	http://www.pumpmybicep.com/2014/07/02/uitableview-deleting-moving-and-viewing-rows	UITableView: Deleting, Moving, and Viewing Rows	#UITableView	20140702
+tutorial	http://www.pumpmybicep.com/2014/07/22/implementing-core-data-nsmanagedobject-subclasses-in-swift	Implementing Core Data NSManagedObject Subclasses	#core-data	20140722
 tutorial	http://www.raywenderlich.com/74138/swift-language-faq	Ray Wenderlich Swift Language FAQ	#reference	20140808
 tutorial	http://www.raywenderlich.com/75270/make-game-like-candy-crush-with-swift-tutorial-part-1	Make Game Like Candy Crush with Swift Tutorial Part 1	#SpriteKit	20141017
 tutorial	http://www.raywenderlich.com/75273/make-game-like-candy-crush-with-swift-tutorial-part-2	How to Make a Game Like Candy Crush with Swift Tutorial: Part 2		20141017
@@ -460,3 +460,18 @@ tutorial	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App 
 tutorial	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	#video	20150110
 tutorial	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	#UIBezierPath	20150110
 tutorial	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	#AudioKit	20150111
+libs	https://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
+advanced	http://www.objc.io/snippets/13.html	Phantom Types		20150110
+sites	http://swiftlang.eu/	SwiftLang.eu		20010101
+advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift		20141228
+tutorial	http://gilesvangruisen.com/all-about-table-views	All about table views		20141105
+libs	http://github.com/davecom/SwiftGraph	SwiftGraph:  A Graph Data Structure		20010101
+advanced	http://meghagulati.com/2015/01/04/integrating-stripe-in-swift-with-custom-view	Integrating Stripe in Swift with Custom View		20150104
+advanced	http://www.russbishop.net/swift-associated-types	Swift: Associated Types		20150105
+tutorial	http://www.russbishop.net/swift-and-uitableviewcontroller	Swift: Strange tales of initialization		20141117
+advanced	http://www.russbishop.net/swift-respondstoselector	Swift: respondsToSelector?		20141019
+advanced	http://www.russbishop.net/swift-and-objc-gotcha	Swift and ObjC: Gotcha!		20141116
+advanced	http://www.russbishop.net/swift-function-currying	Swift Function Currying	#functional	20140811
+advanced	http://www.russbishop.net/swift-implicit-pointers	Swift: Implicit Pointers		20140714
+advanced	http://www.russbishop.net/swift-let-s-query-dns	Swift: Let's Query DNS		20140719
+advanced	http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html	Proof in Functions	#functional	20150105
