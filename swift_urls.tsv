@@ -86,19 +86,19 @@ libs	http://github.com/robb/Cartography	Declarative Auto Layout in Swift	#autola
 libs	http://github.com/ryanfowler/SwiftData	SwiftData is a wrapper around the SQLite3 C API		20010101
 libs	http://github.com/vikmeup/SCLAlertView-Swift	Beautiful animated Alert View		20010101
 libs	http://www.cocoacontrols.com/controls/enswiftsidemenu	A simple side menu for iOS 8 written in Swift language. Using UIDynamics, UIGestures and UIBlurEffect.		20010101
-libs	http://www.swifttoolbox.io/	Community-supported catalog of iOS and OSX libraries		20010101
+libs	http://www.swifttoolbox.io	Community-supported catalog of iOS and OSX libraries		20010101
 libs	http://github.com/Weebly/TableSchemer	Framework for building static interactive table views		20010101
 libs	http://github.com/Ramotion/adaptive-tab-bar	Adaptive Tabbar		20010101
 libs	http://github.com/ortuman/SwiftForms	Swift Forms		20010101
 libs	http://github.com/haawa799/MipMaper/tree/master			20010101
 libs	http://github.com/nghialv/MaterialKit			20010101
-libs	http://www.appcoda.com/handoff/			20010101
+libs	http://www.appcoda.com/handoff			20010101
 libs	http://github.com/lvnyk/BezierString#bezierstring			20010101
 libs	http://github.com/jatoben/CommandLine			20010101
 libs	http://github.com/github/swift-style-guide			20010101
 libs	http://github.com/waynewbishop/swiftstructures			20010101
-libs	http://github.com/Quick/Quick			20010101
-libs	http://github.com/jpsim/sourcekitten/			20010101
+libs	http://github.com/Quick/Quick	Quick: The Swift (and Objective-C) testing framework		20010101
+libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
 libs	http://github.com/uacaps/PageMenu			20010101
 libs	http://github.com/zhxnlai/ZLBalancedFlowLayout/tree/master/ZLBalancedFlowLayoutDemo			20010101
@@ -477,3 +477,46 @@ advanced	http://www.russbishop.net/swift-let-s-query-dns	Swift: Let's Query DNS	
 advanced	http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html	Proof in Functions	#functional	20150105
 advanced	http://www.ioscreator.com/tutorials/uikit-dynamics-collision-detection-ios8-swift	UIKit Dynamics - Collision Detection in iOS8 with Swift		20150113
 tutorial	http://www.codingexplorer.com/segue-swift-view-controllers	Segue between Swift View Controllers		20150113
+advanced	http://www.objc.io/snippets/14.html	Flattening and Mapping Optionals	#functional	20150114
+advanced	http://www.ioscreator.com/tutorials/dynamic-types-tutorial-ios8-swift	Dynamic Types Tutorial in iOS8 with Swift		20150115
+advanced	http://vperi.com/2014/06/06/discriminated-unions-in-swift	discriminated unions		20140606
+advanced	http://vperi.com/2014/06/08/regular-expressions-in-switch-statements	regular expressions in switch statements		20140608
+advanced	http://vperi.com/2014/06/07/list-traversal-with-discriminated-unions-in-swift	list traversal with discriminated unions		20140607
+advanced	http://vperi.com/2014/06/05/function-composition-pipelining-in-swift	function composition & pipelining operators		20140605
+advanced	http://vperi.com/2014/06/05/spaceship-operator-in-swift	spaceship operator		20140605
+advanced	http://vperi.com/2014/06/04/slicing-arrays-in-swift	slicing arrays		20140604
+advanced	http://vperi.com/2014/06/05/singleton-pattern-in-swift	singleton pattern		20140605
+advanced	http://vperi.com/2014/06/05/null-coalescing-operator-elvis-in-swift	null coalescing operator (elvis)		20140605
+advanced	http://vperi.com/2014/06/17/swift-builders	swift builders		20140617
+tutorial	http://www.codingexplorer.com/create-uicolor-swift	How to Create a UIColor in Swift		20150115
+advanced	http://chris.eidhof.nl/posts/functional-view-controllers.html	Functional View Controllers		20150113
+advanced	http://chris.eidhof.nl/posts/repmin-in-swift.html	Repmin in Swift: Combining Tree Traversals		20150110
+advanced	http://flexmonkey.blogspot.co.uk/2015/01/the-sound-of-pendulum-waves-with-swift.html	The Sound of Pendulum Waves with Swift and AudioKit		20150115
+tutorial	http://www.globalnerdy.com/2015/01/15/a-very-brief-introduction-to-date-formatting-in-ios	A very brief introduction to date formatting in Swift and iOS		20150115
+advanced	http://owensd.io/2015/01/14/compiling-swift-without-xcode.html	Compiling Swift Without Xcode		20150114
+tutorial	http://code.tutsplus.com/tutorials/swift-from-scratch-optionals-and-control-flow--cms-22874	Swift from Scratch: Optionals and Control Flow		20150102
+advanced	http://www.shrikar.com/blog/2015/01/15/sensoro-ibeacon-discovery-in-ios-8-and-swift	Sensoro iBeacon Discovery in iOS 8 and Swift		20150115
+advanced	http://schani.wordpress.com/2014/06/06/generators-in-swift	Generators in Swift	#functional	20140606
+advanced	http://schani.wordpress.com/2014/06/11/associated-types-considered-weird	Associated Types Considered Weird	#functional	20140612
+advanced	http://robots.thoughtbot.com/swift-sequences	Swift Sequences		20140611
+advanced	http://robots.thoughtbot.com/input-accessorizing-uiviewcontroller	Input Accessorizing with UIViewController		20141126
+advanced	http://robots.thoughtbot.com/functional-swift-for-dealing-with-optional-values	Functional Swift for Dealing with Optional Values	#functional	20141015
+advanced	http://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift	Parsing Embedded JSON and Arrays in Swift		20140929
+advanced	http://natashatherobot.com/swift-conform-to-sequence-protocol	How To Conform to the Sequence Protocol		20140722
+advanced	http://natashatherobot.com/swift-init-with-_	Init with _		20140724
+advanced	http://natashatherobot.com/swift-array-iteration-with-index	Array Iteration with Index		20140725
+tutorial	http://natashatherobot.com/swift-enums-unwrap	Swift Enums: Don’t Forget to Unwrap!		20140727
+tutorial	http://natashatherobot.com/swift-unwrap-multiple-optionals	Unwrapping Multiple Optionals		20140801
+tutorial	http://natashatherobot.com/swift-iboutlets-private	Don’t Forget To Keep Your IBOutlets Private!		20140810
+tutorial	http://natashatherobot.com/swift-default-parameter-values	Why You Should Love Default Parameter Values		20140810
+tutorial	http://natashatherobot.com/swift-manipulating-constant-objects	Manipulating Constant Objects		20140822
+tutorial	http://natashatherobot.com/swift-unit-testing-tips-and-tricks	Unit Testing Tips and Tricks		20140827
+tutorial	http://natashatherobot.com/swift-mvvm-optionals	Using MVVM To Work With Optionals		20140914
+tutorial	http://natashatherobot.com/ios8-where-to-remove-observer-for-nsnotification-in-swift	iOS8: Where To Remove Observer for NSNotification in Swift		20140914
+tutorial	http://natashatherobot.com/navigation-bar-interactions-ios8	Don’t Miss These Navigation Bar Interactions in iOS8		20140915
+tutorial	http://natashatherobot.com/ios-change-uitableviewcell-selection-color-app-wide	iOS: How to Change UITableViewCell’s Selection Color App Wide		20140916
+tutorial	http://natashatherobot.com/swift-access-controls-avoid-private-keyword-repetition	Swift Access Controls: How To Avoid The ‘Private’ Keyword Repetition		20140920
+tutorial	http://natashatherobot.com/swift-string-substringinrange	How To Find A Substring In Range of a Swift String		20141017
+tutorial	http://natashatherobot.com/swift-failable-enums-with-optionals	Failable Enums with Optionals		20141025
+tutorial	http://natashatherobot.com/locale-playground-swift	How To Test Locale In Your Playground in Swift		20141019
+tutorial	http://natashatherobot.com/swift-trailing-closure-syntax	The Problem with Trailing Closure Syntax		20141031
