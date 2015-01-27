@@ -102,6 +102,7 @@ libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
 libs	http://github.com/uacaps/PageMenu			20010101
 libs	http://github.com/zhxnlai/ZLBalancedFlowLayout/tree/master/ZLBalancedFlowLayoutDemo			20010101
+beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford		20150126
 beginner	http://learnxinyminutes.com/docs/swift	Learn X in Y minutes - Where X=swift		20010101
 beginner	http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift	An Absolute Beginner's Guide to Swift		20140609
 beginner	http://www.raywenderlich.com/video-tutorials	Swift Series	#video	20140611
@@ -522,3 +523,36 @@ tutorial	http://natashatherobot.com/locale-playground-swift	How To Test Locale I
 tutorial	http://natashatherobot.com/swift-trailing-closure-syntax	The Problem with Trailing Closure Syntax		20141031
 beginner	http://www.appdesignvault.com/xcode-swift-tutorial-dribbble	How to Create A Dribbble Client from Scratch	#video	20150115
 tutorial	http://making.duolingo.com/real-world-swift	Real World Swift		20150107
+advanced	http://flexmonkey.blogspot.com/2015/01/computing-particle-systems-in-swift.html	Computing Particle Systems in Swift with Metal Kernel Functions		20150117
+advanced	http://flexmonkey.blogspot.com/2015/01/1000000-particles-on-ipad.html	1,000,000 Particles on an iPad		20150119
+advanced	http://flexmonkey.blogspot.com/2015/01/two-million-particles-at-25-frames-per.html	Two Million Particles at 25 Frames Per Second on an iPad		20150124
+advanced	http://www.knowstack.com/swift-concurrency-nsoperation-nsoperationqueue	Creating NSBlockOperations & Operation Queue		20150121
+tutorial	http://www.ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift	Screen Edge Pan Gesture Tutorial in iOS8 with Swift		20150119
+tutorial	http://www.ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift	Add Event to Calendar Tutorial in iOS8 with Swift		20150120
+tutorial	http://www.ioscreator.com/tutorials/take-photo-tutorial-ios8-swift	Take Photo Tutorial in iOS8 with Swift		20150121
+tutorial	http://www.ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift	Scroll View Tutorial in iOS8 with Swift		20150122
+tutorial	http://peterwitham.com/swift/intermediate/uipickerview-getting-started	UIPickerView – Getting Started		20150122
+tutorial	http://www.russbishop.net/swift-capture-lists	Swift Quickie: Capture Lists	#functional	20150119
+tutorial	http://www.shrikar.com/blog/2015/01/17/ios-swift-tutorial-uipageviewcontroller-as-user-onboarding-tool	iOS Swift Tutorial: UIPageViewController as User Onboarding Tool		20150117
+tutorial	http://www.shrikar.com/blog/2015/01/17/uitableview-and-uitableviewcell-customization-in-swift	UITableView and UITableViewCell Customization in Swift		20150117
+tutorial	http://www.shrikar.com/blog/2015/01/24/implementing-barcode-scanning-in-ios8-with-swift	AVFoundation : Implementing Barcode Scanning in iOS8 With Swift		20150124
+tutorial	http://developer.apple.com/swift/blog/?id=20	Redefining Everything with the Swift REPL		20150123
+tutorial	http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial	NSRegularExpression in Swift Tutorial		20150121
+advanced	http://www.objc.io/snippets/15.html	Combined pattern-matching	#functional	20150119
+advanced	http://www.objc.io/snippets/16.html	Typed Notification Observers	#functional	20150126
+advanced	http://codeplease.io/monads	Monads	#functional	20150118
+advanced	http://optshiftk.com/2015/01/choosing-the-best-expression/	Choosing the Best Expression		20150111
+libs	http://github.com/SwiftyJSON/SwiftyJSON	SwiftyJSON		20010101
+tutorial	http://radex.io/swift/nsuserdefaults	Swifty APIs: NSUserDefaults		20150121
+tutorial	http://www.thinkandbuild.it/implementing-the-twitter-ios-app-ui	Implementing the Twitter iOS App UI		20150121
+tutorial	http://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples	CALayer in iOS with Swift: 10 Examples	#CALayer	20150127
+tutorial	http://www.ioscreator.com/tutorials/scenes-tutorial-spritekit-swift	Scenes Tutorial in SpriteKit with Swift	#SpriteKit	20150127
+tutorial	http://peterwitham.com/swift/basics/access-control	Swift Access Control – Private, Public and Internal		20150127
+advanced	http://metalbyexample.com/translucency-and-transparency	Translucency and Transparency in Metal	#metal	20150126
+tutorial	http://www.codingexplorer.com/getting-started-uitableview-swift	Getting Started With UITableView in Swift	#UITableView	20150126
+advanced	http://nshipster.com/swift-objc-runtime	Swift & the Objective-C Runtime		20150126
+advanced	http://gilesvangruisen.com/mvvm-swift	Model-View-ViewModel with Swift		20150125
+advanced	http://flexmonkey.blogspot.com/2015/01/a-simple-scenekit-material-editor-in.html	A Simple SceneKit Material Editor in Swift		20150125
+advanced	http://www.thinkandbuild.it/building-a-custom-and-designabl-control-in-swift	How to build a custom (and ''designable'') control in Swift		20141118
+advanced	http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable	Building custom UI Elements with IBDesignable		20140908
+libs	http://github.com/radex/SwiftyUserDefaults	SwiftyUserDefaults		20010101
