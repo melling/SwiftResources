@@ -102,7 +102,7 @@ libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
 libs	http://github.com/uacaps/PageMenu			20010101
 libs	http://github.com/zhxnlai/ZLBalancedFlowLayout/tree/master/ZLBalancedFlowLayoutDemo			20010101
-beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford		20150126
+beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	#video	20150126
 beginner	http://learnxinyminutes.com/docs/swift	Learn X in Y minutes - Where X=swift		20010101
 beginner	http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift	An Absolute Beginner's Guide to Swift		20140609
 beginner	http://www.raywenderlich.com/video-tutorials	Swift Series	#video	20140611
@@ -461,7 +461,7 @@ tutorial	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App 
 tutorial	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	#video	20150110
 tutorial	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	#UIBezierPath	20150110
 tutorial	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	#AudioKit	20150111
-libs	https://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
+libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
 advanced	http://www.objc.io/snippets/13.html	Phantom Types		20150110
 sites	http://swiftlang.eu/	SwiftLang.eu		20010101
 advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift		20141228
@@ -556,3 +556,11 @@ advanced	http://flexmonkey.blogspot.com/2015/01/a-simple-scenekit-material-edito
 advanced	http://www.thinkandbuild.it/building-a-custom-and-designabl-control-in-swift	How to build a custom (and ''designable'') control in Swift		20141118
 advanced	http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable	Building custom UI Elements with IBDesignable		20140908
 libs	http://github.com/radex/SwiftyUserDefaults	SwiftyUserDefaults		20010101
+advanced	http://mikeash.com/pyblog/friday-qa-2015-01-23-lets-build-swift-notifications.html	Let's Build Swift Notifications 		20150123
+libs	http://github.com/KyoheiG3/SimpleAlert	SimpleAlert		20010101
+libs	http://github.com/hamin/EventSource.Swift	EventSource.Swift		20010101
+libs	http://github.com/schwa/SwiftGraphics	SwiftGraphics		20010101
+libs	http://github.com/lidori/fallingLetters	Falling Letters Swift Animation		20010101
+libs	http://github.com/hamin/FayeSwift	Swift Client Library for the Faye Pub-Sub messaging server		20010101
+beginner	http://www.firebase.com/blog/2015-01-23-video-walkthrough-swift-fundamentals.html?video	A Video Walkthrough of Swift Fundamentals	#video	20150123
+sites	http://github.com/matteocrippa/awesome-swift	Awesome Swift		20010101
