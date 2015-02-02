@@ -52,12 +52,12 @@ advanced	http://www.objc.io/snippets/4.html	Flattening and mapping arrays	#funct
 advanced	http://www.objc.io/snippets/5.html	Reduce	#functional	20010101
 advanced	http://www.objc.io/snippets/6.html	Currying	#functional	20010101
 advanced	http://www.objc.io/snippets/7.html	Applicative Functors	#functional	20010101
-advanced	http://www.objc.io/snippets/8.html	Wrapper Types		20010101
+advanced	http://www.objc.io/snippets/8.html	Wrapper Types	#functional	20010101
 advanced	http://www.objc.io/snippets/9.html	Map for Optionals	#functional	20010101
-advanced	http://www.objc.io/snippets/10.html	Permutations		20010101
-advanced	http://www.objc.io/snippets/11.html	Lightweight API Wrappers		20010101
-advanced	http://www.objc.io/snippets/12.html	Enums instead of Booleans		20010101
-advanced	http://www.objc.io/snippets/13.html	Phantom Types		20150110
+advanced	http://www.objc.io/snippets/10.html	Permutations	#functional	20010101
+advanced	http://www.objc.io/snippets/11.html	Lightweight API Wrappers	#functional	20010101
+advanced	http://www.objc.io/snippets/12.html	Enums instead of Booleans	#functional	20010101
+advanced	http://www.objc.io/snippets/13.html	Phantom Types	#functional	20150110
 advanced	http://www.objc.io/snippets/14.html	Flattening and Mapping Optionals	#functional	20150114
 advanced	http://www.objc.io/snippets/15.html	Combined pattern-matching	#functional	20150119
 advanced	http://www.objc.io/snippets/16.html	Typed Notification Observers	#functional	20150126
