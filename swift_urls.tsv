@@ -57,6 +57,11 @@ advanced	http://www.objc.io/snippets/9.html	Map for Optionals	#functional	200101
 advanced	http://www.objc.io/snippets/10.html	Permutations		20010101
 advanced	http://www.objc.io/snippets/11.html	Lightweight API Wrappers		20010101
 advanced	http://www.objc.io/snippets/12.html	Enums instead of Booleans		20010101
+advanced	http://www.objc.io/snippets/13.html	Phantom Types		20150110
+advanced	http://www.objc.io/snippets/14.html	Flattening and Mapping Optionals	#functional	20150114
+advanced	http://www.objc.io/snippets/15.html	Combined pattern-matching	#functional	20150119
+advanced	http://www.objc.io/snippets/16.html	Typed Notification Observers	#functional	20150126
+advanced	http://www.objc.io/snippets/17.html	Caesar ciphers	#functional	20150202
 advanced	http://www.olliewilliams.org/blog/2014/12/23/parsing-json	Parsing JSON		20141223
 advanced	http://www.pumpmybicep.com/2014/06/24/resolving-arc-strong-reference-cycles-in-swift	Resolving ARC Strong Reference Cycles in Swift		20140624
 advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift		20141209
@@ -129,7 +134,7 @@ playground	http://developer.apple.com/swift/blog/downloads/Balloons.zip	Balloons
 playground	http://github.com/nettlep/learn-swift	Learn Apple's Swift programming language interactively through these playgrounds		20010101
 playground	http://developer.apple.com/swift/blog/?id=13	Patterns Playground		20010101
 commercial	http://www.udemy.com/courses/search/?q=swift	Udemy Swift Courses	#video	20010101
-commercial	http://www.objc.io/books/	Functional Programming in Swift	#functional:#book	20010101
+commercial	http://www.objc.io/books	Functional Programming in Swift	#functional:#book	20010101
 commercial	http://www.raywenderlich.com/87936/ios-games-tutorials-updated-xcode-6-1	iOS Games by Tutorials	#SpriteKit:#book	20010101
 commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	#coredata:#book	20010101
 commercial	http://www.raywenderlich.com/91518/ios-apprentice-third-edition-print-version-now-available	Swift by Tutorials	#book	20010101
@@ -459,12 +464,11 @@ advanced	http://realm.io/news/3d-graphics-metal-swift	An Introduction to 3D Grap
 tutorial	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App Tutorial! Part 1	#video	20141217
 tutorial	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App Tutorial! Part 2	#video	20150106
 tutorial	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	#video	20150110
-tutorial	https://www.youtube.com/watch?v=eCGBHuMOW44	Swift Programming: 2048 App Tutorial! Part 4	#video	20150227
+tutorial	http://www.youtube.com/watch?v=eCGBHuMOW44	Swift Programming: 2048 App Tutorial! Part 4	#video	20150227
 tutorial	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	#UIBezierPath	20150110
 tutorial	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	#AudioKit	20150111
 libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
-advanced	http://www.objc.io/snippets/13.html	Phantom Types		20150110
-sites	http://swiftlang.eu/	SwiftLang.eu		20010101
+sites	http://swiftlang.eu	SwiftLang.eu		20010101
 advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift		20141228
 tutorial	http://gilesvangruisen.com/all-about-table-views	All about table views		20141105
 libs	http://github.com/davecom/SwiftGraph	SwiftGraph:  A Graph Data Structure		20010101
@@ -479,7 +483,6 @@ advanced	http://www.russbishop.net/swift-let-s-query-dns	Swift: Let's Query DNS	
 advanced	http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html	Proof in Functions	#functional	20150105
 advanced	http://www.ioscreator.com/tutorials/uikit-dynamics-collision-detection-ios8-swift	UIKit Dynamics - Collision Detection in iOS8 with Swift		20150113
 tutorial	http://www.codingexplorer.com/segue-swift-view-controllers	Segue between Swift View Controllers		20150113
-advanced	http://www.objc.io/snippets/14.html	Flattening and Mapping Optionals	#functional	20150114
 advanced	http://www.ioscreator.com/tutorials/dynamic-types-tutorial-ios8-swift	Dynamic Types Tutorial in iOS8 with Swift		20150115
 advanced	http://vperi.com/2014/06/06/discriminated-unions-in-swift	discriminated unions		20140606
 advanced	http://vperi.com/2014/06/08/regular-expressions-in-switch-statements	regular expressions in switch statements		20140608
@@ -539,8 +542,6 @@ tutorial	http://www.shrikar.com/blog/2015/01/17/uitableview-and-uitableviewcell-
 tutorial	http://www.shrikar.com/blog/2015/01/24/implementing-barcode-scanning-in-ios8-with-swift	AVFoundation : Implementing Barcode Scanning in iOS8 With Swift		20150124
 tutorial	http://developer.apple.com/swift/blog/?id=20	Redefining Everything with the Swift REPL		20150123
 tutorial	http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial	NSRegularExpression in Swift Tutorial		20150121
-advanced	http://www.objc.io/snippets/15.html	Combined pattern-matching	#functional	20150119
-advanced	http://www.objc.io/snippets/16.html	Typed Notification Observers	#functional	20150126
 advanced	http://codeplease.io/monads	Monads	#functional	20150118
 advanced	http://optshiftk.com/2015/01/choosing-the-best-expression/	Choosing the Best Expression		20150111
 libs	http://github.com/SwiftyJSON/SwiftyJSON	SwiftyJSON		20010101
