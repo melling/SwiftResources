@@ -459,6 +459,7 @@ advanced	http://realm.io/news/3d-graphics-metal-swift	An Introduction to 3D Grap
 tutorial	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App Tutorial! Part 1	#video	20141217
 tutorial	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App Tutorial! Part 2	#video	20150106
 tutorial	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	#video	20150110
+tutorial	https://www.youtube.com/watch?v=eCGBHuMOW44	Swift Programming: 2048 App Tutorial! Part 4	#video	20150227
 tutorial	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	#UIBezierPath	20150110
 tutorial	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	#AudioKit	20150111
 libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
@@ -564,3 +565,29 @@ libs	http://github.com/lidori/fallingLetters	Falling Letters Swift Animation		20
 libs	http://github.com/hamin/FayeSwift	Swift Client Library for the Faye Pub-Sub messaging server		20010101
 beginner	http://www.firebase.com/blog/2015-01-23-video-walkthrough-swift-fundamentals.html?video	A Video Walkthrough of Swift Fundamentals	#video	20150123
 sites	http://github.com/matteocrippa/awesome-swift	Awesome Swift		20010101
+advanced	http://flexmonkey.blogspot.com/2015/01/functional-vs-imperative-creating.html	Functional vs Imperative: Creating a Multiline UISegmentedControl in Swift		20150127
+advanced	http://blog.segiddins.me/2015/01/25/dynamic-casting-in-swift	Dynamic Casting in Swift		20150125
+advanced	http://prolificinteractive.com/blog/2015/01/26/tutorial-introduction-touchid-swift	Use Touch ID in Your Swift App		20150126
+advanced	http://austinzheng.com/2015/01/24/swift-seq	Sequences and Generators	#functional	20150124
+advanced	http://jspha.com/posts/calkin-wilf-in-swift	Calkin-Wilf in Swift	#functional	20140727
+tutorial	http://shrikar.com/blog/2014/10/12/ios8-cloudkit-tutorial-part-1	IOS8 Cloudkit Tutorial - Part 1	#cloudkit	20141012
+tutorial	http://shrikar.com/blog/2014/10/15/ios8-cloudkit-tutorial-part-2	IOS8 Cloudkit Tutorial - Part 2	#cloudkit	20141015
+tutorial	http://www.scottlogic.com/blog/2015/01/27/swift-exception-handling.html	Exception Handling in Swift 		20150126
+tutorial	http://www.raywenderlich.com/87231/make-game-like-mega-jump-sprite-kit-swift-part-1	How to Make a Game Like Mega Jump With Sprite Kit and Swift: Part 1/2	#SpriteKit	20150128
+tutorial	http://www.raywenderlich.com/87232/make-game-like-mega-jump-sprite-kit-swift-part-2	How to Make a Game Like Mega Jump With Sprite Kit and Swift: Part 2/2	#SpriteKit	20150128
+tutorial	http://www.weheartswift.com/swift-programming-scratch-application-demo	Swift Programming from Scratch Application Demo 		20150128
+tutorial	http://www.codingexplorer.com/how-to-dismiss-uitextfields-keyboard-in-your-swift-app	How to Dismiss UITextField’s Keyboard in your Swift App		20150128
+tutorial	http://www.ioscreator.com/tutorials/local-notification-tutorial-ios8-swift	Local Notification Tutorial in iOS8 with Swift		20150129
+tutorial	http://www.raywenderlich.com/87975/dynamic-table-view-cell-height-ios-8-swift	Dynamic Table View Cell Height in iOS 8 and Swift	#UITableCell	20150129
+advanced	http://flexmonkey.blogspot.com/2015/02/swarm-chemistry-creating-advanced-gpu.html	Swarm Chemistry: Creating an Advanced GPU Based Particle System with Metal	#metal	20150202
+tutorial	http://shrikar.com/blog/2015/02/01/xcode-6-tutorial-designing-the-ios-app-layout-for-barcode-inventory-app	Xcode 6 Tutorial: Designing the iOS App Layout for Barcode Inventory App		20150201
+tutorial	http://www.ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift	Move View Behind Keyboard in iOS8 With Swift		20150202
+libs	http://github.com/MengTo/Spring	A library to simplify iOS animations in Swift		20010101
+advanced	http://owensd.io/2015/01/29/swift-resistance.html	Swift Resistance		20150129
+advanced	http://owensd.io/2015/02/01/the-optimization-game.html	The Optimization Game		20150201
+advanced	http://owensd.io/2015/01/31/swift-resistance-explored.html	Swift Resistance Explored		20150131
+advanced	http://blog.human-friendly.com/overcoming-swift-resistance-explored	Overcoming Swift Resistance Explored		20150131
+libs	http://github.com/AlwaysRightInstitute/SwiftSockets	A simple GCD based socket wrapper for Swift. 		20010101
+libs	http://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook	GitHub repository of O'Reilly's iOS 8 Swift Programming Cookbook		20010101
+advanced	http://realm.io/news/chris-eidhof-micro-libraries-swift	Tiny Networking: Building Micro-Libraries in Swift	#video	20150128
+tutorial	http://www.youtube.com/user/SkipCasts/playlists	SkipCasts	#video	20010101
