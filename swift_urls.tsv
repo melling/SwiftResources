@@ -598,17 +598,17 @@ advanced	http://dev.teeps.org/blog/2015/1/16/function-composition-in-swift	Funct
 advanced	http://chris.eidhof.nl/posts/lenses-in-swift.html	Lenses in Swift: Combining getters and setters for great glory	#functional	20141114
 tutorial	http://www.raywenderlich.com/92667/securing-ios-data-keychain-touch-id-1password	Securing iOS User Data: The Keychain, Touch ID, and 1Password		20150203
 advanced	http://robots.thoughtbot.com/real-world-json-parsing-with-swift	Real World JSON Parsing with Swift	#functional	20140918
-advanced	https://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more	Higher Order Functions: Map, Filter, Reduce and more – Part 1	#functional	20140603
+advanced	http://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more	Higher Order Functions: Map, Filter, Reduce and more – Part 1	#functional	20140603
 tutorial	http://www.weheartswift.com/swift-classes-part-1	Swift Classes – Part 1		20140603
-tutorial	https://www.weheartswift.com/swifting-around	Swifting Around		20140605
-tutorial	https://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6	How to make awesome UI components in iOS 8 using Swift and XCode 6		20140606
-advanced	https://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	#SpriteKit	20140609
-tutorial	https://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2		20140609
-tutorial	https://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift		20140616
-advanced	https://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift		20140627
-advanced	https://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	#video	20140709
-tutorial	https://www.weheartswift.com/playing-strings	Playing with Strings		20140926
-tutorial	https://medium.com/swift-programming/ios-make-an-awesome-video-background-view-objective-c-swift-318e1d71d0a2	iOS: Make an Awesome Video Background View Using UIWebView (Objective-C & Swift)		20140726
+tutorial	http://www.weheartswift.com/swifting-around	Swifting Around		20140605
+tutorial	http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6	How to make awesome UI components in iOS 8 using Swift and XCode 6		20140606
+advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	#SpriteKit	20140609
+tutorial	http://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2		20140609
+tutorial	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift		20140616
+advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift		20140627
+advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	#video	20140709
+tutorial	http://www.weheartswift.com/playing-strings	Playing with Strings		20140926
+tutorial	http://medium.com/swift-programming/ios-make-an-awesome-video-background-view-objective-c-swift-318e1d71d0a2	iOS: Make an Awesome Video Background View Using UIWebView (Objective-C & Swift)		20140726
 tutorial	http://waynewbishop.com/swift/stacks-queues	Stacks & Queues		20010101
 tutorial	http://waynewbishop.com/swift/graphs	Graphs		20010101
 tutorial	http://waynewbishop.com/swift/big-o-notation	Big O Notation		20010101
@@ -620,8 +620,8 @@ tutorial	http://waynewbishop.com/swift/graphs/dijkstra	Shortest Paths		20010101
 tutorial	http://waynewbishop.com/swift/heaps	Heaps		20010101
 tutorial	http://waynewbishop.com/swift/traversals	Traversals		20010101
 advanced	http://www.codingexplorer.com/swift-property-observers	Swift Property Observers		20140923
-tutorial	https://medium.com/swift-programming/float-rating-view-in-swift-e740b6b9404d	Float Rating View in Swift	#CALayer	20140921
-advanced	https://blog.mariusschulz.com/2014/09/14/playing-with-closure-expressions-and-operator-functions-in-swift	Playing with Closure Expressions and Operator Functions in Swift	#functional	20140914
+tutorial	http://medium.com/swift-programming/float-rating-view-in-swift-e740b6b9404d	Float Rating View in Swift	#CALayer	20140921
+advanced	http://blog.mariusschulz.com/2014/09/14/playing-with-closure-expressions-and-operator-functions-in-swift	Playing with Closure Expressions and Operator Functions in Swift	#functional	20140914
 advanced	http://nshipster.com/swift-comparison-protocols	Swift Comparison Protocols		20140922
 tutorial	http://mathewsanders.com/animated-transitions-in-swift	Prototyping Animated Transitions in Swift		20140905
 tutorial	http://mathewsanders.com/custom-menu-transitions-in-swift	Transitions in Swift (Part II)		20140907
@@ -630,4 +630,4 @@ tutorial	http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus	A
 advanced	http://swiftyeti.com/texteffects-with-nslayoutmanager	extEffects with NSLayoutManager		20140711
 advanced	http://nshipster.com/ibinspectable-ibdesignable	IBInspectable / IBDesignable		20150202
 tutorial	http://www.ioscreator.com/tutorials/size-classes-ios8-xcode-6	Size Classes Tutorial in iOS8 and Xcode 6		20140925
-beginner	https://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	Swift Programming: Introduction	#video	20010101
+beginner	http://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	Swift Programming: Introduction	#video	20010101
