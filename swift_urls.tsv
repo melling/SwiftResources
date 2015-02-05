@@ -631,3 +631,17 @@ advanced	http://swiftyeti.com/texteffects-with-nslayoutmanager	extEffects with N
 advanced	http://nshipster.com/ibinspectable-ibdesignable	IBInspectable / IBDesignable		20150202
 tutorial	http://www.ioscreator.com/tutorials/size-classes-ios8-xcode-6	Size Classes Tutorial in iOS8 and Xcode 6		20140925
 beginner	http://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	MadApper - Swift Programming: Introduction	#video	20010101
+tutorial	http://www.raywenderlich.com/89222/sprite-kit-animations-texture-atlases-swift	Sprite Kit Animations and Texture Atlases in Swift	#SpriteKit	20150204
+tutorial	http://flexmonkey.blogspot.com/2015/02/if-you-were-interested-in-my-recent.html	Adding a User Interface to my Swarm Chemistry App on an iPad		20150204
+advanced	http://www.andrewcbancroft.com/2015/01/29/converting-complex-objective-c-macros-swift-functions	Converting Complex Objective-C Macros to Swift Functions		20150129
+advanced	http://www.andrewcbancroft.com/2015/02/05/nsnotificationcenter-vs-delegation-swift-analysis	NSNotificationCenter vs Delegation – A Swift Analysis		20150205
+advanced	http://www.andrewcbancroft.com/2015/01/20/conveniently-transforming-immutable-types-swift	Conveniently Transforming Immutable Types in Swift		20150120
+advanced	http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift	Unit Testing Model Layer with Core Data and Swift		20150113
+advanced	http://www.andrewcbancroft.com/2015/01/06/immutable-types-changing-state-swift	Immutable Types with Changing State in Swift		20150106
+tutorial	http://www.andrewcbancroft.com/2014/12/29/getting-started-unit-testing-swift	Getting Started with Unit Testing in Swift		20141229
+advanced	http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1	Swift State Machines: Part 1		20150131
+advanced	http://www.figure.ink/blog/2015/2/1/swift-state-machines-part-2	Swift State Machines: Part 2		20150201
+advanced	http://www.figure.ink/blog/2015/1/25/polymorphism-with-return-types	Polymorphism with Return Types		20150125
+advanced	http://www.figure.ink/blog/2015/1/24/functions-are-just-named-closures	Functions are Just Named Closures		20150124
+advanced	http://www.figure.ink/blog/2015/1/18/generic-delegate-protocols	Generic Delegate Protocols		20150118
+advanced	http://www.figure.ink/blog/2015/1/10/value-types-are-more-valuey-than-you-think	Value Types Are More Valuey Than You Think		20150110
