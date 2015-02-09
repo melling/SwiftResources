@@ -641,7 +641,19 @@ advanced	http://www.andrewcbancroft.com/2015/01/06/immutable-types-changing-stat
 tutorial	http://www.andrewcbancroft.com/2014/12/29/getting-started-unit-testing-swift	Getting Started with Unit Testing in Swift		20141229
 advanced	http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1	Swift State Machines: Part 1		20150131
 advanced	http://www.figure.ink/blog/2015/2/1/swift-state-machines-part-2	Swift State Machines: Part 2		20150201
+advanced	http://www.figure.ink/blog/2015/2/8/swift-state-machines-part-3-follow-up	Swift State Machines, Part 3: Follow Up		20150208
 advanced	http://www.figure.ink/blog/2015/1/25/polymorphism-with-return-types	Polymorphism with Return Types		20150125
 advanced	http://www.figure.ink/blog/2015/1/24/functions-are-just-named-closures	Functions are Just Named Closures		20150124
 advanced	http://www.figure.ink/blog/2015/1/18/generic-delegate-protocols	Generic Delegate Protocols		20150118
 advanced	http://www.figure.ink/blog/2015/1/10/value-types-are-more-valuey-than-you-think	Value Types Are More Valuey Than You Think		20150110
+libs	http://github.com/yeahdongcn/UIColor-Hex-Swift	UIColor-Hex-Swift - Convenience method for creating autoreleased color using RGBA hex string.		20010101
+libs	http://github.com/naoty/SwiftCSV	SwiftCSV		20010101
+libs	http://github.com/modocache/Gift	Gift - Swift bindings to libgit2.		20010101
+tutorial	http://www.swift-studies.com/blog/2015/1/9/naming-swift-tuples	On Typed Tuples in Swift		20150203
+tutorial	http://www.andrewcbancroft.com/2015/02/05/nsnotificationcenter-vs-delegation-analysis	NSNotificationCenter vs Delegation – An Analysis		20150205
+tutorial	http://www.scottlogic.com/blog/2015/02/05/swift-events.html	Implementing Events in Swift 		20150205
+advanced	http://robots.thoughtbot.com/asynchronous-nsprogress	NSProgress with Asynchronous Tasks		20150206
+tutorial	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-1-of-3-f50842aa95a	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 1 of 3)		20150206
+tutorial	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-2-of-3-31a17d1c6581	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 2 of 3)		20150206
+advanced	http://shrikar.com/blog/2015/02/08/core-data-swift-tutorial	Core Data Swift Tutorial		20150208
+tutorial	http://www.ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift	Add Search to Table View Tutorial in iOS8 with Swift		20150209
