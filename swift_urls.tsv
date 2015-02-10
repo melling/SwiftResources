@@ -642,6 +642,7 @@ tutorial	http://www.andrewcbancroft.com/2014/12/29/getting-started-unit-testing-
 advanced	http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1	Swift State Machines: Part 1		20150131
 advanced	http://www.figure.ink/blog/2015/2/1/swift-state-machines-part-2	Swift State Machines: Part 2		20150201
 advanced	http://www.figure.ink/blog/2015/2/8/swift-state-machines-part-3-follow-up	Swift State Machines, Part 3: Follow Up		20150208
+advanced	http://www.figure.ink/blog/2015/2/9/swift-state-machines-part-4-redirect	Swift State Machines, Part 4: Redirect		20150209
 advanced	http://www.figure.ink/blog/2015/1/25/polymorphism-with-return-types	Polymorphism with Return Types		20150125
 advanced	http://www.figure.ink/blog/2015/1/24/functions-are-just-named-closures	Functions are Just Named Closures		20150124
 advanced	http://www.figure.ink/blog/2015/1/18/generic-delegate-protocols	Generic Delegate Protocols		20150118
@@ -657,3 +658,13 @@ tutorial	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up
 tutorial	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-2-of-3-31a17d1c6581	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 2 of 3)		20150206
 advanced	http://shrikar.com/blog/2015/02/08/core-data-swift-tutorial	Core Data Swift Tutorial		20150208
 tutorial	http://www.ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift	Add Search to Table View Tutorial in iOS8 with Swift		20150209
+advanced	http://ashfurrow.com/blog/protocols-and-swift	Protocols and Swift		20150201
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-02-06-locks-thread-safety-and-swift.html	Friday Q&A 2015-02-06: Locks, Thread Safety, and Swift		20150206
+advanced	http://medium.com/hacking-ios/memory-management-in-swift-principles-prevention-and-cures-31116ae0834f	Memory management in Swift  -  Principles, Prevention and Cures		20150130
+advanced	http://flexmonkey.blogspot.com/2015/02/launching-parametrised-swift.html	Launching Parametrised Swift Applications from Links with Custom URL Schemes		20150209
+tutorial	http://www.codingexplorer.com/segue-uitableviewcell-taps-swift	Segue from UITableViewCell Taps in Swift		20150209
+advanced	https://medium.com/swift-programming/swift-typealias-to-the-rescue-b1027fc571e3	Swift typealias to the rescue		20150209
+advanced	http://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part-1	Modern Core Graphics with Swift: Part 1		20150210
+advanced	http://owensd.io/2015/02/09/swift-1.2-performance.html	Swift v1.2 Performance		20150210
+tutorial	http://nshipster.com/swift-1.2	Swift 1.2		20150209
+tutorial	http://medium.com/ios-os-x-development/restkit-tutorial-how-to-fetch-data-from-an-api-into-core-data-9326af750e10	RESTKit Tutorial: how to fetch data from a RESTful API into Core Data		20150203
