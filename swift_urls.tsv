@@ -668,3 +668,35 @@ advanced	http://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part
 advanced	http://owensd.io/2015/02/09/swift-1.2-performance.html	Swift v1.2 Performance		20150210
 tutorial	http://nshipster.com/swift-1.2	Swift 1.2		20150209
 tutorial	http://medium.com/ios-os-x-development/restkit-tutorial-how-to-fetch-data-from-an-api-into-core-data-9326af750e10	RESTKit Tutorial: how to fetch data from a RESTful API into Core Data		20150203
+tutorial	http://makeapppie.com/2014/10/02/swift-swift-using-color-and-uicolor-in-swift-part-1-rgb	Swift Swift: Using Color and UIColor in Swift Part 1: RGB		20141002
+tutorial	http://makeapppie.com/2014/10/08/swift-swift-using-uicolor-in-swift-part-2-making-a-color-palette-with-hsb	Swift Swift: Using UIColor in Swift Part 2: Making a Color Palette with HSB		20141008
+tutorial	http://makeapppie.com/2014/09/22/swift-swift-using-dates-and-the-uidatepicker-in-swift	Swift Swift: Using Dates and the UIDatePicker in Swift		20140922
+tutorial	http://makeapppie.com/2014/09/18/swift-swift-implementing-picker-views	Swift Swift: Implementing Picker Views		20140918
+tutorial	http://makeapppie.com/2014/09/15/swift-swift-programmatic-navigation-view-controllers-in-swift	Swift Swift: Programmatic Navigation View Controllers in Swift		20140915
+tutorial	http://makeapppie.com/2014/09/09/swift-swift-using-tab-bar-controllers-in-swift	Swift Swift: Using Tab Bar Controllers in Swift		20140909
+tutorial	http://makeapppie.com/2014/10/14/kinderswift-tutorials-for-swift-episode-1-intro-and-downloading-xcode	KinderSwift Tutorials for Swift Episode 1: Intro and Downloading Xcode	#video	20141014
+tutorial	http://makeapppie.com/2014/10/16/kinderswift-episode-2-write-the-hello-pizza-app-in-swift	KinderSwift Episode 2: Write the “Hello Pizza!!” App in Swift	#video	20141016
+tutorial	http://makeapppie.com/2014/10/20/swift-swift-using-attributed-strings-in-swift	Swift Swift: Using Attributed Strings in Swift		20141020
+tutorial	http://makeapppie.com/2014/10/21/swift-swift-formatting-a-uipickerview	Swift Swift: Formatting a UIPickerView		20141021
+tutorial	http://makeapppie.com/2014/10/23/kinderswift-episode-3-variable-assignment-in-the-xcode-playground	KinderSwift Episode 3: Variable Assignment in the Xcode Playground	#video	20141023
+tutorial	http://makeapppie.com/2014/10/28/swift-swift-using-uiwebviews-in-swift	Swift Swift: Using UIWebViews in Swift		20141028
+tutorial	http://makeapppie.com/2014/10/31/kinderswift-4-increments-and-math-operators	KinderSwift 4: Increments and Math Operators	#video	20141031
+tutorial	http://makeapppie.com/2014/11/07/swift-swift-basic-auto-layout-for-ios8	Swift Swift: Basic Auto Layout for iOS8	#video	20141107
+tutorial	http://makeapppie.com/2014/11/07/kinderswift-5-make-me-a-double	Kinderswift 5: Make Me a Double	#video	20141107
+tutorial	http://makeapppie.com/2014/11/14/swift-swift-using-auto-layout-with-size-classes	Swift Swift: Using Auto Layout with Size Classes	#video	20141114
+tutorial	http://makeapppie.com/2014/11/25/proportional-sizes-in-autolayout	Proportional Sizes in Autolayout	#video	20141125
+tutorial	http://makeapppie.com/2014/12/04/swift-swift-using-the-uiimagepickercontroller-for-a-camera-and-photo-library	Swift Swift: Using the UIImagePickerController for a Camera and Photo Library		20141204
+tutorial	http://makeapppie.com/2014/12/08/kinderswift-6-types-and-casting	KinderSwift 6: Types and Casting	#video	20141208
+tutorial	http://makeapppie.com/2014/12/09/1634	KinderSwift 7: Introduction to Functions	#video	20141209
+tutorial	http://makeapppie.com/2014/12/10/kinderswift-8-making-your-own-functions	Kinderswift 8: Making Your Own Functions	#video	20141210
+tutorial	http://makeapppie.com/2014/12/10/kinderswift-8-challenge-answers	Kinderswift 8 Challenge Answers	#video	20141210
+tutorial	http://makeapppie.com/2014/12/11/kinderswift-9-strings	Kinderswift 9: Strings	#video	20141211
+tutorial	http://makeapppie.com/2014/12/11/swift-swift-using-uiscrollview-with-autolayout	Swift Swift: Using UIScrollView with Autolayout		20141211
+tutorial	http://makeapppie.com/2014/12/19/auto-layout-and-size-classes-the-regular-size-and-lining-up-buttons-evenly	Auto Layout and Size Classes: The Regular Size and Lining up Buttons Evenly		20141219
+tutorial	http://makeapppie.com/2015/01/08/basic-auto-layout-a-practical-view	Basic Auto Layout: A Practical View for Beginners		20150108
+tutorial	http://makeapppie.com/2015/01/14/solving-conflicting-constraints-in-auto-layout	Solving Conflicting Constraints in Auto Layout		20150114
+tutorial	http://makeapppie.com/2015/01/22/swift-swift-tutorials-calculator-style-buttons-in-an-auto-layout-xib	Swift Swift Tutorials: Calculator Style buttons in an Auto Layout Xib		20150122
+tutorial	http://makeapppie.com/2015/01/27/tab-bar-controllers-in-storyboards	Tab Bar Controllers in Storyboards		20150127
+tutorial	http://makeapppie.com/2015/02/04/swift-swift-tutorials-passing-data-in-tab-bar-controllers	Swift Swift Tutorials: Passing Data in Tab Bar Controllers		20150204
+advanced	http://www.javiersoto.me/post/106875422394	Functor and Monad in Swift 	#functional	20150102
+tutorial	http://flexmonkey.blogspot.com/2015/02/swift-12-lets-talk-about-sets-baby.html	Swift 1.2: Let's Talk About Sets, Baby		20150210
