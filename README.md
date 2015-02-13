@@ -1,5 +1,5 @@
-SwiftResource
-=============
+SwiftResources
+==============
 
 Swift Language Resources
 
