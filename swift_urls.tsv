@@ -715,3 +715,7 @@ advanced	http://shrikar.com/blog/2015/02/14/core-data-stack-save-and-fetch-entit
 tutorial	http://www.figure.ink/blog/2015/2/14/custom-switch-matchers-in-swift	Custom Switch Matchers		20150214
 tutorial	http://nomothetis.svbtle.com/magical-future-swift-is-almost-here	Magical Future Swift Is (Almost) Here		20150215
 tutorial	http://www.ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift	Move Sprite along Path in SpriteKit with Swift		20150216
+advanced	http://www.componentix.com/blog/35/not-so-swift-implementing-transducers-in-apples-new-language	Not so Swift - implementing Clojure transducers in Swift		20150216
+libs	http://github.com/SwiftBond/Bond	Bond is a Swift binding framework		20010101
+tutorial	http://shrikar.com/blog/2015/02/16/swift-ios-tutorial-uisearchbar-and-uisearchbardelegate	Swift iOS Tutorial: UISearchBar and UISearchBarDelegate		20150216
+beginner	http://makeapppie.com/2015/02/17/swift-swift-tutorials-introducing-table-views	Swift Swift Tutorials: Introducing Table Views		20150217
