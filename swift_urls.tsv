@@ -62,6 +62,7 @@ advanced	http://www.objc.io/snippets/14.html	Flattening and Mapping Optionals	#f
 advanced	http://www.objc.io/snippets/15.html	Combined pattern-matching	#functional	20150119
 advanced	http://www.objc.io/snippets/16.html	Typed Notification Observers	#functional	20150126
 advanced	http://www.objc.io/snippets/17.html	Caesar ciphers	#functional	20150202
+tutorial	http://www.objc.io/snippets/18.html	Unwrapping multiple optionals	#functional	20150217
 advanced	http://www.olliewilliams.org/blog/2014/12/23/parsing-json	Parsing JSON		20141223
 advanced	http://www.pumpmybicep.com/2014/06/24/resolving-arc-strong-reference-cycles-in-swift	Resolving ARC Strong Reference Cycles in Swift		20140624
 advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift		20141209
@@ -698,7 +699,6 @@ tutorial	http://makeapppie.com/2015/01/14/solving-conflicting-constraints-in-aut
 tutorial	http://makeapppie.com/2015/01/22/swift-swift-tutorials-calculator-style-buttons-in-an-auto-layout-xib	Swift Swift Tutorials: Calculator Style buttons in an Auto Layout Xib		20150122
 tutorial	http://makeapppie.com/2015/01/27/tab-bar-controllers-in-storyboards	Tab Bar Controllers in Storyboards		20150127
 tutorial	http://makeapppie.com/2015/02/04/swift-swift-tutorials-passing-data-in-tab-bar-controllers	Swift Swift Tutorials: Passing Data in Tab Bar Controllers		20150204
-advanced	http://www.javiersoto.me/post/106875422394	Functor and Monad in Swift 	#functional	20150102
 tutorial	http://flexmonkey.blogspot.com/2015/02/swift-12-lets-talk-about-sets-baby.html	Swift 1.2: Let's Talk About Sets, Baby		20150210
 advanced	http://www.scottlogic.com/blog/2015/02/11/swift-kvo-alternatives.html	Exploring KVO alternatives with Swift 		20150211
 tutorial	http://www.raywenderlich.com/95181/whats-new-in-swift-1-2	What’s New in Swift 1.2		20150211
@@ -709,3 +709,9 @@ tutorial	http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part
 tutorial	http://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3	Modern Core Graphics with Swift: Part 3		20150212
 advanced	http://gilesvangruisen.com/uicollectionviewflowlayout-animation-timing	UICollectionViewFlowLayout animation timing		20150211
 tutorial	http://www.andrewcbancroft.com/2015/02/12/custom-uitableviewcell-text-input-swift	Custom UITableViewCell for Text Input in Swift		20150212
+tutorial	http://medium.com/swift-programming/how-to-display-parse-com-images-in-a-table-view-ios-swift-parse-com-f73dd68adb5e	How to display parse.com images in a table view. iOS, Swift, Parse.com		20150213
+tutorial	http://ios-blog.co.uk/featured-posts/introduction-to-swift-programming-for-beginners	Introduction to Swift Programming for beginners		20150214
+advanced	http://shrikar.com/blog/2015/02/14/core-data-stack-save-and-fetch-entities	Core Data Stack: Save and Fetch Entities		20150214
+tutorial	http://www.figure.ink/blog/2015/2/14/custom-switch-matchers-in-swift	Custom Switch Matchers		20150214
+tutorial	http://nomothetis.svbtle.com/magical-future-swift-is-almost-here	Magical Future Swift Is (Almost) Here		20150215
+tutorial	http://www.ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift	Move Sprite along Path in SpriteKit with Swift		20150216
