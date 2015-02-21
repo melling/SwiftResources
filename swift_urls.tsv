@@ -593,7 +593,7 @@ advanced	http://owensd.io/2014/09/24/swift-experiences.html	My Swift Dilemma		20
 libs	http://github.com/AlwaysRightInstitute/SwiftSockets	A simple GCD based socket wrapper for Swift. 		20010101
 libs	http://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook	GitHub repository of O'Reilly's iOS 8 Swift Programming Cookbook		20010101
 advanced	http://realm.io/news/chris-eidhof-micro-libraries-swift	Tiny Networking: Building Micro-Libraries in Swift	#video	20150128
-tutorial	http://www.youtube.com/user/SkipCasts/playlists	SkipCasts	#video	20010101
+tutorial	http://www.youtube.com/user/SkipCasts/playlists	SkipCasts – Skip Wilson	#video	20010101
 tutorial	http://blog.human-friendly.com/the-importance-of-being-final	The Importance of Being `final`		20150130
 advanced	http://dev.teeps.org/blog/2015/1/16/function-composition-in-swift	Function Composition in Swift	#functional	20150116
 advanced	http://chris.eidhof.nl/posts/lenses-in-swift.html	Lenses in Swift: Combining getters and setters for great glory	#functional	20141114
@@ -723,8 +723,12 @@ beginner	https://www.mav3r1ck.com/struct-quiz	Creating a Study App in Swift		201
 tutorial	http://blog.human-friendly.com/swift-1-dot-2-presentation-and-notes-swift-london-17th-feb	Swift 1.2 Presentation and Notes (Swift London 17th Feb)		20150217
 tutorial	http://www.raywenderlich.com/95910/uiview-animation-swift-tutorial	UIView Animation with Swift Tutorial		20150218
 advanced	http://www.andrewcbancroft.com/2015/02/18/core-data-cheat-sheet-for-swift-ios-developers	Core Data Cheat Sheet for Swift iOS Developers	#core-data	20150218
-tutorial	https://developer.apple.com/swift/blog/?id=23	The as! Operator		20150218
+tutorial	http://developer.apple.com/swift/blog/?id=23	The as! Operator		20150218
 tutorial	http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer	How To Implement A Circular Image Loader Animation with CAShapeLayer		20150219
 tutorial	http://www.codingexplorer.com/swift-set-type	Swift Set Type in Swift 1.2		20150219
 tutorial	http://www.appdesignvault.com/custom-segmented-control-swift-tutorial	How to Build a Custom Segmented Control in Swift	#video	20150220
 tutorial	http://www.raywenderlich.com/96062/custom-view-controller-presentation-transitions-swift	Custom View Controller Presentation Transitions with Swift		20150220
+advanced	http://five.agency/solving-the-binding-problem-with-swift	Solving the binding problem with Swift		20150218
+advanced	http://five.agency/how-to-create-an-interactive-blur-effect-in-ios8	How to create an interactive blur effect in iOS8		20141028
+tutorial	http://iphonedev.tv/blog/2015/2/9/swift-12-fixes-and-breaks-a-few-things-you-should-be-excited	Swift 1.2 fixes and breaks a few things: you should be excited!		20150209
+tutorial	http://www.youtube.com/user/CodeWithChris/videos	Code with Chris	#video	20010101
