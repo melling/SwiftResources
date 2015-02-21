@@ -20,6 +20,15 @@ func crawlSite(urlPath: String) -> String {
 
 mkdir("./data", 511)
 
-let htmlDocument = crawlSite("http://google.com")
+let url = "http://google.com"
+mkdir("./data", 511)
+
+let htmlDocument = crawlSite(url)
+let f0 = url.componentsSeparatedByString("//")
+let url0:String = f0[1]
+
+let filePath = "data/" + url0
+    
 //println("\(htmlDocument)")
-htmlDocument.writeToFile("data/google.com", atomically: true, encoding: NSUTF8StringEncoding, error: nil)
+htmlDocument.writeToFile(filePath, atomically: true, encoding: NSUTF8StringEncoding, error: nil)
+
