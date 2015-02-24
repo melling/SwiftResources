@@ -742,3 +742,10 @@ tutorial	http://ericasadun.com/2015/02/19/swift-counting-strings-part-2	Swift: C
 advanced	http://owensd.io/2015/02/18/swift-namespaces.html	Swift Namespaces		20150218
 tutorial	http://radar.oreilly.com/2015/02/swift-like-swift-code.html	Swift-Like Swift code: A brief introduction to Swift optionals.		20150220
 tutorial	http://themainthread.com/blog/2015/02/simple_auto_layout_in_swift.html	Simple Auto Layout in Swift		20150222
+advanced	http://www.objc.io/snippets/19.html	Replacing a complicated API with optionals	#functional	20150223
+advanced	http://cocoaheads.tv/scripting-with-swift-by-blake-merryman	Scripting with Swift by Blake Merryman	#video	20150128
+tutorial	http://vluxe.io/swift-sub-strings.html	Swift Substrings		20141106
+tutorial	http://vluxe.io/jsonjoy.html	JSONJoy		20141118
+tutorial	http://vluxe.io/skeets.html	Skeets		20141211
+tutorial	http://vluxe.io/numbers-swift.html	Numbers and Swift		20150113
+tutorial	http://vluxe.io/labels-swift.html	Swift, Labels, Default Parameters, oh my!		20150216
