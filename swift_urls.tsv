@@ -749,3 +749,32 @@ tutorial	http://vluxe.io/jsonjoy.html	JSONJoy		20141118
 tutorial	http://vluxe.io/skeets.html	Skeets		20141211
 tutorial	http://vluxe.io/numbers-swift.html	Numbers and Swift		20150113
 tutorial	http://vluxe.io/labels-swift.html	Swift, Labels, Default Parameters, oh my!		20150216
+advanced	http://www.extelligentcocoa.org/basic-map-and-filter-examples	Basic map and filter Examples	#functional	20150223
+tutorial	http://nshipster.com/swift-collection-protocols	Swift Collection Protocols		20150223
+libs	http://github.com/fmitech/FMMosaicLayout	FMMosaicLayout is a mosiac collection view layout		20010101
+libs	http://github.com/apexskier/SKLinearAlgebra	Swift extensions for Linear Algebra with SceneKit		20010101
+libs	http://github.com/bennyguitar/Colours	A beautiful set of predefined colors and a set of color methods		20010101
+advanced	http://www.andrewcbancroft.com/2015/02/25/using-swift-to-seed-a-core-data-database	Using Swift to Seed a Core Data Database		20150225
+advanced	http://www.objc.io/snippets/20.html	Configuration Values		20150302
+libs	http://github.com/jquave/LumaJSON	A super simple JSON helper		20010101
+tutorial	http://oleb.net/blog/2015/02/truncated-text	Truncated Text in Mobile UIs		20150227
+tutorial	http://oleb.net/blog/2015/02/minus-sign	The Minus Sign		20150226
+advanced	http://www.mav3r1ck.com/one-thousand-character-password	One Thousand Character Password		20150222
+tutorial	http://www.figure.ink/blog/2015/2/28/nil-coalescing-operator	Nil Coalescing Operator		20150228
+tutorial	http://www.youtube.com/watch?v=9hgfNfG7EKQ	‪AzamSharp: Learning iOS Development Part 77 (Custom CheckBox in UITableView)‬	#video	20150301
+tutorial	http://www.codingexplorer.com/integers-and-numeric-literals-in-swift	Integers and Numeric Literals in Swift		20150228
+tutorial	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-opportunities-for.html	Type Safety in Swift: Opportunities for Control		20150302
+tutorial	http://jamesonquave.com/blog/fun-with-cashapelayer	Fun with CAShapeLayer		20150302
+advanced	http://www.raywenderlich.com/93997/ios-8-metal-tutorial-swift-part-3-adding-texture	iOS 8 Metal Tutorial with Swift Part 3: Adding Texture		20150303
+advanced	http://metalbyexample.com/rendering-text-in-metal-with-signed-distance-fields	Rendering Text in Metal with Signed-Distance Fields		20150302
+tutorial	http://makeapppie.com/2015/03/02/converting-objective-c-to-swift-the-circular-picker-view-example	Converting Objective C to Swift : The Circular Picker View Example		20150302
+tutorial	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-route-back.html	Type Safety in Swift: A Route Back		20150303
+tutorial	http://shrikar.com/blog/2015/03/03/swift-ios-tutorial-building-a-photography-inspiration-app-part-1	Swift iOS Tutorial: Building a Photography Inspiration App - Part 1		20150303
+tutorial	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-enums-with.html	Type Safety in Swift: Enums with Associated Values (Updated)		20150304
+tutorial	http://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 1/2		20150304
+advanced	http://natecook.com/blog/2015/03/a-sanatorium-for-swift-generics	A Sanatorium for Swift Generics		20150304
+advanced	http://blog.scottlogic.com/2015/03/05/reactjs-in-swift.html	Implementing React.js in Swift 		20150305
+advanced	https://medium.com/swift-programming/immutable-models-swift-29973170c08c	Immutable Models		20141021
+advanced	http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-part-1	Local Notifications in iOS 8 with Swift (Part 1)		20150304
+advanced	http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-part-2	Local Notifications in iOS 8 with Swift (Part 2)		20150304
+advanced	http://www.andrewcbancroft.com/2015/03/05/displaying-data-with-nsfetchedresultscontroller-and-swift	Displaying Data With NSFetchedResultsController and Swift		20150305
