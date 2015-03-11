@@ -244,7 +244,7 @@ tutorial	http://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-s
 tutorial	http://www.raywenderlich.com/90773/introducing-ios-design-patterns-in-swift-part-2	Introducing iOS Design Patterns in Swift – Part 2/2		20010101
 tutorial	http://www.raywenderlich.com/81879/storyboards-tutorial-swift-part-1	Storyboards Tutorial in Swift: Part 1		20010101
 tutorial	http://www.raywenderlich.com/81880/storyboards-tutorial-swift-part-2	Storyboards Tutorial in Swift: Part 2		20010101
-tutorial	http://www.raywenderlich.com/77488/ios-8-metal-tutorial-swift-getting-started	iOS 8 Metal Tutorial with Swift: Getting Started	#metal	20010101
+advanced	http://www.raywenderlich.com/77488/ios-8-metal-tutorial-swift-getting-started	iOS 8 Metal Tutorial with Swift: Getting Started	#metal	20010101
 tutorial	http://www.raywenderlich.com/86521/how-to-make-a-view-controller-transition-animation-like-in-the-ping-app	How To Make A View Controller Transition Animation Like in the Ping App	#navigation	20010101
 tutorial	http://www.raywenderlich.com/81952/intro-object-oriented-design-swift-part-1	Intro to Object-Oriented Design in Swift: Part 1/2		20010101
 tutorial	http://www.raywenderlich.com/81953/intro-object-oriented-design-swift-part-2	Intro to Object-Oriented Design in Swift: Part 2/2		20010101
@@ -450,8 +450,8 @@ tutorial	http://www.ioscreator.com/tutorials/airprint-tutorial-ios8-swift	AirPri
 tutorial	http://natashatherobot.com/mutating-functions-swift-structs	Mutating Functions in Swift Structs		20150107
 tutorial	http://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1	Grand Central Dispatch Tutorial for Swift: Part 1/2		20150107
 tutorial	http://www.raywenderlich.com/79150/grand-central-dispatch-tutorial-swift-part-2	Grand Central Dispatch Tutorial for Swift: Part 2/2		20150107
-tutorial	http://www.raywenderlich.com/85515/liquidfun-tutorial-1	LiquidFun Tutorial with Metal and Swift – Part 1	#metal	20150106
-tutorial	http://www.raywenderlich.com/90592/liquidfun-tutorial-2	LiquidFun Tutorial with Metal and Swift – Part 2	#metal	20150108
+advanced	http://www.raywenderlich.com/85515/liquidfun-tutorial-1	LiquidFun Tutorial with Metal and Swift – Part 1	#metal	20150106
+advanced	http://www.raywenderlich.com/90592/liquidfun-tutorial-2	LiquidFun Tutorial with Metal and Swift – Part 2	#metal	20150108
 tutorial	http://medium.com/swift-programming/finding-closure-d5e14c939c84	Finding closure: Using closures in Swift		20150105
 tutorial	http://www.raywenderlich.com/93104/video-tutorial-swift-scroll-view-school-part-0-introduction	Video Tutorial: Swift Scroll View School Part 0: Introduction		20150105
 tutorial	http://natashatherobot.com/unit-testing-swift-dependency-injection	Unit Testing in Swift: Dependency Injection		20150102
