@@ -774,7 +774,21 @@ tutorial	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-enums-with
 tutorial	http://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 1/2		20150304
 advanced	http://natecook.com/blog/2015/03/a-sanatorium-for-swift-generics	A Sanatorium for Swift Generics		20150304
 advanced	http://blog.scottlogic.com/2015/03/05/reactjs-in-swift.html	Implementing React.js in Swift 		20150305
-advanced	https://medium.com/swift-programming/immutable-models-swift-29973170c08c	Immutable Models		20141021
+advanced	http://medium.com/swift-programming/immutable-models-swift-29973170c08c	Immutable Models		20141021
 advanced	http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-part-1	Local Notifications in iOS 8 with Swift (Part 1)		20150304
 advanced	http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-part-2	Local Notifications in iOS 8 with Swift (Part 2)		20150304
 advanced	http://www.andrewcbancroft.com/2015/03/05/displaying-data-with-nsfetchedresultscontroller-and-swift	Displaying Data With NSFetchedResultsController and Swift		20150305
+advanced	http://nshipster.com/nsscanner	NSScanner		20150302
+advanced	http://flexmonkey.blogspot.com/2015/03/creating-custom-gesture-recognisers-in.html	Creating Custom Gesture Recognisers in Swift		20150305
+tutorial	http://www.raywenderlich.com/90521/trigonometry-games-sprite-kit-swift-tutorial-part-2	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 2/2		20150306
+tutorial	http://medium.com/swift-programming/work-with-infodictionary-in-a-swift-way-85aa5abd789d	Work with InfoDictionary in a Swift way		20150308
+tutorial	http://airspeedvelocity.net/2015/03/08/sorting-nibbles-in-swift	Sorting Nibbles in Swift		20150308
+tutorial	http://www.figure.ink/blog/2015/3/8/stupid-disambiguation-tricks	Stupid Disambiguation Tricks		20150308
+tutorial	http://medium.com/swift-programming/tuple-as-function-argument-619523b6e06b	Tuple as Function arguments		20150308
+tutorial	http://blog.scottlogic.com/2015/03/09/json-in-swift.html	Swift JSON Shoot-Out		20150309
+tutorial	http://www.ioscreator.com/tutorials/file-management-tutorial-ios8-swift	File Management Tutorial in iOS8 with Swift		20150309
+tutorial	http://medium.com/swift-programming/animating-a-smiley-face-across-the-screen-in-swift-dc808c7ca20c	Animating a Smiley Face Across the Screen in Swift		20150309
+tutorial	http://www.objc.io/issue-22	Objc.io: #22 iOS at Scale		20150310
+tutorial	http://www.raywenderlich.com/93138/using-facebook-shimmer-swift	Using Facebook Shimmer with Swift		20150310
+tutorial	http://makeapppie.com/2015/03/10/swift-swift-basic-core-graphics-for-the-ring-graph	Swift Swift: Basic Core Graphics for the Ring Graph		20150310
+advanced	http://flexmonkey.blogspot.com/2015/03/physics-based-computer-generated-music.html	Physics Based Computer Generated Music With AudioKit and SpriteKit		20150310
