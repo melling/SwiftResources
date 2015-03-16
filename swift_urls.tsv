@@ -628,7 +628,7 @@ tutorial	http://mathewsanders.com/animated-transitions-in-swift	Prototyping Anim
 tutorial	http://mathewsanders.com/custom-menu-transitions-in-swift	Transitions in Swift (Part II)		20140907
 tutorial	http://mathewsanders.com/interactive-transitions-in-swift	Transitions in Swift (Part III)		20140914
 tutorial	http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus	Adaptive Layouts for iPhone 6		20140920
-advanced	http://swiftyeti.com/texteffects-with-nslayoutmanager	extEffects with NSLayoutManager		20140711
+advanced	http://swiftyeti.com/texteffects-with-nslayoutmanager	TextEffects with NSLayoutManager		20140711
 advanced	http://nshipster.com/ibinspectable-ibdesignable	IBInspectable / IBDesignable		20150202
 tutorial	http://www.ioscreator.com/tutorials/size-classes-ios8-xcode-6	Size Classes Tutorial in iOS8 and Xcode 6		20140925
 beginner	http://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	MadApper - Swift Programming: Introduction	#video	20010101
@@ -801,3 +801,10 @@ tutorial	http://makeapppie.com/2015/03/12/swift-swift-split-view-controllers-rou
 tutorial	http://airspeedvelocity.net/2015/03/13/changes-to-the-swift-standard-library-in-1-2-betas-2-and-3	Changes to the Swift standard library in 1.2 betas 2 and 3		20150312
 tutorial	http://possiblemobile.com/2015/03/prototyping-uiview-animations-swift-playground	Prototyping UIView Animations in a Swift Playground		20150310
 tutorial	http://flexmonkey.blogspot.com/2015/03/two-new-swift-ios-apps-released.html	Two New Swift / iOS Apps Released		20150309
+tutorial	http://vluxe.io/build-swift-people.html	Swift People		20150306
+libs	http://github.com/aliceatlas/hexagen	Hexagen - true coroutines for Swift		20010101
+tutorial	http://shrikar.com/blog/2015/03/14/swift-ios-tutorial-taming-uitableview-visual-blur-and-autolayout	Swift iOS Tutorial: Taming UITableView Visual Blur and Autolayout		20150314
+tutorial	http://ericasadun.com/2015/03/11/swift-who-says-the-playground-cant-be-interactive	Swift: Who says the playground can’t be interactive?	#video	20150311
+tutorial	http://ericasadun.com/2014/06/11/swift-discover-the-surprisingly-consistent-swift-string-length-solution	Swift: Discover the surprisingly consistent Swift string length solution		20140611
+tutorial	http://ericasadun.com/2015/03/15/swift-whats-the-best-way-of-invoking-a-callback-selector	Swift: What’s the best way of invoking a callback selector?		20150315
+tutorial	http://ericasadun.com/2015/03/15/implicit-unwrappage-and-nil-checks	Implicit unwrappage and nil checks		20150315
