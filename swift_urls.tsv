@@ -851,3 +851,15 @@ tutorial	http://youtu.be/ZTVRAfQFWVo	Learning iOS Development Part 78 (Spring An
 tutorial	http://youtu.be/dfSu-qvn0aY	Learning iOS Development Part 79 (UIView Transitions) – azamsharp	#video	20150329
 advanced	http://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g	Functional Swift	#video	20141201
 advanced	http://engineering.circle.com/swift-compiler-performance-tips-and-tricks	Swift compiler performance tips and tricks		20150106
+tutorial	http://nshipster.com/quick-look-debugging	Quick Look Debugging		20150330
+tutorial	http://shrikar.com/blog/2015/03/31/parse-search-in-ios-8-with-swift	Parse Search in iOS 8 With Swift		20150331
+tutorial	http://www.andrewcbancroft.com/2015/04/01/enums-instead-of-booleans-an-example-implementation	Enums Instead of Booleans – An Example Implementation		20150401
+tutorial	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/31/spritekit-swift-part-2-adding-the-player.html	SpriteKit and Swift Part 2: Adding the Player	#SpriteKit	20150331
+beginner	http://www.hackingwithswift.com	Hacking with Swift		20010101
+advanced	http://www.rockhoppertech.com/blog/swift-and-core-audio	Swift and Core Audio	#CoreAudio	20140608
+advanced	http://flexmonkey.blogspot.com/2014/10/sound-synthesis-in-swift-core-audio.html	Sound Synthesis in Swift: A Core Audio Tone Generator	#CoreAudio	20141016
+advanced	http://flexmonkey.blogspot.com/2015/03/audiokit-reaches-version-20.html?m=1	AudioKit Reaches Version 2.0		20150328
+libs	http://github.com/victor/Learning-Core-Audio-in-Swift	Learning Core Audio in Swift	#CoreAudio	20010101
+libs	http://audiokit.io	AudioKit		20010101
+libs	http://github.com/danielgindi/ios-charts	iOS Charts		20010101
+commercial	http://nsscreencast.com	NSScreencasts		20010101
