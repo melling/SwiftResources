@@ -863,3 +863,12 @@ libs	http://github.com/victor/Learning-Core-Audio-in-Swift	Learning Core Audio i
 libs	http://audiokit.io	AudioKit		20010101
 libs	http://github.com/danielgindi/ios-charts	iOS Charts		20010101
 commercial	http://nsscreencast.com	NSScreencasts		20010101
+advanced	http://ericasadun.com/2015/04/01/swift-launch-at-login	Swift: Launch at Login		20150401
+advanced	http://sketchytech.blogspot.com/2015/04/in-and-out-of-jsonness-parsing-logic.html	In and out of JSONness: Parsing Logic with Swift and Aldwych		20150402
+beginner	http://www.udacity.com/course/ud585	Intro to iOS App Development with Swift		20010101
+beginner	http://blog.udacity.com/2015/03/learn-swift-tutorial-fundamentals.html	A Simple Swift Tutorial: Playgrounds and Fundamentals		20150304
+tutorial	http://ericasadun.com/2015/04/02/swift-mumble-mumble-thoughts	Swift: mumble mumble thoughts		20150402
+tutorial	http://ericasadun.com/2015/04/02/swift-my-favorite-line-of-code-for-today	Swift: My favorite line of code for today		20150402
+tutorial	http://www.mav3r1ck.com/pythagorean-theorem-with-swift	Pythagoras's theorem with Swift		20150402
+advanced	http://www.ioscreator.com/tutorials/core-image-tutorial-ios8-swift	Core Image Tutorial in iOS8 with Swift		20150403
+advanced	http://www.raywenderlich.com/87873/make-game-like-candy-crush-tutorial-os-x-port	How to Make a Game Like Candy Crush Tutorial: OS X Port	#mac	20150403
