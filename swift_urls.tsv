@@ -861,7 +861,6 @@ advanced	http://flexmonkey.blogspot.com/2014/10/sound-synthesis-in-swift-core-au
 advanced	http://flexmonkey.blogspot.com/2015/03/audiokit-reaches-version-20.html?m=1	AudioKit Reaches Version 2.0		20150328
 libs	http://github.com/victor/Learning-Core-Audio-in-Swift	Learning Core Audio in Swift	#CoreAudio	20010101
 libs	http://audiokit.io	AudioKit		20010101
-libs	http://github.com/danielgindi/ios-charts	iOS Charts		20010101
 commercial	http://nsscreencast.com	NSScreencasts		20010101
 advanced	http://ericasadun.com/2015/04/01/swift-launch-at-login	Swift: Launch at Login		20150401
 advanced	http://sketchytech.blogspot.com/2015/04/in-and-out-of-jsonness-parsing-logic.html	In and out of JSONness: Parsing Logic with Swift and Aldwych		20150402
@@ -885,3 +884,14 @@ tutorial	http://sledgedev.com/dynamic-uitableviewcell-height-swift	Dynamic UITab
 advanced	http://ericasadun.com/2015/04/06/swift-working-with-unmanaged-objects	Swift: Working with Unmanaged Objects		20150406
 tutorial	http://ericasadun.com/2015/04/06/swift-interactive-documentation-and-the-future-of-the-playground	Swift: Interactive Documentation and the Future of the Playground		20150406
 advanced	http://sketchytech.blogspot.com/2015/04/find-and-replace-with-json-in-swift.html	Find and Replace with JSON and Aldwych in Swift		20150406
+tutorial	http://robots.thoughtbot.com/xcode-as-a-prototyping-tool-for-designers	Xcode as a Prototyping Tool for Designers		20150407
+libs	http://github.com/danielgindi/ios-charts	An iOS port of the beautiful MPAndroidChart		20010101
+advanced	http://github.com/lukestringer90/SwiftSummit/blob/master/README.md	Swift Summit		20150407
+tutorial	http://makeapppie.com/2015/03/31/swift-swift-split-view-controllers-round-two-part-2-master-to-detail	Swift Swift: Split View Controllers (Round Two) Part 2: Master to Detail		20150331
+tutorial	http://makeapppie.com/2015/04/07/swift-swift-making-colorful-table-views	Swift Swift: Making Colorful Table views		20150407
+tutorial	http://ericasadun.com/2015/04/07/swift-a-little-google-playground-hack	Swift: A little Google playground hack		20150407
+advanced	http://flexmonkey.blogspot.com/2015/04/audio-visualisation-for-ios-with.html	Audio Visualisation for iOS with AudioKit & ParticleLab		20150408
+advanced	http://www.andrewcbancroft.com/2015/04/08/how-delegation-works-a-swift-developer-guide	How Delegation Works – A Swift Developer’s Guide		20150408
+commercial	http://itunes.apple.com/us/book/swift-swift-view-controllers/id983247343?ls=1&mt=11	Swift Swift View Controllers	#book	20010101
+commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips	#book	20010101
+advanced	http://developer.apple.com/swift/blog/?id=27	Increasing Performance by Reducing Dynamic Dispatch		20150409
