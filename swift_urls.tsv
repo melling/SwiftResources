@@ -847,8 +847,8 @@ advanced	http://flexmonkey.blogspot.com/2015/03/mind-blowing-metal-four-million.
 advanced	http://ericasadun.com/2015/03/31/swift-path-interpolation-in-pure-swift	Swift: Path interpolation in pure Swift		20150331
 advanced	http://www.infoq.com/presentations/swift-llvm	Swift - Under the Hood	#video	20150328
 tutorial	http://www.appcoda.com/custom-view-controller-transitions-tutorial	Introduction to Custom View Controller Transitions and Animations		20150323
-tutorial	http://youtu.be/ZTVRAfQFWVo	Learning iOS Development Part 78 (Spring Animations) - azamsharp	#video	20150327
-tutorial	http://youtu.be/dfSu-qvn0aY	Learning iOS Development Part 79 (UIView Transitions) – azamsharp	#video	20150329
+tutorial	http://youtu.be/ZTVRAfQFWVo	AzamSharp: Learning iOS Development Part 78 (Spring Animations)	#video	20150327
+tutorial	http://youtu.be/dfSu-qvn0aY	AzamSharp: Learning iOS Development Part 79 (UIView Transitions)	#video	20150329
 advanced	http://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g	Functional Swift	#video	20141201
 advanced	http://engineering.circle.com/swift-compiler-performance-tips-and-tricks	Swift compiler performance tips and tricks		20150106
 tutorial	http://nshipster.com/quick-look-debugging	Quick Look Debugging		20150330
@@ -899,3 +899,32 @@ tutorial	http://ericasadun.com/2015/04/10/swift-var-parameters	Swift: Var parame
 advanced	http://youtu.be/UXhfQZQ3N4c	Scenekit for Absolute Beginners	#video	20010101
 advanced	http://realm.io/news/testing-in-swift	Testing in Swift	#video	20150408
 advanced	http://youtu.be/taWaW2GzfCI	Adaptive Auto Layout	#video	20150330
+advanced	http://nshipster.com/unmanaged	Unmanaged		20150413
+tutorial	http://www.objc.io/issue-23	#23 Video		20150413
+advanced	http://sketchytech.blogspot.com/2015/04/locating-paragraph-breaks-in-swift.html	Locating paragraph breaks in Swift: Objective-C in Translation		20150414
+tutorial	http://www.raywenderlich.com/98356/view-debugging-in-xcode-6	View Debugging in Xcode 6		20150414
+tutorial	http://ericasadun.com/2015/04/14/swift-the-joys-of-cascading-lets	Swift: The joys of cascading lets		20150414
+tutorial	http://flexmonkey.blogspot.com/2015/04/painless-migration-to-swift-12-sets-and.html	Painless Migration to Swift 1.2: Sets and Touches and Rock and Roll		20150414
+tutorial	http://ericasadun.com/2015/04/14/swift-in-case-you-didnt-think-that-swift-was-the-future	Swift: In case you didn’t think that Swift was the future		20150414
+tutorial	http://www.russbishop.net/swift-1-2	Swift 1.2: Some overlooked goodies		20150414
+tutorial	http://www.raywenderlich.com/92428/background-modes-ios-swift-tutorial	Background Modes Tutorial: Getting Started		20150415
+advanced	http://www.andrewcbancroft.com/2015/04/15/testability-tip-for-swift-developers-public-over-private	Testability Tip for Swift Developers – Public Over Private		20150415
+tutorial	http://ericasadun.com/2015/04/16/swift-counting-emoji-groups	Swift: Counting emoji groups		20150416
+tutorial	http://natashatherobot.com/swift-generics-box	Swift: Putting Your Generics in a Box		20150416
+advanced	https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html	Friday Q&A 2015-04-17: Let's Build Swift.Array		20150417
+tutorial	http://makeapppie.com/2015/04/17/swift-watchkit-tutorials-programming-buttons-switches-and-timers-for-apple-watch	Swift WatchKit Tutorials: Programming Buttons, Switches and Timers for Apple Watch		20150417
+advanced	http://ericasadun.com/2015/04/17/swift-stupid-reflection-tricks-1	Swift: Stupid Reflection Tricks #1		20150417
+advanced	http://waynewbishop.com/swift/binary-search-tree-rotations	Tree Balancing		20150418
+tutorial	http://medium.com/the-traveled-ios-developers-guide/swift-s-set-a7eb4f450f6c	Swift + Set		20150418
+tutorial	http://flexmonkey.blogspot.com/2015/04/snapswift-open-source-popup-menu.html	SnapSwift: Open Source Popup Menu / Numeric Slider for iOS		20150419
+advanced	http://www.extelligentcocoa.org/the-meta-syntax-of-optionals	The meta-syntax of optionals		20150419
+tutorial	http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews	Fun With Scrollviews		20150419
+advanced	http://www.knowstack.com/converting-array-of-dictionary-to-tree-org-structure	Converting Array of Dictionary to Tree, Org Structure		20150419
+advanced	http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging	Reveal Tutorial: Live View Debugging		20150420
+advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch		20150420
+advanced	http://ericasadun.com/2015/04/21/swift-occams-code-razor	Swift: Occam’s Code Razor		20150421
+tutorial	http://www.swift-studies.com/blog/2014/6/10/enumerating-enums-in-swift	Enumerating enums in Swift		20140610
+tutorial	http://youtu.be/qQhMkoxSV64	AzamSharp: ‪Learning iOS Development Part 80 (Live Rendering iOS 8)‬	#video	20150417
+advanced	http://dduan.net/post/2015/04/swift-function-fun-facts	Swift Function Fun Facts		20150418
+advanced	http://www.extelligentcocoa.org/sending-out-notifications-of-change	Sending out Notifications of Change		20150422
+advanced	http://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views	UIKit Dynamics and Swift Tutorial: Tossing Views		20150422
