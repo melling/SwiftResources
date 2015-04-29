@@ -705,8 +705,8 @@ tutorial	http://www.raywenderlich.com/95181/whats-new-in-swift-1-2	What’s New 
 tutorial	http://medium.com/swift-programming/ios-swift-parse-com-part-3-sign-up-sign-in-sign-out-security-349adc94ef0e	iOS + Swift +  parse.com -  Part 3 (Sign Up, Sign In, Sign Out + Security)		20150211
 tutorial	http://airspeedvelocity.net/2015/02/11/changes-to-the-swift-standard-library-in-1-2-beta-1	Changes to the Swift Standard Library in 1.2 beta 1		20150211
 tutorial	http://www.codingexplorer.com/multiple-optional-bindings-swift-1-2	Multiple Optional Bindings in Swift 1.2		20150211
-tutorial	http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2	Modern Core Graphics with Swift: Part 2		20150211
-tutorial	http://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3	Modern Core Graphics with Swift: Part 3		20150212
+tutorial	http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2	Modern Core Graphics with Swift: Part 2: Gradients and Contexts		20150211
+tutorial	http://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3	Modern Core Graphics with Swift: Part 3: Patterns and Playgrounds		20150212
 advanced	http://gilesvangruisen.com/uicollectionviewflowlayout-animation-timing	UICollectionViewFlowLayout animation timing		20150211
 tutorial	http://www.andrewcbancroft.com/2015/02/12/custom-uitableviewcell-text-input-swift	Custom UITableViewCell for Text Input in Swift		20150212
 tutorial	http://medium.com/swift-programming/how-to-display-parse-com-images-in-a-table-view-ios-swift-parse-com-f73dd68adb5e	How to display parse.com images in a table view. iOS, Swift, Parse.com		20150213
@@ -942,3 +942,4 @@ advanced	http://ericasadun.com/2015/04/24/swift-that-permutation-generator-thing
 advanced	http://jamesonquave.com/blog/functional-programming-in-swift	Functional Programming in Swift		20150425
 advanced	http://asciiwwdc.com	Searchable full-text transcripts of WWDC sessions		20010101
 advanced	http://sketchytech.blogspot.com/2015/04/swift-and-epub-font-obfuscation.html	Swift and EPUB: Font obfuscation		20150426
+advanced	http://www.codingexplorer.com/choosing-images-with-uiimagepickercontroller-in-swift	Choosing Images with UIImagePickerController in Swift		20150427
