@@ -952,3 +952,32 @@ advanced	http://code.tutsplus.com/tutorials/create-a-text-to-speech-app-with-swi
 advanced	http://www.ralfebert.de/tutorials/ios-swift-multipeer-connectivity	iOS & Swift Tutorial: Multipeer Connectivity		20150428
 tutorial	http://www.ralfebert.de/snippets/ios-swift/uicolor	Swift Color Picker		20150426
 tutorial	http://youtu.be/Ks96mDRqJQc	‪Mac Development Part 1 (Hello Mac)‬	#mac	20150428
+tutorial	http://peterwitham.com/swift/basics/playground-using-external-files	Swift Playground Tip – Using External Code Files		20150430
+advanced	http://ericasadun.com/2015/04/30/swift-a-little-autoclosure-hacking	Swift: A little @autoclosure hacking		20150430
+advanced	http://flexmonkey.blogspot.com/2015/05/depth-of-field-in-scenekit.html	Depth of Field in SceneKit		20150502
+advanced	http://airspeedvelocity.net/2015/05/02/spelling	A Swift Spelling Corrector		20150502
+advanced	http://natashatherobot.com/swift-unused-optional-value	Swift: The Unused Optional Value Problem		20150502
+advanced	http://www.knowstack.com/swift-nstoolbar-sample-code	Swift NSToolbar Sample Code	#mac	20150502
+advanced	http://jamesonquave.com/blog/function-currying-in-swift	Function Currying in Swift	#functional	20150503
+advanced	http://makeapppie.com/2015/05/03/swift-swift-making-background-images-small-images-and-custom-uiviews-with-autolayout	Swift Swift: Making Background Images, Small Images and Custom UIViews with Autolayout		20150503
+advanced	http://www.ioscreator.com/tutorials/load-data-property-list-ios8-swift	Load Data from Property List in iOS8 with Swift		20150504
+advanced	http://flexmonkey.blogspot.com/2015/05/easy-group-based-layout-for-swift-with.html	Easy Group Based Layout for Swift with Shinpuru Layout		20150504
+advanced	http://metalbyexample.com/compressed-textures	Compressed Texture Formats in Metal	#objc	20150505
+advanced	http://www.raywenderlich.com/98178/os-x-tutorial-menus-popovers-menu-bar-apps	OS X Tutorial: Menus and Popovers in Menu Bar Apps	#mac	20150505
+tutorial	http://www.raywenderlich.com/94443/uisplitviewcontroller-tutorial-getting-started	UISplitViewController Tutorial: Getting Started		20150506
+tutorial	http://ericasadun.com/2015/05/06/swift-indices	Swift: Indices		20150506
+advanced	http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh	Implementing the Periscope App Pull-to-refresh control		20150510
+advanced	http://sketchytech.blogspot.com/2015/05/json-and-swift-making-bool-magic-happen.html	JSON and Swift: Making the Bool magic happen in Aldwych		20150507
+advanced	http://flexmonkey.blogspot.com/2015/05/zip-map-and-generics-evolution-of-swift.html	Zip, Map and Generics: The Evolution of a Swift Function	#functional	20150507
+advanced	http://ericasadun.com/2015/05/07/swift-fetching-methods-for-a-cocoa-class	Swift: Fetching methods for a Cocoa class		20150507
+advanced	http://ericasadun.com/2015/05/08/swift-class-properties	Swift: Class properties		20150508
+advanced	http://www.andrewcbancroft.com/2015/05/08/strong-weak-and-unowned-sorting-out-arc-and-swift	Strong, Weak, and Unowned – Sorting out ARC and Swift		20150508
+advanced	http://www.knowstack.com/swift-autolayout-visual-format-language-sample-code	Swift Autolayout Visual Format Language – Sample Code		20150510
+advanced	http://flexmonkey.blogspot.com/2015/05/a-test-driven-custom-swift-zip-function.html	A Test Driven Custom Swift Zip Function Using Generics	#functional	20150510
+advanced	http://sketchytech.blogspot.com/2015/05/adventures-in-pdf-swift-and-pdfkit.html	Adventures in PDF: Swift and PDFKit		20150511
+advanced	http://www.objc.io/issue-24	Objc.io: #24 Audio		20150511
+advanced	http://commandshift.co.uk/blog/2015/05/11/swift-generics	Swift Generics		20150511
+tutorial	http://natashatherobot.com/watchkit-check-device-screen-size-in-code	WatchKit: How to Check Device Screen Size in Code	#watchkit	20150511
+advanced	http://ericasadun.com/2015/05/11/swift-vs-void	Swift: () -> () vs () -> Void		20150511
+advanced	http://www.raywenderlich.com/94649/sprite-kit-kids-swift	Sprite Kit for Kids with Swift	#SpriteKit	20150512
+advanced	http://makeapppie.com/2015/05/12/swift-watchkit-using-images-on-an-apple-watchpart-2-code	Swift WatchKit: Using Images on an Apple Watch(Part 2: Code)	#watchkit	20150512
