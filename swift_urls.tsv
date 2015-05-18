@@ -981,3 +981,25 @@ tutorial	http://natashatherobot.com/watchkit-check-device-screen-size-in-code	Wa
 advanced	http://ericasadun.com/2015/05/11/swift-vs-void	Swift: () -> () vs () -> Void		20150511
 advanced	http://www.raywenderlich.com/94649/sprite-kit-kids-swift	Sprite Kit for Kids with Swift	#SpriteKit	20150512
 advanced	http://makeapppie.com/2015/05/12/swift-watchkit-using-images-on-an-apple-watchpart-2-code	Swift WatchKit: Using Images on an Apple Watch(Part 2: Code)	#watchkit	20150512
+advanced	http://nshipster.com/xcplayground	XCPlayground		20150511
+advanced	http://natashatherobot.com/watchkit-text-over-animating-image	WatchKit: How to Place Text Over An (Animating) Image	#watchkit	20150512
+tutorial	http://ericasadun.com/2015/05/12/swift-enumerating-collections	Swift: Enumerating Collections		20150512
+advanced	http://peterwitham.com/swift/intermediate/basic-file-reading-and-writing-in-ios-8	Basic File Reading and Writing Using Swift in iOS 8		20150513
+advanced	http://ericasadun.com/2015/05/14/swift-curry-take-out-with-a-side-of-image-processing	Swift: Curry take-out with a side of Image Processing		20150514
+advanced	http://www.andrewcbancroft.com/2015/05/14/beginners-guide-to-eventkit-in-swift-requesting-permission	Beginner’s Guide to EventKit in Swift – Requesting Permission		20150514
+tutorial	http://ericasadun.com/2015/05/15/swift-playground-hack-of-the-day	Swift: Playground Hack of the day		20150515
+advanced	http://ericasadun.com/2015/05/15/swift-confessional	Swift: Confessional		20150515
+advanced	http://sketchytech.blogspot.com/2015/05/swift-and-nsscanner.html	Swift and NSScanner: Coping with Cocoa		20150517
+advanced	http://ericasadun.com/2015/05/17/swift-weekend-hack-using-social-to-upload-images-from-playgrounds	Swift Weekend Hack: Using social to upload images from playgrounds		20150517
+advanced	http://ericasadun.com/2015/05/17/swift-thingies	Swift thingies		20150517
+advanced	http://medium.com/swift-programming/ios-swift-parse-com-how-to-implement-email-verification-of-users-88248ab7343f	iOS + Swift + parse.com — How to implement email verification of users		20150517
+advanced	http://www.ioscreator.com/tutorials/indexed-table-view-tutorial-ios8-swift	Indexed Table View Tutorial in iOS8 with Swift		20150518
+libs	http://github.com/Draveness/DKChainableAnimationKit	Easy to read and write chainable animations in Swift		20010101
+advanced	http://whackylabs.com/rants/?p=1233	Subclassing UILabel in 2015		20150516
+tutorial	http://shrikar.com/design-ios-app-xcode	Design iOS app in Xcode		20150512
+advanced	http://realm.io/news/jesse-squires-core-data-swift	Using Core Data in Swift	#video	20150512
+advanced	http://medium.com/@vlafiser/how-to-implement-mixpanel-into-your-swift-app-in-5-minutes-xcode-6-3-19263621c13b	How to implement Mixpanel into your Swift app in 5 minutes		20150506
+tutorial	http://shrikar.com/7-min-workout-app-in-swift-for-ios8	7 min workout app in Swift		20150504
+tutorial	http://shrikar.com/uitableview-delegate-and-datasource-in-swift	UITableView Delegate and Datasource in Swift		20150504
+libs	http://github.com/haaakon/SingleLineShakeAnimation	SingleLineShakeAnimation		20010101
+tutorial	http://madebymany.com/blog/getting-started-with-swift-and-watchkit	Getting started with Swift and WatchKit	#watchkit	20150501
