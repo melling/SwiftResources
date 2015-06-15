@@ -1085,3 +1085,33 @@ advanced	http://memkite.com/blog/2015/06/10/swift-and-metal-gpu-programming-on-o
 advanced	http://jamesonquave.com/blog/swift-2-whats-new	Swift 2 – What’s new		20150610
 advanced	http://ericasadun.com/2015/06/10/swift-is-available-the-most-irritating-new-swift-feature	Swift: Is “#available” the most irritating new Swift feature?		20150610
 advanced	http://ericasadun.com/2015/06/10/swift-fun-with-default-implementations	Swift: Fun with default implementations		20150610
+advanced	http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice	Swift 2 error handling in practice		20150612
+advanced	http://sketchytech.blogspot.com/2015/06/whats-new-in-swift-20-repeat-while.html	What's New in Swift 2: repeat-while, guard, defer, ErrorType, OptionSetType, multi-payload enums, if-case, for-case, #available, try!		20150611
+advanced	http://sketchytech.blogspot.com/2015/06/swift-2-can-we-count-on-you.html	Swift 2: Can we count on you?		20150611
+advanced	http://natashatherobot.com/swift-2-error-handling	Swift 2: Test Driving the Error Handling		20150611
+advanced	http://ericasadun.com/2015/06/11/swift-enumerations-can-now-print-themselves	Swift: Enumerations can now print themselves		20150611
+advanced	http://ericasadun.com/2015/06/11/swift-yes-this-is-my-morning	Swift: Yes, this is my morning		20150611
+advanced	http://ericasadun.com/2015/06/11/swift-objc-runtime-and-overloading	Swift: ObjC runtime and overloading		20150611
+advanced	http://ericasadun.com/2015/06/11/swift-i-upgrade-my-hate-level-for-available	Swift: I upgrade my hate level for #available		20150611
+advanced	http://flexmonkey.blogspot.com/2015/06/a-first-look-at-uistackview-in-swift-20.html	A First Look at UIStackView in Swift 2.0		20150611
+advanced	http://ericasadun.com/2015/06/11/swift-wrapping-up-the-day-with-my-favorite-construct-du-jour	Swift: Wrapping up the day with my favorite construct du jour		20150611
+advanced	http://sketchytech.blogspot.com/2015/06/seven-basics-of-functional-programming.html	Seven Basics of Functional Programming in Swift	#functional	20150612
+advanced	http://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends	Parse Tutorial: Getting Started with Web Backends		20150612
+advanced	http://www.raywenderlich.com/108522/whats-new-in-swift-2	What’s New in Swift 2		20150612
+advanced	http://peterwitham.com/swift/basics/checking-api-availability-with-swift-2-available	Checking API availability with Swift 2 #available		20150612
+advanced	http://sketchytech.blogspot.com/2015/06/living-in-post-oop-world-protocols-rule.html	Living in a Post-OOP world: Protocol Extensions in Swift 2		20150612
+advanced	http://ericasadun.com/2015/06/12/gameplaykit-i-call-this-victory	GameplayKit: I call this victory		20150612
+advanced	http://ericasadun.com/2015/06/12/swift-diffs	Swift Diffs		20150612
+advanced	http://ericasadun.com/2015/06/12/swift-figuring-out-anygenerator	Swift: Figuring out anyGenerator		20150612
+advanced	http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future	The Ghost of Swift Bugs Future		20150613
+advanced	https://medium.com/swift-programming/lets-try-swift-version-swift-2-9a90cd738d53	Lets try! Swift(version: Swift.2)		20150613
+advanced	http://flexmonkey.blogspot.com/2015/06/new-core-image-filters-in-ios-9.html	New Core Image Filters in iOS 9		20150613
+advanced	http://robnapier.net/initial-guards	Some Initial Thoughts on Guards		20150613
+advanced	https://medium.com/swift-programming/keep-your-swift-exceptions-clean-easy-to-update-and-future-proof-20b997d0b46c	Keep your Swift Exceptions clean, easy to update and future proof		20150614
+advanced	http://natashatherobot.com/swift-2-pattern-matching-unwrapping-multiple-optionals	Swift 2 Pattern Matching: Unwrapping Multiple Optionals		20150614
+advanced	http://sketchytech.blogspot.com/2015/06/functional-formatting-in-swift.html	Functional Formatting in Swift: NSAttributedStrings and NSParagraphStyle		20150614
+advanced	http://ericasadun.com/2015/06/14/swift-header-documentation-in-xcode-7	Swift header documentation in Xcode 7		20150614
+advanced	http://sketchytech.blogspot.com/2015/06/a-paint-pot-analogy-of-functional.html	A paint pot analogy of functional programming in Swift		20150615
+advanced	http://ericasadun.com/2015/06/15/swift-five-excellent-undocumented-functions	Swift: Five excellent undocumented functions		20150615
+advanced	http://www.informit.com/articles/article.aspx?p=2420609	Notes from WWDC 2015: Playing in a GameplayKit Wonderland		20150613
+advanced	http://ericcerney.com/swift-guard-statement	Swift Guard Statement		20150610
