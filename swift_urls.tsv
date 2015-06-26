@@ -1189,3 +1189,29 @@ advanced	http://ericasadun.com/2015/06/26/swift-crash-burn-die	Swift: Crash. Bur
 advanced	http://gist.github.com/nicklockwood/21495c2015fd2dda56cf	Thoughts on Swift 2 Errors		20150615
 advanced	http://youtu.be/jpZD2GPwf_w	AzamSharp: ‪Learning iOS Development Part 84 (Custom Annotations)		20150623
 advanced	http://youtu.be/LpGirJejgrU	AzamSharp: ‪Learning iOS Development Part 85 (Creating Custom Annotation Views for MKMapView)		20150626
+libs	http://github.com/glock45/swifter	Swifter: Tiny http server engine 		20010101
+advanced	http://fancypixel.github.io/blog/2015/06/19/playing-with-uidynamics-in-ios-9	Playing With UIDynamics in iOS 9		20150619
+advanced	http://littlebitesofcocoa.tumblr.com/post/119859844856/6-debugging-tips-exception-breakpoint-this	little bits of cocoa: #6: Debugging Tips		20150525
+advanced	http://littlebitesofcocoa.tumblr.com/post/119947022004/7-clvisit-starting-in-ios-8-you-can-retrieve	little bits of cocoa: #7: CLVisit		20150526
+advanced	http://littlebitesofcocoa.tumblr.com/post/120030657972/8-mixing-spritekit-into-uikit-spritekit-is	little bits of cocoa: #8: Mixing SpriteKit into UIKit		20150527
+advanced	http://littlebitesofcocoa.tumblr.com/post/120113773785/9-animating-constraints-animating-between-two	little bits of cocoa: #9: Animating Constraints		20150528
+advanced	http://littlebitesofcocoa.tumblr.com/post/120195694398/10-creating-an-action-extension	little bits of cocoa: #10: Creating an Action Extension		20150529
+advanced	http://littlebitesofcocoa.tumblr.com/post/120450570974/11-adding-external-libraries-with-carthage	little bits of cocoa: #11: Adding External Libraries with Carthage		20150601
+advanced	http://littlebitesofcocoa.tumblr.com/post/120536418797/12-build-a-context-aware-text-editor-with	little bits of cocoa: #12: Build a Context-Aware Text Editor With NSLinguisticTagger		20150602
+advanced	http://littlebitesofcocoa.tumblr.com/post/120620198336/13-writing-cleaner-asynchronous-code-with	little bits of cocoa: #13: Writing Cleaner Asynchronous Code with PromiseKit		20150603
+advanced	http://littlebitesofcocoa.tumblr.com/post/120703325410/14-create-beautiful-empty-data-sets-with	little bits of cocoa: #14: Create Beautiful Empty Data Sets with DZNEmptyDataSet		20150604
+advanced	http://littlebitesofcocoa.tumblr.com/post/120784546454/15-programmatically-add-custom-fonts-with	little bits of cocoa: #15: Programmatically Add Custom Fonts with FontBlaster		20150605
+advanced	http://littlebitesofcocoa.tumblr.com/post/121598537380/16-uistackview	little bits of cocoa: #16: UIStackView		20150615
+advanced	http://littlebitesofcocoa.tumblr.com/post/121682032867/17-uikeycommand	little bits of cocoa: #17: UIKeyCommand		20150616
+advanced	http://littlebitesofcocoa.tumblr.com/post/121846499218/19-protocol-extensions	little bits of cocoa: #19: Protocol Extensions		20150618
+advanced	http://littlebitesofcocoa.tumblr.com/post/121929229352/20-replaykit	little bits of cocoa: #20: ReplayKit		20150619
+advanced	http://littlebitesofcocoa.tumblr.com/post/122175840154/21-clktextprovider	little bits of cocoa: #21: CLKTextProvider	#watchkit	20150622
+advanced	http://littlebitesofcocoa.tumblr.com/post/122261552354/22-pattern-matching-in-swift	little bits of cocoa: #22: Pattern Matching in Swift		20150623
+advanced	http://littlebitesofcocoa.tumblr.com/post/122345870995/23-corespotlight	little bits of cocoa: #23: CoreSpotlight		20150624
+advanced	http://littlebitesofcocoa.tumblr.com/post/122429720064/24-contacts-contacts-ui	little bits of cocoa: #24: Contacts & Contacts UI		20150625
+advanced	http://littlebitesofcocoa.tumblr.com/post/122513803088/25-picture-in-picture	little bits of cocoa: #25: Picture in Picture		20150626
+advanced	http://littlebitesofcocoa.tumblr.com/post/119286766047/1-uiviewcontroller-initialization-in-swift-so	little bits of cocoa: #1: UIViewController Initialization in Swift		20150518
+advanced	http://littlebitesofcocoa.tumblr.com/post/119369619049/2-chainable-methods-making-functions-chainable	little bits of cocoa: #2: Chainable Methods		20150519
+advanced	http://littlebitesofcocoa.tumblr.com/post/119451421145/3-timepiece-timepiece-is-a-library-from-naoto	little bits of cocoa: #3: Timepiece		20150520
+advanced	http://littlebitesofcocoa.tumblr.com/post/119531773146/4-singletons-singletons-are-a-design-pattern	little bits of cocoa: #4: Singletons		20150521
+advanced	http://littlebitesofcocoa.tumblr.com/post/119610704393/5-watch-screenshot-magic-watch-screenshot	little bits of cocoa: #5: Watch Screenshot Magic	#watchkit	20150522
