@@ -855,7 +855,7 @@ tutorial	http://nshipster.com/quick-look-debugging	Quick Look Debugging		2015033
 tutorial	http://shrikar.com/blog/2015/03/31/parse-search-in-ios-8-with-swift	Parse Search in iOS 8 With Swift		20150331
 tutorial	http://www.andrewcbancroft.com/2015/04/01/enums-instead-of-booleans-an-example-implementation	Enums Instead of Booleans – An Example Implementation		20150401
 tutorial	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/31/spritekit-swift-part-2-adding-the-player.html	SpriteKit and Swift Part 2: Adding the Player	#SpriteKit	20150331
-beginner	http://www.hackingwithswift.com	Hacking with Swift		20010101
+commercial	http://www.hackingwithswift.com	Hacking with Swift		20010101
 advanced	http://www.rockhoppertech.com/blog/swift-and-core-audio	Swift and Core Audio	#CoreAudio	20140608
 advanced	http://flexmonkey.blogspot.com/2014/10/sound-synthesis-in-swift-core-audio.html	Sound Synthesis in Swift: A Core Audio Tone Generator	#CoreAudio	20141016
 advanced	http://flexmonkey.blogspot.com/2015/03/audiokit-reaches-version-20.html?m=1	AudioKit Reaches Version 2.0		20150328
@@ -1215,3 +1215,40 @@ advanced	http://littlebitesofcocoa.tumblr.com/post/119369619049/2-chainable-meth
 advanced	http://littlebitesofcocoa.tumblr.com/post/119451421145/3-timepiece-timepiece-is-a-library-from-naoto	little bits of cocoa: #3: Timepiece		20150520
 advanced	http://littlebitesofcocoa.tumblr.com/post/119531773146/4-singletons-singletons-are-a-design-pattern	little bits of cocoa: #4: Singletons		20150521
 advanced	http://littlebitesofcocoa.tumblr.com/post/119610704393/5-watch-screenshot-magic-watch-screenshot	little bits of cocoa: #5: Watch Screenshot Magic	#watchkit	20150522
+advanced	http://flexmonkey.blogspot.com/2015/06/a-first-look-at-metal-performance.html	A First Look at Metal Performance Shaders in iOS 9	#metal	20150628
+advanced	http://realm.io/news/sam-soffes-building-functional-apps	Building Functional Apps		20150627
+libs	http://github.com/Imperiopolis/Swiftly	Swiftly generate autolayout constraints.		20010101
+advanced	http://littlebitesofcocoa.tumblr.com/post/122773010214/26-cloudkit-basics	little bits of cocoa: #26: CloudKit Basics		20150629
+advanced	http://littlebitesofcocoa.tumblr.com/post/122863115390/27-cloudkit-subscriptions	little bits of cocoa: #27: CloudKit Subscriptions		20150630
+advanced	http://littlebitesofcocoa.tumblr.com/post/122952445533/28-discovering-users-in-cloudkit	little bits of cocoa: #28: Discovering Users in CloudKit		20150701
+advanced	http://littlebitesofcocoa.tumblr.com/post/123040917925/29-handoff	little bits of cocoa: #29: Handoff		20150702
+advanced	http://littlebitesofcocoa.tumblr.com/post/123126808162/30-ui-testing	little bits of cocoa: #30: UI Testing		20150703
+advanced	http://sketchytech.blogspot.com/2015/06/empowering-extensions-in-swift-2.html	Empowering Extensions in Swift 2: Protocols, Types and Subclasses		20150628
+advanced	http://flexmonkey.blogspot.com/2015/06/using-metalperformanceshaders-on-images.html	Using MetalPerformanceShaders on Images with MTKTextureLoader		20150628
+advanced	http://ericasadun.com/2015/06/28/xcode-shenanigans-indentage-servitude	Xcode shenanigans: Indentage Servitude		20150628
+advanced	http://nshipster.com/cloudkit	Cloud Kit		20150629
+advanced	http://sketchytech.blogspot.com/2015/06/fear-and-loathing-in-auto-layout_29.html	Fear and Loathing in Auto Layout: Constraint Multipliers, Ratios, Constants and Relations		20150629
+advanced	http://ericasadun.com/2015/06/29/swift-and-sleep-deprevation	Swift and sleep depravation		20150629
+advanced	http://peterwitham.com/xcode/video-using-xcode-7-storyboard-referencing	Using Xcode 7 Storyboard Referencing	#video	20150629
+advanced	http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2	Swift Exceptions are Swifty: Part 2		20150629
+advanced	http://www.extelligentcocoa.org/gameplaykit-randomness	GameplayKit: Randomness		20150630
+advanced	http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html	Similarly different: join(), reduce() and flatMap() in Swift 2	#functional	20150630
+advanced	http://natashatherobot.com/xcode-debugging-trick	Xcode: One Weird Debugging Trick That Will Save Your Life	#xcode	20150630
+advanced	http://medium.com/swift-programming/groundup-json-stringify-in-swift-b2d805458985	GroundUp JSON Stringify in Swift		20150630
+advanced	http://ericasadun.com/2015/06/30/going-random-in-the-age-of-gameplaykit	Going random in the age of GameplayKit		20150630
+advanced	http://ericasadun.com/2015/07/01/iterating-optionals	Iterating Optionals		20150701
+advanced	http://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable	Every Swift Value Type Should Be Equatable		20150701
+advanced	http://ericasadun.com/2015/07/01/swift-playgrounds-arranging-assistants-for-speed	Swift Playgrounds: Arranging Assistants For Speed		20150701
+advanced	http://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds	Numerical Algorithms using Playgrounds		20150702
+advanced	http://ericasadun.com/2015/07/02/swift-to-the-max	Swift: To the max		20150702
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html	Friday Q&A 2015-07-03: Address Sanitizer		20150703
+advanced	http://ericasadun.com/2015/07/03/swift-revisiting-printing-with-string-formats	Swift: Revisiting printing with string formats		20150703
+advanced	http://ericasadun.com/2015/07/03/swift-hunting-down-the-fleeting-debugprint-differentiation	Swift: Hunting down the fleeting debugPrint differentiation		20150703
+advanced	http://ericasadun.com/2015/07/03/swift-how-to-go-to-hell-in-one-easy-function	Swift: How to go to hell in one easy function		20150703
+advanced	http://sketchytech.blogspot.com/2015/07/auto-layout-programmatic-constraints.html	Fear and Loathing in Auto Layout: Programmatic Constraints		20150704
+advanced	http://flexmonkey.blogspot.com/2015/07/applying-cifilters-to-live-camera-feed.html	Applying CIFilters to a Live Camera Feed with Swift		20150705
+advanced	http://sketchytech.blogspot.com/2015/07/swift-common-auto-layout-scenarios-for.html	Swift: Common Auto Layout scenarios for UIStackView		20150705
+advanced	http://dduan.net/post/2015/07/lets-build-a-cat-in-swift-2	Let's Build A 'cat' In Swift 2		20150704
+advanced	http://youtu.be/UhbdIvD14HE	Get started with UIStackView in iOS 9	#video	20150630
+advanced	http://masilotti.com/ui-testing-xcode-7	UI Testing in Xcode 7		20150629
+beginner	http://swifteducation.github.io	Apple: Swift Education		20150616
