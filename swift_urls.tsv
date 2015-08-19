@@ -1385,3 +1385,42 @@ advanced	http://inessential.com/2015/08/05/swift_diary_9_where_im_stuck	Swift Di
 advanced	http://www.thinkandbuild.it/introduction-to-uistackview	INTRODUCTION TO UISTACKVIEW		20150805
 advanced	http://flexmonkey.blogspot.com/2015/08/metal-performance-shaders-fallback-copy.html	Metal Performance Shaders & Fallback Copy Allocators		20150805
 advanced	http://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers	UIGestureRecognizer Tutorial: Creating Custom Recognizers		20150806
+advanced	http://littlebitesofcocoa.tumblr.com/post/126104050655/55-switching-view-controllers-with	little bites of cocoa: #55: Switching View Controllers With UISegmentedControl		20150807
+advanced	http://littlebitesofcocoa.tumblr.com/post/126348559057/56-responsedetective	little bites of cocoa: #56: ResponseDetective		20150810
+advanced	http://littlebitesofcocoa.tumblr.com/post/126434008441/57-game-center-leaderboard-basics	little bites of cocoa: #57: Game Center Leaderboard Basics		20150811
+advanced	http://littlebitesofcocoa.tumblr.com/post/126516622443/58-photo-editing-extensions	little bites of cocoa: #58: Photo Editing Extensions		20150812
+advanced	http://littlebitesofcocoa.tumblr.com/post/126597754127/59-bryxbanner	little bites of cocoa: #59: BRYXBanner		20150813
+advanced	http://littlebitesofcocoa.tumblr.com/post/126678030531/60-creating-a-cocoapod	little bites of cocoa: #60: Creating a CocoaPod		20150814
+advanced	http://littlebitesofcocoa.tumblr.com/post/126920822645/61-game-center-achievements	little bites of cocoa: #61: Game Center Achievements		20150817
+advanced	http://littlebitesofcocoa.tumblr.com/post/127003878137/62-jlroutes	little bites of cocoa: #62: JLRoutes		20150818
+advanced	http://inessential.com/2015/08/07/swift_diary_10_changes_to_properties	Swift Diary #10: Changes to Properties		20150807
+advanced	http://ericasadun.com/2015/08/06/hey-erica-why-doesnt-this-work-swiftlang	Hey Erica, why doesn’t this work? #swiftlang		20150806
+advanced	http://ericasadun.com/2015/08/06/jive-with-beta-five-swiftlang	Jive with Beta Five #swiftlang		20150806
+advanced	http://www.andrewcbancroft.com/2015/08/06/analyzing-swift-protocol-extensions-and-c-abstract-classes	Analyzing Swift Protocol Extensions and C# Abstract Classes		20150806
+advanced	http://makeapppie.com/2015/08/07/a-swift-tutorial-for-working-with-classes-part-3-abstract-classes	A Swift Tutorial for Working with Classes Part 3: Abstract classes.		20150807
+advanced	http://www.raywenderlich.com/101891/ibeacons-tutorial-ios-swift	iBeacons Tutorial with iOS and Swift		20150807
+advanced	http://ericasadun.com/2015/08/07/strings-and-paths	Strings and paths		20150807
+advanced	http://flexmonkey.blogspot.com/2015/08/ios-live-camera-controlled-particles-in.html	iOS Live Camera Controlled Particles in Swift & Metal		20150809
+advanced	http://www.raywenderlich.com/94565/how-to-create-an-ios-book-open-animation-part-1	How to Create an iOS Book Open Animation: Part 1		20150811
+advanced	http://ericasadun.com/2015/08/11/stuff-swiftlang	Stuff #swiftlang		20150811
+advanced	http://www.ioscreator.com/tutorials/use-context-menu-table-view-tutorial	Use Context Menu with Table View Tutorial		20150812
+advanced	http://www.raywenderlich.com/97690/how-to-create-an-ios-book-open-animation-part-2	How to Create an iOS Book Open Animation: Part 2		20150812
+advanced	http://www.weheartswift.com/binary-search-applications	Binary Search and Applications		20150812
+advanced	http://peterwitham.com/xcode/quickly-change-ios-start-up-view-controller-in-xcode	Quickly Change iOS Start Up View Controller in Xcode		20150812
+advanced	http://developer.apple.com/swift/blog/?id=31	Swift-er SDK		20150812
+advanced	http://www.raywenderlich.com/105641/change-app-icon-build-time	How To Change Your App Icon at Build Time		20150813
+advanced	http://makeapppie.com/2015/08/14/swift-watchkit-selecting-deleting-and-adding-rows-in-an-apple-watch-table/	Swift WatchKit: Selecting, Deleting and Adding Rows in an Apple Watch Table	#watchkit	20150814
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-08-14-an-xcode-plugin-for-unsmoothed-text.html	Friday Q&A 2015-08-14: An Xcode Plugin for Unsmoothed Text		20150814
+advanced	http://ericasadun.com/2015/08/14/the-curious-case-of-the-self-in-the-night-swiftlang	The curious case of the self in the night: #swiftlang		20150814
+advanced	http://ericasadun.com/2015/08/14/because-remy	Because Remy		20150814
+advanced	http://ericasadun.com/2015/08/17/quick-test-no-peeking-swiftlang	Quick test: no peeking #swiftlang		20150817
+advanced	http://www.raywenderlich.com/99087/swift-expanding-cells-ios-collection-views	Swift Expanding Cells in iOS Collection Views		20150818
+advanced	http://peterwitham.com/swift/basics/getting-started-with-the-uidatepicker-for-ios-using-swift	Getting Started with the UIDatePicker for iOS Using Swift		20150818
+advanced	http://ericasadun.com/2015/08/18/optional-trailing-closures-swiftlang	Optional trailing closures #swiftlang		20150818
+advanced	http://sketchytech.blogspot.com/2015/08/protect-yourself-retrieving-penultimate.html	Protect yourself: Retrieving penultimate values from arrays in Swift		20150819
+advanced	http://natashatherobot.com/late-initialization-of-let-in-swift	Let It Go: Late Initialization of Let in Swift		20150809
+advanced	http://jamesonquave.com/blog/list-comprehensions-and-performance-with-swift	List Comprehensions and Performance With Swift		20150815
+advanced	http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm	Swift 2.0: Protocol-Oriented MVVM		20150817
+advanced	http://www.weheartswift.com/random-names-using-markov-chains	Random Names using Markov Chains		20150819
+advanced	http://www.russbishop.net/swift-2-beta-5	Swift 2, Beta 5		20150806
+advanced	http://oleb.net/blog/2015/08/swift-compiler-diagnostics	Swift Compiler Diagnostics		20150810
