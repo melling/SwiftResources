@@ -664,7 +664,7 @@ advanced	http://www.mikeash.com/pyblog/friday-qa-2015-02-06-locks-thread-safety-
 advanced	http://medium.com/hacking-ios/memory-management-in-swift-principles-prevention-and-cures-31116ae0834f	Memory management in Swift  -  Principles, Prevention and Cures		20150130
 advanced	http://flexmonkey.blogspot.com/2015/02/launching-parametrised-swift.html	Launching Parametrised Swift Applications from Links with Custom URL Schemes		20150209
 tutorial	http://www.codingexplorer.com/segue-uitableviewcell-taps-swift	Segue from UITableViewCell Taps in Swift		20150209
-advanced	https://medium.com/swift-programming/swift-typealias-to-the-rescue-b1027fc571e3	Swift typealias to the rescue		20150209
+advanced	http://medium.com/swift-programming/swift-typealias-to-the-rescue-b1027fc571e3	Swift typealias to the rescue		20150209
 advanced	http://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part-1	Modern Core Graphics with Swift: Part 1		20150210
 advanced	http://owensd.io/2015/02/09/swift-1.2-performance.html	Swift v1.2 Performance		20150210
 tutorial	http://nshipster.com/swift-1.2	Swift 1.2		20150209
@@ -719,7 +719,7 @@ advanced	http://www.componentix.com/blog/35/not-so-swift-implementing-transducer
 libs	http://github.com/SwiftBond/Bond	Bond is a Swift binding framework		20010101
 tutorial	http://shrikar.com/blog/2015/02/16/swift-ios-tutorial-uisearchbar-and-uisearchbardelegate	Swift iOS Tutorial: UISearchBar and UISearchBarDelegate		20150216
 beginner	http://makeapppie.com/2015/02/17/swift-swift-tutorials-introducing-table-views	Swift Swift Tutorials: Introducing Table Views		20150217
-beginner	https://www.mav3r1ck.com/struct-quiz	Creating a Study App in Swift		20150217
+beginner	http://www.mav3r1ck.com/struct-quiz	Creating a Study App in Swift		20150217
 tutorial	http://blog.human-friendly.com/swift-1-dot-2-presentation-and-notes-swift-london-17th-feb	Swift 1.2 Presentation and Notes (Swift London 17th Feb)		20150217
 tutorial	http://www.raywenderlich.com/95910/uiview-animation-swift-tutorial	UIView Animation with Swift Tutorial		20150218
 advanced	http://www.andrewcbancroft.com/2015/02/18/core-data-cheat-sheet-for-swift-ios-developers	Core Data Cheat Sheet for Swift iOS Developers	#core-data	20150218
@@ -911,7 +911,7 @@ tutorial	http://www.raywenderlich.com/92428/background-modes-ios-swift-tutorial	
 advanced	http://www.andrewcbancroft.com/2015/04/15/testability-tip-for-swift-developers-public-over-private	Testability Tip for Swift Developers – Public Over Private		20150415
 tutorial	http://ericasadun.com/2015/04/16/swift-counting-emoji-groups	Swift: Counting emoji groups		20150416
 tutorial	http://natashatherobot.com/swift-generics-box	Swift: Putting Your Generics in a Box		20150416
-advanced	https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html	Friday Q&A 2015-04-17: Let's Build Swift.Array		20150417
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html	Friday Q&A 2015-04-17: Let's Build Swift.Array		20150417
 tutorial	http://makeapppie.com/2015/04/17/swift-watchkit-tutorials-programming-buttons-switches-and-timers-for-apple-watch	Swift WatchKit Tutorials: Programming Buttons, Switches and Timers for Apple Watch		20150417
 advanced	http://ericasadun.com/2015/04/17/swift-stupid-reflection-tricks-1	Swift: Stupid Reflection Tricks #1		20150417
 advanced	http://waynewbishop.com/swift/binary-search-tree-rotations	Tree Balancing		20150418
@@ -1023,7 +1023,7 @@ advanced	http://peterwitham.com/swift/intermediate/how-to-use-the-uiwebview-in-i
 advanced	http://ericasadun.com/2015/05/25/swift-playgrounds-symbolic-links	Swift Playgrounds: Symbolic Links		20150525
 tutorial	http://www.raywenderlich.com/104575/researchkit-tutorial-with-swift	ResearchKit Tutorial with Swift: Getting Started		20150526
 advanced	http://ericasadun.com/2015/05/26/swift-the-hall-of-the-dwarven-enumeration-king	Swift: The Hall of the Dwarven Enumeration King		20150526
-tutorial	https://www.weheartswift.com/nstimer-in-swift	NSTimer in Swift		20150527
+tutorial	http://www.weheartswift.com/nstimer-in-swift	NSTimer in Swift		20150527
 tutorial	http://ericasadun.com/2015/05/27/swift-the-good-switch-of-the-east	Swift: The Good Switch of the East		20150527
 tutorial	http://youtu.be/n_vBf6yH0ys	AzamSharp:#4 Swift Functions Continued	#video	20150526
 advanced	http://www.ioscreator.com/tutorials/particle-emitter-tutorial-sprite-kit-swift	Particle Emitter Tutorial in Sprite Kit with Swift		20150528
@@ -1104,10 +1104,10 @@ advanced	http://ericasadun.com/2015/06/12/gameplaykit-i-call-this-victory	Gamepl
 advanced	http://ericasadun.com/2015/06/12/swift-diffs	Swift Diffs		20150612
 advanced	http://ericasadun.com/2015/06/12/swift-figuring-out-anygenerator	Swift: Figuring out anyGenerator		20150612
 advanced	http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future	The Ghost of Swift Bugs Future		20150613
-advanced	https://medium.com/swift-programming/lets-try-swift-version-swift-2-9a90cd738d53	Lets try! Swift(version: Swift.2)		20150613
+advanced	http://medium.com/swift-programming/lets-try-swift-version-swift-2-9a90cd738d53	Lets try! Swift(version: Swift.2)		20150613
 advanced	http://flexmonkey.blogspot.com/2015/06/new-core-image-filters-in-ios-9.html	New Core Image Filters in iOS 9		20150613
 advanced	http://robnapier.net/initial-guards	Some Initial Thoughts on Guards		20150613
-advanced	https://medium.com/swift-programming/keep-your-swift-exceptions-clean-easy-to-update-and-future-proof-20b997d0b46c	Keep your Swift Exceptions clean, easy to update and future proof		20150614
+advanced	http://medium.com/swift-programming/keep-your-swift-exceptions-clean-easy-to-update-and-future-proof-20b997d0b46c	Keep your Swift Exceptions clean, easy to update and future proof		20150614
 advanced	http://natashatherobot.com/swift-2-pattern-matching-unwrapping-multiple-optionals	Swift 2 Pattern Matching: Unwrapping Multiple Optionals		20150614
 advanced	http://sketchytech.blogspot.com/2015/06/functional-formatting-in-swift.html	Functional Formatting in Swift: NSAttributedStrings and NSParagraphStyle		20150614
 advanced	http://ericasadun.com/2015/06/14/swift-header-documentation-in-xcode-7	Swift header documentation in Xcode 7		20150614
@@ -1445,7 +1445,7 @@ advanced	http://ericasadun.com/2015/08/24/how-to-print-the-beta-6-edition-swiftl
 advanced	http://peterwitham.com/swift/intermediate/how-to-display-the-ios-share-sheet-using-swift	How to Display the iOS Share Sheet using Swift		20150825
 advanced	http://www.raywenderlich.com/110982/swift-interview-questions-answers	Swift Interview Questions and Answers		20150825
 advanced	http://ericasadun.com/2015/08/25/naming-errors-swiftlang	Naming Errors #swiftlang		20150825
-advanced	https://www.andrewcbancroft.com/2015/08/25/sharing-a-core-data-model-with-a-swift-framework	Sharing a Core Data Model with a Swift Framework		20150826
+advanced	http://www.andrewcbancroft.com/2015/08/25/sharing-a-core-data-model-with-a-swift-framework	Sharing a Core Data Model with a Swift Framework		20150826
 advanced	http://natashatherobot.com/swift-2-0-try	Swift 2.0: Let’s try?		20150826
 advanced	http://makeapppie.com/2015/08/26/swift-watchkit-selecting-with-multiple-rows-in-apple-watch	Swift WatchKit: Selecting With Multiple Rows in Apple Watch	#watchkit	20150826
 advanced	http://ericasadun.com/2015/08/26/how-to-join-and-extend-in-beta-6-swiftlang	How to Join and Extend in Beta 6 #swiftlang		20150826
@@ -1463,7 +1463,32 @@ advanced	http://ericasadun.com/2015/08/26/beta-6-lazy-swiftlang	Beta 6 Lazy #swi
 advanced	http://ericasadun.com/2015/08/26/love-or-hate-swiftlang	Love or hate? #swiftlang		20150826
 advanced	http://www.russbishop.net/swift-2-beta-6	Swift 2: Beta 6		20150826
 advanced	http://www.raywenderlich.com/105626/animated-custom-controls-swift	Animated Custom Controls in Swift		20150827
-advanced	https://www.weheartswift.com/uiview-fundamentals	UIView Fundamentals		20150827
+advanced	http://www.weheartswift.com/uiview-fundamentals	UIView Fundamentals		20150827
 advanced	http://ericasadun.com/2015/08/27/capturing-context-swiftlang	Capturing context #swiftlang		20150827
 advanced	http://flexmonkey.blogspot.com/2015/08/a-swift-nixie-tube-display-component.html	A Swift Nixie Tube Display Component		20150828
 advanced	http://www.raywenderlich.com/106856/getting-started-magicalrecord	Getting Started with MagicalRecord		20150828
+advanced	http://littlebitesofcocoa.com/69	little bites of cocoa: #69: Compression Resistance & Content Hugging		20150827
+advanced	http://littlebitesofcocoa.com/70	little bites of cocoa: #70: Custom Map View Pins		20150828
+advanced	http://littlebitesofcocoa.com/71	little bites of cocoa: #71: UIActivityViewController Basics		20150831
+advanced	http://littlebitesofcocoa.com/72	little bites of cocoa: #72: Customizing Navigation Bars		20150901
+advanced	http://littlebitesofcocoa.com/73	little bites of cocoa: #73: UIImage Tips		20150902
+advanced	http://littlebitesofcocoa.com/74	little bites of cocoa: #74: Static		20150903
+advanced	http://littlebitesofcocoa.com/75	little bites of cocoa: #75: Locksmith		20150904
+advanced	http://natashatherobot.com/non-optional-uiimage-named-swift	A Beautiful Solution to Non-Optional UIImage Named in Swift		20150830
+advanced	http://ericasadun.com/2015/08/30/beta-6-flatten-swiftlang	Beta 6: flatten #swiftlang		20150830
+advanced	http://flexmonkey.blogspot.com/2015/08/using-iphone-as-3d-mouse-with-multipeer.html	Using an iPhone as a 3D Mouse with Multipeer Connectivity in Swift		20150831
+advanced	http://www.ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial	Drawing shapes with Core Graphics Tutorial		20150831
+advanced	http://ericasadun.com/2015/08/31/naming-methods-and-functions	Naming Methods and Functions		20150831
+advanced	http://ericasadun.com/2015/08/31/tropical-storm-error-ca-swiftlang	Tropical Storm Error-ca #swiftlang		20150831
+advanced	http://oleb.net/blog/2015/08/how-to-use-updateconstraints	How to Use updateConstraints		20150831
+advanced	http://www.raywenderlich.com/105365/in-app-purchases-tutorial-getting-started	In-App Purchases Tutorial: Getting Started		20150901
+advanced	http://ericasadun.com/2015/09/01/ask-erica-how-do-i-loop-from-non-zero-n-swiftlang	Ask Erica: How do I loop from non-zero n? #swiftlang		20150901
+advanced	http://ericasadun.com/2015/09/01/fetching-stdlib-declarations-in-tcsh-swiftlang	Fetching stdlib declarations in tcsh #swiftlang		20150901
+advanced	http://ericasadun.com/2015/09/01/this-is-cute-swiftlang	This is cute #swiftlang		20150901
+advanced	http://ericasadun.com/2015/09/01/beta-6-slice-indices-zero-and-what-beta-6-doesnt-change-swiftlang	Beta 6: Slice indices, zero, and what Beta 6 doesn’t change #swiftlang		20150901
+advanced	http://ericasadun.com/2015/09/02/good-errors-swiftlang	Good Errors #swiftlang		20150902
+advanced	http://medium.com/swift-programming/how-to-prevent-using-weak-self-inside-swift-closure-2c113b8b2651	How to prevent using weak self inside swift closure		20150903
+advanced	http://www.raywenderlich.com/108766/uiappearance-tutorial	UIAppearance Tutorial: Getting Started		20150903
+advanced	http://ericasadun.com/2015/09/03/alternatives-to-try-swiftlang	Alternatives to try? #swiftlang		20150903
+advanced	http://medium.com/swift-programming/parse-native-uicollectionview-uploading-images-part-2-of-2-ed870ab0a47b	Parse + Native UICollectionView + Uploading images — Part 2 of 2		20150904
+advanced	http://www.andrewcbancroft.com/2015/09/04/testability-tip-for-swift-developers-parameterize-and-push	Testability Tip for Swift Developers – Parameterize and Push		20150904
