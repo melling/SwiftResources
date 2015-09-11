@@ -1134,7 +1134,7 @@ advanced	http://ericasadun.com/2015/06/17/swift-just-one-live-view	Swift: Just o
 advanced	http://www.andrewcbancroft.com/2015/06/17/creating-calendars-with-event-kit-and-swift	Creating Calendars with Event Kit and Swift		20150617
 advanced	http://medium.com/the-traveled-ios-developers-guide/protocol-oriented-programming-9e1641946b5c	Protocol Oriented Programming		20150614
 advanced	http://youtu.be/EH05-nuBGpg	azamSharp: ‪Learning iOS Development Part 82 (Introduction to MapKit iOS 8 Using Swift)		20150616
-advanced	http://littlebitesofcocoa.tumblr.com/post/121764451696/18-sfsafariviewcontroller	#18: SFSafariViewController		20150617
+advanced	http://littlebitesofcocoa.com/18	#18: SFSafariViewController		20150617
 advanced	http://peterwitham.com/swift/new-in-swift-2-beta-1	What’s New in Swift 2 (Beta 1)		20150618
 advanced	http://robnapier.net/re-throws	Re...throws?		20150618
 advanced	http://www.extelligentcocoa.org/indexof-and-defer-swift-2-0	‘indexOf’ and ‘defer’ [Swift 2.0]		20150618
@@ -1191,38 +1191,38 @@ advanced	http://youtu.be/jpZD2GPwf_w	AzamSharp: ‪Learning iOS Development Part
 advanced	http://youtu.be/LpGirJejgrU	AzamSharp: ‪Learning iOS Development Part 85 (Creating Custom Annotation Views for MKMapView)		20150626
 libs	http://github.com/glock45/swifter	Swifter: Tiny http server engine 		20010101
 advanced	http://fancypixel.github.io/blog/2015/06/19/playing-with-uidynamics-in-ios-9	Playing With UIDynamics in iOS 9		20150619
-advanced	http://littlebitesofcocoa.tumblr.com/post/119859844856/6-debugging-tips-exception-breakpoint-this	little bites of cocoa: #6: Debugging Tips		20150525
-advanced	http://littlebitesofcocoa.tumblr.com/post/119947022004/7-clvisit-starting-in-ios-8-you-can-retrieve	little bites of cocoa: #7: CLVisit		20150526
-advanced	http://littlebitesofcocoa.tumblr.com/post/120030657972/8-mixing-spritekit-into-uikit-spritekit-is	little bites of cocoa: #8: Mixing SpriteKit into UIKit		20150527
-advanced	http://littlebitesofcocoa.tumblr.com/post/120113773785/9-animating-constraints-animating-between-two	little bites of cocoa: #9: Animating Constraints		20150528
-advanced	http://littlebitesofcocoa.tumblr.com/post/120195694398/10-creating-an-action-extension	little bites of cocoa: #10: Creating an Action Extension		20150529
-advanced	http://littlebitesofcocoa.tumblr.com/post/120450570974/11-adding-external-libraries-with-carthage	little bites of cocoa: #11: Adding External Libraries with Carthage		20150601
-advanced	http://littlebitesofcocoa.tumblr.com/post/120536418797/12-build-a-context-aware-text-editor-with	little bites of cocoa: #12: Build a Context-Aware Text Editor With NSLinguisticTagger		20150602
-advanced	http://littlebitesofcocoa.tumblr.com/post/120620198336/13-writing-cleaner-asynchronous-code-with	little bites of cocoa: #13: Writing Cleaner Asynchronous Code with PromiseKit		20150603
-advanced	http://littlebitesofcocoa.tumblr.com/post/120703325410/14-create-beautiful-empty-data-sets-with	little bites of cocoa: #14: Create Beautiful Empty Data Sets with DZNEmptyDataSet		20150604
-advanced	http://littlebitesofcocoa.tumblr.com/post/120784546454/15-programmatically-add-custom-fonts-with	little bites of cocoa: #15: Programmatically Add Custom Fonts with FontBlaster		20150605
-advanced	http://littlebitesofcocoa.tumblr.com/post/121598537380/16-uistackview	little bites of cocoa: #16: UIStackView		20150615
-advanced	http://littlebitesofcocoa.tumblr.com/post/121682032867/17-uikeycommand	little bites of cocoa: #17: UIKeyCommand		20150616
-advanced	http://littlebitesofcocoa.tumblr.com/post/121846499218/19-protocol-extensions	little bites of cocoa: #19: Protocol Extensions		20150618
-advanced	http://littlebitesofcocoa.tumblr.com/post/121929229352/20-replaykit	little bites of cocoa: #20: ReplayKit		20150619
-advanced	http://littlebitesofcocoa.tumblr.com/post/122175840154/21-clktextprovider	little bites of cocoa: #21: CLKTextProvider	#watchkit	20150622
-advanced	http://littlebitesofcocoa.tumblr.com/post/122261552354/22-pattern-matching-in-swift	little bites of cocoa: #22: Pattern Matching in Swift		20150623
-advanced	http://littlebitesofcocoa.tumblr.com/post/122345870995/23-corespotlight	little bites of cocoa: #23: CoreSpotlight		20150624
-advanced	http://littlebitesofcocoa.tumblr.com/post/122429720064/24-contacts-contacts-ui	little bites of cocoa: #24: Contacts & Contacts UI		20150625
-advanced	http://littlebitesofcocoa.tumblr.com/post/122513803088/25-picture-in-picture	little bites of cocoa: #25: Picture in Picture		20150626
-advanced	http://littlebitesofcocoa.tumblr.com/post/119286766047/1-uiviewcontroller-initialization-in-swift-so	little bites of cocoa: #1: UIViewController Initialization in Swift		20150518
-advanced	http://littlebitesofcocoa.tumblr.com/post/119369619049/2-chainable-methods-making-functions-chainable	little bites of cocoa: #2: Chainable Methods		20150519
-advanced	http://littlebitesofcocoa.tumblr.com/post/119451421145/3-timepiece-timepiece-is-a-library-from-naoto	little bites of cocoa: #3: Timepiece		20150520
-advanced	http://littlebitesofcocoa.tumblr.com/post/119531773146/4-singletons-singletons-are-a-design-pattern	little bites of cocoa: #4: Singletons		20150521
-advanced	http://littlebitesofcocoa.tumblr.com/post/119610704393/5-watch-screenshot-magic-watch-screenshot	little bites of cocoa: #5: Watch Screenshot Magic	#watchkit	20150522
+advanced	http://littlebitesofcocoa.com/6	little bites of cocoa: #6: Debugging Tips		20150525
+advanced	http://littlebitesofcocoa.com/7	little bites of cocoa: #7: CLVisit		20150526
+advanced	http://littlebitesofcocoa.com/8	little bites of cocoa: #8: Mixing SpriteKit into UIKit		20150527
+advanced	http://littlebitesofcocoa.com/9	little bites of cocoa: #9: Animating Constraints		20150528
+advanced	http://littlebitesofcocoa.com/10	little bites of cocoa: #10: Creating an Action Extension		20150529
+advanced	http://littlebitesofcocoa.com/11	little bites of cocoa: #11: Adding External Libraries with Carthage		20150601
+advanced	http://littlebitesofcocoa.com/12	little bites of cocoa: #12: Build a Context-Aware Text Editor With NSLinguisticTagger		20150602
+advanced	http://littlebitesofcocoa.com/13	little bites of cocoa: #13: Writing Cleaner Asynchronous Code with PromiseKit		20150603
+advanced	http://littlebitesofcocoa.com/14	little bites of cocoa: #14: Create Beautiful Empty Data Sets with DZNEmptyDataSet		20150604
+advanced	http://littlebitesofcocoa.com/15	little bites of cocoa: #15: Programmatically Add Custom Fonts with FontBlaster		20150605
+advanced	http://littlebitesofcocoa.com/16	little bites of cocoa: #16: UIStackView		20150615
+advanced	http://littlebitesofcocoa.com/17	little bites of cocoa: #17: UIKeyCommand		20150616
+advanced	http://littlebitesofcocoa.com/19	little bites of cocoa: #19: Protocol Extensions		20150618
+advanced	http://littlebitesofcocoa.com/20	little bites of cocoa: #20: ReplayKit		20150619
+advanced	http://littlebitesofcocoa.com/21	little bites of cocoa: #21: CLKTextProvider	#watchkit	20150622
+advanced	http://littlebitesofcocoa.com/22	little bites of cocoa: #22: Pattern Matching in Swift		20150623
+advanced	http://littlebitesofcocoa.com/23	little bites of cocoa: #23: CoreSpotlight		20150624
+advanced	http://littlebitesofcocoa.com/24	little bites of cocoa: #24: Contacts & Contacts UI		20150625
+advanced	http://littlebitesofcocoa.com/25	little bites of cocoa: #25: Picture in Picture		20150626
+advanced	http://littlebitesofcocoa.com/1	little bites of cocoa: #1: UIViewController Initialization in Swift		20150518
+advanced	http://littlebitesofcocoa.com/2	little bites of cocoa: #2: Chainable Methods		20150519
+advanced	http://littlebitesofcocoa.com/3	little bites of cocoa: #3: Timepiece		20150520
+advanced	http://littlebitesofcocoa.com/4	little bites of cocoa: #4: Singletons		20150521
+advanced	http://littlebitesofcocoa.com/5	little bites of cocoa: #5: Watch Screenshot Magic	#watchkit	20150522
 advanced	http://flexmonkey.blogspot.com/2015/06/a-first-look-at-metal-performance.html	A First Look at Metal Performance Shaders in iOS 9	#metal	20150628
 advanced	http://realm.io/news/sam-soffes-building-functional-apps	Building Functional Apps		20150627
 libs	http://github.com/Imperiopolis/Swiftly	Swiftly generate autolayout constraints.		20010101
-advanced	http://littlebitesofcocoa.tumblr.com/post/122773010214/26-cloudkit-basics	little bites of cocoa: #26: CloudKit Basics		20150629
-advanced	http://littlebitesofcocoa.tumblr.com/post/122863115390/27-cloudkit-subscriptions	little bites of cocoa: #27: CloudKit Subscriptions		20150630
-advanced	http://littlebitesofcocoa.tumblr.com/post/122952445533/28-discovering-users-in-cloudkit	little bites of cocoa: #28: Discovering Users in CloudKit		20150701
-advanced	http://littlebitesofcocoa.tumblr.com/post/123040917925/29-handoff	little bites of cocoa: #29: Handoff		20150702
-advanced	http://littlebitesofcocoa.tumblr.com/post/123126808162/30-ui-testing	little bites of cocoa: #30: UI Testing		20150703
+advanced	http://littlebitesofcocoa.com/26	little bites of cocoa: #26: CloudKit Basics		20150629
+advanced	http://littlebitesofcocoa.com/27	little bites of cocoa: #27: CloudKit Subscriptions		20150630
+advanced	http://littlebitesofcocoa.com/28	little bites of cocoa: #28: Discovering Users in CloudKit		20150701
+advanced	http://littlebitesofcocoa.com/29	little bites of cocoa: #29: Handoff		20150702
+advanced	http://littlebitesofcocoa.com/30	little bites of cocoa: #30: UI Testing		20150703
 advanced	http://sketchytech.blogspot.com/2015/06/empowering-extensions-in-swift-2.html	Empowering Extensions in Swift 2: Protocols, Types and Subclasses		20150628
 advanced	http://flexmonkey.blogspot.com/2015/06/using-metalperformanceshaders-on-images.html	Using MetalPerformanceShaders on Images with MTKTextureLoader		20150628
 advanced	http://ericasadun.com/2015/06/28/xcode-shenanigans-indentage-servitude	Xcode shenanigans: Indentage Servitude		20150628
@@ -1272,20 +1272,20 @@ advanced	http://ericasadun.com/2015/07/08/swift-multiple-enum-errors	Swift: Mult
 advanced	http://www.ioscreator.com/tutorials/take-video-tutorial-ios8-swift	Take Video Tutorial in iOS8 with Swift		20150709
 advanced	http://flexmonkey.blogspot.com/2015/07/generating-filtering-metal-textures.html	Generating & Filtering Metal Textures From Live Video		20150709
 advanced	http://www.raywenderlich.com/99431/oauth-2-with-swift-tutorial	OAuth 2.0 with Swift Tutorial		20150709
-advanced	http://littlebitesofcocoa.tumblr.com/post/123380249391/31-cloudkit-operations	little bites of cocoa: #31: CloudKit Operations		20150706
-advanced	http://littlebitesofcocoa.tumblr.com/post/123470467088/32-coreimage-basics	little bites of cocoa: #32: CoreImage Basics		20150707
-advanced	http://littlebitesofcocoa.tumblr.com/post/123559935210/33-photos-framework-basics	little bites of cocoa: #33: Photos Framework Basics		20150708
+advanced	http://littlebitesofcocoa.com/31	little bites of cocoa: #31: CloudKit Operations		20150706
+advanced	http://littlebitesofcocoa.com/32	little bites of cocoa: #32: CoreImage Basics		20150707
+advanced	http://littlebitesofcocoa.com/33	little bites of cocoa: #33: Photos Framework Basics		20150708
 advanced	http://flexmonkey.blogspot.com/2015/07/a-first-look-at-model-ios-sky-cube.html	A First Look at Model I/O's Sky Cube Texture		20150712
 advanced	http://www.andrewcbancroft.com/2015/07/09/circular-progress-indicator-in-swift	Circular Progress Indicator in Swift		20150709
 advanced	http://flexmonkey.blogspot.com/2015/07/controlling-metal-reaction-diffusion.html	Controlling Metal Reaction Diffusion Systems with the iPad Camera		20150711
 libs	http://github.com/kaandedeoglu/KDCircularProgress	A circular progress view with gradients		20150101
-advanced	http://littlebitesofcocoa.tumblr.com/post/123648982350/34-swift-generics	little bites of cocoa: #34: Swift Generics		20150709
-advanced	http://littlebitesofcocoa.tumblr.com/post/123735170523/35-async	little bites of cocoa: #35: Async		20150710
-advanced	http://littlebitesofcocoa.tumblr.com/post/123989422157/36-today-view-widgets	little bites of cocoa: #36: Today View Widgets		20150713
-advanced	http://littlebitesofcocoa.tumblr.com/post/124077800427/37-touch-id	little bites of cocoa: #37: Touch ID		20150714
-advanced	http://littlebitesofcocoa.tumblr.com/post/124164444508/38-gesture-recognizer-basics	little bites of cocoa: #38: Gesture Recognizer Basics		20150715
-advanced	http://littlebitesofcocoa.tumblr.com/post/124250862327/39-cgpath-basics	little bites of cocoa: #39: CGPath Basics		20150716
-advanced	http://littlebitesofcocoa.tumblr.com/post/124335542996/40-toucan	little bites of cocoa: #40: Toucan		20150717
+advanced	http://littlebitesofcocoa.com/34	little bites of cocoa: #34: Swift Generics		20150709
+advanced	http://littlebitesofcocoa.com/35	little bites of cocoa: #35: Async		20150710
+advanced	http://littlebitesofcocoa.com/36	little bites of cocoa: #36: Today View Widgets		20150713
+advanced	http://littlebitesofcocoa.com/37	little bites of cocoa: #37: Touch ID		20150714
+advanced	http://littlebitesofcocoa.com/38	little bites of cocoa: #38: Gesture Recognizer Basics		20150715
+advanced	http://littlebitesofcocoa.com/39	little bites of cocoa: #39: CGPath Basics		20150716
+advanced	http://littlebitesofcocoa.com/40	little bites of cocoa: #40: Toucan		20150717
 advanced	http://www.figure.ink/blog/2015/7/12/custom-menu-items-for-table-view-cells	Custom Menu Items for Table View Cells		20150712
 advanced	http://ericasadun.com/2015/07/12/swift-enumerations-or-how-to-annoy-tom	Swift: Enumerations or how to annoy Tom		20150712
 advanced	http://www.ioscreator.com/tutorials/tab-bar-controller-tutorial-ios8-swift	Tab Bar Controller Tutorial in iOS8 with Swift		20150713
@@ -1363,20 +1363,20 @@ advanced	http://natashatherobot.com/ios-testing-view-controllers-swift	iOS: The 
 advanced	http://airspeedvelocity.net/2015/08/03/arrays-linked-lists-and-performance	Arrays, Linked Lists and Performance		20150803
 advanced	http://makeapppie.com/2015/08/03/swift-watchkit-how-to-add-simple-dynamic-tables-to-apple-watch	Swift Watchkit: How to Add Simple Dynamic Tables to Apple Watch	#watchkit	20150803
 advanced	http://robnapier.net/erasure	A Little Respect for AnySequence		20150804
-advanced	http://littlebitesofcocoa.tumblr.com/post/124584096842/41-cmpedometer	little bites of cocoa: #41: CMPedometer		20150720
-advanced	http://littlebitesofcocoa.tumblr.com/post/124671987592/42-healthkit-basics	little bites of cocoa: #42: HealthKit Basics		20150721
-advanced	http://littlebitesofcocoa.tumblr.com/post/124758703028/43-local-notifications	little bites of cocoa: #43: Local Notifications		20150722
-advanced	http://littlebitesofcocoa.tumblr.com/post/124845192863/44-uialertcontroller	little bites of cocoa: #44: UIAlertController		20150723
-advanced	http://littlebitesofcocoa.tumblr.com/post/124929669030/45-pasteboards	little bites of cocoa: #45: Pasteboards		20150724
-advanced	http://littlebitesofcocoa.tumblr.com/post/125179925145/46-nsfilemanager	little bites of cocoa: #46: NSFileManager		20150727
-advanced	http://littlebitesofcocoa.tumblr.com/post/125267278988/47-mklocalsearch	little bites of cocoa: #47: MKLocalSearch		20150728
-advanced	http://littlebitesofcocoa.tumblr.com/post/125353771281/48-mkdirections	little bites of cocoa: #48: MKDirections		20150729
-advanced	http://littlebitesofcocoa.tumblr.com/post/125439383403/49-realm-basics	little bites of cocoa: #49: Realm Basics		20150730
-advanced	http://littlebitesofcocoa.tumblr.com/post/125524607781/50-expanding-uitableviewcells	little bites of cocoa: #50: Expanding UITableViewCells		20150731
-advanced	http://littlebitesofcocoa.tumblr.com/post/125767895055/51-pinremoteimage	little bites of cocoa: #51: PINRemoteImage		20150803
-advanced	http://littlebitesofcocoa.tumblr.com/post/125853306755/52-rswift	little bites of cocoa: #52: R.swift		20150804
-advanced	http://littlebitesofcocoa.tumblr.com/post/125937783433/53-signatures-with-jot	little bites of cocoa: #53: Signatures with Jot		20150805
-advanced	http://littlebitesofcocoa.tumblr.com/post/126021402767/54-dynamic-type-basics	little bites of cocoa: #54: Dynamic Type Basics		20150806
+advanced	http://littlebitesofcocoa.com/41	little bites of cocoa: #41: CMPedometer		20150720
+advanced	http://littlebitesofcocoa.com/42	little bites of cocoa: #42: HealthKit Basics		20150721
+advanced	http://littlebitesofcocoa.com/43	little bites of cocoa: #43: Local Notifications		20150722
+advanced	http://littlebitesofcocoa.com/44	little bites of cocoa: #44: UIAlertController		20150723
+advanced	http://littlebitesofcocoa.com/45	little bites of cocoa: #45: Pasteboards		20150724
+advanced	http://littlebitesofcocoa.com/46	little bites of cocoa: #46: NSFileManager		20150727
+advanced	http://littlebitesofcocoa.com/47	little bites of cocoa: #47: MKLocalSearch		20150728
+advanced	http://littlebitesofcocoa.com/48	little bites of cocoa: #48: MKDirections		20150729
+advanced	http://littlebitesofcocoa.com/49	little bites of cocoa: #49: Realm Basics		20150730
+advanced	http://littlebitesofcocoa.com/50	little bites of cocoa: #50: Expanding UITableViewCells		20150731
+advanced	http://littlebitesofcocoa.com/51	little bites of cocoa: #51: PINRemoteImage		20150803
+advanced	http://littlebitesofcocoa.com/52	little bites of cocoa: #52: R.swift		20150804
+advanced	http://littlebitesofcocoa.com/53	little bites of cocoa: #53: Signatures with Jot		20150805
+advanced	http://littlebitesofcocoa.com/54	little bites of cocoa: #54: Dynamic Type Basics		20150806
 advanced	http://inessential.com/2015/08/01/swift_diary_6_window_controller_initia	Swift Diary #6: Window Controller Initialization		20150801
 advanced	http://inessential.com/2015/08/02/swift_diary_7_protocols_arrays_and_c	Swift Diary #7: Protocols, Arrays, and Casting		20150802
 advanced	http://inessential.com/2015/08/04/swift_diary_8_forwardinvocation	Swift Diary #8: forwardInvocation		20150804
@@ -1385,14 +1385,14 @@ advanced	http://inessential.com/2015/08/05/swift_diary_9_where_im_stuck	Swift Di
 advanced	http://www.thinkandbuild.it/introduction-to-uistackview	INTRODUCTION TO UISTACKVIEW		20150805
 advanced	http://flexmonkey.blogspot.com/2015/08/metal-performance-shaders-fallback-copy.html	Metal Performance Shaders & Fallback Copy Allocators		20150805
 advanced	http://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers	UIGestureRecognizer Tutorial: Creating Custom Recognizers		20150806
-advanced	http://littlebitesofcocoa.tumblr.com/post/126104050655/55-switching-view-controllers-with	little bites of cocoa: #55: Switching View Controllers With UISegmentedControl		20150807
-advanced	http://littlebitesofcocoa.tumblr.com/post/126348559057/56-responsedetective	little bites of cocoa: #56: ResponseDetective		20150810
-advanced	http://littlebitesofcocoa.tumblr.com/post/126434008441/57-game-center-leaderboard-basics	little bites of cocoa: #57: Game Center Leaderboard Basics		20150811
-advanced	http://littlebitesofcocoa.tumblr.com/post/126516622443/58-photo-editing-extensions	little bites of cocoa: #58: Photo Editing Extensions		20150812
-advanced	http://littlebitesofcocoa.tumblr.com/post/126597754127/59-bryxbanner	little bites of cocoa: #59: BRYXBanner		20150813
-advanced	http://littlebitesofcocoa.tumblr.com/post/126678030531/60-creating-a-cocoapod	little bites of cocoa: #60: Creating a CocoaPod		20150814
-advanced	http://littlebitesofcocoa.tumblr.com/post/126920822645/61-game-center-achievements	little bites of cocoa: #61: Game Center Achievements		20150817
-advanced	http://littlebitesofcocoa.tumblr.com/post/127003878137/62-jlroutes	little bites of cocoa: #62: JLRoutes		20150818
+advanced	http://littlebitesofcocoa.com/55	little bites of cocoa: #55: Switching View Controllers With UISegmentedControl		20150807
+advanced	http://littlebitesofcocoa.com/56	little bites of cocoa: #56: ResponseDetective		20150810
+advanced	http://littlebitesofcocoa.com/57	little bites of cocoa: #57: Game Center Leaderboard Basics		20150811
+advanced	http://littlebitesofcocoa.com/58	little bites of cocoa: #58: Photo Editing Extensions		20150812
+advanced	http://littlebitesofcocoa.com/59	little bites of cocoa: #59: BRYXBanner		20150813
+advanced	http://littlebitesofcocoa.com/60	little bites of cocoa: #60: Creating a CocoaPod		20150814
+advanced	http://littlebitesofcocoa.com/61	little bites of cocoa: #61: Game Center Achievements		20150817
+advanced	http://littlebitesofcocoa.com/62	little bites of cocoa: #62: JLRoutes		20150818
 advanced	http://inessential.com/2015/08/07/swift_diary_10_changes_to_properties	Swift Diary #10: Changes to Properties		20150807
 advanced	http://ericasadun.com/2015/08/06/hey-erica-why-doesnt-this-work-swiftlang	Hey Erica, why doesn’t this work? #swiftlang		20150806
 advanced	http://ericasadun.com/2015/08/06/jive-with-beta-five-swiftlang	Jive with Beta Five #swiftlang		20150806
@@ -1424,12 +1424,12 @@ advanced	http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm	Swift 2.0: 
 advanced	http://www.weheartswift.com/random-names-using-markov-chains	Random Names using Markov Chains		20150819
 advanced	http://www.russbishop.net/swift-2-beta-5	Swift 2, Beta 5		20150806
 advanced	http://oleb.net/blog/2015/08/swift-compiler-diagnostics	Swift Compiler Diagnostics		20150810
-advanced	http://littlebitesofcocoa.tumblr.com/post/127085812842/63-multipeer-connectivity-basics	little bites of cocoa: #63: Multipeer Connectivity Basics		20150819
-advanced	http://littlebitesofcocoa.tumblr.com/post/127166066320/64-turn-based-games	little bites of cocoa: #64: Turn Based Games		20150820
-advanced	http://littlebitesofcocoa.tumblr.com/post/127245666487/65-xcode-scheme-tips	little bites of cocoa: #65: Xcode Scheme Tips		20150821
-advanced	http://littlebitesofcocoa.tumblr.com/post/127486374692/66-nstimezone	little bites of cocoa: #66: NSTimeZone		20150824
-advanced	http://littlebitesofcocoa.tumblr.com/post/127566095578/67-cloudkit-assets	little bites of cocoa: #67: CloudKit Assets		20150825
-advanced	http://littlebitesofcocoa.tumblr.com/post/127644443110/68-time-profiler-basics	little bites of cocoa: #68: Time Profiler Basics		20150826
+advanced	http://littlebitesofcocoa.com/63	little bites of cocoa: #63: Multipeer Connectivity Basics		20150819
+advanced	http://littlebitesofcocoa.com/64	little bites of cocoa: #64: Turn Based Games		20150820
+advanced	http://littlebitesofcocoa.com/65	little bites of cocoa: #65: Xcode Scheme Tips		20150821
+advanced	http://littlebitesofcocoa.com/66	little bites of cocoa: #66: NSTimeZone		20150824
+advanced	http://littlebitesofcocoa.com/67	little bites of cocoa: #67: CloudKit Assets		20150825
+advanced	http://littlebitesofcocoa.com/68	little bites of cocoa: #68: Time Profiler Basics		20150826
 advanced	http://www.russbishop.net/type-self	Type & Self		20150819
 advanced	http://www.raywenderlich.com/107439/uicollectionview-custom-layout-tutorial-pinterest	UICollectionView Custom Layout Tutorial: Pinterest		20150820
 advanced	http://makeapppie.com/2015/08/20/swift-watchkit-headers-footers-and-more-multiple-row-types-in-apple-watch-tables	Swift Watchkit: Headers Footers and More — Multiple Row Types in Apple Watch Tables	#watchkit	20150820
@@ -1517,3 +1517,52 @@ advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day7-contacts-frame
 advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day8-apple-pay	iOS9 Day-by-Day :: Day 8 :: Apple Pay		20150827
 advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day9-uikit-dynamics	iOS9 Day-by-Day :: Day 9 :: UIKit Dynamics		20150904
 advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day10-mapkit-transit	iOS9 Day-by-Day :: Day 10 :: MapKit Transit		20150904
+advanced	http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-part-2	Developing tvOS Apps for Apple TV [Part 2]	#AppleTV	20150910
+advanced	http://www.raywenderlich.com/109418/travis-ci-tutorial	Travis CI Tutorial: Getting Started		20150911
+advanced	http://alisoftware.github.io/swift/2015/09/06/thinking-in-swift-1	Thinking in Swift, Part 1: Saving ponies		20150906
+advanced	http://matthewpalmer.net/blog/2015/08/30/protocol-oriented-programming-in-the-real-world	Protocol Oriented Programming in the Real World		20150830
+advanced	http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974	Fast pattern search in Swift... since 1974		20150816
+advanced	http://realm.io/news/altconf-ash-furrow-functional-reactive-swift	Functional Reactive Awesomeness With Swift		20150812
+advanced	http://www.thorntech.com/2015/08/want-your-swift-app-to-scroll-in-two-directions-like-netflix-heres-how	Want your Swift app to scroll in two directions, like Netflix? Here’s how.		20150806
+advanced	http://shrikar.com/build-your-own-uber-app-in-swift	Build your own Uber app in Swift		20150812
+advanced	http://medium.com/@NSomar/swift-currying-in-practice-85d3f1064b56	Swift currying in practice	#functional	20150804
+advanced	http://sdbr.net/post/Themes-in-Swift	Color Themes in Swift on iOS		20150802
+advanced	http://www.hackingwithswift.com/read/36/overview	Project 36: Crashy Plane		20150802
+advanced	http://www.hackingwithswift.com/read/35/overview	Project 35: Generating random numbers with GameplayKit		20150802
+advanced	http://www.hackingwithswift.com/read/34/overview	Project 34: Four in a Row: GameplayKit and GKMinmaxStrategist		20150802
+advanced	http://www.hackingwithswift.com/read/33/overview	Project 33: What's that Whistle: CloudKit by example		20150802
+advanced	http://www.hackingwithswift.com/read/32/overview	Project 32: SwiftSearcher: Core Spotlight and SFSafariViewController		20150802
+advanced	http://www.hackingwithswift.com/read/31/overview	Project 31: Multibrowser with UIStackView		20150802
+advanced	http://www.hackingwithswift.com/read/30/overview	Project 30: Instruments		20150802
+advanced	http://www.hackingwithswift.com/read/29/overview	Project 29: Exploding Monkeys		20150802
+advanced	http://www.hackingwithswift.com/read/28/overview	Project 28: Secret Swift: Touch ID		20150802
+advanced	http://www.hackingwithswift.com/read/27/overview	Project 27: Core Graphics		20150802
+advanced	http://www.hackingwithswift.com/read/26/overview	Project 26: Marble Maze with Core Motion		20150802
+advanced	http://www.hackingwithswift.com/read/25/overview	Project 25: Selfie Share: MCBrowserViewController and MCSession		20150802
+advanced	http://www.hackingwithswift.com/read/24/overview	Project 24: Swift Extensions		20150802
+advanced	http://www.hackingwithswift.com/read/23/overview	Project 23: Space Race: Per-pixel collision for SKSpriteNode		20150802
+advanced	http://www.hackingwithswift.com/read/22/overview	Project 22: Detect-a-Beacon with CLLocationManager and CLBeaconRegion		20150802
+advanced	http://www.hackingwithswift.com/read/21/overview	Project 21: Local Notifications with UILocalNotification		20150802
+advanced	http://www.hackingwithswift.com/read/20/overview	Project 20: Fireworks Night with NSTimer and color blending		20150802
+advanced	http://www.hackingwithswift.com/read/19/overview	Project 19: Capital Cities: MKMapView and more		20150802
+advanced	http://www.hackingwithswift.com/read/18/overview	Project 18: iAd and Debugging		20150802
+advanced	http://www.hackingwithswift.com/read/17/overview	Project 17: Swifty Ninja: SKShapeNode, AVAudioPlayer		20150802
+advanced	http://www.hackingwithswift.com/read/16/overview	Project 16: JavaScript Injection with iOS Safari extensions		20150802
+advanced	http://www.hackingwithswift.com/read/15/overview	Project 15: Core Animation		20150802
+advanced	http://www.hackingwithswift.com/read/14/overview	Project 14: Whack-a-Penguin: SKCropNode and SKTexture		20150802
+advanced	http://www.hackingwithswift.com/read/13/overview	Project 13: Instafilter: Core Image and UISlider		20150802
+advanced	http://www.hackingwithswift.com/read/12/overview	Project 12: NSUserDefaults, NSCoding and more		20150802
+advanced	http://www.hackingwithswift.com/read/11/overview	Project 11: Pachinko with SpriteKit		20150802
+advanced	http://www.hackingwithswift.com/read/10/overview	Project 10: Names to Faces with UICollectionView		20150802
+advanced	http://www.hackingwithswift.com/read/9/overview	Project 9: Grand Central Dispatch		20150802
+advanced	http://www.hackingwithswift.com/read/8/overview	Project 8: 7 Swifty Words		20150802
+advanced	http://www.hackingwithswift.com/read/7/overview	Project 7: Whitehouse Petitions: JSON and NSData		20150802
+advanced	http://www.hackingwithswift.com/read/6/overview	Project 6: Auto Layout		20150802
+advanced	http://www.hackingwithswift.com/read/5/overview	Project 5: Word Scramble		20150802
+advanced	http://www.hackingwithswift.com/read/4/overview	Project 4: Easy Browser with WKWebView		20150802
+advanced	http://www.hackingwithswift.com/read/3/overview	Project 3: Social Media with UIActivityViewController		20150802
+advanced	http://www.hackingwithswift.com/read/2/overview	Project 2: Guess the Flag		20150802
+advanced	http://www.hackingwithswift.com/read/1/overview	Project 1: Storm Viewer: an introduction to Swift		20150802
+advanced	http://www.hackingwithswift.com/read/0/overview	Swift for Complete Beginners		20150802
+advanced	http://martiancraft.com/blog/2015/07/objective-c-swift-core-data	MOVING FROM OBJECTIVE-C TO SWIFT WITH CORE DATA		20150722
+advanced	http://useyourloaf.com/blog/2015/07/27/swift-whole-module-optimization.html	Swift Whole Module Optimization		20150727
