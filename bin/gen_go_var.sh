@@ -54,15 +54,15 @@ func readLines(filePath: String) -> [String] {
     if let fileManager =  NSFileManager.defaultManager() as NSFileManager! {
         let fileExists = fileManager.fileExistsAtPath(filePath)
         if fileExists {
-            var data:NSData? = fileManager.contentsAtPath(filePath)
+            let data:NSData? = fileManager.contentsAtPath(filePath)
             //            let data0 = data
             let aString = NSString(data: data!, encoding: NSUTF8StringEncoding)
-            //            println(aString)
+            //            print(aString)
             let str1:String = aString as! String
             allLines = str1.componentsSeparatedByString("\n")
             
         } else {
-            println("file not found: \(filePath)")
+            print("file not found: \(filePath)")
         }
         
         
@@ -75,7 +75,7 @@ func writeGoVar(groupNum: Int, url: String, name: String,
     source: String, tags: String, date: Int) {
         
         let lowerTitle = name.lowercaseString
-        println("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(tags)\",\(date) },")
+        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(tags)\",\(date) },")
 }
 
 func deriveSource(url: String) -> String {
@@ -112,20 +112,20 @@ for line in lines {
     if !(line.hasPrefix("#") || line.hasPrefix(" ")) {
         let aLine = line.componentsSeparatedByString("\t")
         if aLine.count > 1 {
-            //        println(" { \"\(aLine[1])  ")
+            //        print(" { \"\(aLine[1])  ")
             
             if let groupNum = groupNumbers[aLine[0]] {
                 let url = aLine[1]
                 var source = deriveSource(url)
                 // TODO: Check for trailing / and http vs https
                 if let exists = allUrls[url] {
-                    println("Error: Duplicate URL: \(url)")
+                    print("Error: Duplicate URL: \(url)")
                 } else {
                     allUrls[url]=1
                 }
                 let title = aLine[2]
                 let tags = aLine[3]
-                var date:Int? = aLine[4].toInt()
+                var date:Int? = Int(aLine[4])
                 if (date == nil) {
                     date = 20010101
                 }
@@ -134,10 +134,10 @@ for line in lines {
 
                 
             } else {
-                println("Error: Invalid Group: \(line)")
+                print("Error: Invalid Group: \(line)")
             }
         } else {
-//            println("Error: Not enough values on line: \(line)")
+//            print("Error: Not enough values on line: \(line)")
         }
     }
     i++
@@ -158,13 +158,14 @@ database.sort({ (rec1, rec2) -> Bool in
     return false
     })
 
-println("package webserver\n")
-println(" var urlList = []SwiftRec{")
+print("package webserver\n")
+print(" var urlList = []SwiftRec{")
 
 for row in database {
-    writeGoVar(row.groupNum, row.url, row.title, row.source, row.tags, row.date)
+
+    writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, tags:row.tags, date:row.date)
 }
-println("}")
+print("}")
 
 //for fileName in Process.arguments {
     //    cat(fileName)
