@@ -1709,3 +1709,17 @@ libs	http://github.com/Yalantis/Persei	Animated top menu for UITableView / UICol
 libs	http://github.com/Yalantis/Side-Menu.iOS	Animated side menu with customizable UI		20010101
 libs	http://github.com/zenangst/Versions	Helping you find inner peace when comparing version numbers in Swift		20010101
 advanced	http://fe9lix.github.io/PennyPincher	PennyPincher		20010101
+advanced	https://littlebitesofcocoa.com/81	little bites of cocoa: #81: RateLimit		20150914
+advanced	https://littlebitesofcocoa.com/82	little bites of cocoa: #82: Keyboard Notifications		20150915
+advanced	http://www.ioscreator.com/tutorials/stack-view-tutorial	Stack View Tutorial		20150914
+advanced	http://www.raywenderlich.com/109706/firebase-tutorial-getting-started	Firebase Tutorial: Getting Started		20150914
+advanced	http://www.raywenderlich.com/109330/carthage-tutorial-getting-started	Carthage Tutorial: Getting Started		20150915
+advanced	http://www.raywenderlich.com/109888/google-maps-ios-sdk-tutorial	Google Maps iOS SDK Tutorial: Getting Started		20150915
+advanced	http://nshint.io/blog/2015/09/14/logging-excessive-blocks-on-the-main-thread	Logging Excessive Blocks on the Main Thread		20150913
+advanced	http://nshint.io/blog/2015/09/02/autolayout-and-nslocalizedstring	Autolayout and NSLocalizedString		20150902
+advanced	http://nshint.io/blog/2015/08/24/dont-forget-about-uimotioneffects	Don't Forget About UIMottionEffect		20150824
+advanced	http://nshint.io/blog/2015/08/17/autolayout-breakpoints	Autolayout Breakpoints		20150816
+advanced	http://nshint.io/blog/2015/08/09/nsprogressreporting	NSProgressReporting		20150809
+advanced	http://nshint.io/blog/2015/08/04/using-sql-as-date-formatter	Using Sql as Date Formatter		20150804
+advanced	http://nshint.io/blog/2015/08/03/law-of-demeter	Law of Demeter		20150803
+advanced	http://nshint.io/blog/2015/07/23/run-script-phase-reporting	Run Script Phase Reporting		20150723
