@@ -1663,3 +1663,49 @@ advanced	http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-se
 advanced	http://useyourloaf.com/blog/xcode-code-coverage.html	Xcode Code Coverage		20150831
 advanced	http://www.invasivecode.com/weblog/attributed-text-swift	NSAttributedString in Swift		20150216
 advanced	http://swiftandpainless.com/using-guard-in-unit-tests	Using Guard In Unit Tests		20150721
+libs	http://github.com/aaronabentheuer/AAFaceDetection	Prototyping-Library providing easy access to iOS face detection features through NSNotification		20010101
+libs	http://github.com/akosma/SwiftMoment	A time and calendar manipulation library		20010101
+libs	http://github.com/antitypical/result	Swift type modelling the success/failure of arbitrary operations		20010101
+libs	http://github.com/cemolcay/BubbleControl-Swift	a bubble control highly inspired from facebook chat heads		20010101
+libs	http://github.com/cesarferreira/SwiftEventBus	A publish/subscribe EventBus optimized for iOS		20010101
+libs	http://github.com/dasdom/BreakOutToRefresh	Play BreakOut while loading - A playable pull to refresh view using SpriteKit		20010101
+libs	http://github.com/dekatotoro/PullToRefreshSwift	iOS Simple Cool PullToRefresh Library		20010101
+libs	http://github.com/dimsumthinking/TurtlePlayground	Swift playground using Logo-like commands		20010101
+libs	http://github.com/Goro-Otsubo/GPaperTrans	Yet another UICollectionView layout transitions inspired by Facebook Paper App		20010101
+libs	http://github.com/icanzilb/SwiftSpinner	A beautiful activity indicator and modal alert. Using blur effects, translucency, flat and bold design		20010101
+libs	http://github.com/indragiek/swiftrsrc	Resource code generation tool		20010101
+libs	http://github.com/inFullMobile/WobbleView	an implementation of a recently popular wobble effect for any view in your app		20010101
+libs	http://github.com/isair/JSONHelper	Lightning fast JSON deserialization and value conversion library for iOS & OS X		20010101
+libs	http://github.com/jessesquires/JSQCoreDataKit	A swifter Core Data stack		20010101
+libs	http://github.com/jessesquires/JSQDataSourcesKit	Type-safe, value-oriented data source objects that keep your view controllers light		20010101
+libs	http://github.com/kevin0571/STPopup	STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad		20010101
+libs	http://github.com/kimar/pulsinglayer	Adds a customizable CALayer halo effect to any arbitrary UIView		20010101
+libs	http://github.com/kishikawakatsumi/KeychainAccess	wrapper for Keychain that works on iOS and OS X		20010101
+libs	http://github.com/krzyzanowskim/Natalie	Storyboard Code Generator		20010101
+libs	http://github.com/KyleGoddard/KGFloatingDrawer	A floating navigation drawer with an interesting animated presentation		20010101
+libs	http://github.com/LiorNn/DragDropCollectionView	A UICollectionView which allows for easy drag and drop to reorder cells. Mimicks the drag and drop on the iOS Springboard when reordering apps (wiggle animation included!).		20010101
+libs	http://github.com/MHaroonBaig/MotionKit	Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple		20010101
+libs	http://github.com/michaelbabiy/RMParallax	The way to impress users on the first app launch		20010101
+libs	http://github.com/Mozharovsky/CVCalendar	A custom visual calendar		20010101
+libs	http://github.com/muhammadbassio/MABCardsView	A Swift port for https://github.com/zhxnlai/ZLSwipeableView		20010101
+libs	http://github.com/nori0620/SwiftFilePath	Simple and powerful wrapper for NSFileManager		20010101
+libs	http://github.com/onevcat/Kingfisher	A lightweight and pure Swift implemented library for downloading and caching image from the web.		20010101
+libs	http://github.com/onevcat/RandomColorSwift	An attractive color generator. Ported from randomColor.js		20010101
+libs	http://github.com/pixyzehn/MediumMenu	A menu based on Medium iOS app		20010101
+libs	http://github.com/ra1028/PathDynamicModal	A modal view using UIDynamicAnimator, like the Path for iOS.		20010101
+libs	http://github.com/regexident/Pulsar	A versatile solution for displaying pulse animations as known from Apple Maps.		20010101
+libs	http://github.com/remirobert/Kinder	The basics of a Tinder-like swipeable cards interface controller		20010101
+libs	http://github.com/remirobert/Tempo	Date and time manager for iOS/OSX		20010101
+libs	http://github.com/rhcad/ShapeAnimation-Swift	Vector animation framework in Swift for iOS and OSX.		20010101
+libs	http://github.com/richzertuche/ZMaterialDesignUIButton	Material Design UIButton		20010101
+libs	http://github.com/saniul/Mendel	Swift miliframework for implementing evolutionary/genetic algorithms		20010101
+libs	http://github.com/souzainf3/RNLoadingButton-Swift	An easy-to-use UIButton subclass with an activity indicator		20010101
+libs	http://github.com/thoughtbot/Argo	Functional JSON parsing library		20010101
+libs	http://github.com/ulidev/JMEasyTouchID	TouchID used easy on one line in your ViewController		20010101
+libs	http://github.com/varshylmobile/VMFloatLabel	UITextField subclass with floating labels		20010101
+libs	http://github.com/Yalantis/CloudKit-Demo.Swift	CloudKit-Demo.Swift		20010101
+libs	http://github.com/Yalantis/GuillotineMenu	Our Guillotine Menu Transitioning Animation reminds a bit of a notorious killing machine		20010101
+libs	http://github.com/Yalantis/Persei	Animated top menu for UITableView / UICollectionView / UIScrollView		20010101
+libs	http://github.com/Yalantis/Side-Menu.iOS	Animated side menu with customizable UI		20010101
+libs	http://github.com/zenangst/Versions	Helping you find inner peace when comparing version numbers in Swift		20010101
+advanced	http://fe9lix.github.io/PennyPincher	PennyPincher		20010101
