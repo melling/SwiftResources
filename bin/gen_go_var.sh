@@ -143,7 +143,7 @@ for line in lines {
     i++
 }
 
-database.sort({ (rec1, rec2) -> Bool in
+database.sortInPlace({ (rec1, rec2) -> Bool in
     if rec1.groupNum < rec2.groupNum {
         return true
     } else if rec1.groupNum == rec2.groupNum {
