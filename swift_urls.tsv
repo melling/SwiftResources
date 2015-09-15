@@ -1577,3 +1577,90 @@ advanced	http://flexmonkey.blogspot.com/2015/09/a-swift-node-based-user-interfac
 advanced	http://swifttutorialhq.com/ternary-conditional-operators	Ternary Conditional Operators		20150913
 advanced	http://ericasadun.com/2015/09/13/swiftlang-challenge-alphabet-arrays	SwiftLang challenge: Alphabet arrays		20150913
 libs	http://github.com/DaveWoodCom/XCGLogger	XCGLogger - A debug log framework		20010101
+libs	http://gist.github.com/chriseidhof/48243eb549481bc38d58			20010101
+libs	http://gist.github.com/mikeash/0ac60ce46f40e9c825a3			20010101
+libs	http://github.com/Alamofire/AlamofireImage			20010101
+libs	http://github.com/alskipp/Swift-Diagram-Playgrounds			20010101
+libs	http://github.com/andreamazz/BubbleTransition			20010101
+libs	http://github.com/Anviking/Decodable			20010101
+libs	http://github.com/benzguo/MusicKit			20010101
+libs	http://github.com/CezaryKopacz/CKWaveCollectionViewTransition			20010101
+libs	http://github.com/chriseidhof/LiterateSwiftGUI			20010101
+libs	http://github.com/coolioxlr/watchOS-2-heartrate			20010101
+libs	http://github.com/corin8823/Popover			20010101
+libs	http://github.com/czechboy0/XcodeServerSDK			20010101
+libs	http://github.com/dasdom/Tomate			20010101
+libs	http://github.com/devxoul/Date.swift			20010101
+libs	http://github.com/didierbrun/DBPathRecognizer			20010101
+libs	http://github.com/dphans/DPImageCache			20010101
+libs	http://github.com/entotsu/TKAnimatedCheckButton			20010101
+libs	http://github.com/facebookexperimental/spacetime			20010101
+libs	http://github.com/fe9lix/PennyPincher			20010101
+libs	http://github.com/FutureKit/FutureKit			20010101
+libs	http://github.com/gavinbunney/Toucan			20010101
+libs	http://github.com/gmertk/BusyNavigationBar			20010101
+libs	http://github.com/gmertk/ParkedTextField			20010101
+libs	http://github.com/gontovnik/DGRunkeeperSwitch			20010101
+libs	http://github.com/honghaoz/Ji			20010101
+libs	http://github.com/hyperoslo/Presentation			20010101
+libs	http://github.com/i-schuetz/SwiftCharts			20010101
+libs	http://github.com/icanzilb/PowerUpYourAnimations/blob/master/PowerUpYourAnimations/TableCellAnimator.swift			20010101
+libs	http://github.com/IFTTT/RazzleDazzle			20010101
+libs	http://github.com/jathu/UIImageColors			20010101
+libs	http://github.com/jstart/UIStackView-Playground			20010101
+libs	http://github.com/kaandedeoglu/Shark			20010101
+libs	http://github.com/karticodes/MaterialView			20010101
+libs	http://github.com/kostiakoval/Mirror			20010101
+libs	http://github.com/matthewcheok/JSONCodable			20010101
+libs	http://github.com/matthewpalmer/Playdown			20010101
+libs	http://github.com/nakajijapan/PhotoSlider			20010101
+libs	http://github.com/naoty/Timepiece			20010101
+libs	http://github.com/neonichu/cato			20010101
+libs	http://github.com/netguru/ResponseDetective			20010101
+libs	http://github.com/NilStack/NKWatchActivityIndicator			20010101
+libs	http://github.com/ninjaprox/NVActivityIndicatorView			20010101
+libs	http://github.com/nixzhu/Proposer			20010101
+libs	http://github.com/okmr-d/DOFavoriteButton			20010101
+libs	http://github.com/onevcat/APNGKit			20010101
+libs	http://github.com/optonaut/ActiveLabel.swift			20010101
+libs	http://github.com/Palleas/NaughtyKeyboard			20010101
+libs	http://github.com/PhamBaTho/BTNavigationDropdownMenu			20010101
+libs	http://github.com/poolqf/FillableLoaders			20010101
+libs	http://github.com/Produkt/RubberBandEffect			20010101
+libs	http://github.com/raulriera/TextFieldEffects			20010101
+libs	http://github.com/shu223/watchOS-2-Sampler			20010101
+libs	http://github.com/skywinder/GaugeKit			20010101
+libs	http://github.com/tasanobu/Kamagari			20010101
+libs	http://github.com/teodorpatras/EasyTipView			20010101
+libs	http://github.com/tispr/tispr-card-stack			20010101
+libs	http://github.com/Vaberer/Font-Awesome-Swift			20010101
+libs	http://github.com/venmo/DVR			20010101
+libs	http://github.com/venmo/Static			20010101
+libs	http://github.com/wongzigii/Butterfly			20010101
+libs	http://github.com/xxxAIRINxxx/MusicPlayerTransition			20010101
+libs	http://github.com/Yalantis/Koloda			20010101
+libs	http://github.com/yannickl/DynamicColor			20010101
+libs	http://github.com/ykyouhei/KYDigitalFontView			20010101
+libs	http://github.com/zemirco/swift-linechart			20010101
+libs	http://github.com/zhxnlai/ZLSwipeableViewSwift			20010101
+libs	http://github.com/zwaldowski/ParksAndRecreation			20010101
+advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-1--cms-24483	An Introduction to GameplayKit: Part 1		20150824
+advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-2--cms-24528	An Introduction to GameplayKit: Part 2		20150831
+advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-3--cms-24611	An Introduction to GameplayKit: Part 3		20150907
+advanced	http://code.tutsplus.com/tutorials/building-a-shopping-list-application-with-cloudkit-introduction--cms-24674	Building a Shopping List Application With CloudKit: Introduction		20150821
+advanced	http://code.tutsplus.com/tutorials/building-a-shopping-list-application-with-cloudkit-adding-records--cms-24731	Building a Shopping List Application With CloudKit: Adding Records		20150828
+advanced	http://blog.xebia.com/2015/07/21/parallax-image-scrolling-using-storyboards	Parallax Image Scrolling Using Storyboards		20150721
+advanced	http://ijoshsmith.com/2015/04/29/creating-ascii-art-in-functional-swift	Creating ASCII art in functional Swift	#functional	20150429
+advanced	http://jasdev.me/ios-interactive-notifications	A Tour of iOS Interactive Notifications		20150905
+advanced	http://krakendev.io/blog/the-right-way-to-write-a-singleton	The Right Way To Write a Singleton		20150721
+advanced	http://macoscope.com/blog/the-not-so-complicated-complications	The Not-So-Complicated Complications	#watchkit	20150623
+advanced	http://medium.com/@valentinkalchev/how-to-pause-and-resume-a-sequence-of-mutating-swift-structs-using-dispatch-semaphore-fc98eca55c0	How to pause and resume a sequence of mutating Swift structs using dispatch semaphore?		20150825
+advanced	http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering	UICollectionViews Now Have Easy Reordering		20150716
+advanced	http://radex.io/swift/nsuserdefaults/static	Statically-typed NSUserDefaults		20150831
+advanced	http://realm.io/news/tips-for-ios-9-development	Top Tips for iOS 9 Development		20150910
+advanced	http://realm.io/news/type-erased-wrappers-in-swift	Type-Erased Wrappers in Swift		20150806
+advanced	http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-security	Shipping an App With App Transport Security		20150821
+advanced	http://useyourloaf.com/blog/xcode-code-coverage.html	Xcode Code Coverage		20150831
+advanced	http://www.invasivecode.com/weblog/attributed-text-swift	NSAttributedString in Swift		20150216
+advanced	http://swiftandpainless.com/using-guard-in-unit-tests	Using Guard In Unit Tests		20150721
+				20150729
