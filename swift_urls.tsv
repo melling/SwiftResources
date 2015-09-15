@@ -1577,73 +1577,73 @@ advanced	http://flexmonkey.blogspot.com/2015/09/a-swift-node-based-user-interfac
 advanced	http://swifttutorialhq.com/ternary-conditional-operators	Ternary Conditional Operators		20150913
 advanced	http://ericasadun.com/2015/09/13/swiftlang-challenge-alphabet-arrays	SwiftLang challenge: Alphabet arrays		20150913
 libs	http://github.com/DaveWoodCom/XCGLogger	XCGLogger - A debug log framework		20010101
-libs	http://gist.github.com/chriseidhof/48243eb549481bc38d58			20010101
-libs	http://gist.github.com/mikeash/0ac60ce46f40e9c825a3			20010101
-libs	http://github.com/Alamofire/AlamofireImage			20010101
-libs	http://github.com/alskipp/Swift-Diagram-Playgrounds			20010101
-libs	http://github.com/andreamazz/BubbleTransition			20010101
-libs	http://github.com/Anviking/Decodable			20010101
-libs	http://github.com/benzguo/MusicKit			20010101
-libs	http://github.com/CezaryKopacz/CKWaveCollectionViewTransition			20010101
-libs	http://github.com/chriseidhof/LiterateSwiftGUI			20010101
-libs	http://github.com/coolioxlr/watchOS-2-heartrate			20010101
-libs	http://github.com/corin8823/Popover			20010101
-libs	http://github.com/czechboy0/XcodeServerSDK			20010101
-libs	http://github.com/dasdom/Tomate			20010101
-libs	http://github.com/devxoul/Date.swift			20010101
-libs	http://github.com/didierbrun/DBPathRecognizer			20010101
-libs	http://github.com/dphans/DPImageCache			20010101
-libs	http://github.com/entotsu/TKAnimatedCheckButton			20010101
-libs	http://github.com/facebookexperimental/spacetime			20010101
-libs	http://github.com/fe9lix/PennyPincher			20010101
-libs	http://github.com/FutureKit/FutureKit			20010101
-libs	http://github.com/gavinbunney/Toucan			20010101
-libs	http://github.com/gmertk/BusyNavigationBar			20010101
-libs	http://github.com/gmertk/ParkedTextField			20010101
-libs	http://github.com/gontovnik/DGRunkeeperSwitch			20010101
-libs	http://github.com/honghaoz/Ji			20010101
-libs	http://github.com/hyperoslo/Presentation			20010101
-libs	http://github.com/i-schuetz/SwiftCharts			20010101
-libs	http://github.com/icanzilb/PowerUpYourAnimations/blob/master/PowerUpYourAnimations/TableCellAnimator.swift			20010101
-libs	http://github.com/IFTTT/RazzleDazzle			20010101
-libs	http://github.com/jathu/UIImageColors			20010101
-libs	http://github.com/jstart/UIStackView-Playground			20010101
-libs	http://github.com/kaandedeoglu/Shark			20010101
-libs	http://github.com/karticodes/MaterialView			20010101
-libs	http://github.com/kostiakoval/Mirror			20010101
-libs	http://github.com/matthewcheok/JSONCodable			20010101
-libs	http://github.com/matthewpalmer/Playdown			20010101
-libs	http://github.com/nakajijapan/PhotoSlider			20010101
-libs	http://github.com/naoty/Timepiece			20010101
-libs	http://github.com/neonichu/cato			20010101
-libs	http://github.com/netguru/ResponseDetective			20010101
-libs	http://github.com/NilStack/NKWatchActivityIndicator			20010101
-libs	http://github.com/ninjaprox/NVActivityIndicatorView			20010101
-libs	http://github.com/nixzhu/Proposer			20010101
-libs	http://github.com/okmr-d/DOFavoriteButton			20010101
-libs	http://github.com/onevcat/APNGKit			20010101
-libs	http://github.com/optonaut/ActiveLabel.swift			20010101
-libs	http://github.com/Palleas/NaughtyKeyboard			20010101
-libs	http://github.com/PhamBaTho/BTNavigationDropdownMenu			20010101
-libs	http://github.com/poolqf/FillableLoaders			20010101
-libs	http://github.com/Produkt/RubberBandEffect			20010101
-libs	http://github.com/raulriera/TextFieldEffects			20010101
-libs	http://github.com/shu223/watchOS-2-Sampler			20010101
-libs	http://github.com/skywinder/GaugeKit			20010101
-libs	http://github.com/tasanobu/Kamagari			20010101
-libs	http://github.com/teodorpatras/EasyTipView			20010101
-libs	http://github.com/tispr/tispr-card-stack			20010101
-libs	http://github.com/Vaberer/Font-Awesome-Swift			20010101
-libs	http://github.com/venmo/DVR			20010101
-libs	http://github.com/venmo/Static			20010101
-libs	http://github.com/wongzigii/Butterfly			20010101
-libs	http://github.com/xxxAIRINxxx/MusicPlayerTransition			20010101
-libs	http://github.com/Yalantis/Koloda			20010101
-libs	http://github.com/yannickl/DynamicColor			20010101
-libs	http://github.com/ykyouhei/KYDigitalFontView			20010101
-libs	http://github.com/zemirco/swift-linechart			20010101
-libs	http://github.com/zhxnlai/ZLSwipeableViewSwift			20010101
-libs	http://github.com/zwaldowski/ParksAndRecreation			20010101
+libs	http://gist.github.com/chriseidhof/48243eb549481bc38d58	Reflection		20010101
+libs	http://gist.github.com/mikeash/0ac60ce46f40e9c825a3	SerializationExperiment.swift		20010101
+libs	http://github.com/Alamofire/AlamofireImage	AlamofireImage is an image component library for Alamofire		20010101
+libs	http://github.com/alskipp/Swift-Diagram-Playgrounds	Drawing diagrams in Swift using a recursive enum data structure		20010101
+libs	http://github.com/andreamazz/BubbleTransition	A custom modal transition that presents and dismiss a controller with an expanding bubble effect.		20010101
+libs	http://github.com/Anviking/Decodable	Swift 2 JSON parsing done (more) right		20010101
+libs	http://github.com/benzguo/MusicKit	A framework for composing and transforming music		20010101
+libs	http://github.com/CezaryKopacz/CKWaveCollectionViewTransition	Cool wave like transition between two or more UICollectionView		20010101
+libs	http://github.com/chriseidhof/LiterateSwiftGUI	LiterateSwift is a (GUI) tool to edit your literate swift files.		20010101
+libs	http://github.com/coolioxlr/watchOS-2-heartrate	watchOS 2.0 healthkit, heartrate streaming, start workout session	#watchkit	20010101
+libs	http://github.com/corin8823/Popover	Popover is a balloon library like Facebook app		20010101
+libs	http://github.com/czechboy0/XcodeServerSDK	Access Xcode Server API with native Swift objects		20010101
+libs	http://github.com/dasdom/Tomate	This is in the App Store as Fojusi		20010101
+libs	http://github.com/devxoul/Date.swift	A Swift Date Library		20010101
+libs	http://github.com/didierbrun/DBPathRecognizer	Gesture recognizer tool		20010101
+libs	http://github.com/dphans/DPImageCache	Extension for UIImageView. Help loading image asynchronously and store local file cache.		20010101
+libs	http://github.com/entotsu/TKAnimatedCheckButton	Animated Check Button		20010101
+libs	http://github.com/facebookexperimental/spacetime	Experimental iOS library for live transformations on parts of layers		20010101
+libs	http://github.com/fe9lix/PennyPincher	A fast gesture recognizer based on the PennyPincher algorithm		20010101
+libs	http://github.com/FutureKit/FutureKit	http://futurekit.org		20010101
+libs	http://github.com/gavinbunney/Toucan	Fabulous Image Processing		20010101
+libs	http://github.com/gmertk/BusyNavigationBar	A UINavigationBar extension to show loading effects		20010101
+libs	http://github.com/gmertk/ParkedTextField	A text field with a constant text/placeholder		20010101
+libs	http://github.com/gontovnik/DGRunkeeperSwitch	Runkeeper design switch control (two part segment control)		20010101
+libs	http://github.com/honghaoz/Ji	Ji (戟) is an XML/HTML parser		20010101
+libs	http://github.com/hyperoslo/Presentation	Presentation helps you to make tutorials, release notes and animated pages		20010101
+libs	http://github.com/i-schuetz/SwiftCharts	Easy to use and highly customizable charts library for iOS		20010101
+libs	http://github.com/icanzilb/PowerUpYourAnimations/blob/master/PowerUpYourAnimations/TableCellAnimator.swift	TableCellAnimator		20010101
+libs	http://github.com/IFTTT/RazzleDazzle	A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros		20010101
+libs	http://github.com/jathu/UIImageColors	iTunes style color fetcher for UIImage		20010101
+libs	http://github.com/jstart/UIStackView-Playground	A playground demonstrating some of the key features of UIStackView		20010101
+libs	http://github.com/kaandedeoglu/Shark	Swift Script that transforms the .xcassets folder into a type safe enum		20010101
+libs	http://github.com/karticodes/MaterialView	Material Floating Button for iOS		20010101
+libs	http://github.com/kostiakoval/Mirror	Swift objects Reflection		20010101
+libs	http://github.com/matthewcheok/JSONCodable	Hassle-free JSON encoding and decoding		20010101
+libs	http://github.com/matthewpalmer/Playdown	Convert Swift Playgrounds to Markdown		20010101
+libs	http://github.com/nakajijapan/PhotoSlider	PhotoSlider can a simple photo slider and delete slider with swiping		20010101
+libs	http://github.com/naoty/Timepiece	Intuitive NSDate extensions		20010101
+libs	http://github.com/neonichu/cato	Swift scripts made easy with automatic dependency and Swift version management		20010101
+libs	http://github.com/netguru/ResponseDetective	Sherlock Holmes of the networking layer		20010101
+libs	http://github.com/NilStack/NKWatchActivityIndicator	An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2	#watchkit	20010101
+libs	http://github.com/ninjaprox/NVActivityIndicatorView	Collection of nice loading animations		20010101
+libs	http://github.com/nixzhu/Proposer	Make permission request easier		20010101
+libs	http://github.com/okmr-d/DOFavoriteButton	Cute Animated Button		20010101
+libs	http://github.com/onevcat/APNGKit	High performance and delightful way to play with APNG format		20010101
+libs	http://github.com/optonaut/ActiveLabel.swift	UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://)		20010101
+libs	http://github.com/Palleas/NaughtyKeyboard	The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.		20010101
+libs	http://github.com/PhamBaTho/BTNavigationDropdownMenu	The elegant dropdown menu appears underneath navigation bar to display a list of related items when a user click on the navigation title.		20010101
+libs	http://github.com/poolqf/FillableLoaders	Completely customizable progress based loaders drawn using custom CGPaths		20010101
+libs	http://github.com/Produkt/RubberBandEffect	Recreating Apple’s rubber band effect		20010101
+libs	http://github.com/raulriera/TextFieldEffects	Custom UITextFields effects inspired by Codrops		20010101
+libs	http://github.com/shu223/watchOS-2-Sampler	Code examples for new features of watchOS 2	#watchkit	20010101
+libs	http://github.com/skywinder/GaugeKit	Kit for building custom gauges + easy reproducible Apple's style ring gauges		20010101
+libs	http://github.com/tasanobu/Kamagari	Simple UIAlertController builder class		20010101
+libs	http://github.com/teodorpatras/EasyTipView	A tooltip view		20010101
+libs	http://github.com/tispr/tispr-card-stack	Card Stack		20010101
+libs	http://github.com/Vaberer/Font-Awesome-Swift	Font Awesome library		20010101
+libs	http://github.com/venmo/DVR	Network testing		20010101
+libs	http://github.com/venmo/Static	Simple static table views		20010101
+libs	http://github.com/wongzigii/Butterfly	A lightweight library for integrating feedback module elegantly		20010101
+libs	http://github.com/xxxAIRINxxx/MusicPlayerTransition	Custom interactive transition like Apple Music iOS App		20010101
+libs	http://github.com/Yalantis/Koloda	KolodaView is a class designed to simplify the implementation of Tinder like cards		20010101
+libs	http://github.com/yannickl/DynamicColor	Yet another extension to manipulate colors easily		20010101
+libs	http://github.com/ykyouhei/KYDigitalFontView	KYDigitalFontView is a custom view that displays the character in the digital font style		20010101
+libs	http://github.com/zemirco/swift-linechart	LineChart library		20010101
+libs	http://github.com/zhxnlai/ZLSwipeableViewSwift	A simple view for building card like interface like Tinder and Potluck		20010101
+libs	http://github.com/zwaldowski/ParksAndRecreation	Various Swift playgrounds, for fun and for profit		20010101
 advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-1--cms-24483	An Introduction to GameplayKit: Part 1		20150824
 advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-2--cms-24528	An Introduction to GameplayKit: Part 2		20150831
 advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-3--cms-24611	An Introduction to GameplayKit: Part 3		20150907
@@ -1663,4 +1663,3 @@ advanced	http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-se
 advanced	http://useyourloaf.com/blog/xcode-code-coverage.html	Xcode Code Coverage		20150831
 advanced	http://www.invasivecode.com/weblog/attributed-text-swift	NSAttributedString in Swift		20150216
 advanced	http://swiftandpainless.com/using-guard-in-unit-tests	Using Guard In Unit Tests		20150721
-				20150729
