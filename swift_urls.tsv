@@ -1723,3 +1723,19 @@ advanced	http://nshint.io/blog/2015/08/09/nsprogressreporting	NSProgressReportin
 advanced	http://nshint.io/blog/2015/08/04/using-sql-as-date-formatter	Using Sql as Date Formatter		20150804
 advanced	http://nshint.io/blog/2015/08/03/law-of-demeter	Law of Demeter		20150803
 advanced	http://nshint.io/blog/2015/07/23/run-script-phase-reporting	Run Script Phase Reporting		20150723
+libs	http://github.com/cezheng/Fuzi	A fast & lightweight XML/HTML parser in Swift that makes your life easier		20010101
+advanced	http://appandflow.com/index.php/2015/09/16/ios-9-search-api-public-indexing-in-5-minutes	iOS 9 Search API – Public Indexing in 5 minutes		20150916
+libs	http://github.com/goktugyil/QorumLogs	Swift Logging Utility for Xcode & Google Docs		20010101
+advanced	http://www.invasivecode.com/weblog/storyboard-strong-iboutlet-scene-dock	Storyboard Reference, Strong IBOutlet, Scene Dock in iOS 9		20150811
+advanced	http://www.invasivecode.com/weblog/advanced-cloudkit-ii	Advanced CloudKit (Part II): CKOperation, CKQueryOperation		20150901
+advanced	http://www.invasivecode.com/weblog/advanced-cloudkit-part-iii	Advanced CloudKit (Part III): CKSubscription		20150915
+advanced	http://www.invasivecode.com/weblog/uialertcontroller-alert-action-sheet	UIAlertController: Alert and Action Sheet in iOS		20150818
+advanced	http://www.invasivecode.com/weblog/gameplaykit-state-machine	GameplayKit: State Machine for non-game Apps		20150804
+advanced	http://www.invasivecode.com/weblog/mapkit-flyover-transit	MapKit for iOS 9: Flyover, Transit and Customization		20150728
+advanced	http://www.invasivecode.com/weblog/uistackview-core-animation	UIStackView, Auto Layout and Core Animation		20150714
+advanced	http://realm.io/news/andy-matuschak-refactor-mega-controller	Let's Play: Refactor the Mega Controller!		20150916
+advanced	http://swiftaday.com/post/129186540696/hex-drop	Swift A Day: Hex Drop		20150916
+advanced	http://littlebitesofcocoa.com/83	little bites of cocoa: #83: UIImagePickerController Basics		20150916
+advanced	http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial	Beginning tvOS Development with TVML Tutorial	#AppleTV	20150916
+advanced	http://ericasadun.com/2015/09/15/revisiting-the-permutation-generator-in-swiftlang	Revisiting the Permutation Generator in #swiftlang		20150916
+advanced	http://www.raywenderlich.com/114552/uistackview-tutorial-introducing-stack-views	UIStackView Tutorial: Introducing Stack Views		20150916
