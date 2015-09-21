@@ -1756,3 +1756,10 @@ advanced	http://swifttutorialhq.com/status-bar-color-to-white	Status Bar Color t
 libs	http://github.com/kean/Nuke	Advanced framework for managing images		20010101
 libs	http://github.com/rawrjustin/Bridge	Simple Typed JSON HTTP Networking		20010101
 libs	http://github.com/williamFalcon/Bolt_Swift	Library for the missing bolts in Swift		20010101
+advanced	http://www.raywenderlich.com/115253/swift-2-tutorial-a-quick-start	Swift 2 Tutorial: A Quick Start		20150921
+advanced	http://www.raywenderlich.com/115279/swift-2-tutorial-part-2-a-simple-ios-app	Swift 2 Tutorial Part 2: A Simple iOS App		20150921
+advanced	http://www.raywenderlich.com/115300/swift-2-tutorial-part-3-tuples-protocols-delegates-and-table-views	Swift 2 Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views		20150921
+advanced	http://natashatherobot.com/watchos-2-hello-world	WatchOS 2: Hello, World	#watchkit	20150921
+advanced	http://natashatherobot.com/watchconnectivity-introduction-say-goodbye-to-the-spinner	WatchConnectivity Introduction: Say Goodbye To The Spinner	#watchkit	20150921
+advanced	http://natashatherobot.com/watchconnectivity-say-hello-to-wcsession	WatchConnectivity: Say Hello to WCSession	#watchkit	20150921
+advanced	http://littlebitesofcocoa.com/86	little bites of cocoa: #86: Decodable		20150921
