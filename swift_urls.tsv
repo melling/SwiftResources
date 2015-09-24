@@ -1756,10 +1756,25 @@ advanced	http://swifttutorialhq.com/status-bar-color-to-white	Status Bar Color t
 libs	http://github.com/kean/Nuke	Advanced framework for managing images		20010101
 libs	http://github.com/rawrjustin/Bridge	Simple Typed JSON HTTP Networking		20010101
 libs	http://github.com/williamFalcon/Bolt_Swift	Library for the missing bolts in Swift		20010101
-advanced	http://www.raywenderlich.com/115253/swift-2-tutorial-a-quick-start	Swift 2 Tutorial: A Quick Start		20150921
-advanced	http://www.raywenderlich.com/115279/swift-2-tutorial-part-2-a-simple-ios-app	Swift 2 Tutorial Part 2: A Simple iOS App		20150921
-advanced	http://www.raywenderlich.com/115300/swift-2-tutorial-part-3-tuples-protocols-delegates-and-table-views	Swift 2 Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views		20150921
-advanced	http://natashatherobot.com/watchos-2-hello-world	WatchOS 2: Hello, World	#watchkit	20150921
-advanced	http://natashatherobot.com/watchconnectivity-introduction-say-goodbye-to-the-spinner	WatchConnectivity Introduction: Say Goodbye To The Spinner	#watchkit	20150921
-advanced	http://natashatherobot.com/watchconnectivity-say-hello-to-wcsession	WatchConnectivity: Say Hello to WCSession	#watchkit	20150921
+tutorial	http://www.raywenderlich.com/115253/swift-2-tutorial-a-quick-start	Swift 2 Tutorial: A Quick Start		20150921
+tutorial	http://www.raywenderlich.com/115279/swift-2-tutorial-part-2-a-simple-ios-app	Swift 2 Tutorial Part 2: A Simple iOS App		20150921
+tutorial	http://www.raywenderlich.com/115300/swift-2-tutorial-part-3-tuples-protocols-delegates-and-table-views	Swift 2 Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views		20150921
+tutorial	http://natashatherobot.com/watchos-2-hello-world	WatchOS 2: Hello, World	#watchkit	20150921
+tutorial	http://natashatherobot.com/watchconnectivity-introduction-say-goodbye-to-the-spinner	WatchConnectivity Introduction: Say Goodbye To The Spinner	#watchkit	20150921
+tutorial	http://natashatherobot.com/watchconnectivity-say-hello-to-wcsession	WatchConnectivity: Say Hello to WCSession	#watchkit	20150921
 advanced	http://littlebitesofcocoa.com/86	little bites of cocoa: #86: Decodable		20150921
+advanced	http://littlebitesofcocoa.com/87	little bites of cocoa: #87: CIDetector Basics		20150922
+advanced	http://littlebitesofcocoa.com/88	little bites of cocoa: #88: Dynamic Shortcut Items		20150923
+advanced	http://www.andrewcbancroft.com/2015/09/21/openssl-for-ios-swift-the-easy-way	OpenSSL for iOS & Swift the Easy Way		20150921
+advanced	http://www.raywenderlich.com/113388/storyboards-tutorial-in-ios-9-part-1	Storyboards Tutorial in iOS 9: Part 1		20150922
+advanced	http://www.raywenderlich.com/113394/storyboards-tutorial-in-ios-9-part-2	Storyboards Tutorial in iOS 9: Part 2		20150922
+advanced	http://www.raywenderlich.com/115440/auto-layout-tutorial-in-ios-9-part-1-getting-started-2	Auto Layout Tutorial in iOS 9 Part 1: Getting Started		20150922
+advanced	http://www.raywenderlich.com/115444/auto-layout-tutorial-in-ios-9-part-2-constraints	Auto Layout Tutorial in iOS 9 Part 2: Constraints		20150922
+advanced	http://www.raywenderlich.com/113768/adaptive-layout-tutorial-in-ios-9-getting-started	Adaptive Layout Tutorial in iOS 9: Getting Started		20150922
+advanced	http://ericasadun.com/2015/09/22/var-x-t-or-var-x-t-smackdown-swiftlang	var x : [T] = [] or var x = [T]() smackdown #swiftlang		20150922
+advanced	http://commandshift.co.uk/blog/2015/09/23/dealing-with-web-services	Dealing with web services		20150923
+advanced	http://ericasadun.com/2015/09/23/new-to-beta-2-swift-2-1-playground-value-drops-swiftlang	New to Beta 2: Swift 2.1 Playground value drops #swiftlang		20150923
+libs	http://github.com/donnycrash/DCRadialGraph	DCRadialGraph is a swift based, good looking, easy to use, drop in radial/circular graph view		20010101
+advanced	http://www.ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial	Index App Content with Core Spotlight Tutorial		20150923
+advanced	http://www.russbishop.net/swift-2-1	Swift 2.1		20150923
+advanced	http://nshint.io/blog/2015/09/23/uitraitcollection-trick	UITraitCollection Trick		20150923
