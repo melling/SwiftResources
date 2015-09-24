@@ -108,13 +108,13 @@ libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
 libs	http://github.com/uacaps/PageMenu			20010101
 libs	http://github.com/zhxnlai/ZLBalancedFlowLayout/tree/master/ZLBalancedFlowLayoutDemo			20010101
-beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	video	20150126
-beginner	http://learnxinyminutes.com/docs/swift	Learn X in Y minutes - Where X=swift		20010101
-beginner	http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift	An Absolute Beginner's Guide to Swift		20140609
+beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	video;beginner	20150126
+beginner	http://learnxinyminutes.com/docs/swift	Learn X in Y minutes - Where X=swift	beginner	20010101
+beginner	http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift	An Absolute Beginner's Guide to Swift	beginner	20140609
 beginner	http://www.raywenderlich.com/video-tutorials	Swift Series	video	20140611
-beginner	http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start	Swift Tutorial: A Quick Start		20141218
-beginner	http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app	Swift Tutorial Part 2 Simple iOS App		20140614
-beginner	http://www.airpair.com/swift/building-swift-app-tutorial	Building an iOS application - Part 1		20140929
+beginner	http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start	Swift Tutorial: A Quick Start	beginner	20141218
+beginner	http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app	Swift Tutorial Part 2 Simple iOS App	beginner	20140614
+beginner	http://www.airpair.com/swift/building-swift-app-tutorial	Building an iOS application - Part 1	beginner	20140929
 beginner	http://ios-blog.co.uk/tutorials/developing-ios-apps-using-swift-part-1	Developing iOS8 Apps Using Swift - Part 1 - Hello World		20140603
 beginner	http://www.highoncoding.com/Articles/879_Introduction_to_Swift.aspx	Introduction to Swift		20010101
 beginner	http://www.learnswift.tips	A curated list of helpful resources to learn Swift		20010101
@@ -123,7 +123,7 @@ beginner	http://www.codingexplorer.com/arrays-swift	Arrays and their Methods in 
 beginner	http://chris.eidhof.nl/posts/tuples-structs-enums.html	Tuples, Structs and Enums		20140829
 beginner	http://developer.apple.com/swift/blog/?id=16	Building Your First Swift App	video	20141007
 beginner	http://developer.apple.com/swift/blog/?id=18	Introduction to the Swift REPL	repl	20141111
-beginner	http://www.youtube.com/watch?v=s9UBc6BAUTI	Swift in 40 Minutes	video	20141223
+beginner	http://www.youtube.com/watch?v=s9UBc6BAUTI	Swift in 40 Minutes	video;beginner	20141223
 beginner	http://www.raywenderlich.com/75601/learn-to-code-ios-apps-with-swift-tutorial-1	Learn to Code iOS Apps with Swift Tutorial 1: Welcome to Programming		20141113
 beginner	http://www.raywenderlich.com/75919/learn-to-code-ios-apps-with-swift-tutorial-2	Learn to Code iOS Apps with Swift Tutorial 2: Your First Project		20141113
 beginner	http://www.raywenderlich.com/76044/learn-to-code-ios-apps-with-swift-tutorial-3	Learn to Code iOS Apps with Swift Tutorial 3: Arrays, Objects, and Classes		20141113
@@ -1745,11 +1745,11 @@ advanced	http://littlebitesofcocoa.com/85	little bites of cocoa: #85: Grand Cent
 advanced	http://www.ioscreator.com/tutorials/reordering-collection-view-cells-tutorial	Reordering Collection View Cells Tutorial		20150917
 tutorial	http://www.weheartswift.com/getting-started-with-ios-programming	Getting Started With iOS Programming		20150917
 advanced	http://flexmonkey.blogspot.com/2015/09/advanced-touch-handling-in-ios9.html	Advanced Touch Handling in iOS9: Coalescing and Prediction		20150917
-tutorial	http://www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming	Learn to Code iOS Apps with Swift Tutorial 1: Welcome to Programming		20150918
-advanced	http://www.raywenderlich.com/114173/learn-to-code-ios-apps-with-swift-tutorial-2-your-first-project	Learn to Code iOS Apps with Swift Tutorial 2: Your First Project		20150918
-advanced	http://www.raywenderlich.com/114234/learn-to-code-ios-apps-with-swift-tutorial-3-arrays-objects-and-classes	Learn to Code iOS Apps with Swift Tutorial 3: Arrays, Objects, and Classes		20150918
-advanced	http://www.raywenderlich.com/114262/learn-to-code-ios-apps-with-swift-tutorial-4-your-first-app	Learn To Code iOS Apps With Swift Tutorial 4: Your First App		20150918
-advanced	http://www.raywenderlich.com/114298/learn-to-code-ios-apps-with-swift-tutorial-5-making-it-beautiful	Learn To Code iOS Apps With Swift Tutorial 5: Making it Beautiful		20150918
+tutorial	http://www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming	Learn to Code iOS Apps with Swift Tutorial 1: Welcome to Programming	beginner	20150918
+advanced	http://www.raywenderlich.com/114173/learn-to-code-ios-apps-with-swift-tutorial-2-your-first-project	Learn to Code iOS Apps with Swift Tutorial 2: Your First Project	beginner	20150918
+advanced	http://www.raywenderlich.com/114234/learn-to-code-ios-apps-with-swift-tutorial-3-arrays-objects-and-classes	Learn to Code iOS Apps with Swift Tutorial 3: Arrays, Objects, and Classes	beginner	20150918
+advanced	http://www.raywenderlich.com/114262/learn-to-code-ios-apps-with-swift-tutorial-4-your-first-app	Learn To Code iOS Apps With Swift Tutorial 4: Your First App	beginner	20150918
+advanced	http://www.raywenderlich.com/114298/learn-to-code-ios-apps-with-swift-tutorial-5-making-it-beautiful	Learn To Code iOS Apps With Swift Tutorial 5: Making it Beautiful	beginner	20150918
 advanced	http://oleb.net/blog/2015/09/swift-pattern-matching	Pattern Matching in Swift		20150919
 advanced	http://flexmonkey.blogspot.com/2015/09/applying-gaussian-blur-to-uiviews-with.html	Applying Gaussian Blur to UIViews with Swift Protocol Extensions		20150919
 advanced	http://swifttutorialhq.com/status-bar-color-to-white	Status Bar Color to White		20150920
@@ -1777,7 +1777,10 @@ advanced	http://commandshift.co.uk/blog/2015/09/23/dealing-with-web-services	Dea
 advanced	http://ericasadun.com/2015/09/23/new-to-beta-2-swift-2-1-playground-value-drops-swiftlang	New to Beta 2: Swift 2.1 Playground value drops #swiftlang	swift	20150923
 libs	http://github.com/donnycrash/DCRadialGraph	DCRadialGraph is a swift based, good looking, easy to use, drop in radial/circular graph view		20010101
 advanced	http://www.ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial	Index App Content with Core Spotlight Tutorial		20150923
-advanced	http://www.russbishop.net/swift-2-1	Swift 2.1		20150923
+advanced	http://www.russbishop.net/swift-2-1	Swift 2.1	swift	20150923
 advanced	http://nshint.io/blog/2015/09/23/uitraitcollection-trick	UITraitCollection Trick		20150923
 advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day12-gameplay-kit-behaviors	iOS9 Day-by-Day :: Day 12 :: Gameplay Kit – Behaviors and Goals		20150924
 advanced	http://natashatherobot.com/watchconnectivity-application-context	WatchConnectivity: Sharing The Latest Data via Application Context	watchkit	20150924
+advanced	http://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios	Tesseract OCR Tutorial	ocr	20150423
+libs	http://github.com/sabiland/TrippyBackgrounds	Easy way to create random-trippy background images		20010101
+libs	http://github.com/Zewo/SwiftGo	Pure Swift/C library that provides Go's concurrency features in Swift 2		20010101
