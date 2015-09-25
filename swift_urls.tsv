@@ -65,7 +65,7 @@ advanced	http://www.objc.io/snippets/17.html	Caesar ciphers	functional	20150202
 tutorial	http://www.objc.io/snippets/18.html	Unwrapping multiple optionals	functional	20150217
 advanced	http://www.olliewilliams.org/blog/2014/12/23/parsing-json	Parsing JSON		20141223
 advanced	http://www.pumpmybicep.com/2014/06/24/resolving-arc-strong-reference-cycles-in-swift	Resolving ARC Strong Reference Cycles in Swift		20140624
-advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift		20141209
+advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift	NSOperation	20141209
 advanced	http://www.raywenderlich.com/81399/ios-8-metal-tutorial-swift-moving-to-3d	iOS 8 Metal Tutorial with Swift Part 2: Moving to 3D	metal	20141030
 advanced	http://www.raywenderlich.com/86365/asyncdisplaykit-tutorial-achieving-60-fps-scrolling	AsyncDisplayKit Tutorial: Achieving 60 FPS scrolling		20141120
 advanced	http://www.raywenderlich.com/87543/video-tutorial-introduction-cloudkit-series-introduction	Video Tutorial: Introduction to CloudKit Part 1: Series Introduction	video	20141103
@@ -108,7 +108,7 @@ libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
 libs	http://github.com/uacaps/PageMenu			20010101
 libs	http://github.com/zhxnlai/ZLBalancedFlowLayout/tree/master/ZLBalancedFlowLayoutDemo			20010101
-beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	video:beginner	20150126
+beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	video:beginner:iTunes	20150126
 beginner	http://learnxinyminutes.com/docs/swift	Learn X in Y minutes - Where X=swift	beginner	20010101
 beginner	http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift	An Absolute Beginner's Guide to Swift	beginner	20140609
 beginner	http://www.raywenderlich.com/video-tutorials	Swift Series	video	20140611
@@ -233,12 +233,12 @@ tutorial	http://www.pumpmybicep.com/2014/07/22/implementing-core-data-nsmanagedo
 tutorial	http://www.raywenderlich.com/74138/swift-language-faq	Ray Wenderlich Swift Language FAQ	swift	20140808
 tutorial	http://www.raywenderlich.com/75270/make-game-like-candy-crush-with-swift-tutorial-part-1	Make Game Like Candy Crush with Swift Tutorial Part 1	SpriteKit	20141017
 tutorial	http://www.raywenderlich.com/75273/make-game-like-candy-crush-with-swift-tutorial-part-2	How to Make a Game Like Candy Crush with Swift Tutorial: Part 2		20141017
-tutorial	http://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial	Using UIGestureRecognizer with Swift Tutorial		20141210
-tutorial	http://www.raywenderlich.com/76024/swift-table-view-animations-tutorial-drop-cards	Swift Table View Animations Tutorial: Drop-In Cards		20140806
+tutorial	http://www.raywenderlich.com/76020/using-uigesturerecognizer-with-swift-tutorial	Using UIGestureRecognizer with Swift Tutorial	gesture	20141210
+tutorial	http://www.raywenderlich.com/76024/swift-table-view-animations-tutorial-drop-cards	Swift Table View Animations Tutorial: Drop-In Cards	UITableView:animation	20140806
 tutorial	http://www.raywenderlich.com/76147/uikit-dynamics-tutorial-swift	UIKit Dynamics Tutorial in Swift	UIDynamics	20140724
 tutorial	http://www.raywenderlich.com/83129/beginning-auto-layout-tutorial-swift-part-1	Beginning Auto Layout Tutorial in Swift: Part 1/2	AutoLayout	20141217
 tutorial	http://www.raywenderlich.com/83130/beginning-auto-layout-tutorial-swift-part-2	Beginning Auto Layout Tutorial in Swift: Part 2/2	AutoLayout	20141217
-tutorial	http://www.raywenderlich.com/86336/ios-8-healthkit-swift-getting-started	HealthKit Tutorial with Swift: Getting Started		20010101
+tutorial	http://www.raywenderlich.com/86336/ios-8-healthkit-swift-getting-started	HealthKit Tutorial with Swift: Getting Started	HealthKit	20010101
 tutorial	http://www.raywenderlich.com/86053/intermediate-design-patterns-in-swift	Intermediate Design Patterns in Swift		20010101
 tutorial	http://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-part-1	Introducing iOS Design Patterns in Swift – Part 1/2		20010101
 tutorial	http://www.raywenderlich.com/90773/introducing-ios-design-patterns-in-swift-part-2	Introducing iOS Design Patterns in Swift – Part 2/2		20010101
@@ -250,15 +250,15 @@ tutorial	http://www.raywenderlich.com/81952/intro-object-oriented-design-swift-p
 tutorial	http://www.raywenderlich.com/81953/intro-object-oriented-design-swift-part-2	Intro to Object-Oriented Design in Swift: Part 2/2		20010101
 tutorial	http://www.raywenderlich.com/78550/beginning-ios-collection-views-swift-part-1	Beginning iOS Collection Views in Swift: Part 1/2	UICollectionView	20010101
 tutorial	http://www.raywenderlich.com/78551/beginning-ios-collection-views-swift-part-2	Beginning iOS Collection Views in Swift: Part 2/2	UICollectionView	20010101
-tutorial	http://www.slideshare.net/giordano/a-swift-introduction-to-swift	A swift Introduction to Swift		20010101
+tutorial	http://www.slideshare.net/giordano/a-swift-introduction-to-swift	A swift Introduction to Swift	beginner	20010101
 tutorial	http://www.raywenderlich.com/85080/beginning-alamofire-tutorial	Beginning Alamofire Tutorial		20010101
 tutorial	http://www.raywenderlich.com/87595/intermediate-alamofire-tutorial	Intermediate Alamofire Tutorial		20010101
-tutorial	http://www.raywenderlich.com/77974/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-1	Making a Gesture-Driven To-Do List App Like Clear in Swift: Part 1/2		20010101
-tutorial	http://www.raywenderlich.com/77975/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-2	Making a Gesture-Driven To-Do List App Like Clear in Swift: Part 2/2		20010101
-tutorial	http://www.raywenderlich.com/82706/working-with-json-in-swift-tutorial	Working with JSON in Swift Tutorial		20010101
+tutorial	http://www.raywenderlich.com/77974/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-1	Making a Gesture-Driven To-Do List App Like Clear in Swift: Part 1/2	gesture	20010101
+tutorial	http://www.raywenderlich.com/77975/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-2	Making a Gesture-Driven To-Do List App Like Clear in Swift: Part 2/2	gesture	20010101
+tutorial	http://www.raywenderlich.com/82706/working-with-json-in-swift-tutorial	Working with JSON in Swift Tutorial	json	20010101
 tutorial	http://www.raywenderlich.com/77981/make-letter-word-game-uikit-swift-part-1	How To Make a Letter / Word Game with UIKit and Swift: Part 1/3		20010101
-tutorial	http://www.raywenderlich.com/77982/how-to-make-a-letter-word-game-with-uikit-and-swift-part-2	How To Make a Letter / Word Game with UIKit and Swift: Part 2/3		20010101
-tutorial	http://www.raywenderlich.com/77983/make-letter-word-game-uikit-swift-part-33	How To Make a Letter / Word Game with UIKit and Swift: Part 3/3		20010101
+tutorial	http://www.raywenderlich.com/77982/how-to-make-a-letter-word-game-with-uikit-and-swift-part-2	How To Make a Letter / Word Game with UIKit and Swift: Part 2/3	UIKit	20010101
+tutorial	http://www.raywenderlich.com/77983/make-letter-word-game-uikit-swift-part-33	How To Make a Letter / Word Game with UIKit and Swift: Part 3/3	UIKit	20010101
 tutorial	http://www.raywenderlich.com/76740/make-game-like-space-invaders-sprite-kit-and-swift-tutorial-part-1	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 1	SpriteKit	20010101
 tutorial	http://www.raywenderlich.com/76741/make-game-like-space-invaders-sprite-kit-and-swift-tutorial-part-2	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 2	SpriteKit	20010101
 tutorial	http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift	Introduction to Google Maps iOS SDK in Swift		20010101
@@ -274,14 +274,14 @@ tutorial	http://www.raywenderlich.com/84434/sprite-kit-swift-tutorial-beginners	
 tutorial	http://www.raywenderlich.com/77092/text-kit-tutorial-swift	Text Kit Tutorial in Swift	TextKit	20010101
 tutorial	http://www.raywenderlich.com/84043/ios-8-visual-effects-tutorial	iOS 8 Visual Effects Tutorial		20010101
 tutorial	http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial	iOS 8 Today Extension Tutorial		20010101
-tutorial	http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial	Beginning Adaptive Layout Tutorial		20010101
+tutorial	http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial	Beginning Adaptive Layout Tutorial	AdaptiveLayout	20010101
 tutorial	http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift	How To Use UIScrollView to Scroll and Zoom Content in Swift	uiscrollview	20010101
 tutorial	http://www.raywenderlich.com/80818/operator-overloading-in-swift-tutorial	Operator Overloading in Swift Tutorial		20010101
 tutorial	http://www.raywenderlich.com/82599/swift-functional-programming-tutorial	Swift Functional Programming Tutorial	functional	20010101
 tutorial	http://www.raywenderlich.com/82572/swift-generics-tutorial	Swift Generics Tutorial	generics	20010101
-tutorial	http://www.raywenderlich.com/76735/using-nsurlprotocol-swift	Using NSURLProtocol with Swift		20010101
+tutorial	http://www.raywenderlich.com/76735/using-nsurlprotocol-swift	Using NSURLProtocol with Swift	NSURLProtocol	20010101
 tutorial	http://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift	How To Make a Custom Control in Swift		20010101
-tutorial	http://www.raywenderlich.com/76718/card-game-mechanics-sprite-kit-swift	Card Game Mechanics in Sprite Kit with Swift		20010101
+tutorial	http://www.raywenderlich.com/76718/card-game-mechanics-sprite-kit-swift	Card Game Mechanics in Sprite Kit with Swift	SpriteKit	20010101
 tutorial	http://www.raywenderlich.com/76519/add-table-view-search-swift	How to Add Table View Search in Swift	UITableView	20010101
 tutorial	http://www.raywenderlich.com/71872/how-to-make-game-music-for-beginners	How to Make Game Music for Beginners	objc:audio	20010101
 tutorial	http://www.raywenderlich.com/76285/beginning-core-image-swift	Beginning Core Image in Swift	CoreImage	20010101
@@ -296,19 +296,19 @@ tutorial	http://www.raywenderlich.com/75578/video-tutorial-introduction-swift-pa
 tutorial	http://www.raywenderlich.com/76260/video-tutorial-introduction-swift-part-6-functions	Video Tutorial: Introduction to Swift Part 6: Functions	video	20010101
 tutorial	http://www.raywenderlich.com/77048/video-tutorial-introduction-to-swift-part-7-classes	Video Tutorial: Introduction to Swift Part 7: Classes	video	20010101
 tutorial	http://www.raywenderlich.com/77878/video-tutorial-introduction-swift-part-8-tuples	Video Tutorial: Introduction to Swift Part 8: Tuples	video:tuples	20010101
-tutorial	http://www.raywenderlich.com/75289/swift-tutorial-part-3-tuples-protocols-delegates-table-views	Swift Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views		20010101
+tutorial	http://www.raywenderlich.com/75289/swift-tutorial-part-3-tuples-protocols-delegates-table-views	Swift Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views	tuple:protocol	20010101
 tutorial	http://www.raywenderlich.com/79850/collection-data-structures-swift	Collection Data Structures In Swift		20010101
 tutorial	http://www.raywenderlich.com/82832/video-tutorial-ios-animations-introduction	Video Tutorial: iOS Animation with Swift: Introduction	beginner	20010101
 tutorial	http://www.samuelmullen.com/2014/10/performance_testing_in_swift	Performance Testing in Xcode 6		20010101
 tutorial	http://www.scottlogic.com/blog/2014/12/08/swift-optional-pyramids-of-doom.html	Tearing Down Swift's Optional Pyramid Of Doom		20010101
-tutorial	http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language	Using Swift As General Purpose Scripting Language		20010101
+tutorial	http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language	Using Swift As General Purpose Scripting Language	scripting	20010101
 tutorial	http://www.sunsetlakesoftware.com/2014/06/30/exploring-swift-using-gpuimage	Exploring Swift using GPUImage		20010101
 tutorial	http://www.sunsetlakesoftware.com/2014/12/02/why-were-rewriting-our-robotics-software-swift	Why We're Rewriting Our Robotics Software in Swift		20010101
 tutorial	http://www.thinkandbuild.it/interactive-notifications-with-notification-actions	Interactive Notifications with Notification Actions		20010101
 tutorial	http://www.weheartswift.com/birds-cats-dogs	Birds, Cats and Dogs		20141128
 tutorial	http://www.weheartswift.com/drawing-with-text	Drawing with Text		20141019
 tutorial	http://www.weheartswift.com/one-month-swift	One month of Swift		20140629
-tutorial	http://www.weheartswift.com/random-pi	Random Pi		20141010
+tutorial	http://www.weheartswift.com/random-pi	Random Pi	random	20141010
 tutorial	http://www.weheartswift.com/swift-programming-scratch-100-exercises	Swift Programming from Scratch in 100 Exercises		20010101
 sites	http://developer.apple.com/swift/blog	Apple Swift Blog		20010101
 sites	http://developer.apple.com/swift/resources/	Apple Swift Resources		20010101
@@ -324,8 +324,8 @@ source	http://github.com/gscalzo/FlappySwift	Flappy Swift	SpriteKit	20010101
 source	http://github.com/gscalzo/RpnCalculatorKata	RPN Calculator		20010101
 source	http://github.com/houseoflegend/SwirlingBalls	Swirling Balls		20010101
 source	http://github.com/JakeLin/SwiftWeather	Swift Weather		20010101
-source	http://github.com/kevinzhow/PNChart-Swift	PNChart-Swift		20010101
-source	http://github.com/lingoer/SwiftyJSON	The better way to deal with JSON data in Swift		20010101
+source	http://github.com/kevinzhow/PNChart-Swift	PNChart-Swift	chart	20010101
+source	http://github.com/lingoer/SwiftyJSON	The better way to deal with JSON data in Swift	json	20010101
 source	http://github.com/pNre/ExSwift	A set of Swift extensions for standard types and classes		20010101
 source	http://github.com/sarchak/GameOfLife	Game of Life	SpriteKit	20010101
 source	http://github.com/soffes/clock-saver	Simple clock screensaver	mac	20010101
@@ -334,10 +334,10 @@ source	http://github.com/voronianski-on-games/GameOfLifeSwift	Game of Life	Sprit
 source	http://github.com/tibo/SwiftRSS	Swift RSS		20010101
 source	http://github.com/SonoPlot/SerialPortExample-Swift	Serial Port Example		20010101
 tutorial	http://iosdeveloperzone.com/2014/10/13/swift-standard-library-generators-sequences-and-collections	Swift Standard Library: Generators, Sequences and Collections		20141014
-tutorial	http://iosdeveloperzone.com/2014/10/22/taming-foundation-constants-into-swift-enums	Taming Foundation Constants into Swift Enums		20141022
+tutorial	http://iosdeveloperzone.com/2014/10/22/taming-foundation-constants-into-swift-enums	Taming Foundation Constants into Swift Enums	enum	20141022
 tutorial	http://iosdeveloperzone.com/2014/10/15/swift-standard-libraries-sequence-and-collection-functions	Swift Standard Libraries: Sequence and Collection Functions		20141015
 tutorial	http://iosdeveloperzone.com/2014/10/15/swift-parameter-labels	Swift Parameter Labels		20141015
-tutorial	http://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift	UIKit Dynamics - Attachment Behaviour Tutorial in iOS8 with Swift		20141230
+tutorial	http://www.ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift	UIKit Dynamics - Attachment Behaviour Tutorial in iOS8 with Swift	UIKitDynamics	20141230
 tutorial	http://memkite.com/blog/2014/12/30/example-of-sharing-memory-between-gpu-and-cpu-with-swift-and-metal-for-ios8	Example of Sharing Memory Between GPU and CPU with Swift and Metal for iOS8	metal	20141230
 tutorial	http://www.raywenderlich.com/84341/create-breakout-game-sprite-kit-swift	How To Create a Breakout Game with Sprite Kit and Swift	SpriteKit	20141230
 tutorial	http://www.knowstack.com/swift-ios-uitableview	Swift iOS UITableView	UITableView	20141226
@@ -347,33 +347,33 @@ tutorial	http://iosdeveloperzone.com/2014/10/06/simplifying-autolayout-code-with
 advanced	http://iosdeveloperzone.com/2014/10/03/using-commoncrypto-in-swift	Using CommonCrypto in Swift		20141003
 advanced	http://www.screaming.org/blog/2014/09/09/toy-layout-engine-3	Let's Build a Browser Engine in Swift, Part 3		20140909
 tutorial	http://sketchytech.blogspot.com/2014/12/swift-failing-with-class.html	Swift: Failing with Class (failable initializer, nil coalescing operator)		20141218
-tutorial	http://mookid.dk/oncode/archives/3780	Playing with UIView shadows		20140616
-tutorial	http://mookid.dk/oncode/archives/3815	Swift gesture recognizer that accepts a func		20140621
+tutorial	http://mookid.dk/oncode/archives/3780	Playing with UIView shadows	UIView	20140616
+tutorial	http://mookid.dk/oncode/archives/3815	Swift gesture recognizer that accepts a func	gesture	20140621
 tutorial	http://mookid.dk/oncode/archives/3795	How to create a draggable cookie with Swift		20140621
 tutorial	http://jamesonquave.com/blog/taking-control-of-the-iphone-camera-in-ios-8-with-swift-part-2	Taking control of the iPhone camera in iOS 8 with Swift (Part 2)		20140930
 advanced	http://jamesonquave.com/blog/using-equatable-and-nilliteralconvertible-to-re-implement-optionals-in-swift-part-2	Using Equatable and NilLiteralConvertible to re-implement Optionals in Swift (Part 2)		20141206
 advanced	http://jamesonquave.com/blog/re-implementing-optionals-using-swifts-powerful-enum-type	Re-implementing Optionals using Swift’s powerful enum type		20141206
 tutorial	http://www.shrikar.com/blog/2014/11/24/ios-8-notifications-in-swift	iOS 8 Notifications		20141124
 tutorial	http://www.shrikar.com/blog/2014/12/11/ios-sharing-with-uiactivityviewcontroller-in-swift	iOS Sharing With UIActivityViewController		20141211
-tutorial	http://www.shrikar.com/blog/2014/11/18/ios-development-tutorial-visual-blur-with-uivisualeffectview	iOS Development Tutorial: Visual Blur With UIVisualEffectView		20141118
+tutorial	http://www.shrikar.com/blog/2014/11/18/ios-development-tutorial-visual-blur-with-uivisualeffectview	iOS Development Tutorial: Visual Blur With UIVisualEffectView	blur	20141118
 tutorial	http://peterwitham.com/swift/basics/auto-layout-constraints-basics	Auto Layout & Constraints – The Basics	AutoLayout	20141028
 tutorial	http://peterwitham.com/swift/intermediate/display-an-alert	Display an Alert or Action Sheet Using Swift in iOS 8		20141122
 tutorial	http://www.ioscreator.com/tutorials/display-activity-indicator-status-bar-ios8-swift	Display Activity Indicator on Status Bar in iOS8 with Swift		20141202
 tutorial	http://www.ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift	Attributed Strings Tutorial in iOS8 with Swift		20141208
-tutorial	http://www.ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift	Customizing Header and Footer of Table View in iOS8 with Swift		20141210
+tutorial	http://www.ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift	Customizing Header and Footer of Table View in iOS8 with Swift	UITableView	20141210
 tutorial	http://www.ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift	Today Extensions Tutorial in iOS8 with Swift		20141217
-tutorial	http://www.ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift	Custom Fonts in Interface Builder Tutorial in iOS8 with Swift		20141222
+tutorial	http://www.ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift	Custom Fonts in Interface Builder Tutorial in iOS8 with Swift	font	20141222
 tutorial	http://www.ioscreator.com/tutorials/prototype-cells-tableview-tutorial-ios8-swift	Prototype Cells in Tableview Tutorial in iOS8 with Swift		20140813
-tutorial	http://www.ioscreator.com/tutorials/mapkit-tutorial-swift-ios8	MapKit Tutorial with Swift in iOS8		20140818
+tutorial	http://www.ioscreator.com/tutorials/mapkit-tutorial-swift-ios8	MapKit Tutorial with Swift in iOS8	MapKit	20140818
 tutorial	http://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift	Calculator Tutorial in iOS8 with Swift		20140630
-tutorial	http://www.ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift	TableView Tutorial in iOS8 with Swift		20140623
+tutorial	http://www.ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift	TableView Tutorial in iOS8 with Swift	UITableView	20140623
 tutorial	http://www.ioscreator.com/tutorials/display-date-date-picker-ios8-swift	Displaying Date with Date Picker in iOS8 with Swift		20140814
 tutorial	http://www.ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift	Segmented Control Tutorial in iOS8 with Swift		20140815
 tutorial	http://www.ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift	Display an Alert View in iOS8 with Swift		20140625
 tutorial	http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift	Webview Tutorial in iOS8 with Swift		20140709
 tutorial	http://www.ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift	UISwitch Tutorial in iOS8 with Swift		20140721
 tutorial	http://www.mav3r1ck.com/uitapgesturerecognizer	UITapGestureRecognizer		20141220
-tutorial	http://natashatherobot.com/unit-test-optionals-swift	How To Unit Test With Optionals In Swift		20141225
+tutorial	http://natashatherobot.com/unit-test-optionals-swift	How To Unit Test With Optionals In Swift	testing	20141225
 tutorial	http://commandshift.co.uk/blog/2014/12/28/nice-web-services-swift-edition	Nice Web Services, Swift Edition		20141228
 tutorial	http://www.mav3r1ck.com/clock	Swift Clock App		20141116
 advanced	http://airspeedvelocity.net/2014/09/24/which-function-does-swift-call-part-2-single-arguments	Which function does Swift call? Part 2: Single_Arguments		20140924
@@ -397,7 +397,7 @@ advanced	http://flexmonkey.blogspot.com/2014/10/swift-metal-1000-reaction-diffus
 advanced	http://flexmonkey.blogspot.com/2014/11/swift-and-core-data-saving-data-with.html	Swift and Core Data: Saving Data with Thumbnail Previews	CoreData	20141102
 advanced	http://flexmonkey.blogspot.com/2014/11/london-swift-dev-commnity-talk-whistle.html	London Swift Dev Community Talk: Whistle Stop Swift		20141111
 advanced	http://flexmonkey.blogspot.com/2014/11/updating-and-deleting-with-swift-and.html	Updating and Deleting with Swift and Core Data	CoreData	20141112
-tutorial	http://www.mav3r1ck.com/pan-gesture-recognizer	Pan Gesture Recognizer		20140907
+tutorial	http://www.mav3r1ck.com/pan-gesture-recognizer	Pan Gesture Recognizer	gesture	20140907
 tutorial	http://www.mav3r1ck.com/spritekit	SpriteKit with Swift	SpriteKit	20140916
 tutorial	http://www.mav3r1ck.com/arc4random	Arc4random	random	20140922
 tutorial	http://www.mav3r1ck.com/epoch-converter	Epoch Converter		20141004
@@ -406,8 +406,8 @@ tutorial	http://www.mav3r1ck.com/sounds-with-swift	Sounds with Swift	audio	20141
 tutorial	http://www.mav3r1ck.com/push-notifications-with-swift	Push notifications with Swift		20141122
 tutorial	http://www.mav3r1ck.com/swipe-gesture-recognizers	Swipe gesture recognizers		20141202
 advanced	http://natashatherobot.com/swift-string-ranges-the-functional	Swift: Using String Ranges The Functional Way	functional	20141203
-advanced	http://natecook.com/blog/2014/08/set-type-follow-up	Set Type Follow-up		20140825
-advanced	http://natecook.com/blog/2014/08/creating-a-set-type-in-swift	Creating a Set Type in Swift		20140820
+advanced	http://natecook.com/blog/2014/08/set-type-follow-up	Set Type Follow-up	Set	20140825
+advanced	http://natecook.com/blog/2014/08/creating-a-set-type-in-swift	Creating a Set Type in Swift	Set	20140820
 advanced	http://natecook.com/blog/2014/07/c-style-typedef-enums-in-swift	C-Style 'typedef enum' in Swift	enum	20140711
 advanced	http://natecook.com/blog/2014/08/swifts-hidden-array-each-method	Swift's Hidden Array.each Method	Array	20140826
 advanced	http://natecook.com/blog/2014/08/generic-functions-for-incompatible-types	Generic Functions for Incompatible Types	generics	20140829
@@ -446,21 +446,21 @@ tutorial	http://flexmonkey.blogspot.com/2015/01/creating-phimagemanager-browserp
 tutorial	http://ios-blog.co.uk/tutorials/how-to-create-an-objective-c-bridging-header	How to create an Objective-C Bridging header		20150108
 tutorial	http://www.ioscreator.com/tutorials/scene-kit-primitives-tutorial-swift	Scene Kit - Primitives Tutorial with Swift	SceneKit	20150105
 tutorial	http://www.ioscreator.com/tutorials/reordering-rows-table-view-ios8-swift	Reordering Rows from Table View in iOS8 with Swift	UITableView	20150106
-tutorial	http://www.ioscreator.com/tutorials/airprint-tutorial-ios8-swift	AirPrint Tutorial in iOS8 with Swift		20150108
+tutorial	http://www.ioscreator.com/tutorials/airprint-tutorial-ios8-swift	AirPrint Tutorial in iOS8 with Swift	print	20150108
 tutorial	http://natashatherobot.com/mutating-functions-swift-structs	Mutating Functions in Swift Structs		20150107
 tutorial	http://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1	Grand Central Dispatch Tutorial for Swift: Part 1/2	GCD	20150107
 tutorial	http://www.raywenderlich.com/79150/grand-central-dispatch-tutorial-swift-part-2	Grand Central Dispatch Tutorial for Swift: Part 2/2	GCD	20150107
 advanced	http://www.raywenderlich.com/85515/liquidfun-tutorial-1	LiquidFun Tutorial with Metal and Swift – Part 1	metal	20150106
 advanced	http://www.raywenderlich.com/90592/liquidfun-tutorial-2	LiquidFun Tutorial with Metal and Swift – Part 2	metal	20150108
-tutorial	http://medium.com/swift-programming/finding-closure-d5e14c939c84	Finding closure: Using closures in Swift		20150105
+tutorial	http://medium.com/swift-programming/finding-closure-d5e14c939c84	Finding closure: Using closures in Swift	closure	20150105
 tutorial	http://www.raywenderlich.com/93104/video-tutorial-swift-scroll-view-school-part-0-introduction	Video Tutorial: Swift Scroll View School Part 0: Introduction		20150105
-tutorial	http://natashatherobot.com/unit-testing-swift-dependency-injection	Unit Testing in Swift: Dependency Injection		20150102
+tutorial	http://natashatherobot.com/unit-testing-swift-dependency-injection	Unit Testing in Swift: Dependency Injection	testing	20150102
 tutorial	http://natashatherobot.com/functional-swift-tail-recursion	Functional Swift: Tail Recursion Explained	functional	20150102
-tutorial	http://natashatherobot.com/unit-testing-in-swift-a-quick-look-at-quick	Unit Testing in Swift: A Quick Look at Quick		20150105
+tutorial	http://natashatherobot.com/unit-testing-in-swift-a-quick-look-at-quick	Unit Testing in Swift: A Quick Look at Quick	testing	20150105
 tutorial	http://jamesonquave.com/blog/core-animation-swift-tutorial-animatable-properties	Core Animation Swift Tutorial – Animatable Properties	CoreAnimation	20150106
 tutorial	http://peterwitham.com/swift/intermediate/alert-with-user-entry	Display an Alert with Text Field Entry		20150106
-beginner	http://www.codingexplorer.com/hello-world-first-ios-app-swift	Hello World! Your first iOS App in Swift		20150106
-tutorial	http://randexdev.com/2014/08/uicollectionviewcell	How to create custom cells for UICollectionView using Swift		20140830
+beginner	http://www.codingexplorer.com/hello-world-first-ios-app-swift	Hello World! Your first iOS App in Swift	beginner	20150106
+tutorial	http://randexdev.com/2014/08/uicollectionviewcell	How to create custom cells for UICollectionView using Swift	UICollectionView	20140830
 advanced	http://realm.io/news/3d-graphics-metal-swift	An Introduction to 3D Graphics with Metal in Swift	metal:video	20150107
 tutorial	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App Tutorial! Part 1	video	20141217
 tutorial	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App Tutorial! Part 2	video	20150106
@@ -471,7 +471,7 @@ tutorial	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisit
 libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
 sites	http://swiftlang.eu	SwiftLang.eu		20010101
 advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift		20141228
-tutorial	http://gilesvangruisen.com/all-about-table-views	All about table views		20141105
+tutorial	http://gilesvangruisen.com/all-about-table-views	All about table views	UITableView	20141105
 libs	http://github.com/davecom/SwiftGraph	SwiftGraph:  A Graph Data Structure		20010101
 advanced	http://meghagulati.com/2015/01/04/integrating-stripe-in-swift-with-custom-view	Integrating Stripe in Swift with Custom View		20150104
 advanced	http://www.russbishop.net/swift-associated-types	Swift: Associated Types		20150105
@@ -482,48 +482,48 @@ advanced	http://www.russbishop.net/swift-function-currying	Swift Function Curryi
 advanced	http://www.russbishop.net/swift-implicit-pointers	Swift: Implicit Pointers		20140714
 advanced	http://www.russbishop.net/swift-let-s-query-dns	Swift: Let's Query DNS		20140719
 advanced	http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html	Proof in Functions	functional	20150105
-advanced	http://www.ioscreator.com/tutorials/uikit-dynamics-collision-detection-ios8-swift	UIKit Dynamics - Collision Detection in iOS8 with Swift		20150113
+advanced	http://www.ioscreator.com/tutorials/uikit-dynamics-collision-detection-ios8-swift	UIKit Dynamics - Collision Detection in iOS8 with Swift	UIKitDynamics	20150113
 tutorial	http://www.codingexplorer.com/segue-swift-view-controllers	Segue between Swift View Controllers		20150113
 advanced	http://www.ioscreator.com/tutorials/dynamic-types-tutorial-ios8-swift	Dynamic Types Tutorial in iOS8 with Swift		20150115
 advanced	http://vperi.com/2014/06/06/discriminated-unions-in-swift	discriminated unions		20140606
-advanced	http://vperi.com/2014/06/08/regular-expressions-in-switch-statements	regular expressions in switch statements		20140608
+advanced	http://vperi.com/2014/06/08/regular-expressions-in-switch-statements	regular expressions in switch statements	regex	20140608
 advanced	http://vperi.com/2014/06/07/list-traversal-with-discriminated-unions-in-swift	list traversal with discriminated unions		20140607
 advanced	http://vperi.com/2014/06/05/function-composition-pipelining-in-swift	function composition & pipelining operators		20140605
 advanced	http://vperi.com/2014/06/05/spaceship-operator-in-swift	spaceship operator		20140605
-advanced	http://vperi.com/2014/06/04/slicing-arrays-in-swift	slicing arrays		20140604
-advanced	http://vperi.com/2014/06/05/singleton-pattern-in-swift	singleton pattern		20140605
+advanced	http://vperi.com/2014/06/04/slicing-arrays-in-swift	slicing arrays	Array	20140604
+advanced	http://vperi.com/2014/06/05/singleton-pattern-in-swift	singleton pattern	singleton	20140605
 advanced	http://vperi.com/2014/06/05/null-coalescing-operator-elvis-in-swift	null coalescing operator (elvis)		20140605
 advanced	http://vperi.com/2014/06/17/swift-builders	swift builders		20140617
 tutorial	http://www.codingexplorer.com/create-uicolor-swift	How to Create a UIColor in Swift		20150115
-advanced	http://chris.eidhof.nl/posts/functional-view-controllers.html	Functional View Controllers		20150113
+advanced	http://chris.eidhof.nl/posts/functional-view-controllers.html	Functional View Controllers	functional	20150113
 advanced	http://chris.eidhof.nl/posts/repmin-in-swift.html	Repmin in Swift: Combining Tree Traversals		20150110
 advanced	http://flexmonkey.blogspot.co.uk/2015/01/the-sound-of-pendulum-waves-with-swift.html	The Sound of Pendulum Waves with Swift and AudioKit		20150115
-tutorial	http://www.globalnerdy.com/2015/01/15/a-very-brief-introduction-to-date-formatting-in-ios	A very brief introduction to date formatting in Swift and iOS		20150115
-advanced	http://owensd.io/2015/01/14/compiling-swift-without-xcode.html	Compiling Swift Without Xcode		20150114
+tutorial	http://www.globalnerdy.com/2015/01/15/a-very-brief-introduction-to-date-formatting-in-ios	A very brief introduction to date formatting in Swift and iOS	date	20150115
+advanced	http://owensd.io/2015/01/14/compiling-swift-without-xcode.html	Compiling Swift Without Xcode	scripting	20150114
 tutorial	http://code.tutsplus.com/tutorials/swift-from-scratch-optionals-and-control-flow--cms-22874	Swift from Scratch: Optionals and Control Flow		20150102
 advanced	http://www.shrikar.com/blog/2015/01/15/sensoro-ibeacon-discovery-in-ios-8-and-swift	Sensoro iBeacon Discovery in iOS 8 and Swift		20150115
 advanced	http://schani.wordpress.com/2014/06/06/generators-in-swift	Generators in Swift	functional	20140606
 advanced	http://schani.wordpress.com/2014/06/11/associated-types-considered-weird	Associated Types Considered Weird	functional	20140612
 advanced	http://robots.thoughtbot.com/swift-sequences	Swift Sequences		20140611
-advanced	http://robots.thoughtbot.com/input-accessorizing-uiviewcontroller	Input Accessorizing with UIViewController		20141126
+advanced	http://robots.thoughtbot.com/input-accessorizing-uiviewcontroller	Input Accessorizing with UIViewController	UIViewController	20141126
 advanced	http://robots.thoughtbot.com/functional-swift-for-dealing-with-optional-values	Functional Swift for Dealing with Optional Values	functional	20141015
-advanced	http://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift	Parsing Embedded JSON and Arrays in Swift		20140929
+advanced	http://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift	Parsing Embedded JSON and Arrays in Swift	json	20140929
 advanced	http://natashatherobot.com/swift-conform-to-sequence-protocol	How To Conform to the Sequence Protocol		20140722
 advanced	http://natashatherobot.com/swift-init-with-_	Init with _		20140724
-advanced	http://natashatherobot.com/swift-array-iteration-with-index	Array Iteration with Index		20140725
-tutorial	http://natashatherobot.com/swift-enums-unwrap	Swift Enums: Don’t Forget to Unwrap!		20140727
+advanced	http://natashatherobot.com/swift-array-iteration-with-index	Array Iteration with Index	Array	20140725
+tutorial	http://natashatherobot.com/swift-enums-unwrap	Swift Enums: Don’t Forget to Unwrap!	enum	20140727
 tutorial	http://natashatherobot.com/swift-unwrap-multiple-optionals	Unwrapping Multiple Optionals		20140801
 tutorial	http://natashatherobot.com/swift-iboutlets-private	Don’t Forget To Keep Your IBOutlets Private!		20140810
 tutorial	http://natashatherobot.com/swift-default-parameter-values	Why You Should Love Default Parameter Values		20140810
 tutorial	http://natashatherobot.com/swift-manipulating-constant-objects	Manipulating Constant Objects		20140822
-tutorial	http://natashatherobot.com/swift-unit-testing-tips-and-tricks	Unit Testing Tips and Tricks		20140827
+tutorial	http://natashatherobot.com/swift-unit-testing-tips-and-tricks	Unit Testing Tips and Tricks	testing	20140827
 tutorial	http://natashatherobot.com/swift-mvvm-optionals	Using MVVM To Work With Optionals		20140914
 tutorial	http://natashatherobot.com/ios8-where-to-remove-observer-for-nsnotification-in-swift	iOS8: Where To Remove Observer for NSNotification in Swift		20140914
 tutorial	http://natashatherobot.com/navigation-bar-interactions-ios8	Don’t Miss These Navigation Bar Interactions in iOS8		20140915
 tutorial	http://natashatherobot.com/ios-change-uitableviewcell-selection-color-app-wide	iOS: How to Change UITableViewCell’s Selection Color App Wide		20140916
 tutorial	http://natashatherobot.com/swift-access-controls-avoid-private-keyword-repetition	Swift Access Controls: How To Avoid The ‘Private’ Keyword Repetition		20140920
 tutorial	http://natashatherobot.com/swift-string-substringinrange	How To Find A Substring In Range of a Swift String		20141017
-tutorial	http://natashatherobot.com/swift-failable-enums-with-optionals	Failable Enums with Optionals		20141025
+tutorial	http://natashatherobot.com/swift-failable-enums-with-optionals	Failable Enums with Optionals	enum	20141025
 tutorial	http://natashatherobot.com/locale-playground-swift	How To Test Locale In Your Playground in Swift		20141019
 tutorial	http://natashatherobot.com/swift-trailing-closure-syntax	The Problem with Trailing Closure Syntax		20141031
 beginner	http://www.appdesignvault.com/xcode-swift-tutorial-dribbble	How to Create A Dribbble Client from Scratch	video	20150115
@@ -531,7 +531,7 @@ tutorial	http://making.duolingo.com/real-world-swift	Real World Swift		20150107
 advanced	http://flexmonkey.blogspot.com/2015/01/computing-particle-systems-in-swift.html	Computing Particle Systems in Swift with Metal Kernel Functions		20150117
 advanced	http://flexmonkey.blogspot.com/2015/01/1000000-particles-on-ipad.html	1,000,000 Particles on an iPad		20150119
 advanced	http://flexmonkey.blogspot.com/2015/01/two-million-particles-at-25-frames-per.html	Two Million Particles at 25 Frames Per Second on an iPad		20150124
-advanced	http://www.knowstack.com/swift-concurrency-nsoperation-nsoperationqueue	Creating NSBlockOperations & Operation Queue		20150121
+advanced	http://www.knowstack.com/swift-concurrency-nsoperation-nsoperationqueue	Creating NSBlockOperations & Operation Queue	NSOperation	20150121
 tutorial	http://www.ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift	Screen Edge Pan Gesture Tutorial in iOS8 with Swift		20150119
 tutorial	http://www.ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift	Add Event to Calendar Tutorial in iOS8 with Swift		20150120
 tutorial	http://www.ioscreator.com/tutorials/take-photo-tutorial-ios8-swift	Take Photo Tutorial in iOS8 with Swift		20150121
@@ -541,40 +541,40 @@ tutorial	http://www.russbishop.net/swift-capture-lists	Swift Quickie: Capture Li
 tutorial	http://www.shrikar.com/blog/2015/01/17/ios-swift-tutorial-uipageviewcontroller-as-user-onboarding-tool	iOS Swift Tutorial: UIPageViewController as User Onboarding Tool		20150117
 tutorial	http://www.shrikar.com/blog/2015/01/17/uitableview-and-uitableviewcell-customization-in-swift	UITableView and UITableViewCell Customization in Swift		20150117
 tutorial	http://www.shrikar.com/blog/2015/01/24/implementing-barcode-scanning-in-ios8-with-swift	AVFoundation : Implementing Barcode Scanning in iOS8 With Swift		20150124
-tutorial	http://developer.apple.com/swift/blog/?id=20	Redefining Everything with the Swift REPL		20150123
+tutorial	http://developer.apple.com/swift/blog/?id=20	Redefining Everything with the Swift REPL	repl	20150123
 tutorial	http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial	NSRegularExpression in Swift Tutorial		20150121
-advanced	http://codeplease.io/monads	Monads	functional	20150118
+advanced	http://codeplease.io/monads	Monads	functional:monad	20150118
 advanced	http://optshiftk.com/2015/01/choosing-the-best-expression/	Choosing the Best Expression		20150111
-libs	http://github.com/SwiftyJSON/SwiftyJSON	SwiftyJSON		20010101
-tutorial	http://radex.io/swift/nsuserdefaults	Swifty APIs: NSUserDefaults		20150121
+libs	http://github.com/SwiftyJSON/SwiftyJSON	SwiftyJSON	json	20010101
+tutorial	http://radex.io/swift/nsuserdefaults	Swifty APIs: NSUserDefaults	NSUserDefaults	20150121
 tutorial	http://www.thinkandbuild.it/implementing-the-twitter-ios-app-ui	Implementing the Twitter iOS App UI		20150121
 tutorial	http://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples	CALayer in iOS with Swift: 10 Examples	CALayer	20150127
 tutorial	http://www.ioscreator.com/tutorials/scenes-tutorial-spritekit-swift	Scenes Tutorial in SpriteKit with Swift	SpriteKit	20150127
-tutorial	http://peterwitham.com/swift/basics/access-control	Swift Access Control – Private, Public and Internal		20150127
+tutorial	http://peterwitham.com/swift/basics/access-control	Swift Access Control – Private, Public and Internal	swift	20150127
 advanced	http://metalbyexample.com/translucency-and-transparency	Translucency and Transparency in Metal	metal	20150126
 tutorial	http://www.codingexplorer.com/getting-started-uitableview-swift	Getting Started With UITableView in Swift	UITableView	20150126
 advanced	http://nshipster.com/swift-objc-runtime	Swift & the Objective-C Runtime		20150126
 advanced	http://gilesvangruisen.com/mvvm-swift	Model-View-ViewModel with Swift		20150125
-advanced	http://flexmonkey.blogspot.com/2015/01/a-simple-scenekit-material-editor-in.html	A Simple SceneKit Material Editor in Swift		20150125
+advanced	http://flexmonkey.blogspot.com/2015/01/a-simple-scenekit-material-editor-in.html	A Simple SceneKit Material Editor in Swift	SceneKit	20150125
 advanced	http://www.thinkandbuild.it/building-a-custom-and-designabl-control-in-swift	How to build a custom (and ''designable'') control in Swift		20141118
-advanced	http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable	Building custom UI Elements with IBDesignable		20140908
+advanced	http://www.thinkandbuild.it/building-custom-ui-element-with-ibdesignable	Building custom UI Elements with IBDesignable	IBDesignable	20140908
 libs	http://github.com/radex/SwiftyUserDefaults	SwiftyUserDefaults		20010101
 advanced	http://mikeash.com/pyblog/friday-qa-2015-01-23-lets-build-swift-notifications.html	Let's Build Swift Notifications 		20150123
 libs	http://github.com/KyoheiG3/SimpleAlert	SimpleAlert		20010101
 libs	http://github.com/hamin/EventSource.Swift	EventSource.Swift		20010101
 libs	http://github.com/schwa/SwiftGraphics	SwiftGraphics		20010101
-libs	http://github.com/lidori/fallingLetters	Falling Letters Swift Animation		20010101
+libs	http://github.com/lidori/fallingLetters	Falling Letters Swift Animation	animation	20010101
 libs	http://github.com/hamin/FayeSwift	Swift Client Library for the Faye Pub-Sub messaging server		20010101
 beginner	http://www.firebase.com/blog/2015-01-23-video-walkthrough-swift-fundamentals.html?video	A Video Walkthrough of Swift Fundamentals	video	20150123
 sites	http://github.com/matteocrippa/awesome-swift	Awesome Swift		20010101
-advanced	http://flexmonkey.blogspot.com/2015/01/functional-vs-imperative-creating.html	Functional vs Imperative: Creating a Multiline UISegmentedControl in Swift		20150127
+advanced	http://flexmonkey.blogspot.com/2015/01/functional-vs-imperative-creating.html	Functional vs Imperative: Creating a Multiline UISegmentedControl in Swift	functional	20150127
 advanced	http://blog.segiddins.me/2015/01/25/dynamic-casting-in-swift	Dynamic Casting in Swift		20150125
-advanced	http://prolificinteractive.com/blog/2015/01/26/tutorial-introduction-touchid-swift	Use Touch ID in Your Swift App		20150126
+advanced	http://prolificinteractive.com/blog/2015/01/26/tutorial-introduction-touchid-swift	Use Touch ID in Your Swift App	TouchId	20150126
 advanced	http://austinzheng.com/2015/01/24/swift-seq	Sequences and Generators	functional	20150124
 advanced	http://jspha.com/posts/calkin-wilf-in-swift	Calkin-Wilf in Swift	functional	20140727
 tutorial	http://shrikar.com/blog/2014/10/12/ios8-cloudkit-tutorial-part-1	IOS8 Cloudkit Tutorial - Part 1	CloudKit	20141012
 tutorial	http://shrikar.com/blog/2014/10/15/ios8-cloudkit-tutorial-part-2	IOS8 Cloudkit Tutorial - Part 2	CloudKit	20141015
-tutorial	http://www.scottlogic.com/blog/2015/01/27/swift-exception-handling.html	Exception Handling in Swift 		20150126
+tutorial	http://www.scottlogic.com/blog/2015/01/27/swift-exception-handling.html	Exception Handling in Swift 	exceptions	20150126
 tutorial	http://www.raywenderlich.com/87231/make-game-like-mega-jump-sprite-kit-swift-part-1	How to Make a Game Like Mega Jump With Sprite Kit and Swift: Part 1/2	SpriteKit	20150128
 tutorial	http://www.raywenderlich.com/87232/make-game-like-mega-jump-sprite-kit-swift-part-2	How to Make a Game Like Mega Jump With Sprite Kit and Swift: Part 2/2	SpriteKit	20150128
 tutorial	http://www.weheartswift.com/swift-programming-scratch-application-demo	Swift Programming from Scratch Application Demo 		20150128
@@ -582,23 +582,23 @@ tutorial	http://www.codingexplorer.com/how-to-dismiss-uitextfields-keyboard-in-y
 tutorial	http://www.ioscreator.com/tutorials/local-notification-tutorial-ios8-swift	Local Notification Tutorial in iOS8 with Swift		20150129
 tutorial	http://www.raywenderlich.com/87975/dynamic-table-view-cell-height-ios-8-swift	Dynamic Table View Cell Height in iOS 8 and Swift	UITableCell	20150129
 advanced	http://flexmonkey.blogspot.com/2015/02/swarm-chemistry-creating-advanced-gpu.html	Swarm Chemistry: Creating an Advanced GPU Based Particle System with Metal	metal	20150202
-tutorial	http://shrikar.com/blog/2015/02/01/xcode-6-tutorial-designing-the-ios-app-layout-for-barcode-inventory-app	Xcode 6 Tutorial: Designing the iOS App Layout for Barcode Inventory App		20150201
+tutorial	http://shrikar.com/blog/2015/02/01/xcode-6-tutorial-designing-the-ios-app-layout-for-barcode-inventory-app	Xcode 6 Tutorial: Designing the iOS App Layout for Barcode Inventory App	xcode	20150201
 tutorial	http://www.ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift	Move View Behind Keyboard in iOS8 With Swift		20150202
-libs	http://github.com/MengTo/Spring	A library to simplify iOS animations in Swift		20010101
+libs	http://github.com/MengTo/Spring	A library to simplify iOS animations in Swift	animation	20010101
 advanced	http://owensd.io/2015/01/29/swift-resistance.html	Swift Resistance		20150129
 advanced	http://owensd.io/2015/02/01/the-optimization-game.html	The Optimization Game		20150201
 advanced	http://owensd.io/2015/01/31/swift-resistance-explored.html	Swift Resistance Explored		20150131
 advanced	http://blog.human-friendly.com/overcoming-swift-resistance-explored	Overcoming Swift Resistance Explored		20150131
 advanced	http://owensd.io/2014/09/24/swift-experiences.html	My Swift Dilemma		20140924
-libs	http://github.com/AlwaysRightInstitute/SwiftSockets	A simple GCD based socket wrapper for Swift. 		20010101
+libs	http://github.com/AlwaysRightInstitute/SwiftSockets	A simple GCD based socket wrapper for Swift. 	GCD	20010101
 libs	http://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook	GitHub repository of O'Reilly's iOS 8 Swift Programming Cookbook		20010101
 advanced	http://realm.io/news/chris-eidhof-micro-libraries-swift	Tiny Networking: Building Micro-Libraries in Swift	video	20150128
 tutorial	http://www.youtube.com/user/SkipCasts/playlists	SkipCasts – Skip Wilson	video	20010101
 tutorial	http://blog.human-friendly.com/the-importance-of-being-final	The Importance of Being `final`		20150130
 advanced	http://dev.teeps.org/blog/2015/1/16/function-composition-in-swift	Function Composition in Swift	functional	20150116
 advanced	http://chris.eidhof.nl/posts/lenses-in-swift.html	Lenses in Swift: Combining getters and setters for great glory	functional	20141114
-tutorial	http://www.raywenderlich.com/92667/securing-ios-data-keychain-touch-id-1password	Securing iOS User Data: The Keychain, Touch ID, and 1Password		20150203
-advanced	http://robots.thoughtbot.com/real-world-json-parsing-with-swift	Real World JSON Parsing with Swift	functional	20140918
+tutorial	http://www.raywenderlich.com/92667/securing-ios-data-keychain-touch-id-1password	Securing iOS User Data: The Keychain, Touch ID, and 1Password	TouchId	20150203
+advanced	http://robots.thoughtbot.com/real-world-json-parsing-with-swift	Real World JSON Parsing with Swift	functional:json	20140918
 advanced	http://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more	Higher Order Functions: Map, Filter, Reduce and more – Part 1	functional	20140603
 tutorial	http://www.weheartswift.com/swift-classes-part-1	Swift Classes – Part 1		20140603
 tutorial	http://www.weheartswift.com/swifting-around	Swifting Around		20140605
@@ -607,17 +607,17 @@ advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	Sprite
 tutorial	http://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2		20140609
 tutorial	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift		20140616
 advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift		20140627
-advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	video	20140709
-tutorial	http://www.weheartswift.com/playing-strings	Playing with Strings		20140926
+advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	video:json	20140709
+tutorial	http://www.weheartswift.com/playing-strings	Playing with Strings	string	20140926
 tutorial	http://medium.com/swift-programming/ios-make-an-awesome-video-background-view-objective-c-swift-318e1d71d0a2	iOS: Make an Awesome Video Background View Using UIWebView (Objective-C & Swift)		20140726
-tutorial	http://waynewbishop.com/swift/stacks-queues	Stacks & Queues		20010101
-tutorial	http://waynewbishop.com/swift/graphs	Graphs		20010101
-tutorial	http://waynewbishop.com/swift/big-o-notation	Big O Notation		20010101
-tutorial	http://waynewbishop.com/swift/sorting-algorithms	Sorting		20010101
-tutorial	http://waynewbishop.com/swift/linked-lists	Linked Lists		20010101
-tutorial	http://waynewbishop.com/swift/generics	Generics		20010101
-tutorial	http://waynewbishop.com/swift/binary-search-trees	Binary Search Trees		20010101
-tutorial	http://waynewbishop.com/swift/graphs/dijkstra	Shortest Paths		20010101
+tutorial	http://waynewbishop.com/swift/stacks-queues	Stacks & Queues	algorithm	20010101
+tutorial	http://waynewbishop.com/swift/graphs	Graphs	algorithm	20010101
+tutorial	http://waynewbishop.com/swift/big-o-notation	Big O Notation	algorithm	20010101
+tutorial	http://waynewbishop.com/swift/sorting-algorithms	Sorting	algorithm	20010101
+tutorial	http://waynewbishop.com/swift/linked-lists	Linked Lists	algorithm	20010101
+tutorial	http://waynewbishop.com/swift/generics	Generics	generics	20010101
+tutorial	http://waynewbishop.com/swift/binary-search-trees	Binary Search Trees	algorithm	20010101
+tutorial	http://waynewbishop.com/swift/graphs/dijkstra	Shortest Paths	algorithm	20010101
 tutorial	http://waynewbishop.com/swift/heaps	Heaps		20010101
 tutorial	http://waynewbishop.com/swift/traversals	Traversals		20010101
 advanced	http://www.codingexplorer.com/swift-property-observers	Swift Property Observers		20140923
@@ -625,19 +625,19 @@ tutorial	http://medium.com/swift-programming/float-rating-view-in-swift-e740b6b9
 advanced	http://blog.mariusschulz.com/2014/09/14/playing-with-closure-expressions-and-operator-functions-in-swift	Playing with Closure Expressions and Operator Functions in Swift	functional	20140914
 advanced	http://nshipster.com/swift-comparison-protocols	Swift Comparison Protocols		20140922
 tutorial	http://mathewsanders.com/animated-transitions-in-swift	Prototyping Animated Transitions in Swift		20140905
-tutorial	http://mathewsanders.com/custom-menu-transitions-in-swift	Transitions in Swift (Part II)		20140907
-tutorial	http://mathewsanders.com/interactive-transitions-in-swift	Transitions in Swift (Part III)		20140914
+tutorial	http://mathewsanders.com/custom-menu-transitions-in-swift	Transitions in Swift (Part II)	transitions	20140907
+tutorial	http://mathewsanders.com/interactive-transitions-in-swift	Transitions in Swift (Part III)	transitions	20140914
 tutorial	http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus	Adaptive Layouts for iPhone 6		20140920
 advanced	http://swiftyeti.com/texteffects-with-nslayoutmanager	TextEffects with NSLayoutManager		20140711
-advanced	http://nshipster.com/ibinspectable-ibdesignable	IBInspectable / IBDesignable		20150202
-tutorial	http://www.ioscreator.com/tutorials/size-classes-ios8-xcode-6	Size Classes Tutorial in iOS8 and Xcode 6		20140925
+advanced	http://nshipster.com/ibinspectable-ibdesignable	IBInspectable / IBDesignable	IBDesignable	20150202
+tutorial	http://www.ioscreator.com/tutorials/size-classes-ios8-xcode-6	Size Classes Tutorial in iOS8 and Xcode 6	AdaptiveLayout	20140925
 beginner	http://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	MadApper - Swift Programming: Introduction	video	20010101
 tutorial	http://www.raywenderlich.com/89222/sprite-kit-animations-texture-atlases-swift	Sprite Kit Animations and Texture Atlases in Swift	SpriteKit	20150204
 tutorial	http://flexmonkey.blogspot.com/2015/02/if-you-were-interested-in-my-recent.html	Adding a User Interface to my Swarm Chemistry App on an iPad		20150204
 advanced	http://www.andrewcbancroft.com/2015/01/29/converting-complex-objective-c-macros-swift-functions	Converting Complex Objective-C Macros to Swift Functions		20150129
 advanced	http://www.andrewcbancroft.com/2015/02/05/nsnotificationcenter-vs-delegation-swift-analysis	NSNotificationCenter vs Delegation – A Swift Analysis		20150205
 advanced	http://www.andrewcbancroft.com/2015/01/20/conveniently-transforming-immutable-types-swift	Conveniently Transforming Immutable Types in Swift		20150120
-advanced	http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift	Unit Testing Model Layer with Core Data and Swift	CoreData	20150113
+advanced	http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift	Unit Testing Model Layer with Core Data and Swift	CoreData:testomg	20150113
 advanced	http://www.andrewcbancroft.com/2015/01/06/immutable-types-changing-state-swift	Immutable Types with Changing State in Swift		20150106
 tutorial	http://www.andrewcbancroft.com/2014/12/29/getting-started-unit-testing-swift	Getting Started with Unit Testing in Swift	testing	20141229
 advanced	http://www.figure.ink/blog/2015/1/31/swift-state-machines-part-1	Swift State Machines: Part 1		20150131
@@ -725,7 +725,7 @@ tutorial	http://www.raywenderlich.com/95910/uiview-animation-swift-tutorial	UIVi
 advanced	http://www.andrewcbancroft.com/2015/02/18/core-data-cheat-sheet-for-swift-ios-developers	Core Data Cheat Sheet for Swift iOS Developers	CoreData	20150218
 tutorial	http://developer.apple.com/swift/blog/?id=23	The as! Operator		20150218
 tutorial	http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer	How To Implement A Circular Image Loader Animation with CAShapeLayer		20150219
-tutorial	http://www.codingexplorer.com/swift-set-type	Swift Set Type in Swift 1.2		20150219
+tutorial	http://www.codingexplorer.com/swift-set-type	Swift Set Type in Swift 1.2	Set	20150219
 tutorial	http://www.appdesignvault.com/custom-segmented-control-swift-tutorial	How to Build a Custom Segmented Control in Swift	video	20150220
 tutorial	http://www.raywenderlich.com/96062/custom-view-controller-presentation-transitions-swift	Custom View Controller Presentation Transitions with Swift		20150220
 advanced	http://five.agency/solving-the-binding-problem-with-swift	Solving the binding problem with Swift		20150218
@@ -1791,3 +1791,22 @@ advanced	http://speakerdeck.com/ayanonagon/swift-scripting	Swift Scripting	scrip
 advanced	http://krakendev.io/blog/scripting-in-swift	SCRIPTING IN SWIFT IS PRETTY AWESOME	scripting	20150630
 libs	http://github.com/sahandnayebaziz/SwiftHub	An iOS app for exploring popular Github repositories		20010101
 libs	http://github.com/superlopuh/bioswift	Implementing algorithms in my Bioinformatics course	algorithm	20010101
+advanced	http://christiantietze.de/posts/2015/09/guard-unit-test	Using Guard in Unit Tests	exceptions	20150922
+advanced	http://davisvigneault.com/2015/09/initialization-in-swift	Initialization in Swift	swift	20150922
+advanced	http://eliasbagley.github.io/json/api/alamofire/2015/09/25/making-network-requests-with-alamofire.html	Making Network Requests with Alamofire		20150925
+libs	http://github.com/AaronBratcher/ALBNoSQLDB	A SQLite database wrapper written in Swift that requires no SQL knowledge to use and can sync with instances of itself		20010101
+libs	http://github.com/aquarchitect/MyKit	Swift library that extends iOS and OS X fundamental frameworks' functionality		20010101
+libs	http://github.com/Daij-Djan/DDUtils	a VERY loose collection of individual classes and/or components for OSX/IOS that I find myself reusing 		20010101
+libs	http://github.com/evgenyneu/SigmaSwiftStatistics	A collection of functions for statistical calculation in iOS and OS X		20010101
+libs	http://github.com/rasmusth/BluetoothKit	Easily communicate between iOS/OSX devices using BLE		20010101
+libs	http://github.com/vermont42/GpxLocationManager	GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing		20010101
+advanced	http://www.mokacoding.com/blog/demistifying-swift-functor	Swift Optionals, Functional Programming, and You		20150922
+advanced	http://www.thomashanning.com/api-availability-checking-in-swift-2-0	Swift 2.0: API Availability Checking		20150921
+advanced	http://www.thomashanning.com/nsurl-and-nsurlcomponents	NSURL and NSURLComponents		20150924
+advanced	http://flexmonkey.blogspot.com/2015/09/a-first-look-at-metal-performance-on.html	A First Look at Metal Performance on the iPhone 6s	metal	20150925
+advanced	http://littlebitesofcocoa.com/90	little bites of cocoa: #90: Custom Xcode Project Templates	xcode	20150925
+advanced	http://christiantietze.de/posts/2015/09/test-mocked-classes	Testing Shorthand: Use a Subclass of the Real Object Under Test	testing	20150924
+advanced	http://christiantietze.de/posts/2015/09/generic-core-data-fetch-request	Save Yourself Casting Headaches with a Generic Fetch Request Object	CoreData	20150919
+advanced	http://christiantietze.de/posts/2015/09/dismissing-modal-scene-ipad-iphone-segue	Dismissing a Modally Presented Scene on Both iPad and iPhones Using Unwind Segues		20150914
+advanced	http://christiantietze.de/posts/2015/09/two-service-types	How to Create Flexible Components with Two Levels of Service Objects		20150907
+beginner	http://itunes.apple.com/us/course/ios-development-in-swift/id950659946	iOS Development in Swift by Plymouth University	beginner:iTunes:video	20010101
