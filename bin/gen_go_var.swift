@@ -73,10 +73,10 @@ func readLines(filePath: String) -> [String] {
 }
 
 func writeGoVar(groupNum: Int, url: String, name: String,
-    source: String, tags: String, date: Int) {
+    source: String, githubName:String, tags: String, date: Int) {
         
         let lowerTitle = name.lowercaseString
-        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(tags)\",\(date) },")
+        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", \"\(tags)\",\(date) },")
 }
 
 func deriveSource(url: String) -> (String, String) {
@@ -89,8 +89,11 @@ func deriveSource(url: String) -> (String, String) {
     F = url0.componentsSeparatedByString("/")
     if url.rangeOfString("github.com") != nil {
         source = "github.com/" + F[1]
-        githubName = F[1]
-        
+        // githubName = url0.stringByReplacingOccurrencesOfString("github.com/", withString: "", options: NSStringCompareOptions.LiteralSearch, range: nil)
+        githubName = F.last!
+        if githubName == "README.md" {
+            githubName = ""
+        }
     } else if url.hasPrefix("http") { //(url =~ m#^http://([a-zA-Z0-9.\-\!\#]*)/#) {
         
         source = F[0].stringByReplacingOccurrencesOfString("www.", withString: "", options: NSStringCompareOptions.LiteralSearch, range: nil) //  source =~ s/www[.]//;

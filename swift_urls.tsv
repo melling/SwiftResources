@@ -108,7 +108,7 @@ libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
 libs	http://github.com/uacaps/PageMenu			20010101
 libs	http://github.com/zhxnlai/ZLBalancedFlowLayout/tree/master/ZLBalancedFlowLayoutDemo			20010101
-beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	video:beginner:iTunes	20150126
+beginner	http://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099	Developing iOS 8 Apps with Swift - by Stanford	beginner:iTunes:video	20150126
 beginner	http://learnxinyminutes.com/docs/swift	Learn X in Y minutes - Where X=swift	beginner	20010101
 beginner	http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift	An Absolute Beginner's Guide to Swift	beginner	20140609
 beginner	http://www.raywenderlich.com/video-tutorials	Swift Series	video	20140611
@@ -1074,7 +1074,7 @@ advanced	http://realm.io/news/russ-bishop-unsafe-swift	Unsafe Swift: For Fun & P
 advanced	http://realm.io/news/swift-summit	Swift Summit		20010101
 advanced	http://realm.io/news/swift-summit-simon-gladman-metal	The Supercomputer In Your Pocket: Metal & Swift	metal	20150522
 advanced	http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swift	Making a Numeric Type in Swift		20150522
-libs	http://github.com/ayanonagon/Polyglot	Polyglot: A simple Swift API for Microsoft Translator		20010101
+libs	http://github.com/ayanonagon/Polyglot	A simple Swift API for Microsoft Translator		20010101
 libs	http://github.com/jkolb/midnightbacon	midnightbacon: An iOS Reddit client		20010101
 advanced	http://radex.io/swift/nstimer	Swifty APIs: NSTimer	NSTimer	20150511
 advanced	http://ericasadun.com/2015/06/09/swift-why-try-and-catch-dont-work-the-way-you-expect	Swift: Why Try and Catch don’t work the way you expect	exceptions	20150609
