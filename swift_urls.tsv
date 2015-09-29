@@ -580,7 +580,7 @@ tutorial	http://www.raywenderlich.com/87232/make-game-like-mega-jump-sprite-kit-
 tutorial	http://www.weheartswift.com/swift-programming-scratch-application-demo	Swift Programming from Scratch Application Demo 		20150128
 tutorial	http://www.codingexplorer.com/how-to-dismiss-uitextfields-keyboard-in-your-swift-app	How to Dismiss UITextField’s Keyboard in your Swift App		20150128
 tutorial	http://www.ioscreator.com/tutorials/local-notification-tutorial-ios8-swift	Local Notification Tutorial in iOS8 with Swift		20150129
-tutorial	http://www.raywenderlich.com/87975/dynamic-table-view-cell-height-ios-8-swift	Dynamic Table View Cell Height in iOS 8 and Swift	UITableCell	20150129
+tutorial	http://www.raywenderlich.com/87975/dynamic-table-view-cell-height-ios-8-swift	Dynamic Table View Cell Height in iOS 8 and Swift	UITableViewCell	20150129
 advanced	http://flexmonkey.blogspot.com/2015/02/swarm-chemistry-creating-advanced-gpu.html	Swarm Chemistry: Creating an Advanced GPU Based Particle System with Metal	metal	20150202
 tutorial	http://shrikar.com/blog/2015/02/01/xcode-6-tutorial-designing-the-ios-app-layout-for-barcode-inventory-app	Xcode 6 Tutorial: Designing the iOS App Layout for Barcode Inventory App	xcode	20150201
 tutorial	http://www.ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift	Move View Behind Keyboard in iOS8 With Swift		20150202
@@ -1286,7 +1286,7 @@ advanced	http://littlebitesofcocoa.com/37	little bites of cocoa: #37: Touch ID	T
 advanced	http://littlebitesofcocoa.com/38	little bites of cocoa: #38: Gesture Recognizer Basics		20150715
 advanced	http://littlebitesofcocoa.com/39	little bites of cocoa: #39: CGPath Basics	CGPath	20150716
 advanced	http://littlebitesofcocoa.com/40	little bites of cocoa: #40: Toucan		20150717
-advanced	http://www.figure.ink/blog/2015/7/12/custom-menu-items-for-table-view-cells	Custom Menu Items for Table View Cells	UITableCell	20150712
+advanced	http://www.figure.ink/blog/2015/7/12/custom-menu-items-for-table-view-cells	Custom Menu Items for Table View Cells	UITableViewCell	20150712
 advanced	http://ericasadun.com/2015/07/12/swift-enumerations-or-how-to-annoy-tom	Swift: Enumerations or how to annoy Tom	enum	20150712
 advanced	http://www.ioscreator.com/tutorials/tab-bar-controller-tutorial-ios8-swift	Tab Bar Controller Tutorial in iOS8 with Swift		20150713
 advanced	http://sketchytech.blogspot.com/2015/07/uiactivityviewcontroller-part-1-from-my.html	UIActivityViewController (Part 1): Tweeting and Printing in Swift		20150713
@@ -1372,7 +1372,7 @@ advanced	http://littlebitesofcocoa.com/46	little bites of cocoa: #46: NSFileMana
 advanced	http://littlebitesofcocoa.com/47	little bites of cocoa: #47: MKLocalSearch		20150728
 advanced	http://littlebitesofcocoa.com/48	little bites of cocoa: #48: MKDirections		20150729
 advanced	http://littlebitesofcocoa.com/49	little bites of cocoa: #49: Realm Basics		20150730
-advanced	http://littlebitesofcocoa.com/50	little bites of cocoa: #50: Expanding UITableViewCells	UITableCell	20150731
+advanced	http://littlebitesofcocoa.com/50	little bites of cocoa: #50: Expanding UITableViewCells	UITableViewCell	20150731
 advanced	http://littlebitesofcocoa.com/51	little bites of cocoa: #51: PINRemoteImage		20150803
 advanced	http://littlebitesofcocoa.com/52	little bites of cocoa: #52: R.swift		20150804
 advanced	http://littlebitesofcocoa.com/53	little bites of cocoa: #53: Signatures with Jot		20150805
@@ -1566,11 +1566,13 @@ advanced	http://www.hackingwithswift.com/read/1/overview	Project 1: Storm Viewer
 advanced	http://www.hackingwithswift.com/read/0/overview	Swift for Complete Beginners	beginner	20150802
 advanced	http://martiancraft.com/blog/2015/07/objective-c-swift-core-data	MOVING FROM OBJECTIVE-C TO SWIFT WITH CORE DATA	CoreData	20150722
 advanced	http://useyourloaf.com/blog/2015/07/27/swift-whole-module-optimization.html	Swift Whole Module Optimization		20150727
-advanced	http://swiftaday.com/post/128869724201/3d-torus	3D Torus		20150911
-advanced	http://swiftaday.com/post/128684224721/radial-lines	Radial lines		20150908
-advanced	http://swiftaday.com/post/128245776626/accelerometer-soup	Accelerometer Soup		20150903
-advanced	http://swiftaday.com/post/128491699586/homage-to-the-square	Homage to the Square		20150906
-advanced	http://swiftaday.com/post/128235864766/follow-my-finger	Follow My Finger		20150902
+advanced	http://swiftaday.com/post/128869724201/3d-torus	Swift A Day: 3D Torus		20150911
+advanced	http://swiftaday.com/post/128684224721/radial-lines	Swift A Day: Radial lines		20150908
+advanced	http://swiftaday.com/post/128245776626/accelerometer-soup	Swift A Day: Accelerometer Soup		20150903
+advanced	http://swiftaday.com/post/128491699586/homage-to-the-square	Swift A Day: Homage to the Square		20150906
+advanced	http://swiftaday.com/post/128235864766/follow-my-finger	Swift A Day: Follow My Finger		20150902
+advanced	http://swiftaday.com/post/130139651021/microscope-mask	Swift A Day: Microscope Mask		20150929
+advanced	http://swiftaday.com/post/129186540696/hex-drop	Swift A Day: Hex Drop		20150916
 advanced	http://littlebitesofcocoa.com/80	little bites of cocoa:#80: View Controller Previews		20150911
 advanced	http://ericasadun.com/2015/09/11/split-swiftlang	Split #swiftlang	string	20150911
 advanced	http://flexmonkey.blogspot.com/2015/09/a-swift-node-based-user-interface.html	A Swift Node Based User Interface Component for iOS		20150912
@@ -1734,7 +1736,6 @@ advanced	http://www.invasivecode.com/weblog/gameplaykit-state-machine	GameplayKi
 advanced	http://www.invasivecode.com/weblog/mapkit-flyover-transit	MapKit for iOS 9: Flyover, Transit and Customization	MapKit	20150728
 advanced	http://www.invasivecode.com/weblog/uistackview-core-animation	UIStackView, Auto Layout and Core Animation	AutoLayout:UIStackView	20150714
 advanced	http://realm.io/news/andy-matuschak-refactor-mega-controller	Let's Play: Refactor the Mega Controller!		20150916
-advanced	http://swiftaday.com/post/129186540696/hex-drop	Swift A Day: Hex Drop		20150916
 advanced	http://littlebitesofcocoa.com/83	little bites of cocoa: #83: UIImagePickerController Basics		20150916
 advanced	http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial	Beginning tvOS Development with TVML Tutorial	AppleTV	20150916
 advanced	http://ericasadun.com/2015/09/15/revisiting-the-permutation-generator-in-swiftlang	Revisiting the Permutation Generator in #swiftlang		20150916
@@ -1840,3 +1841,13 @@ libs	http://github.com/minsOne/MOJailBrokenDector	It is converted swift language
 libs	http://github.com/daisuke0131/ViewMonitor	ViewMonitor can measure View positions with accuracy		20010101
 libs	http://github.com/rehatkathuria/SnappingSlider	A beautiful slider control for iOS		20010101
 libs	http://github.com/FlexMonkey/Blurable	Apply a Gaussian Blur to any UIView with Swift Protocol Extensions	blur:protocol	20010101
+advanced	http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance	Swift 2.1 Function Types Conversion: Covariance and Contravariance	SwiftLang	20150929
+advanced	http://littlebitesofcocoa.com/92	little bites of cocoa:#92: Shared Links Extensions		20150929
+advanced	http://swiftyos.wordpress.com/2015/09/29/animated-tableview-pull-to-refresh-loading-pulltobounce	Animated TableView Pull to Refresh Loading – PullToBounce		20150929
+advanced	http://swiftyos.wordpress.com/2015/09/14/animated-login-screen-tksubmittransition	Animated Login Screen – TKSubmitTransition		20150914
+advanced	http://swiftyos.wordpress.com/2015/08/14/animated-dropdown-option-menu-using-igldropdown-in-swift	Animated Dropdown Option Menu using IGLDropDown		20150814
+advanced	http://swiftyos.wordpress.com/2015/08/08/snubbble-make-dribbble-client-in-swift-part-1	Snubbble – Make Dribbble Client in Swift – Part 1		20150808
+advanced	http://swiftyos.wordpress.com/2015/08/02/animated-loading-indicator-swift-bafluidview	Animated Loading Indicator – BAFluidView		20150802
+advanced	http://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition	Animated Wave Transition in CollectionView – CKWaveCollectionViewTransition		20150801
+advanced	http://swiftyos.wordpress.com/2015/07/17/password-lock-watchkit-apple-watch-app	Password Lock WatchKit App	watchkit	20150717
+advanced	http://swiftyos.wordpress.com/2015/07/17/hello-world-first-swift-ios-app	Hello World – First Swift iOS App		20150717
