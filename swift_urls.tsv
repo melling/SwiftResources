@@ -1687,7 +1687,7 @@ libs	http://github.com/LiorNn/DragDropCollectionView	A UICollectionView which al
 libs	http://github.com/MHaroonBaig/MotionKit	Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple		20010101
 libs	http://github.com/michaelbabiy/RMParallax	The way to impress users on the first app launch		20010101
 libs	http://github.com/Mozharovsky/CVCalendar	A custom visual calendar		20010101
-libs	http://github.com/muhammadbassio/MABCardsView	A Swift port for https://github.com/zhxnlai/ZLSwipeableView		20010101
+libs	http://github.com/muhammadbassio/MABCardsView	A Swift port for http://github.com/zhxnlai/ZLSwipeableView		20010101
 libs	http://github.com/nori0620/SwiftFilePath	Simple and powerful wrapper for NSFileManager		20010101
 libs	http://github.com/onevcat/Kingfisher	A lightweight and pure Swift implemented library for downloading and caching image from the web.		20010101
 libs	http://github.com/onevcat/RandomColorSwift	An attractive color generator. Ported from randomColor.js		20010101
@@ -1709,8 +1709,8 @@ libs	http://github.com/Yalantis/Persei	Animated top menu for UITableView / UICol
 libs	http://github.com/Yalantis/Side-Menu.iOS	Animated side menu with customizable UI		20010101
 libs	http://github.com/zenangst/Versions	Helping you find inner peace when comparing version numbers in Swift		20010101
 advanced	http://fe9lix.github.io/PennyPincher	PennyPincher		20010101
-advanced	https://littlebitesofcocoa.com/81	little bites of cocoa: #81: RateLimit		20150914
-advanced	https://littlebitesofcocoa.com/82	little bites of cocoa: #82: Keyboard Notifications		20150915
+advanced	http://littlebitesofcocoa.com/81	little bites of cocoa: #81: RateLimit		20150914
+advanced	http://littlebitesofcocoa.com/82	little bites of cocoa: #82: Keyboard Notifications		20150915
 advanced	http://www.ioscreator.com/tutorials/stack-view-tutorial	Stack View Tutorial	UIStackView	20150914
 advanced	http://www.raywenderlich.com/109706/firebase-tutorial-getting-started	Firebase Tutorial: Getting Started		20150914
 advanced	http://www.raywenderlich.com/109330/carthage-tutorial-getting-started	Carthage Tutorial: Getting Started		20150915
@@ -1823,11 +1823,20 @@ advanced	http://ericasadun.com/2015/09/28/swift-identities	Tracking Swift Identi
 advanced	http://www.raywenderlich.com/113686/ios-animation-tutorial-introduction-easy-animation	iOS Animation Tutorial: Introduction to Easy Animation		20150929
 libs	http://github.com/shu223/iOS-9-Sampler	Code examples for the new features of iOS 9.		20010101
 advanced	http://artsy.github.io/blog/2015/09/24/mvvm-in-swift	MVVM in Swift		20150927
-beginner	http://nsscreencast.com/episodes/187-swift-2-basics	Swift 2 Basics	SwiftLang:video	20150917
-beginner	http://nsscreencast.com/episodes/189-swift-2-functions-and-extensions	Swift 2 Functions and Extensions	SwiftLang:video	20151001
+beginner	http://nsscreencast.com/episodes/187-swift-2-basics	Swift 2 Basics	SwiftLang:video:beginner	20150917
+beginner	http://nsscreencast.com/episodes/189-swift-2-functions-and-extensions	Swift 2 Functions and Extensions	SwiftLang:video:beginner	20151001
 advanced	http://medium.com/the-traveled-ios-developers-guide/tuples-pattern-matching-1f4ae9817112	Tuples + Pattern Matching	tuple	20150620
 libs	http://github.com/DreamingInBinary/GenericDatasource	A Swift implementation of a generic datasource that you can use for table views.		20010101
 libs	http://github.com/mamaral/Neon	A powerful Swift programmatic UI layout framework.		20010101
 libs	http://github.com/jhurray/Swift2-Protocol-Extension-Example	Playground showing how to use swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing		20010101
-advanced	http://code.tutsplus.com/tutorials/ios-8-getting-started-with-metal--cms-21987	iOS 8: Getting Started With Metal		20151013
+advanced	http://code.tutsplus.com/tutorials/ios-8-getting-started-with-metal--cms-21987	iOS 8: Getting Started With Metal	metal	20151013
 advanced	http://www.imaginarycloud.com/blog/ios-9-search-api-apples-trojan-horse-to-make-your-content-king	iOS 9 Search API: Apple’s Trojan horse to make your content King		20150928
+libs	http://github.com/warrenm/slug-swift-metal	Demo of the Metal graphics framework	metal	20010101
+advanced	http://www.objc.io/issues/18-games/metal	Metal	metal	20141101
+advanced	http://austinzheng.com/2015/09/23/pmatch-control-flow	Swift 2: Control Flow Pattern Matching Examples	SwiftLang	20150923
+advanced	http://zyafa.me/blog/watchos-2-and-embedded-frameworks	watchOS 2 and embedded frameworks	watchkit	20150912
+advanced	http://pewpewthespells.com/blog/using_xcode_targets.html	Using Xcode Targets	xcode	20150901
+libs	http://github.com/minsOne/MOJailBrokenDector	It is converted swift language from JailBrokenDector project		20010101
+libs	http://github.com/daisuke0131/ViewMonitor	ViewMonitor can measure View positions with accuracy		20010101
+libs	http://github.com/rehatkathuria/SnappingSlider	A beautiful slider control for iOS		20010101
+libs	http://github.com/FlexMonkey/Blurable	Apply a Gaussian Blur to any UIView with Swift Protocol Extensions	blur:protocol	20010101
