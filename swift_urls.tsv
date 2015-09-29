@@ -1830,7 +1830,7 @@ advanced	http://medium.com/the-traveled-ios-developers-guide/tuples-pattern-matc
 libs	http://github.com/DreamingInBinary/GenericDatasource	A Swift implementation of a generic datasource that you can use for table views.		20010101
 libs	http://github.com/mamaral/Neon	A powerful Swift programmatic UI layout framework.		20010101
 libs	http://github.com/jhurray/Swift2-Protocol-Extension-Example	Playground showing how to use swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing		20010101
-advanced	http://code.tutsplus.com/tutorials/ios-8-getting-started-with-metal--cms-21987	iOS 8: Getting Started With Metal	metal	20151013
+advanced	http://code.tutsplus.com/tutorials/ios-8-getting-started-with-metal--cms-21987	iOS 8: Getting Started With Metal	metal	20141013
 advanced	http://www.imaginarycloud.com/blog/ios-9-search-api-apples-trojan-horse-to-make-your-content-king	iOS 9 Search API: Apple’s Trojan horse to make your content King		20150928
 libs	http://github.com/warrenm/slug-swift-metal	Demo of the Metal graphics framework	metal	20010101
 advanced	http://www.objc.io/issues/18-games/metal	Metal	metal	20141101
@@ -1850,4 +1850,4 @@ advanced	http://swiftyos.wordpress.com/2015/08/08/snubbble-make-dribbble-client-
 advanced	http://swiftyos.wordpress.com/2015/08/02/animated-loading-indicator-swift-bafluidview	Animated Loading Indicator – BAFluidView		20150802
 advanced	http://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition	Animated Wave Transition in CollectionView – CKWaveCollectionViewTransition		20150801
 advanced	http://swiftyos.wordpress.com/2015/07/17/password-lock-watchkit-apple-watch-app	Password Lock WatchKit App	watchkit	20150717
-advanced	http://swiftyos.wordpress.com/2015/07/17/hello-world-first-swift-ios-app	Hello World – First Swift iOS App		20150717
+beginner	http://swiftyos.wordpress.com/2015/07/17/hello-world-first-swift-ios-app	Hello World – First Swift iOS App	beginner	20150717
