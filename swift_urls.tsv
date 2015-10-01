@@ -216,7 +216,7 @@ tutorial	http://www.ioscreator.com/tutorials/add-snap-behaviour-tutorial-ios8-sw
 tutorial	http://www.ioscreator.com/tutorials/collection-view-controller-tutorial-ios8-swift	Collection View Controller Tutorial in iOS8 with Swift		20141104
 tutorial	http://www.ioscreator.com/tutorials/delete-rows-table-view-ios8-swift	Delete Rows from Table View in iOS8	UITableView	20141008
 tutorial	http://www.ioscreator.com/tutorials/detecting-long-press-gestures-tutorial-ios8-swift	Detecting Long-Press Gestures Tutorial in iOS8		20141203
-tutorial	http://www.ioscreator.com/tutorials/move-sprites-accelerometer-spritekit-swift	Move Sprites with Accelerometer in Sprite Kit		20141211
+tutorial	http://www.ioscreator.com/tutorials/move-sprites-accelerometer-spritekit-swift	Move Sprites with Accelerometer in Sprite Kit	SpriteKit	20141211
 tutorial	http://www.ioscreator.com/tutorials/pasteboard-tutorial-ios8-swift	PasteBoard Tutorial in iOS8	Pasteboard	20141124
 tutorial	http://www.ioscreator.com/tutorials/send-email-tutorial-ios8-swift	Send Email Tutorial in iOS8		20141215
 tutorial	http://www.ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-tutorial-ios8-swift	Swipe Table View Cell for Custom Actions Tutorial in iOS8		20141119
@@ -263,7 +263,7 @@ tutorial	http://www.raywenderlich.com/76740/make-game-like-space-invaders-sprite
 tutorial	http://www.raywenderlich.com/76741/make-game-like-space-invaders-sprite-kit-and-swift-tutorial-part-2	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 2	SpriteKit	20010101
 tutorial	http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift	Introduction to Google Maps iOS SDK in Swift		20010101
 tutorial	http://www.raywenderlich.com/79764/custom-subscripting-swift-tutorial	Custom Subscripting in Swift Tutorial		20010101
-tutorial	http://www.raywenderlich.com/82022/create-game-like-cut-the-rope-using-sprite-kit-swift	Create a Game Like Cut the Rope Using Sprite Kit and Swift		20010101
+tutorial	http://www.raywenderlich.com/82022/create-game-like-cut-the-rope-using-sprite-kit-swift	Create a Game Like Cut the Rope Using Sprite Kit and Swift	SpriteKit	20010101
 tutorial	http://www.raywenderlich.com/85578/first-core-data-app-using-swift	Your First Core Data App Using Swift	CoreData	20010101
 tutorial	http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift	How to Create Your Own Slide-Out Navigation Panel in Swift		20010101
 tutorial	http://www.raywenderlich.com/83748/beginning-scene-kit-tutorial	Beginning Scene Kit Tutorial	SceneKit	20010101
@@ -771,7 +771,7 @@ tutorial	http://makeapppie.com/2015/03/02/converting-objective-c-to-swift-the-ci
 tutorial	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-route-back.html	Type Safety in Swift: A Route Back		20150303
 tutorial	http://shrikar.com/blog/2015/03/03/swift-ios-tutorial-building-a-photography-inspiration-app-part-1	Swift iOS Tutorial: Building a Photography Inspiration App - Part 1		20150303
 tutorial	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-enums-with.html	Type Safety in Swift: Enums with Associated Values (Updated)		20150304
-tutorial	http://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 1/2		20150304
+tutorial	http://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 1/2	SpriteKit	20150304
 advanced	http://natecook.com/blog/2015/03/a-sanatorium-for-swift-generics	A Sanatorium for Swift Generics		20150304
 advanced	http://blog.scottlogic.com/2015/03/05/reactjs-in-swift.html	Implementing React.js in Swift 		20150305
 advanced	http://medium.com/swift-programming/immutable-models-swift-29973170c08c	Immutable Models		20141021
@@ -780,7 +780,7 @@ advanced	http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-pa
 advanced	http://www.andrewcbancroft.com/2015/03/05/displaying-data-with-nsfetchedresultscontroller-and-swift	Displaying Data With NSFetchedResultsController and Swift		20150305
 advanced	http://nshipster.com/nsscanner	NSScanner		20150302
 advanced	http://flexmonkey.blogspot.com/2015/03/creating-custom-gesture-recognisers-in.html	Creating Custom Gesture Recognisers in Swift		20150305
-tutorial	http://www.raywenderlich.com/90521/trigonometry-games-sprite-kit-swift-tutorial-part-2	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 2/2		20150306
+tutorial	http://www.raywenderlich.com/90521/trigonometry-games-sprite-kit-swift-tutorial-part-2	Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 2/2	SpriteKit	20150306
 tutorial	http://medium.com/swift-programming/work-with-infodictionary-in-a-swift-way-85aa5abd789d	Work with InfoDictionary in a Swift way		20150308
 tutorial	http://airspeedvelocity.net/2015/03/08/sorting-nibbles-in-swift	Sorting Nibbles in Swift		20150308
 tutorial	http://www.figure.ink/blog/2015/3/8/stupid-disambiguation-tricks	Stupid Disambiguation Tricks		20150308
@@ -1562,8 +1562,8 @@ advanced	http://www.hackingwithswift.com/read/5/overview	Project 5: Word Scrambl
 advanced	http://www.hackingwithswift.com/read/4/overview	Project 4: Easy Browser with WKWebView		20150802
 advanced	http://www.hackingwithswift.com/read/3/overview	Project 3: Social Media with UIActivityViewController		20150802
 advanced	http://www.hackingwithswift.com/read/2/overview	Project 2: Guess the Flag		20150802
-advanced	http://www.hackingwithswift.com/read/1/overview	Project 1: Storm Viewer: an introduction to Swift	beginner	20150802
-advanced	http://www.hackingwithswift.com/read/0/overview	Swift for Complete Beginners	beginner	20150802
+beginner	http://www.hackingwithswift.com/read/1/overview	Project 1: Storm Viewer: an introduction to Swift	beginner	20150802
+beginner	http://www.hackingwithswift.com/read/0/overview	Swift for Complete Beginners	beginner	20150802
 advanced	http://martiancraft.com/blog/2015/07/objective-c-swift-core-data	MOVING FROM OBJECTIVE-C TO SWIFT WITH CORE DATA	CoreData	20150722
 advanced	http://useyourloaf.com/blog/2015/07/27/swift-whole-module-optimization.html	Swift Whole Module Optimization		20150727
 advanced	http://swiftaday.com/post/128869724201/3d-torus	Swift A Day: 3D Torus		20150911
@@ -1851,3 +1851,56 @@ advanced	http://swiftyos.wordpress.com/2015/08/02/animated-loading-indicator-swi
 advanced	http://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition	Animated Wave Transition in CollectionView – CKWaveCollectionViewTransition		20150801
 advanced	http://swiftyos.wordpress.com/2015/07/17/password-lock-watchkit-apple-watch-app	Password Lock WatchKit App	watchkit	20150717
 beginner	http://swiftyos.wordpress.com/2015/07/17/hello-world-first-swift-ios-app	Hello World – First Swift iOS App	beginner	20150717
+advanced	http://blog.xmartlabs.com/2015/09/29/Introducing-Eureka-iOS-form-library-written-in-pure-Swift	Introducing Eureka! - Elegant iOS forms in Pure Swift 2		20150929
+advanced	http://www.ioscreator.com/tutorials/disable-apple-transport-security-tutorial	Disable Apple Transport Security Tutorial		20150930
+libs	http://github.com/jathu/Sweetercolor	A color extension library		20010101
+libs	http://github.com/wojteklukaszuk/Watchdog	Class for logging excessive blocking on the main thread	logging	20010101
+libs	http://github.com/2015HuntMJ/UISearchController	UISearchController Example	UISearchController	20010101
+libs	http://github.com/mnem/SwiftA9ChipSource	A Swift version of http://github.com/WDUK/A9ChipSource		20010101
+advanced	http://roadfiresoftware.com/2015/09/how-you-can-do-tdd-with-swift	How can you do TDD with Swift?		20150930
+advanced	http://ericasadun.com/2015/09/30/swiftlang-challenge-oddball-casting	#SwiftLang Challenge: Oddball Casting		20150930
+advanced	http://littlebitesofcocoa.com/93	little bites of cocoa: #93: Creating a Router for Alamofire		20150930
+advanced	http://ericasadun.com/2015/09/30/dear-erica-whats-iff	Dear Erica: What’s iff?		20150930
+advanced	http://oleb.net/blog/2015/09/more-pattern-matching-examples	More Pattern Matching Examples		20150930
+advanced	http://vfuc.co/stackgrid	StackGrid - Taking UIStackView one step further	UIStackView	20151001
+advanced	http://medium.com/swift-programming/beginners-guide-to-implementing-cocoa-pods-into-your-xcode-ios-project-6e22769d8d8c	Beginners guide to implementing Cocoa Pods into your Xcode iOS project		20151001
+advanced	http://alisoftware.github.io/swift/2015/09/14/thinking-in-swift-1-addendum	Thinking in Swift, Part 1 — Addendum: Sacrificing ponies		20150914
+advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day13-cloudkit-web-services	iOS9 Day-by-Day :: Day 13 :: CloudKit Web Services	CloudKit	20151001
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-1-blaggers-guide-to-swift	iOS8 Day-by-Day :: Day 1 :: Blagger's Guide to Swift		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-2-sharing-extension	iOS8 Day-by-Day :: Day 2 :: Sharing Extension		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-3-uivisualeffects	iOS8 Day-by-Day :: Day 3 :: UIVisualEffects		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-4-custom-fonts-in-interface-builder	iOS8 Day-by-Day :: Day 4 :: Custom Fonts in Interface Builder		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-5-auto-sizing-table-view-cells	iOS8 Day-by-Day :: Day 5 :: Auto-sizing table view cells		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-6-profiling-unit-tests	iOS8 Day-by-Day :: Day 6 :: Profiling Unit Tests		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-7-adaptive-layout-and-uitraitcollection	iOS8 Day-by-Day :: Day 7 :: Adaptive Layout and UITraitCollection		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-8-today-extension	iOS8 Day-by-Day :: Day 8 :: Today Extension		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-9-designated-initialisers	iOS8 Day-by-Day :: Day 9 :: Designated Initialisers		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-10-xcode-6-playgrounds	iOS8 Day-by-Day :: Day 10 :: Xcode 6 Playgrounds		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-11-asynchronous-testing	iOS8 Day-by-Day :: Day 11 :: Asynchronous Testing	testing	20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-12-healthkit	iOS8 Day-by-Day :: Day 12 :: HealthKit	HealthKit	20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-13-coreimage-detectors	iOS8 Day-by-Day :: Day 13 :: CoreImage Detectors		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-14-rotation-deprecation	iOS8 Day-by-Day :: Day 14 :: Rotation Deprecation		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-15-new-nsformatters	iOS8 Day-by-Day :: Day 15 :: New NSFormatters		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-16-hiding-navigation-bars	iOS8 Day-by-Day :: Day 16 :: Hiding Navigation Bars		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-17-live-rendering-in-interface-builder	iOS8 Day-by-Day :: Day 17 :: Live Rendering in Interface Builder		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-18-uisplitviewcontroller	iOS8 Day-by-Day :: Day 18 :: UISplitViewController		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-19-coreimage-kernels	iOS8 Day-by-Day :: Day 19 :: CoreImage Kernels		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-20-photos-framework	iOS8 Day-by-Day :: Day 20 :: Photos Framework		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-21-alerts-and-popovers	iOS8 Day-by-Day :: Day 21 :: Alerts and Popovers		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-22-linking-to-settings-app	iOS8 Day-by-Day :: Day 22 :: Linking to Settings App		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-23-photo-extension	iOS8 Day-by-Day :: Day 23 :: Photo Extension		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-24-presentation-controllers	iOS8 Day-by-Day :: Day 24 :: Presentation Controllers		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-25-notification-actions	iOS8 Day-by-Day :: Day 25 :: Notification Actions		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-26-avkit	iOS8 Day-by-Day :: Day 26 :: AVKit	AvKit	20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-27-launch-images	iOS8 Day-by-Day :: Day 27 :: Launch Images		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-28-document-picker	iOS8 Day-by-Day :: Day 28 :: Document Picker		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-29-safari-action-extension	iOS8 Day-by-Day :: Day 29 :: Safari Action Extension		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-30-app-previews	iOS8 Day-by-Day :: Day 30 :: App Previews		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-31-using-touch-id-to-secure-the-keychain	iOS8 Day-by-Day :: Day 31 :: Using Touch ID to Secure the Keychain	TouchId	20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-32-layout-margins	iOS8 Day-by-Day :: Day 32 :: Layout Margins		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-33-cloudkit	iOS8 Day-by-Day :: Day 33 :: CloudKit	CloudKit	20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-34-corelocation-authorization	iOS8 Day-by-Day :: Day 34 :: CoreLocation Authorization		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-35-coremotion	iOS8 Day-by-Day :: Day 35 :: CoreMotion		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-36-location-notifications	iOS8 Day-by-Day :: Day 36 :: Location Notifications		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-37-autosizing-collection-view-cells	iOS8 Day-by-Day :: Day 37 :: Autosizing Collection View Cells		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-38-handoff	iOS8 Day-by-Day :: Day 38 :: Handoff		20150409
