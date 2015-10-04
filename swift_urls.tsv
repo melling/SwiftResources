@@ -861,7 +861,7 @@ advanced	http://flexmonkey.blogspot.com/2014/10/sound-synthesis-in-swift-core-au
 advanced	http://flexmonkey.blogspot.com/2015/03/audiokit-reaches-version-20.html?m=1	AudioKit Reaches Version 2.0	AudioKit	20150328
 libs	http://github.com/victor/Learning-Core-Audio-in-Swift	Learning Core Audio in Swift	CoreAudio	20010101
 libs	http://audiokit.io	AudioKit	AudioKit	20010101
-commercial	http://nsscreencast.com	NSScreencasts		20010101
+commercial	http://nsscreencast.com	NSScreencasts	video	20010101
 advanced	http://ericasadun.com/2015/04/01/swift-launch-at-login	Swift: Launch at Login		20150401
 advanced	http://sketchytech.blogspot.com/2015/04/in-and-out-of-jsonness-parsing-logic.html	In and out of JSONness: Parsing Logic with Swift and Aldwych		20150402
 beginner	http://www.udacity.com/course/ud585	Intro to iOS App Development with Swift	beginner	20010101
@@ -1976,3 +1976,40 @@ advanced	http://www.stringcode.co.uk/rendering-version-number-into-beta-app-icon
 advanced	http://flexmonkey.blogspot.com/2015/10/deeppressgesturerecognizer-3d-touch.html	DeepPressGestureRecognizer - A 3D Touch Custom Gesture Recogniser		20151003
 advanced	http://robnapier.net/rncryptor-v4	RNCryptor V4		20151004
 libs	http://github.com/Adlai-Holler/ArrayDiff	A Swift utility to make updating table views/collection views trivially easy and reliable	Array	20010101
+libs	http://github.com/romainmenke/CGRectExtensionsOSX	An Ode to CGRect	max	20010101
+libs	http://github.com/swiftcodex/Swift-Radio-Pro	Full Professional Radio Station App, created w/ Swift 2.0		20010101
+advanced	http://bayphillips.com/2015/10/03/protocol-extensions-swift-2-0-draggable-uiviews	Protocol Extensions in Swift 2.0 – Draggable UIViews	UIView	20151003
+advanced	http://www.the-nerd.be/2015/10/01/authentication-with-touchid	TouchID authentication tutorial for Swift		20151001
+advanced	http://www.the-nerd.be/2015/06/22/tnimagesliderviewcontroller-image-slider-for-swift	TNImageSliderViewController – an image slider gallery for Swift		20150622
+advanced	http://www.the-nerd.be/2015/07/05/custom-cells-for-uipickerview-with-autolayout	Custom cells for UIPickerView with AutoLayout		20150705
+advanced	http://www.the-nerd.be/2015/08/07/load-assets-from-bundle-resources-in-cocoapods	Load assets from bundle resources in Cocoapods		20150807
+advanced	http://www.the-nerd.be/2015/08/12/tnswiftycheckboxgroup-create-checkboxes-for-swift	TNSwiftyCheckboxGroup, create checkbox groups in Swift		20150812
+advanced	http://www.the-nerd.be/2015/09/01/new-features-in-swift-2	New features in Swift 2		20150901
+advanced	http://www.the-nerd.be/2015/09/30/add-3d-touch-quick-actions-tutorial	Add 3D Touch quick actions tutorial	3dTouch	20150930
+libs	http://github.com/hkellaway/Gloss	A shiny JSON parsing library in Swift https://cocoapods.org/pods/Gloss		20010101
+advanced	http://www.appcoda.com/ios-contacts-framework	A First Look at Contacts Framework in iOS 9		20150929
+advanced	http://codek.tv/957	Swift Programming Language Fundamentals for Absolute Beginners	beginner:video	20150926
+commercial	http://www.amazon.com/dp/1320479243	Swift Algorithms & Data Structures	book:algorithm	20010101
+advanced	http://iphonedev.tv/blog/2015/6/23/fix-uiviewcontroller-supportedinterfaceorientations-to-use-uiinterfaceorientationmask-and-optionsettype-in-swift-2	Fix UIViewController supportedInterfaceOrientations() to use UIInterfaceOrientationMask and OptionSetType in Swift 2		20150623
+advanced	http://iphonedev.tv/blog/2015/7/24/how-to-get-uitextfield-text-changed-events-for-your-validation-logic-swift-tips-1	How to get UITextField text editing changed events for user input validation - Swift Tips 1	UITextField	20150724
+advanced	http://iphonedev.tv/blog/2015/7/28/optionsettype-swift-2-means-no-more-nil-values-for-animatewithduration	OptionSetType + Swift 2 means no more nil values for animateWithDuration		20150728
+advanced	http://iphonedev.tv/blog/2015/8/6/xcode-7-moves-playgrounds-console-output-and-breaks-print-and-println	Xcode 7 moves Playgrounds Console Output and breaks print() and println()	playground	20150806
+advanced	http://iphonedev.tv/blog/2015/8/7/how-to-search-for-a-character-in-a-string-with-swift-2	How to search for a Character in a String with Swift 2	string	20150807
+advanced	http://iphonedev.tv/blog/2015/9/28/how-to-convert-strings-into-double-and-float-values-using-swift-2	How to Convert Strings into Double and Float Values Using Swift 2	string	20150928
+advanced	http://iphonedev.tv/blog/2015/9/22/how-to-remove-an-array-of-objects-from-a-swift-2-array-removeobjectsinarray	How to remove an array of objects from a Swift 2 Array - removeObjectsInArray	Array	20150922
+advanced	http://candycode.io/how-to-properly-do-buttons-in-table-view-cells	How to properly do buttons in table view cells	UITableView	20150921
+advanced	http://appandflow.com/index.php/2015/09/22/scrollview-and-snapkit-the-checklist	ScrollView and SnapKit: The Checklist		20150922
+libs	http://gist.github.com/plumhead/bd50b15693f4fc6dc7ae	Playing with Swift Pattern Matching for Mathematical Expressions (run in playground)		20150920
+advanced	http://candycode.io/sharing-data-between-view-controllers-and-other-objects-in-swift	Sharing data between view controllers and other objects 		20150503
+advanced	http://candycode.io/how-to-set-up-different-auto-layout-constraints-for-different-screen-sizes	How to set up different Auto Layout constraints for different screen sizes	AutoLayout	20150510
+advanced	http://candycode.io/dynamic-uitableview-height-for-downloaded-images	Dynamic UITableView Row Height for Downloaded Images	UITableView	20150607
+advanced	http://candycode.io/automatically-resizing-uitableviewcells-with-dynamic-text-height-using-auto-layout	Automatically resizing UITableViewCells with dynamic text height using Auto Layout		20150816
+advanced	http://candycode.io/animating-auto-layout-constraints	Animating Auto Layout Constraints	AutoLayout	20150916
+advanced	http://candycode.io/hiding-views-with-auto-layout	Hiding views with Auto Layout	AutoLayout	20150916
+libs	http://github.com/hirohisa/ImageLoaderSwift	A lightweight and fast image loader for iOS		20010101
+libs	http://github.com/themsaid/page-flip-for-UICollectionViewCell	Applying a book flip effect for a UICollectionViewCell to show a detail view		20010101
+advanced	http://www.invasivecode.com/weblog/quick-look-preview-controller-in-swift	Quick Look Preview Controller		20150522
+advanced	http://developer.apple.com/library/ios/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html	Markup Overview	markup	20010101
+libs	http://github.com/tadija/AERecord	Super awesome Core Data wrapper in Swift (for iOS and OSX)	CoreData	20010101
+libs	http://github.com/sketchytech/SwiftFiles/tree/Swift_2	Save, Load and Delete from a Swift Playground	playground	20010101
+libs	http://github.com/groue/GRDB.swift	A versatile SQLite toolkit	sqlite	20010101
