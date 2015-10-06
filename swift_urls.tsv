@@ -2013,3 +2013,15 @@ advanced	http://developer.apple.com/library/ios/documentation/Xcode/Reference/xc
 libs	http://github.com/tadija/AERecord	Super awesome Core Data wrapper in Swift (for iOS and OSX)	CoreData	20010101
 libs	http://github.com/sketchytech/SwiftFiles/tree/Swift_2	Save, Load and Delete from a Swift Playground	playground	20010101
 libs	http://github.com/groue/GRDB.swift	A versatile SQLite toolkit	sqlite	20010101
+advanced	http://ios-blog.co.uk/swift-tutorials/check-api-availability-with-swift-2	Check API Availability with Swift 2		20150104
+advanced	http://www.thomashanning.com/uipopoverpresentationcontroller	UIPopoverPresentationController		20150104
+advanced	http://www.raywenderlich.com/113489/core-data-tutorial-multiple-managed-object-contexts	Core Data Tutorial: Multiple Managed Object Contexts		20150105
+advanced	http://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios	Preparing to Test Receipt Validation for iOS		20150105
+advanced	http://christiantietze.de/posts/2015/10/domain-model-core-data	Expressive Domain Model, Core Data, and You	CoreData	20150106
+advanced	http://netguru.co/blog/hidden-gems-swift	Hidden Gems in Swift You Didn't Know About	SwiftLang	20150105
+advanced	http://www.youtube.com/watch?v=XmLdEcq-QNI	How to build an Apple TV App Tutorial for tvOS	AppleTV:video	20150912
+advanced	http://www.mokacoding.com/blog/when-to-use-map-flatmap-for	When to use map, flatMap, or for loops in Swift		20150105
+advanced	http://candycode.io/fixing-a-broken-uitableview-linked-with-core-data	Fixing a broken UITableView linked with Core Data	CoreData:UITableView	20150105
+advanced	http://makeapppie.com/2015/10/06/how-to-make-drill-down-tables-in-swift	How to Make Drill-Down Tables	UITableView	20150106
+advanced	http://www.raywenderlich.com/114084/core-data-migrations-tutorial-lightweight-migrations	Core Data Migrations Tutorial: Lightweight Migrations	CoreData	20150106
+advanced	http://littlebitesofcocoa.com/96	little bites of cocoa: #96: EventKit Basics		20150105
