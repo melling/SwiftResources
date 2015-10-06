@@ -3,7 +3,7 @@ Swift Resources
 
 Swift Language Resources
 
-This link database is used to power:
+This url database is used to power:
 http://www.h4labs.com/dev/ios/swift.html
 
 * Create db.go file
