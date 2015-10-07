@@ -1919,7 +1919,7 @@ libs	http://github.com/AliSoftware/SwiftGen	A collection of Swift tools to gener
 libs	http://github.com/andyshep/CoreDataPlayground	A Core Data stack built inside a Swift playground		20010101
 libs	http://github.com/BurntCaramel/Lantern	A dedicated Mac app for website auditing and crawling http://www.burntcaramel.com/lantern/		20010101
 libs	http://github.com/carlbutron/Swift	This project provides some examples in Swift for iOS		20010101
-libs	http://github.com/cezheng/PySwiftyRegex	Easily deal with Regex in Swift in a Pythonic way		20010101
+libs	http://github.com/cezheng/PySwiftyRegex	Easily deal with Regex in Swift in a Pythonic way	regex	20010101
 libs	http://github.com/daltoniam/Starscream	Websockets in swift for iOS and OSX		20010101
 libs	http://github.com/DigitalLeaves/BezierPathPlaygrounds	Some playgrounds to better understand UIBezierPaths	UIBezierPath	20010101
 libs	http://github.com/dmikusa/swift_playgrounds	A collection of Swift playgrounds demonstrating language basics, JSON parsing, HTTP networking and File IO		20010101
@@ -2036,3 +2036,4 @@ advanced	http://chrismontrois.net/2014/08/02/swift-techniques-strings	Swift: Wor
 advanced	http://robnapier.net/type-erasure-in-stdlib	Type-erasure in Stdlib	Sequence	20151006
 advanced	http://sketchytech.blogspot.com/2014/08/swift-reverse-sort-and-sorted-explained.html	Swift: reverse(), sort() and sorted() explained		20140803
 advanced	http://flexmonkey.blogspot.com/2015/10/forcesketch-3d-touch-drawing-app-using.html	ForceSketch: A 3D Touch Drawing App using CIImageAccumulator	3dTouch	20151007
+advanced	http://littlebitesofcocoa.com/98	little bites of cocoa: #98: Auto Layout in Code	AutoLayout	20151007
