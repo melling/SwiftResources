@@ -2037,3 +2037,17 @@ advanced	http://robnapier.net/type-erasure-in-stdlib	Type-erasure in Stdlib	Sequ
 advanced	http://sketchytech.blogspot.com/2014/08/swift-reverse-sort-and-sorted-explained.html	Swift: reverse(), sort() and sorted() explained		20140803
 advanced	http://flexmonkey.blogspot.com/2015/10/forcesketch-3d-touch-drawing-app-using.html	ForceSketch: A 3D Touch Drawing App using CIImageAccumulator	3dTouch	20151007
 advanced	http://littlebitesofcocoa.com/98	little bites of cocoa: #98: Auto Layout in Code	AutoLayout	20151007
+advanced	http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift	How To Test UIAlertController	testing	20150918
+advanced	http://swiftandpainless.com/dont-put-view-code-into-your-view-controller	Don’t Put View Code Into Your View Controller		20150805
+advanced	http://swiftandpainless.com/how-to-bild-an-app-without-interface-builder-part-2-sketches-structure-tests	How To Build An App Without Interface Builder – Part 2: Sketches, Structure, Tests		20150810
+advanced	http://swiftandpainless.com/where-to-put-the-auto-layout-code	Where To Put The Auto Layout Code		20150812
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-3-a-decision	How To Build An App Without Interface Builder – Part 3: A Decision		20150816
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-4-datasource	How To Build An App Without Interface Builder – Part 4: DataSource		20150817
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-5-data-model	How To Build An App Without Interface Builder – Part 5: Data Model		20150824
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-6-show-data	How To Build An App Without Interface Builder – Part 6: Show Data		20150831
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-7-nicer-cell	How To Build An App Without Interface Builder – Part 7: Nicer Cell		20150908
+advanced	http://www.invasivecode.com/weblog/dynamic-animation-uifieldbehavior	Dynamic animations: UIFieldBehavior	animation	20151007
+advanced	http://nshint.io/blog/2015/10/07/easy-cast-with-_ObjectiveCBridgeable	Easy Cast With _ObjectiveCBridgeable		20151007
+advanced	http://robnapier.net/nsdata	NSData, My Old Friend		20151007
+advanced	http://www.russbishop.net/swift-2-1-beta-3	Swift 2.1 Beta 3		20151007
+advanced	http://christiantietze.de/posts/2015/10/revisiting-core-data-architecture	Revisiting the Core Data + Domain Model Architecture		20151008

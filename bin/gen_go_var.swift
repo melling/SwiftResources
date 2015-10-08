@@ -56,9 +56,9 @@ func readLines(filePath: String) -> [String] {
         let fileExists = fileManager.fileExistsAtPath(filePath)
         if fileExists {
             let data:NSData? = fileManager.contentsAtPath(filePath)
-            //            let data0 = data
+
             let aString = NSString(data: data!, encoding: NSUTF8StringEncoding)
-            //            print(aString)
+
             let str1:String = aString as! String
             allLines = str1.componentsSeparatedByString("\n")
             
