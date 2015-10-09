@@ -2050,4 +2050,25 @@ advanced	http://www.invasivecode.com/weblog/dynamic-animation-uifieldbehavior	Dy
 advanced	http://nshint.io/blog/2015/10/07/easy-cast-with-_ObjectiveCBridgeable	Easy Cast With _ObjectiveCBridgeable		20151007
 advanced	http://robnapier.net/nsdata	NSData, My Old Friend		20151007
 advanced	http://www.russbishop.net/swift-2-1-beta-3	Swift 2.1 Beta 3		20151007
-advanced	http://christiantietze.de/posts/2015/10/revisiting-core-data-architecture	Revisiting the Core Data + Domain Model Architecture		20151008
+advanced	http://christiantietze.de/posts/2015/10/revisiting-core-data-architecture	Revisiting the Core Data + Domain Model Architecture	CoreData	20151008
+advanced	https://developer.apple.com/swift/blog/?id=33	Literals in Playgrounds	playground	20151007
+advanced	http://littlebitesofcocoa.com/99	little bites of cocoa: #99: Auto Layout Visual Format Language	AutoLayout	20151008
+advanced	http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8	Generic Array of Int - what, why, how?		20151007
+advanced	http://www.47deg.com/blog/swift-enum-oriented-dev-table-views	A different approach to UITableView delegate methods: a cool use of Swift’s enums.		20151005
+advanced	http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified	Swift 2.0: Map and FlatMap Demystified		20151008
+libs	http://github.com/kaler/SmartRouter	A tiny routing library written in Swift 2.0.		20010101
+libs	http://github.com/k0nserv/SwiftObjLoader	A wavefront object format loader		20010101
+libs	http://github.com/icanzilb/EasyAnimation	A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!		20010101
+libs	http://github.com/xxycode/UIViewXXYBoom	一个好玩的效果，原谅我在家里网速慢，没有升级到Xcode 7，还是用的swift1.2，回到公司马上改到2.0		20010101
+libs	http://github.com/johnlui/JSONNeverDie	Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die		20010101
+libs	http://github.com/madebybowtie/FlagKit	Beautiful flag icons for usage in apps and on the web		20010101
+libs	http://github.com/thellimist/SwiftRandom	A tiny generator of random data for swift	random	20010101
+libs	http://github.com/goktugyil/CozyLoadingActivity	Lightweight Swift loading activity for iOS7+		20010101
+libs	http://github.com/thefuntasty/TFBubbleItUp	Custom view for writing tags, contacts and etc		20010101
+libs	http://github.com/ReactiveX/RxSwift	Reactive Programming in Swift		20010101
+libs	http://github.com/arn00s/cariocamenu	The fastest zero-tap iOS menu		20010101
+libs	http://github.com/Haneke/HanekeSwift	A lightweight generic cache for iOS written in Swift with extra love for images		20010101
+libs	http://github.com/yoavlt/LiquidFloatingActionButton	Material Design Floating Action Button in liquid state		20010101
+libs	http://github.com/realm/realm-cocoa	Realm is a mobile database: a replacement for Core Data & SQLite https://realm.io		20010101
+libs	http://github.com/Carthage/Carthage	A simple, decentralized dependency manager for Cocoa		20010101
+libs	http://github.com/joshaber/Few.swift	React-inspired library for writing AppKit/UIKit UIs which are functions of their state		20010101
