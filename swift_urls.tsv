@@ -1789,7 +1789,7 @@ advanced	http://oleb.net/blog/2015/09/swift-ranges-and-intervals	Ranges and Inte
 advanced	http://www.appcoda.com/search-api-sfsafariviewcontroller	Getting Started with Search APIs and SFSafariViewController in iOS 9	SFSafariViewController	20150920
 advanced	http://moduscreate.com/classes-and-structs-in-swift	Classes and Structs in Swift	struct	20150915
 advanced	http://speakerdeck.com/ayanonagon/swift-scripting	Swift Scripting	scripting	20150321
-advanced	http://krakendev.io/blog/scripting-in-swift	SCRIPTING IN SWIFT IS PRETTY AWESOME	scripting	20150630
+advanced	http://krakendev.io/blog/scripting-in-swift	Scripting in Swift is Pretty Awesome	scripting	20150630
 libs	http://github.com/sahandnayebaziz/SwiftHub	An iOS app for exploring popular Github repositories		20010101
 libs	http://github.com/superlopuh/bioswift	Implementing algorithms in my Bioinformatics course	algorithm	20010101
 advanced	http://christiantietze.de/posts/2015/09/guard-unit-test	Using Guard in Unit Tests	exceptions	20150922
@@ -1986,7 +1986,7 @@ advanced	http://www.the-nerd.be/2015/08/07/load-assets-from-bundle-resources-in-
 advanced	http://www.the-nerd.be/2015/08/12/tnswiftycheckboxgroup-create-checkboxes-for-swift	TNSwiftyCheckboxGroup, create checkbox groups in Swift		20150812
 advanced	http://www.the-nerd.be/2015/09/01/new-features-in-swift-2	New features in Swift 2		20150901
 advanced	http://www.the-nerd.be/2015/09/30/add-3d-touch-quick-actions-tutorial	Add 3D Touch quick actions tutorial	3dTouch	20150930
-libs	http://github.com/hkellaway/Gloss	A shiny JSON parsing library in Swift https://cocoapods.org/pods/Gloss		20010101
+libs	http://github.com/hkellaway/Gloss	A shiny JSON parsing library in Swift http://cocoapods.org/pods/Gloss		20010101
 advanced	http://www.appcoda.com/ios-contacts-framework	A First Look at Contacts Framework in iOS 9	Contacts	20150929
 advanced	http://codek.tv/957	Swift Programming Language Fundamentals for Absolute Beginners	beginner:video	20150926
 commercial	http://www.amazon.com/dp/1320479243	Swift Algorithms & Data Structures	book:algorithm	20010101
@@ -2035,7 +2035,7 @@ advanced	http://benscheirman.com/2014/06/regex-in-swift	Regex in Swift	regex	201
 advanced	http://chrismontrois.net/2014/08/02/swift-techniques-strings	Swift: Working with Strings	string	20140802
 advanced	http://robnapier.net/type-erasure-in-stdlib	Type-erasure in Stdlib	Sequence	20151006
 advanced	http://sketchytech.blogspot.com/2014/08/swift-reverse-sort-and-sorted-explained.html	Swift: reverse(), sort() and sorted() explained		20140803
-advanced	http://flexmonkey.blogspot.com/2015/10/forcesketch-3d-touch-drawing-app-using.html	ForceSketch: A 3D Touch Drawing App using CIImageAccumulator	3dTouch	20151007
+advanced	http://flexmonkey.blogspot.com/2015/10/forcesketch-3d-touch-drawing-app-using.html	ForceSketch: A 3D Touch Drawing App using CIImageAccumulator	3dTouch:CIImage	20151007
 advanced	http://littlebitesofcocoa.com/98	little bites of cocoa: #98: Auto Layout in Code	AutoLayout	20151007
 advanced	http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift	How To Test UIAlertController	testing	20150918
 advanced	http://swiftandpainless.com/dont-put-view-code-into-your-view-controller	Don’t Put View Code Into Your View Controller		20150805
@@ -2051,7 +2051,7 @@ advanced	http://nshint.io/blog/2015/10/07/easy-cast-with-_ObjectiveCBridgeable	E
 advanced	http://robnapier.net/nsdata	NSData, My Old Friend		20151007
 advanced	http://www.russbishop.net/swift-2-1-beta-3	Swift 2.1 Beta 3		20151007
 advanced	http://christiantietze.de/posts/2015/10/revisiting-core-data-architecture	Revisiting the Core Data + Domain Model Architecture	CoreData	20151008
-advanced	https://developer.apple.com/swift/blog/?id=33	Literals in Playgrounds	playground	20151007
+advanced	http://developer.apple.com/swift/blog/?id=33	Literals in Playgrounds	playground	20151007
 advanced	http://littlebitesofcocoa.com/99	little bites of cocoa: #99: Auto Layout Visual Format Language	AutoLayout	20151008
 advanced	http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8	Generic Array of Int - what, why, how?		20151007
 advanced	http://www.47deg.com/blog/swift-enum-oriented-dev-table-views	A different approach to UITableView delegate methods: a cool use of Swift’s enums.		20151005
@@ -2069,6 +2069,35 @@ libs	http://github.com/ReactiveX/RxSwift	Reactive Programming in Swift		20010101
 libs	http://github.com/arn00s/cariocamenu	The fastest zero-tap iOS menu		20010101
 libs	http://github.com/Haneke/HanekeSwift	A lightweight generic cache for iOS written in Swift with extra love for images		20010101
 libs	http://github.com/yoavlt/LiquidFloatingActionButton	Material Design Floating Action Button in liquid state		20010101
-libs	http://github.com/realm/realm-cocoa	Realm is a mobile database: a replacement for Core Data & SQLite https://realm.io		20010101
+libs	http://github.com/realm/realm-cocoa	Realm is a mobile database: a replacement for Core Data & SQLite http://realm.io		20010101
 libs	http://github.com/Carthage/Carthage	A simple, decentralized dependency manager for Cocoa		20010101
 libs	http://github.com/joshaber/Few.swift	React-inspired library for writing AppKit/UIKit UIs which are functions of their state		20010101
+libs	http://developer.apple.com/library/prerelease/ios/samplecode/DemoBots/Introduction/Intro.html	DemoBots: Building a Cross Platform Game with SpriteKit and GameplayKi	SpriteKit:GameplayKit	20010101
+advanced	http://five.agency/building-iphone-app-using-mvvm	Building iPhone App Using MVVM	mvvm	20151009
+advanced	http://christiantietze.de/posts/2015/10/results-from-fetch-requests	Put Usage of a CoreDataFetchRequest out of Your Code and Into ... Where Exactly?	CoreData	20151009
+advanced	http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html	Adding 3D Touch Quick Actions	3dTouch	20151005
+advanced	http://useyourloaf.com/blog/using-size-classes-to-hide-stack-view-contents.html	Using Size Classes to Hide Stack View Contents	UIStackView	20150927
+advanced	http://useyourloaf.com/blog/app-transport-security.html	App Transport Security		20150914
+advanced	http://useyourloaf.com/blog/querying-url-schemes-with-canopenurl.html	Querying URL Schemes With canOpenURL		20150907
+advanced	http://useyourloaf.com/blog/checking-api-availability-with-swift.html	Checking API Availability With Swift		20150824
+advanced	http://www.raywenderlich.com/116608/ios-9-app-search-tutorial-introduction-to-app-search	iOS 9 App Search Tutorial: Introduction to App Search	CoreSpotlight	20151009
+advanced	http://littlebitesofcocoa.com/100	little bites of cocoa: #100: Just Getting Started		20151009
+advanced	http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework	Wrapping a C Library in a Swift Framework		20151005
+advanced	http://masilotti.com/ui-testing-cheat-sheet	UI Testing Cheat Sheet and Examples	testing	20150914
+libs	http://github.com/malcommac/SwiftDate	Easy NSDate Management		20010101
+libs	http://github.com/bustoutsolutions/siesta	iOS REST Client Framework		20010101
+advanced	http://nshint.io/blog/2015/10/08/bluetooth-low-energy-the-fun-way	Bluetooth Low Energy the Fun Way	iBeacon	20151008
+advanced	http://flexmonkey.blogspot.com/2015/10/globular-colourful-metaballs-controlled.html	Globular: Colourful Metaballs Controlled by 3D Touch	SpriteKit:CIImage:3dTouch	20151010
+advanced	http://ios-blog.co.uk/swift-tutorials/swift-2-0-print-repeat-while	Swift 2.0: Print & Repeat-While	SwiftLang	20151010
+advanced	http://www.packtpub.com/books/content/evenly-spaced-views-auto-layout-ios	Evenly Spaced Views with Auto Layout in iOS	AutoLayout	20150416
+advanced	http://masilotti.com/ui-testing-tdd	Three Ways UI Testing Just Made Test-Driven Development Even Better	testing	20150803
+advanced	http://masilotti.com/xctest-documentation	XCTest Reference	testing	20150811
+advanced	http://masilotti.com/xctest-helpers	Custom Helpers in XCTest	testing	20150921
+advanced	http://krakendev.io/peek-pop	Peek and Pop	3dTouch	20151008
+advanced	http://krakendev.io/blog/generating-warnings-in-xcode	How to Highlight Your TODOs, FIXMEs, & ERRORs In Xcode	xcode	20150702
+advanced	http://krakendev.io/blog/subclassing-can-suck-and-heres-why	If You're Subclassing, You're Doing It Wrong	SwiftLang	20150713
+advanced	http://krakendev.io/blog/antipatterns-singletons	Defeating the Anti-Pattern Bully ? Part 1 - Singletons	singleton	20150731
+advanced	http://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know	4 Xcode Asset Catalog Secrets You Need to Know		20150810
+advanced	http://krakendev.io/blog/be-cool-with-cifilter-animations	Be Cool with CIFilter Animations		20150820
+advanced	http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real	Auto Layout Magic: Content Sizing Priorities		20150915
+advanced	http://krakendev.io/blog/your-3d-touch-spirit-guide	Your 3D Touch Spirit Guide	3dTouch	20151004
