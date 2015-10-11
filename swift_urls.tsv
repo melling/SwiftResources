@@ -1556,7 +1556,7 @@ advanced	http://www.hackingwithswift.com/read/11/overview	Project 11: Pachinko w
 advanced	http://www.hackingwithswift.com/read/10/overview	Project 10: Names to Faces with UICollectionView	UICollectionView	20150802
 advanced	http://www.hackingwithswift.com/read/9/overview	Project 9: Grand Central Dispatch	GCD	20150802
 advanced	http://www.hackingwithswift.com/read/8/overview	Project 8: 7 Swifty Words		20150802
-advanced	http://www.hackingwithswift.com/read/7/overview	Project 7: Whitehouse Petitions: JSON and NSData	json	20150802
+advanced	http://www.hackingwithswift.com/read/7/overview	Project 7: Whitehouse Petitions: JSON and NSData	json:NSData	20150802
 advanced	http://www.hackingwithswift.com/read/6/overview	Project 6: Auto Layout	AutoLayout	20150802
 advanced	http://www.hackingwithswift.com/read/5/overview	Project 5: Word Scramble		20150802
 advanced	http://www.hackingwithswift.com/read/4/overview	Project 4: Easy Browser with WKWebView		20150802
@@ -2048,13 +2048,13 @@ advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-build
 advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-7-nicer-cell	How To Build An App Without Interface Builder – Part 7: Nicer Cell		20150908
 advanced	http://www.invasivecode.com/weblog/dynamic-animation-uifieldbehavior	Dynamic animations: UIFieldBehavior	animation	20151007
 advanced	http://nshint.io/blog/2015/10/07/easy-cast-with-_ObjectiveCBridgeable	Easy Cast With _ObjectiveCBridgeable		20151007
-advanced	http://robnapier.net/nsdata	NSData, My Old Friend		20151007
+advanced	http://robnapier.net/nsdata	NSData, My Old Friend	NSData	20151007
 advanced	http://www.russbishop.net/swift-2-1-beta-3	Swift 2.1 Beta 3		20151007
 advanced	http://christiantietze.de/posts/2015/10/revisiting-core-data-architecture	Revisiting the Core Data + Domain Model Architecture	CoreData	20151008
 advanced	http://developer.apple.com/swift/blog/?id=33	Literals in Playgrounds	playground	20151007
 advanced	http://littlebitesofcocoa.com/99	little bites of cocoa: #99: Auto Layout Visual Format Language	AutoLayout	20151008
-advanced	http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8	Generic Array of Int - what, why, how?		20151007
-advanced	http://www.47deg.com/blog/swift-enum-oriented-dev-table-views	A different approach to UITableView delegate methods: a cool use of Swift’s enums.		20151005
+advanced	http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8	Generic Array of Int - what, why, how?	generics	20151007
+advanced	http://www.47deg.com/blog/swift-enum-oriented-dev-table-views	A different approach to UITableView delegate methods: a cool use of Swift’s enums.	UITableView:enum	20151005
 advanced	http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified	Swift 2.0: Map and FlatMap Demystified		20151008
 libs	http://github.com/kaler/SmartRouter	A tiny routing library written in Swift 2.0.		20010101
 libs	http://github.com/k0nserv/SwiftObjLoader	A wavefront object format loader		20010101
@@ -2098,6 +2098,21 @@ advanced	http://krakendev.io/blog/generating-warnings-in-xcode	How to Highlight 
 advanced	http://krakendev.io/blog/subclassing-can-suck-and-heres-why	If You're Subclassing, You're Doing It Wrong	SwiftLang	20150713
 advanced	http://krakendev.io/blog/antipatterns-singletons	Defeating the Anti-Pattern Bully ? Part 1 - Singletons	singleton	20150731
 advanced	http://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know	4 Xcode Asset Catalog Secrets You Need to Know		20150810
-advanced	http://krakendev.io/blog/be-cool-with-cifilter-animations	Be Cool with CIFilter Animations		20150820
-advanced	http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real	Auto Layout Magic: Content Sizing Priorities		20150915
+advanced	http://krakendev.io/blog/be-cool-with-cifilter-animations	Be Cool with CIFilter Animations	animation	20150820
+advanced	http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real	Auto Layout Magic: Content Sizing Priorities	AutoLayout	20150915
 advanced	http://krakendev.io/blog/your-3d-touch-spirit-guide	Your 3D Touch Spirit Guide	3dTouch	20151004
+advanced	http://www.thomashanning.com/swift-2-0-defer	Swift 2.0: defer	SwiftLang	20150622
+advanced	http://www.thomashanning.com/the-10-best-xcode-shortcuts	The 10 Best Xcode Shortcuts	xcode	20150624
+advanced	http://www.thomashanning.com/singletons-in-swift	Singletons in Swift	singleton	20150629
+advanced	http://www.thomashanning.com/container-viewcontroller	Container ViewController		20150706
+advanced	http://www.thomashanning.com/error-handling-in-swift-2-0	Error Handling in Swift 2.0	exceptions	20150720
+advanced	http://www.thomashanning.com/using-custom-fonts	Using Custom Fonts		20150716
+advanced	http://www.thomashanning.com/xcode-navigating-through-your-project	Xcode: Navigating Through Your Project	xcode	20150810
+advanced	http://www.thomashanning.com/swift-access-control	Swift: Access Control	SwiftLang	20150817
+advanced	http://www.thomashanning.com/swift-enums	Swift: Enums	enum	20150813
+advanced	http://www.thomashanning.com/the-strategy-pattern	The Strategy Pattern		20150824
+advanced	http://www.thomashanning.com/constants-in-swift	Constants In Swift	SwiftLang	20150820
+advanced	http://www.thomashanning.com/templates-in-xcode-6	Templates in Xcode 6	xcode	20150827
+advanced	http://www.thomashanning.com/swift-generics	Swift: Generics	generics	20150907
+advanced	http://www.thomashanning.com/outsource-your-uitableviewdatasourc	Outsource your UITableViewDataSource	UITableView	20150727
+libs	http://github.com/dongri/OAuthSwift	Swift based OAuth library for iOS	oauth2	20010101

@@ -33,7 +33,7 @@ class UrlRecord {
     var date: Int
     
     init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, date: Int) {
-
+        
         self.id = id
         self.groupNum = groupNum
         self.source = source
@@ -56,9 +56,9 @@ func readLines(filePath: String) -> [String] {
         let fileExists = fileManager.fileExistsAtPath(filePath)
         if fileExists {
             let data:NSData? = fileManager.contentsAtPath(filePath)
-
+            
             let aString = NSString(data: data!, encoding: NSUTF8StringEncoding)
-
+            
             let str1:String = aString as! String
             allLines = str1.componentsSeparatedByString("\n")
             
@@ -137,13 +137,13 @@ for line in lines {
                 }
                 let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, date: date!)
                 database.append(rec)
-
+                
                 
             } else {
                 print("Error: Invalid Group: \(line)")
             }
         } else {
-//            print("Error: Not enough values on line: \(line)")
+            //            print("Error: Not enough values on line: \(line)")
         }
     }
     i++
@@ -153,29 +153,34 @@ database.sortInPlace({ (rec1, rec2) -> Bool in
     if rec1.groupNum < rec2.groupNum {
         return true
     } else if rec1.groupNum == rec2.groupNum {
-        if rec1.source < rec2.source { // &&
+        
+        if rec1.date > rec2.date { // most recent first
             return true
+        } else if rec1.date == rec2.date {
+            if rec1.source < rec2.source { // &&
+                return true
+            }
         } else if rec1.source == rec2.source {
-            if rec1.date > rec2.date { // most recent first
+            if rec1.source > rec2.source{ // most recent first
                 return true
             }
         }
     }
     return false
-    })
+})
 
 print("package webserver\n")
 print(" var urlList = []SwiftRec{")
 
 for row in database {
-
+    
     writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags, date:row.date)
 }
 print("}")
 
 //for fileName in Process.arguments {
-    //    cat(fileName)
-    
+//    cat(fileName)
+
 //}
 
 
