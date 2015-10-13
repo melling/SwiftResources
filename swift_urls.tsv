@@ -2130,3 +2130,21 @@ advanced	http://useyourloaf.com/blog/3d-touch-peek-and-pop.html	3D Touch Peek an
 advanced	http://littlebitesofcocoa.com/101	little bites of cocoa: #101: Building a Camera (Part 1)		20151012
 advanced	http://christiantietze.de/posts/2015/10/bootstrapping-appdelegate	How to Move Bootstrapping Code Out of AppDelegate		20151013
 advanced	http://www.raywenderlich.com/115697/ios-9-storyboards-tutorial-whats-new-in-storyboards	iOS 9 Storyboards Tutorial: What’s New in Storyboards?	storyboard	20151013
+advanced	http://www.learncoredata.com/the-core-data-stack	The Core Data Stack	CoreData	20150513
+advanced	http://www.learncoredata.com/how-to-fetch-data	How to Fetch Data	CoreData	20150520
+advanced	http://www.learncoredata.com/create-retrieve-update-delete-data-with-core-data	Creating, Retrieving, Updating, and Deleting Data with Core Data	CoreData	20150528
+advanced	http://www.learncoredata.com/whats-new-in-core-data	What’s New in Core Data?	CoreData	20150618
+advanced	http://www.learncoredata.com/how-to-use-nsuserdefaults	How to Use NSUserDefaults	NSUserDefaults	20150831
+advanced	http://www.learncoredata.com/plist	How to Save and Retrieve Data from a Plist	plist	20150908
+advanced	http://www.learncoredata.com/how-to-save-files-to-disk	How to Save and Retrieve Files, Part 1	file	20150915
+advanced	http://www.learncoredata.com/how-to-save-files-part-2	How to Save and Retrieve Files, Part 2	file	20150922
+advanced	http://www.learncoredata.com/nsbatchdeleterequest-in-ios-9	How to Use NSBatchDeleteRequest in iOS 9	CoreData	20150929
+advanced	http://ashishkakkad.com/2015/01/requesting-access-to-the-address-book-swift-language-ios-8	Requesting Access to the Address Book – Swift Language – iOS 8	AddressBook	20150112
+advanced	http://ashishkakkad.com/2015/02/google-place-autocomplete-view-with-swift-language-through-alamofire-networking-library	Google Place Autocomplete View With Swift Language through Alamofire networking library		20150215
+advanced	http://ashishkakkad.com/2015/04/work-with-unwind-segue-in-swift-language-ios-8	Work with Unwind Segue in Swift Language – iOS 8	storyboard	20150428
+advanced	http://ashishkakkad.com/2015/04/passing-data-with-unwind-segue-in-swift-language-ios-8	Passing data with Unwind Segue in Swift Language – iOS 8	storyboard	20150430
+advanced	http://ashishkakkad.com/2015/05/facebook-login-swift-language-ios-8	Facebook Login – Swift Language – iOS 8		20150530
+advanced	http://ashishkakkad.com/2015/07/realm-mobile-database-with-swift	Realm – mobile database with Swift	realm	20150718
+advanced	http://ashishkakkad.com/2015/08/how-to-work-with-ibdesignable-and-ibinspectable-in-swift-language	How to work with IBDesignable and IBInspectable in Swift Language?	IBDesignable	20150808
+advanced	http://ashishkakkad.com/2015/09/create-your-own-slider-menu-drawer-in-swift-2-ios-9	Create your own Slider menu (Drawer) in Swift 2 – iOS 9	animation	20150928
+advanced	http://ashishkakkad.com/2015/10/how-to-use-alamofire-and-swiftyjson-with-swift-swift-2-ios-9-xcode-7	How to use Alamofire and SwiftyJSON with Swift? – Swift 2 – iOS 9 – Xcode 7	json	20151006
