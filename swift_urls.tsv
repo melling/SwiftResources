@@ -65,7 +65,7 @@ advanced	http://www.objc.io/snippets/17.html	Caesar ciphers	functional	20150202
 tutorial	http://www.objc.io/snippets/18.html	Unwrapping multiple optionals	functional	20150217
 advanced	http://www.olliewilliams.org/blog/2014/12/23/parsing-json	Parsing JSON		20141223
 advanced	http://www.pumpmybicep.com/2014/06/24/resolving-arc-strong-reference-cycles-in-swift	Resolving ARC Strong Reference Cycles in Swift		20140624
-advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift	NSOperation	20141209
+advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift	NSOperation:concurrency	20141209
 advanced	http://www.raywenderlich.com/81399/ios-8-metal-tutorial-swift-moving-to-3d	iOS 8 Metal Tutorial with Swift Part 2: Moving to 3D	metal	20141030
 advanced	http://www.raywenderlich.com/86365/asyncdisplaykit-tutorial-achieving-60-fps-scrolling	AsyncDisplayKit Tutorial: Achieving 60 FPS scrolling		20141120
 advanced	http://www.raywenderlich.com/87543/video-tutorial-introduction-cloudkit-series-introduction	Video Tutorial: Introduction to CloudKit Part 1: Series Introduction	video	20141103
@@ -531,7 +531,7 @@ tutorial	http://making.duolingo.com/real-world-swift	Real World Swift		20150107
 advanced	http://flexmonkey.blogspot.com/2015/01/computing-particle-systems-in-swift.html	Computing Particle Systems in Swift with Metal Kernel Functions	metal	20150117
 advanced	http://flexmonkey.blogspot.com/2015/01/1000000-particles-on-ipad.html	1,000,000 Particles on an iPad	metal	20150119
 advanced	http://flexmonkey.blogspot.com/2015/01/two-million-particles-at-25-frames-per.html	Two Million Particles at 25 Frames Per Second on an iPad	metal	20150124
-advanced	http://www.knowstack.com/swift-concurrency-nsoperation-nsoperationqueue	Creating NSBlockOperations & Operation Queue	NSOperation	20150121
+advanced	http://www.knowstack.com/swift-concurrency-nsoperation-nsoperationqueue	Creating NSBlockOperations & Operation Queue	NSOperation:concurrency	20150121
 tutorial	http://www.ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift	Screen Edge Pan Gesture Tutorial in iOS8 with Swift	gesture	20150119
 tutorial	http://www.ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift	Add Event to Calendar Tutorial in iOS8 with Swift		20150120
 tutorial	http://www.ioscreator.com/tutorials/take-photo-tutorial-ios8-swift	Take Photo Tutorial in iOS8 with Swift	Photos	20150121
@@ -1366,7 +1366,7 @@ advanced	http://robnapier.net/erasure	A Little Respect for AnySequence	Sequence	
 advanced	http://littlebitesofcocoa.com/41	little bites of cocoa: #41: CMPedometer		20150720
 advanced	http://littlebitesofcocoa.com/42	little bites of cocoa: #42: HealthKit Basics	HealthKit	20150721
 advanced	http://littlebitesofcocoa.com/43	little bites of cocoa: #43: Local Notifications		20150722
-advanced	http://littlebitesofcocoa.com/44	little bites of cocoa: #44: UIAlertController		20150723
+advanced	http://littlebitesofcocoa.com/44	little bites of cocoa: #44: UIAlertController	UIAlertController	20150723
 advanced	http://littlebitesofcocoa.com/45	little bites of cocoa: #45: Pasteboards	Pasteboard	20150724
 advanced	http://littlebitesofcocoa.com/46	little bites of cocoa: #46: NSFileManager	file	20150727
 advanced	http://littlebitesofcocoa.com/47	little bites of cocoa: #47: MKLocalSearch		20150728
@@ -1632,7 +1632,7 @@ libs	http://github.com/Produkt/RubberBandEffect	Recreating Apple’s rubber band
 libs	http://github.com/raulriera/TextFieldEffects	Custom UITextFields effects inspired by Codrops	animation	20010101
 libs	http://github.com/shu223/watchOS-2-Sampler	Code examples for new features of watchOS 2	watchkit	20010101
 libs	http://github.com/skywinder/GaugeKit	Kit for building custom gauges + easy reproducible Apple's style ring gauges		20010101
-libs	http://github.com/tasanobu/Kamagari	Simple UIAlertController builder class		20010101
+libs	http://github.com/tasanobu/Kamagari	Simple UIAlertController builder class	UIAlertController	20010101
 libs	http://github.com/teodorpatras/EasyTipView	A tooltip view		20010101
 libs	http://github.com/tispr/tispr-card-stack	Card Stack		20010101
 libs	http://github.com/Vaberer/Font-Awesome-Swift	Font Awesome library	UIFont	20010101
@@ -1731,7 +1731,7 @@ libs	http://github.com/goktugyil/QorumLogs	Swift Logging Utility for Xcode & Goo
 advanced	http://www.invasivecode.com/weblog/storyboard-strong-iboutlet-scene-dock	Storyboard Reference, Strong IBOutlet, Scene Dock in iOS 9	storyboard	20150811
 advanced	http://www.invasivecode.com/weblog/advanced-cloudkit-ii	Advanced CloudKit (Part II): CKOperation, CKQueryOperation	CloudKit	20150901
 advanced	http://www.invasivecode.com/weblog/advanced-cloudkit-part-iii	Advanced CloudKit (Part III): CKSubscription	CloudKit	20150915
-advanced	http://www.invasivecode.com/weblog/uialertcontroller-alert-action-sheet	UIAlertController: Alert and Action Sheet in iOS		20150818
+advanced	http://www.invasivecode.com/weblog/uialertcontroller-alert-action-sheet	UIAlertController: Alert and Action Sheet in iOS	UIAlertController	20150818
 advanced	http://www.invasivecode.com/weblog/gameplaykit-state-machine	GameplayKit: State Machine for non-game Apps	GameplayKit	20150804
 advanced	http://www.invasivecode.com/weblog/mapkit-flyover-transit	MapKit for iOS 9: Flyover, Transit and Customization	MapKit	20150728
 advanced	http://www.invasivecode.com/weblog/uistackview-core-animation	UIStackView, Auto Layout and Core Animation	AutoLayout:UIStackView	20150714
@@ -1784,7 +1784,7 @@ advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day12-gameplay-kit-
 advanced	http://natashatherobot.com/watchconnectivity-application-context	WatchConnectivity: Sharing The Latest Data via Application Context	watchkit	20150924
 advanced	http://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios	Tesseract OCR Tutorial	ocr	20150423
 libs	http://github.com/sabiland/TrippyBackgrounds	Easy way to create random-trippy background images		20010101
-libs	http://github.com/Zewo/SwiftGo	Pure Swift/C library that provides Go's concurrency features in Swift 2		20010101
+libs	http://github.com/Zewo/SwiftGo	Pure Swift/C library that provides Go's concurrency features in Swift 2	concurrency	20010101
 advanced	http://oleb.net/blog/2015/09/swift-ranges-and-intervals	Ranges and Intervals in Swift	Range	20150924
 advanced	http://www.appcoda.com/search-api-sfsafariviewcontroller	Getting Started with Search APIs and SFSafariViewController in iOS 9	SFSafariViewController	20150920
 advanced	http://moduscreate.com/classes-and-structs-in-swift	Classes and Structs in Swift	struct	20150915
@@ -1937,7 +1937,7 @@ libs	http://github.com/mperovic/ISO8601Formatter	NSFormatter subclass for ISO860
 libs	http://github.com/nschum/SwiftCGRectExtensions	A collection of CGRect, CGPoint and CGSize convenience functions		20010101
 libs	http://github.com/oisdk/SwiftSequence	A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things	Sequence	20010101
 libs	http://github.com/SSA111/SSASwiftReachability	A Swift Library To Track Network Reachability Changes		20010101
-libs	http://github.com/tidwall/Safe	Modern Concurrency and Synchronization for Swift		20010101
+libs	http://github.com/tidwall/Safe	Modern Concurrency and Synchronization for Swift	concurrency	20010101
 libs	http://github.com/vadymmarkov/Fakery	Swift fake data generator		20010101
 advanced	http://alisoftware.github.io/swift/function/operator/2015/08/28/fun-with-functions	Fun with Functions		20150828
 advanced	http://austinzheng.com/2015/09/29/swift-generics-pt-2	Generics in Swift, Part 2	generics	20150929
@@ -2037,7 +2037,7 @@ advanced	http://robnapier.net/type-erasure-in-stdlib	Type-erasure in Stdlib	Sequ
 advanced	http://sketchytech.blogspot.com/2014/08/swift-reverse-sort-and-sorted-explained.html	Swift: reverse(), sort() and sorted() explained		20140803
 advanced	http://flexmonkey.blogspot.com/2015/10/forcesketch-3d-touch-drawing-app-using.html	ForceSketch: A 3D Touch Drawing App using CIImageAccumulator	3dTouch:CIImage	20151007
 advanced	http://littlebitesofcocoa.com/98	little bites of cocoa: #98: Auto Layout in Code	AutoLayout	20151007
-advanced	http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift	How To Test UIAlertController	testing	20150918
+advanced	http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift	How To Test UIAlertController	testing:UIAlertController	20150918
 advanced	http://swiftandpainless.com/dont-put-view-code-into-your-view-controller	Don’t Put View Code Into Your View Controller		20150805
 advanced	http://swiftandpainless.com/how-to-bild-an-app-without-interface-builder-part-2-sketches-structure-tests	How To Build An App Without Interface Builder – Part 2: Sketches, Structure, Tests		20150810
 advanced	http://swiftandpainless.com/where-to-put-the-auto-layout-code	Where To Put The Auto Layout Code		20150812
@@ -2116,3 +2116,17 @@ advanced	http://www.thomashanning.com/templates-in-xcode-6	Templates in Xcode 6	
 advanced	http://www.thomashanning.com/swift-generics	Swift: Generics	generics	20150907
 advanced	http://www.thomashanning.com/outsource-your-uitableviewdatasourc	Outsource your UITableViewDataSource	UITableView	20150727
 libs	http://github.com/dongri/OAuthSwift	Swift based OAuth library for iOS	oauth2	20010101
+advanced	http://flexmonkey.blogspot.com/2015/10/forcezoom-popup-image-detail-view-using.html	ForceZoom: Popup Image Detail View using 3D Touch Peek	3dTouch	20151011
+advanced	http://www.stringcode.co.uk/push-pop-modal-sfsafariviewcontroller-hacking-swipe-from-edge-gesture	Push / Pop modal SFSafariViewController (Hacking swipe from edge gesture)	SFSafariViewController:3dTouch	20151011
+advanced	http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now	Add iOS 9’s Quick Actions shortcut support in 15 minutes right now		20150914
+advanced	http://www.stringcode.co.uk/adding-weibo-sharing-option-to-your-app-how-and-why	Adding Weibo sharing option to your app (How and Why to China)		20150816
+advanced	http://5vor9.com/writing/simple-date-arithmetics-with-swift	Simple date arithmetic with Swift	date	20140604
+advanced	http://nshint.io/blog/2015/10/10/working-with-cfunction-pointers-in-swift	Working With CFunction Pointers in Swift		20151010
+advanced	http://www.raywenderlich.com/115700/ios-9-multitasking-tutorial	iOS 9 Multitasking Tutorial	concurrency	20151012
+advanced	http://realm.io/news/richard-fox-casting-swift-2	Cast-Free Arithmetic in Swift	video	20151012
+advanced	http://www.thomashanning.com/uialertcontroller	UIAlertController	UIAlertController	20151012
+advanced	http://christiantietze.de/posts/2015/10/unit-of-work-core-data-transaction	Transactions and Rolling Back Changes in Core Data with UnitOfWork	CoreData	20151012
+advanced	http://useyourloaf.com/blog/3d-touch-peek-and-pop.html	3D Touch Peek and Pop	3dTouch	20151012
+advanced	http://littlebitesofcocoa.com/101	little bites of cocoa: #101: Building a Camera (Part 1)		20151012
+advanced	http://christiantietze.de/posts/2015/10/bootstrapping-appdelegate	How to Move Bootstrapping Code Out of AppDelegate		20151013
+advanced	http://www.raywenderlich.com/115697/ios-9-storyboards-tutorial-whats-new-in-storyboards	iOS 9 Storyboards Tutorial: What’s New in Storyboards?		20151013
