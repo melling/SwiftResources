@@ -350,7 +350,7 @@ tutorial	http://sketchytech.blogspot.com/2014/12/swift-failing-with-class.html	S
 tutorial	http://mookid.dk/oncode/archives/3780	Playing with UIView shadows	UIView	20140616
 tutorial	http://mookid.dk/oncode/archives/3815	Swift gesture recognizer that accepts a func	gesture	20140621
 tutorial	http://mookid.dk/oncode/archives/3795	How to create a draggable cookie with Swift		20140621
-tutorial	http://jamesonquave.com/blog/taking-control-of-the-iphone-camera-in-ios-8-with-swift-part-2	Taking control of the iPhone camera in iOS 8 with Swift (Part 2)		20140930
+tutorial	http://jamesonquave.com/blog/taking-control-of-the-iphone-camera-in-ios-8-with-swift-part-2	Taking control of the iPhone camera in iOS 8 with Swift (Part 2)	camera	20140930
 advanced	http://jamesonquave.com/blog/using-equatable-and-nilliteralconvertible-to-re-implement-optionals-in-swift-part-2	Using Equatable and NilLiteralConvertible to re-implement Optionals in Swift (Part 2)		20141206
 advanced	http://jamesonquave.com/blog/re-implementing-optionals-using-swifts-powerful-enum-type	Re-implementing Optionals using Swift’s powerful enum type		20141206
 tutorial	http://www.shrikar.com/blog/2014/11/24/ios-8-notifications-in-swift	iOS 8 Notifications		20141124
@@ -1277,7 +1277,7 @@ advanced	http://littlebitesofcocoa.com/32	little bites of cocoa: #32: CoreImage 
 advanced	http://littlebitesofcocoa.com/33	little bites of cocoa: #33: Photos Framework Basics	Photos	20150708
 advanced	http://flexmonkey.blogspot.com/2015/07/a-first-look-at-model-ios-sky-cube.html	A First Look at Model I/O's Sky Cube Texture		20150712
 advanced	http://www.andrewcbancroft.com/2015/07/09/circular-progress-indicator-in-swift	Circular Progress Indicator in Swift	animation	20150709
-advanced	http://flexmonkey.blogspot.com/2015/07/controlling-metal-reaction-diffusion.html	Controlling Metal Reaction Diffusion Systems with the iPad Camera	metal	20150711
+advanced	http://flexmonkey.blogspot.com/2015/07/controlling-metal-reaction-diffusion.html	Controlling Metal Reaction Diffusion Systems with the iPad Camera	metal:camera	20150711
 libs	http://github.com/kaandedeoglu/KDCircularProgress	A circular progress view with gradients	animation	20150101
 advanced	http://littlebitesofcocoa.com/34	little bites of cocoa: #34: Swift Generics	generics	20150709
 advanced	http://littlebitesofcocoa.com/35	little bites of cocoa: #35: Async		20150710
@@ -2127,7 +2127,7 @@ advanced	http://realm.io/news/richard-fox-casting-swift-2	Cast-Free Arithmetic i
 advanced	http://www.thomashanning.com/uialertcontroller	UIAlertController	UIAlertController	20151012
 advanced	http://christiantietze.de/posts/2015/10/unit-of-work-core-data-transaction	Transactions and Rolling Back Changes in Core Data with UnitOfWork	CoreData	20151012
 advanced	http://useyourloaf.com/blog/3d-touch-peek-and-pop.html	3D Touch Peek and Pop	3dTouch	20151012
-advanced	http://littlebitesofcocoa.com/101	little bites of cocoa: #101: Building a Camera (Part 1)		20151012
+advanced	http://littlebitesofcocoa.com/101	little bites of cocoa: #101: Building a Camera (Part 1)	camera	20151012
 advanced	http://christiantietze.de/posts/2015/10/bootstrapping-appdelegate	How to Move Bootstrapping Code Out of AppDelegate		20151013
 advanced	http://www.raywenderlich.com/115697/ios-9-storyboards-tutorial-whats-new-in-storyboards	iOS 9 Storyboards Tutorial: What’s New in Storyboards?	storyboard	20151013
 advanced	http://www.learncoredata.com/the-core-data-stack	The Core Data Stack	CoreData	20150513
@@ -2148,7 +2148,7 @@ advanced	http://ashishkakkad.com/2015/07/realm-mobile-database-with-swift	Realm 
 advanced	http://ashishkakkad.com/2015/08/how-to-work-with-ibdesignable-and-ibinspectable-in-swift-language	How to work with IBDesignable and IBInspectable in Swift Language?	IBDesignable	20150808
 advanced	http://ashishkakkad.com/2015/09/create-your-own-slider-menu-drawer-in-swift-2-ios-9	Create your own Slider menu (Drawer) in Swift 2 – iOS 9	animation	20150928
 advanced	http://ashishkakkad.com/2015/10/how-to-use-alamofire-and-swiftyjson-with-swift-swift-2-ios-9-xcode-7	How to use Alamofire and SwiftyJSON with Swift? – Swift 2 – iOS 9 – Xcode 7	json	20151006
-advanced	http://littlebitesofcocoa.com/102	little bites of cocoa: #102: Building a Camera (Part 2)		20151013
+advanced	http://littlebitesofcocoa.com/102	little bites of cocoa: #102: Building a Camera (Part 2)	camera	20151013
 advanced	http://www.mokacoding.com/blog/xcodebuild-destination-options	Xcodebuild Destination Cheatsheet	xcode	20151013
 libs	http://gist.github.com/blixt/821a0748257dc8d3581f	A Swift String extension that converts a hexadecimal color to a UIColo	UIColor:color	20010101
 advanced	http://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5	Exploring Apple’s 3D Touch		20151011
@@ -2159,3 +2159,4 @@ advanced	http://alisoftware.github.io/swift/pattern-matching/2015/08/23/urls-and
 advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Thinking in Swift, Part 2: map those arrays		20150930
 advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class		20151003
 source	http://gist.github.com/andymatuschak/5b4165d278c265cd5a35	Source for the Khan Academy app's unusual scrolling interactions	UIScrollView	20010101
+advanced	http://www.andrewcbancroft.com/2015/10/13/loading-a-receipt-for-validation-with-swift	Loading a Receipt for Validation		20151013
