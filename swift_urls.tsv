@@ -287,32 +287,32 @@ tutorial	http://www.raywenderlich.com/71872/how-to-make-game-music-for-beginners
 tutorial	http://www.raywenderlich.com/76285/beginning-core-image-swift	Beginning Core Image in Swift	CoreImage	20140813
 tutorial	http://www.raywenderlich.com/76200/basic-uiview-animation-swift-tutorial	Basic UIView Animation with Swift Tutorial		20141214
 tutorial	http://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial	OpenGL ES Pixel Shaders Tutorial	objc:opengl	20140729
-tutorial	http://www.raywenderlich.com/74514/video-tutorial-introduction-swift-part-0-introduction	Video Tutorial: Introduction to Swift Part 0: Introduction	video	20010101
-tutorial	http://www.raywenderlich.com/74518/video-tutorial-introduction-swift-part-1-variables-constants	Video Tutorial: Introduction to Swift Part 1: Variables and Constants	video	20010101
-tutorial	http://www.raywenderlich.com/75041/video-tutorial-introduction-swift-part-2-strings	Video Tutorial: Introduction to Swift Part 2: Strings	video:string	20010101
-tutorial	http://www.raywenderlich.com/75148/video-tutorial-introduction-swift-part-3-arrays	Video Tutorial: Introduction to Swift Part 3: Arrays	video:Array	20010101
-tutorial	http://www.raywenderlich.com/75545/video-tutorial-introduction-swift-part-4-dictionaries	Video Tutorial: Introduction to Swift Part 4: Dictionaries	video:Dictionary	20010101
-tutorial	http://www.raywenderlich.com/75578/video-tutorial-introduction-swift-part-5-control-flow	Video Tutorial: Introduction to Swift Part 5: Control Flow	video	20010101
-tutorial	http://www.raywenderlich.com/76260/video-tutorial-introduction-swift-part-6-functions	Video Tutorial: Introduction to Swift Part 6: Functions	video	20010101
-tutorial	http://www.raywenderlich.com/77048/video-tutorial-introduction-to-swift-part-7-classes	Video Tutorial: Introduction to Swift Part 7: Classes	video	20010101
-tutorial	http://www.raywenderlich.com/77878/video-tutorial-introduction-swift-part-8-tuples	Video Tutorial: Introduction to Swift Part 8: Tuples	video:tuples	20010101
-tutorial	http://www.raywenderlich.com/75289/swift-tutorial-part-3-tuples-protocols-delegates-table-views	Swift Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views	tuple:protocol	20010101
-tutorial	http://www.raywenderlich.com/79850/collection-data-structures-swift	Collection Data Structures In Swift		20010101
-tutorial	http://www.raywenderlich.com/82832/video-tutorial-ios-animations-introduction	Video Tutorial: iOS Animation with Swift: Introduction	beginner	20010101
-tutorial	http://www.samuelmullen.com/2014/10/performance_testing_in_swift	Performance Testing in Xcode 6	testing	20010101
-tutorial	http://www.scottlogic.com/blog/2014/12/08/swift-optional-pyramids-of-doom.html	Tearing Down Swift's Optional Pyramid Of Doom		20010101
-tutorial	http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language	Using Swift As General Purpose Scripting Language	scripting	20010101
-tutorial	http://www.sunsetlakesoftware.com/2014/06/30/exploring-swift-using-gpuimage	Exploring Swift using GPUImage		20010101
-tutorial	http://www.sunsetlakesoftware.com/2014/12/02/why-were-rewriting-our-robotics-software-swift	Why We're Rewriting Our Robotics Software in Swift		20010101
-tutorial	http://www.thinkandbuild.it/interactive-notifications-with-notification-actions	Interactive Notifications with Notification Actions		20010101
+tutorial	http://www.raywenderlich.com/74514/video-tutorial-introduction-swift-part-0-introduction	Video Tutorial: Introduction to Swift Part 0: Introduction	video	20140901
+tutorial	http://www.raywenderlich.com/74518/video-tutorial-introduction-swift-part-1-variables-constants	Video Tutorial: Introduction to Swift Part 1: Variables and Constants	video	20140901
+tutorial	http://www.raywenderlich.com/75041/video-tutorial-introduction-swift-part-2-strings	Video Tutorial: Introduction to Swift Part 2: Strings	video:string	20140901
+tutorial	http://www.raywenderlich.com/75148/video-tutorial-introduction-swift-part-3-arrays	Video Tutorial: Introduction to Swift Part 3: Arrays	video:Array	20140901
+tutorial	http://www.raywenderlich.com/75545/video-tutorial-introduction-swift-part-4-dictionaries	Video Tutorial: Introduction to Swift Part 4: Dictionaries	video:Dictionary	20140901
+tutorial	http://www.raywenderlich.com/75578/video-tutorial-introduction-swift-part-5-control-flow	Video Tutorial: Introduction to Swift Part 5: Control Flow	video	20140901
+tutorial	http://www.raywenderlich.com/76260/video-tutorial-introduction-swift-part-6-functions	Video Tutorial: Introduction to Swift Part 6: Functions	video	20140901
+tutorial	http://www.raywenderlich.com/77048/video-tutorial-introduction-to-swift-part-7-classes	Video Tutorial: Introduction to Swift Part 7: Classes	video	20140901
+tutorial	http://www.raywenderlich.com/77878/video-tutorial-introduction-swift-part-8-tuples	Video Tutorial: Introduction to Swift Part 8: Tuples	video:tuples	20140901
+tutorial	http://www.raywenderlich.com/75289/swift-tutorial-part-3-tuples-protocols-delegates-table-views	Swift Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views	tuple:protocol	20150921
+tutorial	http://www.raywenderlich.com/79850/collection-data-structures-swift	Collection Data Structures In Swift		20150421
+tutorial	http://www.raywenderlich.com/82832/video-tutorial-ios-animations-introduction	Video Tutorial: iOS Animation with Swift: Introduction	beginner	20140917
+tutorial	http://www.samuelmullen.com/2014/10/performance_testing_in_swift	Performance Testing in Xcode 6	testing	20141020
+tutorial	http://www.scottlogic.com/blog/2014/12/08/swift-optional-pyramids-of-doom.html	Tearing Down Swift's Optional Pyramid Of Doom		20141208
+tutorial	http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language	Using Swift As General Purpose Scripting Language	scripting	20140617
+tutorial	http://www.sunsetlakesoftware.com/2014/06/30/exploring-swift-using-gpuimage	Exploring Swift using GPUImage		20140630
+tutorial	http://www.sunsetlakesoftware.com/2014/12/02/why-were-rewriting-our-robotics-software-swift	Why We're Rewriting Our Robotics Software in Swift		20141202
+tutorial	http://www.thinkandbuild.it/interactive-notifications-with-notification-actions	Interactive Notifications with Notification Actions		20141006
 tutorial	http://www.weheartswift.com/birds-cats-dogs	Birds, Cats and Dogs		20141128
 tutorial	http://www.weheartswift.com/drawing-with-text	Drawing with Text		20141019
 tutorial	http://www.weheartswift.com/one-month-swift	One month of Swift		20140629
 tutorial	http://www.weheartswift.com/random-pi	Random Pi	random	20141010
 tutorial	http://www.weheartswift.com/swift-programming-scratch-100-exercises	Swift Programming from Scratch in 100 Exercises		20010101
 sites	http://developer.apple.com/swift/blog	Apple Swift Blog		20010101
-sites	http://developer.apple.com/swift/resources/	Apple Swift Resources		20010101
-sites	http://thatthinginswift.com/	That Thing in Swift		20010101
+sites	http://developer.apple.com/swift/resources	Apple Swift Resources		20010101
+sites	http://thatthinginswift.com	That Thing in Swift		20010101
 source	http://developer.apple.com/library/prerelease/ios/samplecode/Adventure-Swift/Introduction/Intro.html	Adventure-Swift	SpriteKit	20010101
 source	http://github.com/acidstudios/WorldCupSwift	World Cup Swift		20010101
 source	http://github.com/alikaragoz/Swifty-News	Swifty News		20010101
