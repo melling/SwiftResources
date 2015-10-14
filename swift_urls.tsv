@@ -2158,3 +2158,4 @@ advanced	http://alisoftware.github.io/swift/enum/constants/2015/07/19/enums-as-c
 advanced	http://alisoftware.github.io/swift/pattern-matching/2015/08/23/urls-and-pattern-matching	URLs and Pattern Matching		20150823
 advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Thinking in Swift, Part 2: map those arrays		20150930
 advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class		20151003
+source	http://gist.github.com/andymatuschak/5b4165d278c265cd5a35	Source for the Khan Academy app's unusual scrolling interactions	UIScrollView	20010101
