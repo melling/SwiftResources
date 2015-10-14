@@ -2148,3 +2148,13 @@ advanced	http://ashishkakkad.com/2015/07/realm-mobile-database-with-swift	Realm 
 advanced	http://ashishkakkad.com/2015/08/how-to-work-with-ibdesignable-and-ibinspectable-in-swift-language	How to work with IBDesignable and IBInspectable in Swift Language?	IBDesignable	20150808
 advanced	http://ashishkakkad.com/2015/09/create-your-own-slider-menu-drawer-in-swift-2-ios-9	Create your own Slider menu (Drawer) in Swift 2 – iOS 9	animation	20150928
 advanced	http://ashishkakkad.com/2015/10/how-to-use-alamofire-and-swiftyjson-with-swift-swift-2-ios-9-xcode-7	How to use Alamofire and SwiftyJSON with Swift? – Swift 2 – iOS 9 – Xcode 7	json	20151006
+advanced	http://littlebitesofcocoa.com/102	little bites of cocoa: #102: Building a Camera (Part 2)		20151013
+advanced	http://www.mokacoding.com/blog/xcodebuild-destination-options	Xcodebuild Destination Cheatsheet	xcode	20151013
+libs	http://gist.github.com/blixt/821a0748257dc8d3581f	A Swift String extension that converts a hexadecimal color to a UIColo	UIColor:color	20010101
+advanced	http://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5	Exploring Apple’s 3D Touch		20151011
+advanced	http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4	Thinking in Swift, Part 4: map all the things		20151011
+advanced	http://alisoftware.github.io/swift/enum/json/2015/07/16/swift-enums-for-JSON-parsing	Swift enums for JSON parsing		20150716
+advanced	http://alisoftware.github.io/swift/enum/constants/2015/07/19/enums-as-constants	Enums as constants		20150719
+advanced	http://alisoftware.github.io/swift/pattern-matching/2015/08/23/urls-and-pattern-matching	URLs and Pattern Matching		20150823
+advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Thinking in Swift, Part 2: map those arrays		20150930
+advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class		20151003
