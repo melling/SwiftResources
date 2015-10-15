@@ -2160,3 +2160,11 @@ advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Think
 advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class		20151003
 source	http://gist.github.com/andymatuschak/5b4165d278c265cd5a35	Source for the Khan Academy app's unusual scrolling interactions	UIScrollView	20010101
 advanced	http://www.andrewcbancroft.com/2015/10/13/loading-a-receipt-for-validation-with-swift	Loading a Receipt for Validation		20151013
+advanced	http://christiantietze.de/posts/2015/10/view-model-control	Decouple UI from Model with View Models and Controls	mvvm	20151014
+advanced	http://metalbyexample.com/metal-performance-shaders-in-swift	Metal Performance Shaders		20151013
+advanced	http://memkite.com/blog/2015/10/14/memkite-deep-learning-for-ios-tested-on-iphone-6s-tvos-and-os-x-developed-in-metal-and-swift	Deep Learning for iOS (tested on iPhone 6S), tvOS and OS X developed in Metal		20151014
+advanced	http://realm.io/news/realm-objc-swift-0.96.0	Realm Objective-C & Swift 0.96		20151014
+advanced	http://realm.io/news/jacob-schwartz-swift-features	F-Yeah Swift: 4 Features That Changed How I Code		20151015
+advanced	http://www.thomashanning.com/type-casting-in-swift	Type Casting in Swift		20151015
+advanced	http://littlebitesofcocoa.com/103	little bites of cocoa: #103: UIStackView in Code		20151014
+advanced	http://littlebitesofcocoa.com/104	little bites of cocoa: #104: Interactive Collection View Re-ordering		20151015
