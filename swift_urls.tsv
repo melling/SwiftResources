@@ -63,7 +63,7 @@ advanced	http://www.objc.io/snippets/15.html	Combined pattern-matching	functiona
 advanced	http://www.objc.io/snippets/16.html	Typed Notification Observers	functional	20150126
 advanced	http://www.objc.io/snippets/17.html	Caesar ciphers	functional	20150202
 tutorial	http://www.objc.io/snippets/18.html	Unwrapping multiple optionals	functional	20150217
-advanced	http://www.olliewilliams.org/blog/2014/12/23/parsing-json	Parsing JSON		20141223
+advanced	http://www.olliewilliams.org/blog/2014/12/23/parsing-json	Parsing JSON	json	20141223
 advanced	http://www.pumpmybicep.com/2014/06/24/resolving-arc-strong-reference-cycles-in-swift	Resolving ARC Strong Reference Cycles in Swift		20140624
 advanced	http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift	NSOperation and NSOperationQueue Tutorial in Swift	NSOperation:concurrency	20141209
 advanced	http://www.raywenderlich.com/81399/ios-8-metal-tutorial-swift-moving-to-3d	iOS 8 Metal Tutorial with Swift Part 2: Moving to 3D	metal	20141030
@@ -197,7 +197,7 @@ tutorial	http://jspha.com/posts/immutable_enumeration_in_swift/	Immutable Enumer
 tutorial	http://vimeo.com/107707576	NSSpain 2014: 'Swift and C' by Mike Ash	video	20141001
 tutorial	http://waynewbishop.com/swift/hashtables	Hash Tables		20010101
 tutorial	http://waynewbishop.com/swift/tries	Tries		20010101
-tutorial	http://weblog.invasivecode.com/post/90594294660/singletons-in-swift-in-this-post-i-will-to	Singletons in Swift		20010101
+tutorial	http://www.invasivecode.com/weblog/singletons-in-swift-in-this-post-i-will	Singletons in Swift	singleton	20140702
 tutorial	http://www.andrewcbancroft.com/2014/10/15/rotate-animation-in-swift	Rotate Animation in Swift	animation	20141015
 tutorial	http://www.andrewcbancroft.com/2014/11/16/distinguishing-between-multiple-uiactionsheets-with-swift	Distinguishing Between Multiple UIActionSheets with Swift		20141116
 tutorial	http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources	Swift Unit Testing Resources	testing	20141219
@@ -273,7 +273,7 @@ tutorial	http://www.raywenderlich.com/78629/how-to-make-a-waiting-game-like-farm
 tutorial	http://www.raywenderlich.com/84434/sprite-kit-swift-tutorial-beginners	Sprite Kit Swift Tutorial for Beginners	SpriteKit	20141001
 tutorial	http://www.raywenderlich.com/77092/text-kit-tutorial-swift	Text Kit Tutorial in Swift	TextKit	20141212
 tutorial	http://www.raywenderlich.com/84043/ios-8-visual-effects-tutorial	iOS 8 Visual Effects Tutorial		20140929
-tutorial	http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial	iOS 8 Today Extension Tutorial		20140925
+tutorial	http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial	iOS 8 Today Extension Tutorial	extension	20140925
 tutorial	http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial	Beginning Adaptive Layout Tutorial	AdaptiveLayout	20140922
 tutorial	http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift	How To Use UIScrollView to Scroll and Zoom Content in Swift	uiscrollview	20141213
 tutorial	http://www.raywenderlich.com/80818/operator-overloading-in-swift-tutorial	Operator Overloading in Swift Tutorial		20140919
@@ -361,7 +361,7 @@ tutorial	http://peterwitham.com/swift/intermediate/display-an-alert	Display an A
 tutorial	http://www.ioscreator.com/tutorials/display-activity-indicator-status-bar-ios8-swift	Display Activity Indicator on Status Bar in iOS8 with Swift		20141202
 tutorial	http://www.ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift	Attributed Strings Tutorial in iOS8 with Swift		20141208
 tutorial	http://www.ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift	Customizing Header and Footer of Table View in iOS8 with Swift	UITableView	20141210
-tutorial	http://www.ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift	Today Extensions Tutorial in iOS8 with Swift		20141217
+tutorial	http://www.ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift	Today Extensions Tutorial in iOS8 with Swift	extension	20141217
 tutorial	http://www.ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift	Custom Fonts in Interface Builder Tutorial in iOS8 with Swift	UIFont	20141222
 tutorial	http://www.ioscreator.com/tutorials/prototype-cells-tableview-tutorial-ios8-swift	Prototype Cells in Tableview Tutorial in iOS8 with Swift		20140813
 tutorial	http://www.ioscreator.com/tutorials/mapkit-tutorial-swift-ios8	MapKit Tutorial with Swift in iOS8	MapKit	20140818
@@ -756,7 +756,7 @@ libs	http://github.com/apexskier/SKLinearAlgebra	Swift extensions for Linear Alg
 libs	http://github.com/bennyguitar/Colours	A beautiful set of predefined colors and a set of color methods	color	20010101
 advanced	http://www.andrewcbancroft.com/2015/02/25/using-swift-to-seed-a-core-data-database	Using Swift to Seed a Core Data Database	CoreData	20150225
 advanced	http://www.objc.io/snippets/20.html	Configuration Values		20150302
-libs	http://github.com/jquave/LumaJSON	A super simple JSON helper		20010101
+libs	http://github.com/jquave/LumaJSON	A super simple JSON helper	json	20010101
 tutorial	http://oleb.net/blog/2015/02/truncated-text	Truncated Text in Mobile UIs		20150227
 tutorial	http://oleb.net/blog/2015/02/minus-sign	The Minus Sign		20150226
 advanced	http://www.mav3r1ck.com/one-thousand-character-password	One Thousand Character Password		20150222
@@ -785,7 +785,7 @@ tutorial	http://medium.com/swift-programming/work-with-infodictionary-in-a-swift
 tutorial	http://airspeedvelocity.net/2015/03/08/sorting-nibbles-in-swift	Sorting Nibbles in Swift		20150308
 tutorial	http://www.figure.ink/blog/2015/3/8/stupid-disambiguation-tricks	Stupid Disambiguation Tricks		20150308
 tutorial	http://medium.com/swift-programming/tuple-as-function-argument-619523b6e06b	Tuple as Function arguments		20150308
-tutorial	http://blog.scottlogic.com/2015/03/09/json-in-swift.html	Swift JSON Shoot-Out		20150309
+tutorial	http://blog.scottlogic.com/2015/03/09/json-in-swift.html	Swift JSON Shoot-Out	json	20150309
 tutorial	http://www.ioscreator.com/tutorials/file-management-tutorial-ios8-swift	File Management Tutorial in iOS8 with Swift		20150309
 tutorial	http://medium.com/swift-programming/animating-a-smiley-face-across-the-screen-in-swift-dc808c7ca20c	Animating a Smiley Face Across the Screen in Swift		20150309
 tutorial	http://www.objc.io/issue-22	Objc.io: #22 iOS at Scale		20150310
@@ -863,7 +863,7 @@ libs	http://github.com/victor/Learning-Core-Audio-in-Swift	Learning Core Audio i
 libs	http://audiokit.io	AudioKit	AudioKit	20010101
 commercial	http://nsscreencast.com	NSScreencasts	video	20010101
 advanced	http://ericasadun.com/2015/04/01/swift-launch-at-login	Swift: Launch at Login		20150401
-advanced	http://sketchytech.blogspot.com/2015/04/in-and-out-of-jsonness-parsing-logic.html	In and out of JSONness: Parsing Logic with Swift and Aldwych		20150402
+advanced	http://sketchytech.blogspot.com/2015/04/in-and-out-of-jsonness-parsing-logic.html	In and out of JSONness: Parsing Logic with Swift and Aldwych	json	20150402
 beginner	http://www.udacity.com/course/ud585	Intro to iOS App Development with Swift	beginner	20010101
 beginner	http://blog.udacity.com/2015/03/learn-swift-tutorial-fundamentals.html	A Simple Swift Tutorial: Playgrounds and Fundamentals	playground	20150304
 tutorial	http://ericasadun.com/2015/04/02/swift-mumble-mumble-thoughts	Swift: mumble mumble thoughts		20150402
@@ -1677,7 +1677,7 @@ libs	http://github.com/Goro-Otsubo/GPaperTrans	Yet another UICollectionView layo
 libs	http://github.com/icanzilb/SwiftSpinner	A beautiful activity indicator and modal alert. Using blur effects, translucency, flat and bold design	blur	20010101
 libs	http://github.com/indragiek/swiftrsrc	Resource code generation tool		20010101
 libs	http://github.com/inFullMobile/WobbleView	an implementation of a recently popular wobble effect for any view in your app		20010101
-libs	http://github.com/isair/JSONHelper	Lightning fast JSON deserialization and value conversion library for iOS & OS X		20010101
+libs	http://github.com/isair/JSONHelper	Lightning fast JSON deserialization and value conversion library for iOS & OS X	json	20010101
 libs	http://github.com/jessesquires/JSQCoreDataKit	A swifter Core Data stack	CoreData	20010101
 libs	http://github.com/jessesquires/JSQDataSourcesKit	Type-safe, value-oriented data source objects that keep your view controllers light		20010101
 libs	http://github.com/kevin0571/STPopup	STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad		20010101
@@ -1873,7 +1873,7 @@ advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-4-custom-fonts-
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-5-auto-sizing-table-view-cells	iOS8 Day-by-Day :: Day 5 :: Auto-sizing table view cells	UITableViewCell	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-6-profiling-unit-tests	iOS8 Day-by-Day :: Day 6 :: Profiling Unit Tests	testing	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-7-adaptive-layout-and-uitraitcollection	iOS8 Day-by-Day :: Day 7 :: Adaptive Layout and UITraitCollection	UITraitCollection	20150409
-advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-8-today-extension	iOS8 Day-by-Day :: Day 8 :: Today Extension		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-8-today-extension	iOS8 Day-by-Day :: Day 8 :: Today Extension	extension	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-9-designated-initialisers	iOS8 Day-by-Day :: Day 9 :: Designated Initialisers		20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-10-xcode-6-playgrounds	iOS8 Day-by-Day :: Day 10 :: Xcode 6 Playgrounds	playground	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-11-asynchronous-testing	iOS8 Day-by-Day :: Day 11 :: Asynchronous Testing	testing	20150409
@@ -1923,7 +1923,7 @@ libs	http://github.com/cezheng/PySwiftyRegex	Easily deal with Regex in Swift in 
 libs	http://github.com/daltoniam/Starscream	Websockets in swift for iOS and OSX		20010101
 libs	http://github.com/DigitalLeaves/BezierPathPlaygrounds	Some playgrounds to better understand UIBezierPaths	UIBezierPath	20010101
 libs	http://github.com/dmikusa/swift_playgrounds	A collection of Swift playgrounds demonstrating language basics, JSON parsing, HTTP networking and File IO		20010101
-libs	http://github.com/evermeer/EVReflection	Swift helper library with reflection functions with support for NSCoding, Printable, Hashable, Equatable and JSON		20010101
+libs	http://github.com/evermeer/EVReflection	Swift helper library with reflection functions with support for NSCoding, Printable, Hashable, Equatable and JSON	json	20010101
 libs	http://github.com/imgur/hermes	a simple and robust in-app notification system for iOS		20010101
 libs	http://github.com/joemasilotti/XCTest-Documentation	Unofficial documentation for XCTest, including UI Testing, introduced in iOS 9.		20010101
 libs	http://github.com/JohnEstropia/CoreStore	Unleashing the real power of Core Data with the elegance and safety of Swift		20010101
@@ -1986,7 +1986,7 @@ advanced	http://www.the-nerd.be/2015/08/07/load-assets-from-bundle-resources-in-
 advanced	http://www.the-nerd.be/2015/08/12/tnswiftycheckboxgroup-create-checkboxes-for-swift	TNSwiftyCheckboxGroup, create checkbox groups in Swift		20150812
 advanced	http://www.the-nerd.be/2015/09/01/new-features-in-swift-2	New features in Swift 2		20150901
 advanced	http://www.the-nerd.be/2015/09/30/add-3d-touch-quick-actions-tutorial	Add 3D Touch quick actions tutorial	3dTouch	20150930
-libs	http://github.com/hkellaway/Gloss	A shiny JSON parsing library in Swift http://cocoapods.org/pods/Gloss		20010101
+libs	http://github.com/hkellaway/Gloss	A shiny JSON parsing library in Swift http://cocoapods.org/pods/Gloss	json	20010101
 advanced	http://www.appcoda.com/ios-contacts-framework	A First Look at Contacts Framework in iOS 9	Contacts	20150929
 advanced	http://codek.tv/957	Swift Programming Language Fundamentals for Absolute Beginners	beginner:video	20150926
 commercial	http://www.amazon.com/dp/1320479243	Swift Algorithms & Data Structures	book:algorithm	20010101
@@ -2016,7 +2016,7 @@ libs	http://github.com/groue/GRDB.swift	A versatile SQLite toolkit	sqlite	200101
 advanced	http://ios-blog.co.uk/swift-tutorials/check-api-availability-with-swift-2	Check API Availability with Swift 2		20151004
 advanced	http://www.thomashanning.com/uipopoverpresentationcontroller	UIPopoverPresentationController		20151004
 advanced	http://www.raywenderlich.com/113489/core-data-tutorial-multiple-managed-object-contexts	Core Data Tutorial: Multiple Managed Object Contexts	CoreData	20151005
-advanced	http://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios	Preparing to Test Receipt Validation for iOS		20151005
+advanced	http://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios	Preparing to Test Receipt Validation for iOS	InAppPurchase	20151005
 advanced	http://christiantietze.de/posts/2015/10/domain-model-core-data	Expressive Domain Model, Core Data, and You	CoreData	20151006
 advanced	http://netguru.co/blog/hidden-gems-swift	Hidden Gems in Swift You Didn't Know About	SwiftLang	20151005
 advanced	http://www.youtube.com/watch?v=XmLdEcq-QNI	How to build an Apple TV App Tutorial for tvOS	AppleTV:video	20150912
@@ -2060,7 +2060,7 @@ libs	http://github.com/kaler/SmartRouter	A tiny routing library written in Swift
 libs	http://github.com/k0nserv/SwiftObjLoader	A wavefront object format loader		20010101
 libs	http://github.com/icanzilb/EasyAnimation	A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!		20010101
 libs	http://github.com/xxycode/UIViewXXYBoom	一个好玩的效果，原谅我在家里网速慢，没有升级到Xcode 7，还是用的swift1.2，回到公司马上改到2.0		20010101
-libs	http://github.com/johnlui/JSONNeverDie	Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die		20010101
+libs	http://github.com/johnlui/JSONNeverDie	Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die	json	20010101
 libs	http://github.com/madebybowtie/FlagKit	Beautiful flag icons for usage in apps and on the web		20010101
 libs	http://github.com/thellimist/SwiftRandom	A tiny generator of random data for swift	random	20010101
 libs	http://github.com/goktugyil/CozyLoadingActivity	Lightweight Swift loading activity for iOS7+		20010101
@@ -2153,8 +2153,8 @@ advanced	http://www.mokacoding.com/blog/xcodebuild-destination-options	Xcodebuil
 libs	http://gist.github.com/blixt/821a0748257dc8d3581f	A Swift String extension that converts a hexadecimal color to a UIColo	UIColor:color	20010101
 advanced	http://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5	Exploring Apple’s 3D Touch		20151011
 advanced	http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4	Thinking in Swift, Part 4: map all the things		20151011
-advanced	http://alisoftware.github.io/swift/enum/json/2015/07/16/swift-enums-for-JSON-parsing	Swift enums for JSON parsing		20150716
-advanced	http://alisoftware.github.io/swift/enum/constants/2015/07/19/enums-as-constants	Enums as constants		20150719
+advanced	http://alisoftware.github.io/swift/enum/json/2015/07/16/swift-enums-for-JSON-parsing	Swift enums for JSON parsing	enum:json	20150716
+advanced	http://alisoftware.github.io/swift/enum/constants/2015/07/19/enums-as-constants	Enums as constants	enum	20150719
 advanced	http://alisoftware.github.io/swift/pattern-matching/2015/08/23/urls-and-pattern-matching	URLs and Pattern Matching		20150823
 advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Thinking in Swift, Part 2: map those arrays		20150930
 advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class		20151003
@@ -2173,3 +2173,9 @@ advanced	http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift	Op
 advanced	http://roadfiresoftware.com/2015/10/how-to-parse-json-with-swift-2	How to parse JSON with Swift 2	json	20151015
 libs	http://github.com/remobjects/SwiftBaseLibrary			20010101
 advanced	http://www.youtube.com/watch?v=z4tA_fMj0kE	‪London Swift - Do Try Catch in Swift 2.x‬	exceptions:video	20151007
+advanced	http://christiantietze.de/posts/2015/10/value-object-variety	Achieve More with a Variety of Value Objects		20151016
+advanced	http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started	watchOS 2 Tutorial Part 1: Getting Started	watchkit	20151016
+advanced	http://www.youtube.com/watch?v=dxi6I28O2ng	‪iOS Apps & Swift Basics: SplitViewControllers on the iPhone and iPad‬	UISplitViewController:video	20151013
+advanced	http://design.featherless.software/access-framework-internals-from-a-swift-playground	How to access framework internals from a Swift Playground	playground	20151009
+libs	http://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at https://github.com/Xcode-Snippets/Objective-C	xcode	20010101
+advanced	http://www.bignerdranch.com/blog/inpecting-auto-layout-with-the-cocoa-layout-instrument	Inspecting Auto Layout with the Cocoa Layout Instrument	testing:AutoLayout	20151010
