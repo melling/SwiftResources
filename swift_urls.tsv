@@ -1,7 +1,7 @@
 advanced	http://www.codingexplorer.com/execution-states-swift-ios-app	Execution States for a Swift iOS App		20141031
 advanced	http://www.codingexplorer.com/swiftly-getting-human-readable-date-nsdateformatter	Swiftly getting a human-readable date with NSDateFormatter		20141222
 advanced	http://www.ioscreator.com/tutorials/custom-collection-view-cell-tutorial-ios8-swift	Custom Collection View Cell Tutorial in iOS8		20141229
-advanced	http://www.shrikar.com/blog/2014/12/28/swift-tutorial-corelocation-and-region-monitoring-in-ios-8	CoreLocation and Region Monitoring in iOS 8		20141228
+advanced	http://www.shrikar.com/blog/2014/12/28/swift-tutorial-corelocation-and-region-monitoring-in-ios-8	CoreLocation and Region Monitoring in iOS 8	CoreLocation	20141228
 advanced	http://www.shrikar.com/blog/2014/12/06/ios-app-as-a-money-making-machine-using-iad-app-monetization-technique	iOS App as a Money Making Machine Using iAd App Monetization Technique		20141206
 advanced	http://www.shrikar.com/blog/2014/11/06/ios-app-development-upload-images-to-aws-s3	iOS App Development : Upload Images to AWS S3		20141106
 advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html	Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)		20141214
@@ -874,7 +874,7 @@ advanced	http://www.raywenderlich.com/87873/make-game-like-candy-crush-tutorial-
 advanced	http://www.russbishop.net/uikit-missing-bits-1	UIKit Missing Bits #1	UIKit	20150403
 advanced	http://flexmonkey.blogspot.com/2015/04/particles-set-free-high-performance.html	Particles Set Free! High Performance Particles for Swift Developers		20150404
 advanced	http://realm.io/news/natural-language-processing-with-swift	Natural Language Processing with Swift	video	20150404
-advanced	http://www.raywenderlich.com/95014/geofencing-ios-swift	Geofencing in iOS with Swift		20150406
+advanced	http://www.raywenderlich.com/95014/geofencing-ios-swift	Geofencing in iOS with Swift	gps:CoreLocation	20150406
 advanced	http://www.mikeash.com/pyblog/friday-qa-2015-01-23-lets-build-swift-notifications.html	Friday Q&A 2015-01-23: Let's Build Swift Notifications		20150123
 advanced	http://www.mikeash.com/pyblog/friday-qa-2014-08-29-swift-memory-dumping.html	Friday Q&A 2014-08-29: Swift Memory Dumping		20140829
 advanced	http://www.mikeash.com/pyblog/friday-qa-2014-08-15-swift-name-mangling.html	Friday Q&A 2014-08-08: Swift Name Mangling		20140808
@@ -1899,8 +1899,8 @@ advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-30-app-previews
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-31-using-touch-id-to-secure-the-keychain	iOS8 Day-by-Day :: Day 31 :: Using Touch ID to Secure the Keychain	TouchId	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-32-layout-margins	iOS8 Day-by-Day :: Day 32 :: Layout Margins		20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-33-cloudkit	iOS8 Day-by-Day :: Day 33 :: CloudKit	CloudKit	20150409
-advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-34-corelocation-authorization	iOS8 Day-by-Day :: Day 34 :: CoreLocation Authorization		20150409
-advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-35-coremotion	iOS8 Day-by-Day :: Day 35 :: CoreMotion		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-34-corelocation-authorization	iOS8 Day-by-Day :: Day 34 :: CoreLocation Authorization	CoreLocation	20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-35-coremotion	iOS8 Day-by-Day :: Day 35 :: CoreMotion	CoreMotion	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-36-location-notifications	iOS8 Day-by-Day :: Day 36 :: Location Notifications		20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-37-autosizing-collection-view-cells	iOS8 Day-by-Day :: Day 37 :: Autosizing Collection View Cells	UICollectionView	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-38-handoff	iOS8 Day-by-Day :: Day 38 :: Handoff		20150409
@@ -2161,10 +2161,15 @@ advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Think
 source	http://gist.github.com/andymatuschak/5b4165d278c265cd5a35	Source for the Khan Academy app's unusual scrolling interactions	UIScrollView	20010101
 advanced	http://www.andrewcbancroft.com/2015/10/13/loading-a-receipt-for-validation-with-swift	Loading a Receipt for Validation		20151013
 advanced	http://christiantietze.de/posts/2015/10/view-model-control	Decouple UI from Model with View Models and Controls	mvvm	20151014
-advanced	http://metalbyexample.com/metal-performance-shaders-in-swift	Metal Performance Shaders		20151013
+advanced	http://metalbyexample.com/metal-performance-shaders-in-swift	Metal Performance Shaders	metal	20151013
 advanced	http://memkite.com/blog/2015/10/14/memkite-deep-learning-for-ios-tested-on-iphone-6s-tvos-and-os-x-developed-in-metal-and-swift	Deep Learning for iOS (tested on iPhone 6S), tvOS and OS X developed in Metal		20151014
-advanced	http://realm.io/news/realm-objc-swift-0.96.0	Realm Objective-C & Swift 0.96		20151014
+advanced	http://realm.io/news/realm-objc-swift-0.96.0	Realm Objective-C & Swift 0.96	realm	20151014
 advanced	http://realm.io/news/jacob-schwartz-swift-features	F-Yeah Swift: 4 Features That Changed How I Code		20151015
-advanced	http://www.thomashanning.com/type-casting-in-swift	Type Casting in Swift		20151015
-advanced	http://littlebitesofcocoa.com/103	little bites of cocoa: #103: UIStackView in Code		20151014
+advanced	http://www.thomashanning.com/type-casting-in-swift	Type Casting in Swift	SwiftLang	20151015
+advanced	http://littlebitesofcocoa.com/103	little bites of cocoa: #103: UIStackView in Code	UIStackView	20151014
 advanced	http://littlebitesofcocoa.com/104	little bites of cocoa: #104: Interactive Collection View Re-ordering		20151015
+advanced	http://ericasadun.com/2015/10/15/wee-hack-du-jour-swift-lang-formatting-operator	Wee hack du jour #swift-lang : Formatting operator		20151015
+advanced	http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift	Optional Protocol Methods in Pure Swift	protocol	20151015
+advanced	http://roadfiresoftware.com/2015/10/how-to-parse-json-with-swift-2	How to parse JSON with Swift 2	json	20151015
+libs	http://github.com/remobjects/SwiftBaseLibrary			20010101
+advanced	http://www.youtube.com/watch?v=z4tA_fMj0kE	‪London Swift - Do Try Catch in Swift 2.x‬	exceptions:video	20151007
