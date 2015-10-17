@@ -2177,7 +2177,7 @@ advanced	http://christiantietze.de/posts/2015/10/value-object-variety	Achieve Mo
 advanced	http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started	watchOS 2 Tutorial Part 1: Getting Started	watchkit	20151016
 advanced	http://www.youtube.com/watch?v=dxi6I28O2ng	‪iOS Apps & Swift Basics: SplitViewControllers on the iPhone and iPad‬	UISplitViewController:video	20151013
 advanced	http://design.featherless.software/access-framework-internals-from-a-swift-playground	How to access framework internals from a Swift Playground	playground	20151009
-libs	http://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at https://github.com/Xcode-Snippets/Objective-C	xcode	20010101
+libs	http://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at http://github.com/Xcode-Snippets/Objective-C	xcode	20010101
 advanced	http://www.bignerdranch.com/blog/inpecting-auto-layout-with-the-cocoa-layout-instrument	Inspecting Auto Layout with the Cocoa Layout Instrument	testing:AutoLayout	20151010
 libs	http://github.com/dsmatter/SwiftSortUtils	Useful functions and extensions for sorting	sorting	20010101
 advanced	http://design.featherless.software/swift-dictionary-get-with-default	Swift Dictionary: get with default	Dictionary	20151012
@@ -2192,3 +2192,14 @@ advanced	http://christiantietze.de/posts/2015/10/optional-protocol-swift-closure
 advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-midipacketlist-in-swift-part-1	Enumerate MIDIPacketList in Swift: Part 1		20151005
 advanced	http://softwaredesign.jeffverkoeyen.com/swift-frameworks-conflicting-symbols-objective-c-apps	Swift frameworks with conflicting symbols in Objective-C apps		20151007
 advanced	http://design.featherless.software/enumerate-midipacketlist-in-swift-part-2	Enumerate MIDIPacketList in Swift: Part 2		20151009
+libs	http://github.com/bradhilton/SwiftKVC	Key-Value Coding (KVC) for native Swift classes and structs		20010101
+libs	http://github.com/mleiv/SerializableData	Swift 2.0 library to get/set json-type data, usable in NSUserDefaults and CoreData	json	20010101
+advanced	http://romain.goyet.com/articles/running_swift_code_on_android	Running Swift code on Android		20151014
+advanced	http://www.codementor.io/swift/tutorial/what-s-new-in-swift-2	What's New In Swift 2		20150930
+advanced	http://www.codementor.io/swift/tutorial/ios-development-facebook-twitter-sharing	Create a Facebook Share Button and Twitter Tweet Button for Your iOS Swift App		20150217
+advanced	http://www.codementor.io/ios/tutorial/persistent-data-iphone-app-sessions-nsuserdefaults-improve-user-experience-best-practice	Build a Sample iPhone App that Saves a User's Session Data with NSUserDefaults	NSUserDefaults	20150407
+advanced	http://www.codementor.io/swift/tutorial/two-basic-ways-to-populate-your-uitableview	Two Basic Ways To Populate Your UITableView	UITableView	20150419
+advanced	http://www.codementor.io/swift/tutorial/persisting-data-with-nsuserdefaults-and-complex-objects	Making a Bookkeeping App with NSUserDefaults and Complex Objects		20150428
+advanced	http://www.codementor.io/swift/tutorial/protocol-extensions-swift-ios	Swift Tips & Tricks: Protocol Extensions in Swift	protocol	20150817
+advanced	http://www.codementor.io/swift/tutorial/using-functions-as-parameters-in-ios-swift-tips	Swift Tips & Tricks: Using Functions as Parameters		20150819
+advanced	http://www.codementor.io/swift/tutorial/customize-parse-twitter-facebook-signup-login-view-animations	Parse Tutorial: Customizing Your Twitter/Facebook Signup/Login Views		20150908
