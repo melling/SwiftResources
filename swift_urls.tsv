@@ -359,7 +359,7 @@ advanced	http://www.shrikar.com/blog/2014/11/18/ios-development-tutorial-visual-
 advanced	http://peterwitham.com/swift/basics/auto-layout-constraints-basics	Auto Layout & Constraints – The Basics	AutoLayout	20141028
 advanced	http://peterwitham.com/swift/intermediate/display-an-alert	Display an Alert or Action Sheet Using Swift in iOS 8		20141122
 advanced	http://www.ioscreator.com/tutorials/display-activity-indicator-status-bar-ios8-swift	Display Activity Indicator on Status Bar in iOS8 with Swift		20141202
-advanced	http://www.ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift	Attributed Strings Tutorial in iOS8 with Swift		20141208
+advanced	http://www.ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift	Attributed Strings Tutorial in iOS8 with Swift	NSAttributedString	20141208
 advanced	http://www.ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift	Customizing Header and Footer of Table View in iOS8 with Swift	UITableView	20141210
 advanced	http://www.ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift	Today Extensions Tutorial in iOS8 with Swift	extension	20141217
 advanced	http://www.ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift	Custom Fonts in Interface Builder Tutorial in iOS8 with Swift	UIFont	20141222
@@ -677,7 +677,7 @@ advanced	http://makeapppie.com/2014/09/15/swift-swift-programmatic-navigation-vi
 advanced	http://makeapppie.com/2014/09/09/swift-swift-using-tab-bar-controllers-in-swift	Swift Swift: Using Tab Bar Controllers in Swift	UITabBarController	20140909
 advanced	http://makeapppie.com/2014/10/14/kinderswift-tutorials-for-swift-episode-1-intro-and-downloading-xcode	KinderSwift Tutorials for Swift Episode 1: Intro and Downloading Xcode	video	20141014
 advanced	http://makeapppie.com/2014/10/16/kinderswift-episode-2-write-the-hello-pizza-app-in-swift	KinderSwift Episode 2: Write the “Hello Pizza!!” App in Swift	video	20141016
-advanced	http://makeapppie.com/2014/10/20/swift-swift-using-attributed-strings-in-swift	Swift Swift: Using Attributed Strings in Swift	string	20141020
+advanced	http://makeapppie.com/2014/10/20/swift-swift-using-attributed-strings-in-swift	Swift Swift: Using Attributed Strings in Swift	NSAttributedString	20141020
 advanced	http://makeapppie.com/2014/10/21/swift-swift-formatting-a-uipickerview	Swift Swift: Formatting a UIPickerView		20141021
 advanced	http://makeapppie.com/2014/10/23/kinderswift-episode-3-variable-assignment-in-the-xcode-playground	KinderSwift Episode 3: Variable Assignment in the Xcode Playground	video	20141023
 advanced	http://makeapppie.com/2014/10/28/swift-swift-using-uiwebviews-in-swift	Swift Swift: Using UIWebViews in Swift		20141028
@@ -963,7 +963,7 @@ advanced	http://makeapppie.com/2015/05/03/swift-swift-making-background-images-s
 advanced	http://www.ioscreator.com/tutorials/load-data-property-list-ios8-swift	Load Data from Property List in iOS8 with Swift		20150504
 advanced	http://flexmonkey.blogspot.com/2015/05/easy-group-based-layout-for-swift-with.html	Easy Group Based Layout for Swift with Shinpuru Layout		20150504
 advanced	http://metalbyexample.com/compressed-textures	Compressed Texture Formats in Metal	objc:metal	20150505
-advanced	http://www.raywenderlich.com/98178/os-x-tutorial-menus-popovers-menu-bar-apps	OS X Tutorial: Menus and Popovers in Menu Bar Apps	mac	20150505
+advanced	http://www.raywenderlich.com/98178/os-x-tutorial-menus-popovers-menu-bar-apps	OS X Tutorial: Menus and Popovers in Menu Bar Apps	mac:popover	20150505
 advanced	http://www.raywenderlich.com/94443/uisplitviewcontroller-tutorial-getting-started	UISplitViewController Tutorial: Getting Started	UISplitViewController	20150506
 advanced	http://ericasadun.com/2015/05/06/swift-indices	Swift: Indices		20150506
 advanced	http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh	Implementing the Periscope App Pull-to-refresh control		20150510
@@ -1109,7 +1109,7 @@ advanced	http://flexmonkey.blogspot.com/2015/06/new-core-image-filters-in-ios-9.
 advanced	http://robnapier.net/initial-guards	Some Initial Thoughts on Guards	exceptions	20150613
 advanced	http://medium.com/swift-programming/keep-your-swift-exceptions-clean-easy-to-update-and-future-proof-20b997d0b46c	Keep your Swift Exceptions clean, easy to update and future proof	exceptions	20150614
 advanced	http://natashatherobot.com/swift-2-pattern-matching-unwrapping-multiple-optionals	Swift 2 Pattern Matching: Unwrapping Multiple Optionals	PatternMatching	20150614
-advanced	http://sketchytech.blogspot.com/2015/06/functional-formatting-in-swift.html	Functional Formatting in Swift: NSAttributedStrings and NSParagraphStyle		20150614
+advanced	http://sketchytech.blogspot.com/2015/06/functional-formatting-in-swift.html	Functional Formatting in Swift: NSAttributedStrings and NSParagraphStyle	NSAttributedString	20150614
 advanced	http://ericasadun.com/2015/06/14/swift-header-documentation-in-xcode-7	Swift header documentation in Xcode 7		20150614
 advanced	http://sketchytech.blogspot.com/2015/06/a-paint-pot-analogy-of-functional.html	A paint pot analogy of functional programming in Swift	functional	20150615
 advanced	http://ericasadun.com/2015/06/15/swift-five-excellent-undocumented-functions	Swift: Five excellent undocumented functions		20150615
@@ -1256,10 +1256,10 @@ advanced	http://realm.io/news/swift-scripting	Swift Scripting	scripting	20150704
 advanced	http://sketchytech.blogspot.com/2015/07/swift-displaying-uiimagepickercontrolle.html	Swift: Displaying a UIImagePickerController in iOS 9 using non-deprecated classes		20150706
 advanced	http://ericasadun.com/2015/07/06/swift-a-pair-of-fun-string-initializers	Swift: a pair of fun String initializers		20150706
 advanced	http://natashatherobot.com/swift-equatable-with-optionals	Swift: Equatable with Optionals		20150706
-advanced	http://sketchytech.blogspot.com/2015/07/the-abc-of-making-uialertviewcontroller.html	The ABC of Making a UIAlertViewController Popover in Swift		20150706
+advanced	http://sketchytech.blogspot.com/2015/07/the-abc-of-making-uialertviewcontroller.html	The ABC of Making a UIAlertViewController Popover in Swift	popover	20150706
 advanced	http://ericasadun.com/2015/07/06/swift-custom-reflectable-lldb-po	Swift: Custom Reflectable / lldb po		20150706
 advanced	http://www.ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift	Cocoapods Tutorial in iOS8 with Swift		20150707
-advanced	http://sketchytech.blogspot.com/2015/07/the-wonderful-world-of-popups-and.html	The Wonderful World of Popups and Popovers in Swift		20150707
+advanced	http://sketchytech.blogspot.com/2015/07/the-wonderful-world-of-popups-and.html	The Wonderful World of Popups and Popovers in Swift	popover	20150707
 advanced	http://peterwitham.com/xcode/xcode-plugin-dbsmartpanels	Xcode Plugin – Smart Panels, Work Smarter in Xcode	xcode:plugin	20150707
 advanced	http://ericasadun.com/2015/07/07/swift-revisiting-multi-array-indices	Swift: Revisiting multi-array indices	Array	20150707
 advanced	http://www.codingexplorer.com/protocol-extensions-in-swift-2	Protocol Extensions in Swift 2	protocol	20150707
@@ -1438,7 +1438,7 @@ advanced	http://www.raywenderlich.com/107687/uicollectionview-custom-layout-tuto
 advanced	http://sketchytech.blogspot.com/2015/08/from-binary-to-decimal-values-in-swift.html	From binary to decimal values in Swift		20150821
 advanced	http://ericasadun.com/2015/08/21/swift-protocol-names-a-vital-lesson-in-able-vs-ible-swiftlang	Swift protocol names: A vital lesson in -able vs -ible: #swiftlang	protocol	20150821
 advanced	http://jamesonquave.com/blog/objective-c-pointers-and-swift	Objective-C Pointers and Swift 2: A Simple Guide		20150822
-advanced	http://ericasadun.com/2015/08/24/css-and-attributed-strings	CSS and Attributed Strings	string	20150824
+advanced	http://ericasadun.com/2015/08/24/css-and-attributed-strings	CSS and Attributed Strings	NSAttributedString	20150824
 advanced	http://ericasadun.com/2015/08/24/yoda-alert-try-swiftlang-hint-beta-6	How to “try?” (Yoda alert) #swiftlang (hint: beta 6)	exceptions	20150824
 advanced	http://ericasadun.com/2015/08/24/up-the-mix-with-beta-6-swiftlang	Up the mix with Beta 6 #swiftlang		20150824
 advanced	http://ericasadun.com/2015/08/24/how-to-print-the-beta-6-edition-swiftlang	How to Print: the Beta 6 edition #swiftlang	print	20150824
@@ -1589,7 +1589,7 @@ libs	http://github.com/benzguo/MusicKit	A framework for composing and transformi
 libs	http://github.com/CezaryKopacz/CKWaveCollectionViewTransition	Cool wave like transition between two or more UICollectionView	UICollectionView:transitions	20010101
 libs	http://github.com/chriseidhof/LiterateSwiftGUI	LiterateSwift is a (GUI) tool to edit your literate swift files.		20010101
 libs	http://github.com/coolioxlr/watchOS-2-heartrate	watchOS 2.0 healthkit, heartrate streaming, start workout session	watchkit	20010101
-libs	http://github.com/corin8823/Popover	Popover is a balloon library like Facebook app		20010101
+libs	http://github.com/corin8823/Popover	Popover is a balloon library like Facebook app	popover	20010101
 libs	http://github.com/czechboy0/XcodeServerSDK	Access Xcode Server API with native Swift objects	xcode	20010101
 libs	http://github.com/dasdom/Tomate	This is in the App Store as Fojusi		20010101
 libs	http://github.com/devxoul/Date.swift	A Swift Date Library	dates	20010101
@@ -1663,7 +1663,7 @@ advanced	http://realm.io/news/tips-for-ios-9-development	Top Tips for iOS 9 Deve
 advanced	http://realm.io/news/type-erased-wrappers-in-swift	Type-Erased Wrappers in Swift		20150806
 advanced	http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-security	Shipping an App With App Transport Security		20150821
 advanced	http://useyourloaf.com/blog/xcode-code-coverage.html	Xcode Code Coverage	xcode	20150831
-advanced	http://www.invasivecode.com/weblog/attributed-text-swift	NSAttributedString in Swift		20150216
+advanced	http://www.invasivecode.com/weblog/attributed-text-swift	NSAttributedString in Swift	NSAttributedString	20150216
 advanced	http://swiftandpainless.com/using-guard-in-unit-tests	Using Guard In Unit Tests	exceptions:testing	20150721
 libs	http://github.com/aaronabentheuer/AAFaceDetection	Prototyping-Library providing easy access to iOS face detection features through NSNotification		20010101
 libs	http://github.com/akosma/SwiftMoment	A time and calendar manipulation library	date	20010101
@@ -1886,7 +1886,7 @@ advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-17-live-renderi
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-18-uisplitviewcontroller	iOS8 Day-by-Day :: Day 18 :: UISplitViewController	UISplitViewController	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-19-coreimage-kernels	iOS8 Day-by-Day :: Day 19 :: CoreImage Kernels	CoreImage	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-20-photos-framework	iOS8 Day-by-Day :: Day 20 :: Photos Framework	Photos	20150409
-advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-21-alerts-and-popovers	iOS8 Day-by-Day :: Day 21 :: Alerts and Popovers		20150409
+advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-21-alerts-and-popovers	iOS8 Day-by-Day :: Day 21 :: Alerts and Popovers	popover	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-22-linking-to-settings-app	iOS8 Day-by-Day :: Day 22 :: Linking to Settings App		20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-23-photo-extension	iOS8 Day-by-Day :: Day 23 :: Photo Extension	Photos	20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-24-presentation-controllers	iOS8 Day-by-Day :: Day 24 :: Presentation Controllers		20150409
@@ -1911,7 +1911,7 @@ advanced	http://christiantietze.de/posts/2015/10/collapse-expand-uisplitviewcont
 libs	http://gist.github.com/mikeash/454f3ba5c2f575d63cb3	coroutines.swift		20010101
 advanced	http://littlebitesofcocoa.com/95	little bites of cocoa: #95: 3D Touch	3dTouch	20151002
 libs	http://github.com/t2/TKSwipeData	Parse credit card stripe data		20010101
-libs	http://gist.github.com/plumhead/945e0f2945a3ffea378a	String extension to find the layout size of a String with specified attributes.		20010101
+libs	http://gist.github.com/plumhead/945e0f2945a3ffea378a	String extension to find the layout size of a String with specified attributes.	string	20010101
 libs	http://gist.github.com/skreutzberger/32be80e2ebef71dfb793	generate random color	color	20010101
 libs	http://gist.github.com/skreutzberger/eac3edc7918d0251f366	generate random text		20010101
 libs	http://gist.github.com/SwiftSandbox/da6f27463fa0125d5a42	FunctionsAsClosures.swift		20010101
@@ -1932,7 +1932,7 @@ libs	http://github.com/kareman/SwiftShell/tree/Swift2.0	A Swift framework for sh
 libs	http://github.com/kostiakoval/SpeedLog	Fast Swift debug logs	logging	20010101
 libs	http://github.com/krzyzanowskim/CryptoSwift	Crypto related functions and helpers for Swift	encryption	20010101
 libs	http://github.com/liufan321/SwiftQRCode	Simple QRCode detector and generator		20010101
-libs	http://github.com/lsolniczek/string-in-chain	convenient and fast approach to create AttributedString		20010101
+libs	http://github.com/lsolniczek/string-in-chain	convenient and fast approach to create AttributedString	NSAttributedString	20010101
 libs	http://github.com/mperovic/ISO8601Formatter	NSFormatter subclass for ISO8601	date	20010101
 libs	http://github.com/nschum/SwiftCGRectExtensions	A collection of CGRect, CGPoint and CGSize convenience functions		20010101
 libs	http://github.com/oisdk/SwiftSequence	A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things	Sequence	20010101
@@ -2014,7 +2014,7 @@ libs	http://github.com/tadija/AERecord	Super awesome Core Data wrapper in Swift 
 libs	http://github.com/sketchytech/SwiftFiles/tree/Swift_2	Save, Load and Delete from a Swift Playground	playground	20010101
 libs	http://github.com/groue/GRDB.swift	A versatile SQLite toolkit	sqlite	20010101
 advanced	http://ios-blog.co.uk/swift-tutorials/check-api-availability-with-swift-2	Check API Availability with Swift 2		20151004
-advanced	http://www.thomashanning.com/uipopoverpresentationcontroller	UIPopoverPresentationController		20151004
+advanced	http://www.thomashanning.com/uipopoverpresentationcontroller	UIPopoverPresentationController	popover	20151004
 advanced	http://www.raywenderlich.com/113489/core-data-tutorial-multiple-managed-object-contexts	Core Data Tutorial: Multiple Managed Object Contexts	CoreData	20151005
 advanced	http://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios	Preparing to Test Receipt Validation for iOS	InAppPurchase	20151005
 advanced	http://christiantietze.de/posts/2015/10/domain-model-core-data	Expressive Domain Model, Core Data, and You	CoreData	20151006
@@ -2179,3 +2179,16 @@ advanced	http://www.youtube.com/watch?v=dxi6I28O2ng	‪iOS Apps & Swift Basics: 
 advanced	http://design.featherless.software/access-framework-internals-from-a-swift-playground	How to access framework internals from a Swift Playground	playground	20151009
 libs	http://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at https://github.com/Xcode-Snippets/Objective-C	xcode	20010101
 advanced	http://www.bignerdranch.com/blog/inpecting-auto-layout-with-the-cocoa-layout-instrument	Inspecting Auto Layout with the Cocoa Layout Instrument	testing:AutoLayout	20151010
+libs	http://github.com/dsmatter/SwiftSortUtils	Useful functions and extensions for sorting	sorting	20010101
+advanced	http://design.featherless.software/swift-dictionary-get-with-default	Swift Dictionary: get with default	Dictionary	20151012
+libs	http://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground	This playground demonstrates how do physics perform collision detection using Swift and Sprite Kit	SpriteKit:playground	20010101
+libs	http://github.com/kylef/PathKit	Effortless path operations		20010101
+advanced	http://medium.com/@danielemargutti/how-to-make-a-1-unistroke-gesture-recognizer-in-swift-91881e9c1d98	How to make a $1 Unistroke Gesture Recognizer	gesture	20151015
+libs	http://github.com/nschum/SwiftHamcrest	Hamcrest gives you advanced matchers with better error messages for your Swift unit tests	testing	20010101
+libs	http://github.com/LoganWright/Genome	A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0	json	20010101
+advanced	http://littlebitesofcocoa.com/105	little bites of cocoa: #105: Media Library Basics		20151016
+advanced	http://flexmonkey.blogspot.com/2015/10/3d-retouch-experimental-retouching-app.html	3D ReTouch: An Experimental Retouching App Using 3D Touch	3dTouch	20151017
+advanced	http://christiantietze.de/posts/2015/10/optional-protocol-swift-closure	Optional Protocol Methods in Swift using Closures and No Protocol, Actually		20151017
+advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-midipacketlist-in-swift-part-1	Enumerate MIDIPacketList in Swift: Part 1		20151005
+advanced	http://softwaredesign.jeffverkoeyen.com/swift-frameworks-conflicting-symbols-objective-c-apps	Swift frameworks with conflicting symbols in Objective-C apps		20151007
+advanced	http://design.featherless.software/enumerate-midipacketlist-in-swift-part-2	Enumerate MIDIPacketList in Swift: Part 2		20151009
