@@ -2203,3 +2203,8 @@ advanced	http://www.codementor.io/swift/tutorial/persisting-data-with-nsuserdefa
 advanced	http://www.codementor.io/swift/tutorial/protocol-extensions-swift-ios	Swift Tips & Tricks: Protocol Extensions in Swift	protocol	20150817
 advanced	http://www.codementor.io/swift/tutorial/using-functions-as-parameters-in-ios-swift-tips	Swift Tips & Tricks: Using Functions as Parameters		20150819
 advanced	http://www.codementor.io/swift/tutorial/customize-parse-twitter-facebook-signup-login-view-animations	Parse Tutorial: Customizing Your Twitter/Facebook Signup/Login Views		20150908
+advanced	http://alisoftware.github.io/swift/2015/10/17/lets-talk-about-monads	Let's talk about Monads	monad	20151017
+advanced	http://softwaredesign.jeffverkoeyen.com/getting-the-current-xcode-playground-pages-name	Get current Xcode playground page name	playground	20151017
+advanced	http://softwaredesign.jeffverkoeyen.com/enumerating-tuple-values-swift	Enumerating tuple values	tuple	20151017
+advanced	http://rancorsoft.com/ios9-swift-extensions	Getting around iOS9 CoreBluetooth omissions with Swift Extension	bluetooth	20151002
+advanced	http://www.mokacoding.com/blog/xcode-7-ui-testing	Xcode 7 UI testing, a first look	testing	20150616
