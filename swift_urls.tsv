@@ -438,7 +438,7 @@ advanced	http://medium.com/@glenyi/coco-love-f6cd5a30f63e	CoCo Love: Building th
 advanced	http://www.javiersoto.me/post/106875422394	Functor and Monad in Swift	functional	20150102
 beginner	http://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675	Swiftris: Tetris Clone in Swift		20010101
 advanced	http://ios-blog.co.uk/tutorials/quick-tip-implementing-uialertview-in-swift	Quick tip: Implementing UIAlertView in Swift		20140927
-advanced	http://www.shrikar.com/blog/2015/01/03/integrate-parse-with-swift-in-ios8-using-cocoapods	Integrate Parse With Swift in iOS8 Using CocoaPods		20150103
+advanced	http://www.shrikar.com/blog/2015/01/03/integrate-parse-with-swift-in-ios8-using-cocoapods	Integrate Parse With Swift in iOS8 Using CocoaPods	CocoaPods	20150103
 advanced	http://www.shrikar.com/blog/2015/01/03/parse-backed-uitableview-in-ios-8-build-yik-yak-clone-part-2	Parse Backed UITableView in iOS 8 : Build Yik Yak Clone Part 2	UITableView	20150103
 advanced	http://www.shrikar.com/blog/2015/01/08/using-uitableview-and-footerview-to-implement-commenting-system-building-yik-yak-clone-part-3	Using UITableView and FooterView to Implement Commenting System: Building Yik Yak Clone Part 3	UITableView	20150108
 advanced	http://flexmonkey.blogspot.com/2015/01/phimagemanager-core-data-and-twitter.html	PHImageManager, Core Data and Twitter Integration in Swift	CoreData	20150101
@@ -686,7 +686,7 @@ advanced	http://makeapppie.com/2014/11/07/swift-swift-basic-auto-layout-for-ios8
 advanced	http://makeapppie.com/2014/11/07/kinderswift-5-make-me-a-double	Kinderswift 5: Make Me a Double	video	20141107
 advanced	http://makeapppie.com/2014/11/14/swift-swift-using-auto-layout-with-size-classes	Swift Swift: Using Auto Layout with Size Classes	video:AutoLayout	20141114
 advanced	http://makeapppie.com/2014/11/25/proportional-sizes-in-autolayout	Proportional Sizes in Autolayout	video:AutoLayout	20141125
-advanced	http://makeapppie.com/2014/12/04/swift-swift-using-the-uiimagepickercontroller-for-a-camera-and-photo-library	Swift Swift: Using the UIImagePickerController for a Camera and Photo Library	Photos	20141204
+advanced	http://makeapppie.com/2014/12/04/swift-swift-using-the-uiimagepickercontroller-for-a-camera-and-photo-library	Swift Swift: Using the UIImagePickerController for a Camera and Photo Library	Photos:camera	20141204
 advanced	http://makeapppie.com/2014/12/08/kinderswift-6-types-and-casting	KinderSwift 6: Types and Casting	video	20141208
 advanced	http://makeapppie.com/2014/12/09/1634	KinderSwift 7: Introduction to Functions	video	20141209
 advanced	http://makeapppie.com/2014/12/10/kinderswift-8-making-your-own-functions	Kinderswift 8: Making Your Own Functions	video	20141210
@@ -892,8 +892,8 @@ advanced	http://makeapppie.com/2015/04/07/swift-swift-making-colorful-table-view
 advanced	http://ericasadun.com/2015/04/07/swift-a-little-google-playground-hack	Swift: A little Google playground hack	playground	20150407
 advanced	http://flexmonkey.blogspot.com/2015/04/audio-visualisation-for-ios-with.html	Audio Visualisation for iOS with AudioKit & ParticleLab	AudioKit	20150408
 advanced	http://www.andrewcbancroft.com/2015/04/08/how-delegation-works-a-swift-developer-guide	How Delegation Works – A Swift Developer’s Guide		20150408
-commercial	http://itunes.apple.com/us/book/swift-swift-view-controllers/id983247343?ls=1&mt=11	Swift Swift View Controllers	book	20010101
-commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips	book	20010101
+commercial	http://itunes.apple.com/us/book/swift-swift-view-controllers/id983247343?ls=1&mt=11	Swift Swift View Controllers (Steven Lipton)	book	20010101
+commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips (Erica Sadun)	book	20010101
 advanced	http://developer.apple.com/swift/blog/?id=27	Increasing Performance by Reducing Dynamic Dispatch		20150409
 advanced	http://ericasadun.com/2015/04/10/swift-var-parameters	Swift: Var parameters		20150410
 advanced	http://youtu.be/UXhfQZQ3N4c	Scenekit for Absolute Beginners	video:SceneKit	20010101
@@ -1121,25 +1121,25 @@ advanced	http://ericasadun.com/2015/06/15/swift-quicklooks	Swift: Adding custom 
 advanced	http://ericasadun.com/2015/06/15/rendering-playground-views	Rendering Playground Views	playground	20150615
 advanced	http://flexmonkey.blogspot.com/2015/06/new-in-ios-9-filtering-scenekit-nodes.html	New in iOS 9: Filtering SceneKit Nodes with Core Image Filters	CoreImage:SceneKit	20150616
 advanced	http://ericasadun.com/2015/06/16/swift-how-to-find-undocumented-functions	Swift: How to find undocumented functions		20150616
-advanced	http://www.raywenderlich.com/97014/use-cocoapods-with-swift	How to Use CocoaPods with Swift		20150616
+advanced	http://www.raywenderlich.com/97014/use-cocoapods-with-swift	How to Use CocoaPods with Swift	CocoaPods	20150616
 advanced	http://ericasadun.com/2015/06/16/swift-smart-strings-too-much-about-string-counting-part-4	Swift: Smart Strings (Too much about String counting, part 4)	string	20150616
 advanced	http://peterwitham.com/swift/xcode-alcatraz	Easy Xcode Plugin Install Using Alcatraz Package Manager	xcode:plugin	20150616
 advanced	http://ericasadun.com/2015/06/16/mirror-mirror-on-the-wall	Mirror Mirror on the Wall		20150616
 advanced	http://robnapier.net/throw-what-dont-throw	Throw What Don't Throw	exceptions	20150616
 advanced	http://sketchytech.blogspot.com/2015/06/fear-and-loathing-in-autolayout-day-one.html	Fear and Loathing in Auto Layout: Positioning and Resizing Behaviour	AutoLayout	20150617
 advanced	http://www.codingexplorer.com/the-guard-statement-in-swift-2	The Guard Statement in Swift 2	exceptions	20150617
-advanced	http://www.raywenderlich.com/99386/create-cocoapod-swift	How to Create a CocoaPod in Swift		20150617
+advanced	http://www.raywenderlich.com/99386/create-cocoapod-swift	How to Create a CocoaPod in Swift	CocoaPods	20150617
 advanced	http://ericasadun.com/2015/06/17/swift-i-went-there-i-did-that	Swift: I went there. I did that		20150617
 advanced	http://ericasadun.com/2015/06/17/swift-just-one-live-view	Swift: Just one live view		20150617
 advanced	http://www.andrewcbancroft.com/2015/06/17/creating-calendars-with-event-kit-and-swift	Creating Calendars with Event Kit and Swift	EventKit	20150617
 advanced	http://medium.com/the-traveled-ios-developers-guide/protocol-oriented-programming-9e1641946b5c	Protocol Oriented Programming	protocol	20150614
 advanced	http://youtu.be/EH05-nuBGpg	azamSharp: ‪Learning iOS Development Part 82 (Introduction to MapKit iOS 8 Using Swift)	MapKit	20150616
-advanced	http://littlebitesofcocoa.com/18	#18: SFSafariViewController	SFSafariViewController	20150617
+advanced	http://littlebitesofcocoa.com/18	little bites of cocoa: #18: SFSafariViewController	SFSafariViewController	20150617
 advanced	http://peterwitham.com/swift/new-in-swift-2-beta-1	What’s New in Swift 2 (Beta 1)		20150618
 advanced	http://robnapier.net/re-throws	Re...throws?	exceptions	20150618
 advanced	http://www.extelligentcocoa.org/indexof-and-defer-swift-2-0	‘indexOf’ and ‘defer’ [Swift 2.0]		20150618
 advanced	http://sketchytech.blogspot.com/2015/06/fear-and-loathing-in-auto-layout-view.html	Fear and Loathing in Auto Layout: A View within a View (Xcode 7 beta 1)	AutoLayout	20150618
-advanced	http://www.raywenderlich.com/97936/address-book-tutorial-swift-ios	Address Book Tutorial in Swift and iOS		20150618
+advanced	http://www.raywenderlich.com/97936/address-book-tutorial-swift-ios	Address Book Tutorial in Swift and iOS	AddressBook	20150618
 advanced	http://ericasadun.com/2015/06/18/swift-searching-playgrounds	Swift: Searching playgrounds	playground	20150618
 advanced	http://ericasadun.com/2015/06/18/swift-do-statements-and-labeled-breaks	Swift: do statements and labeled breaks		20150618
 advanced	http://ericasadun.com/2015/06/18/swift-asynchronous-error-handling	Swift: Asynchronous Error Handling		20150618
@@ -1154,7 +1154,7 @@ advanced	http://flexmonkey.blogspot.com/2015/06/a-marking-menu-component-for-ios
 advanced	http://www.figure.ink/blog/2015/6/20/swift-exceptions-are-swifty-part-1	Swift Exceptions are Swifty: Part 1	exceptions	20150620
 advanced	http://natashatherobot.com/swift-2-pattern-matching-with-if-case	Swift 2: Pattern Matching with “if case”	PatternMatching	20150620
 advanced	http://natashatherobot.com/swift-2-for-in-filtering	Swift 2: “for… in” filtering		20150621
-advanced	http://natashatherobot.com/install-earlier-version-of-cocoapod	How to Install an Earlier Version of a CocoaPod		20150621
+advanced	http://natashatherobot.com/install-earlier-version-of-cocoapod	How to Install an Earlier Version of a CocoaPod	CocoaPods	20150621
 advanced	http://ericasadun.com/2015/06/21/swift-todays-playground-fun-is-gameplaykit-cards	Swift: Today’s Playground Fun is GameplayKit Cards	playground:GameplayKit	20150621
 advanced	http://robots.thoughtbot.com/open-sourcing-tropos	Open Sourcing Tropos, Our iOS Weather App		20150621
 advanced	http://nshipster.com/ios9	iOS 9		20150622
@@ -1258,7 +1258,7 @@ advanced	http://ericasadun.com/2015/07/06/swift-a-pair-of-fun-string-initializer
 advanced	http://natashatherobot.com/swift-equatable-with-optionals	Swift: Equatable with Optionals		20150706
 advanced	http://sketchytech.blogspot.com/2015/07/the-abc-of-making-uialertviewcontroller.html	The ABC of Making a UIAlertViewController Popover in Swift	popover	20150706
 advanced	http://ericasadun.com/2015/07/06/swift-custom-reflectable-lldb-po	Swift: Custom Reflectable / lldb po		20150706
-advanced	http://www.ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift	Cocoapods Tutorial in iOS8 with Swift		20150707
+advanced	http://www.ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift	Cocoapods Tutorial in iOS8 with Swift	CocoaPods	20150707
 advanced	http://sketchytech.blogspot.com/2015/07/the-wonderful-world-of-popups-and.html	The Wonderful World of Popups and Popovers in Swift	popover	20150707
 advanced	http://peterwitham.com/xcode/xcode-plugin-dbsmartpanels	Xcode Plugin – Smart Panels, Work Smarter in Xcode	xcode:plugin	20150707
 advanced	http://ericasadun.com/2015/07/07/swift-revisiting-multi-array-indices	Swift: Revisiting multi-array indices	Array	20150707
@@ -1316,7 +1316,7 @@ advanced	http://ericasadun.com/2015/07/17/swift-ad-hoc-anonymous-arguments	Swift
 advanced	http://ericasadun.com/2015/07/17/swift-did-something-change-with-implicit-unwrapping-when-i-wasnt-looking	Swift: Did something change with implicit unwrapping when I wasn’t looking?		20150717
 advanced	http://ericasadun.com/2015/07/17/updated-playgrounds-swiftlang	Updated Playgrounds #swiftlang	playground	20150717
 advanced	http://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy	Swift Protocols: A Strategy	protocol	20150717
-advanced	http://natashatherobot.com/cocoapods-installing-same-pod-multiple-targets	CocoaPods: The Elegant Solution To Installing The Same Pod In Multiple Targets		20150718
+advanced	http://natashatherobot.com/cocoapods-installing-same-pod-multiple-targets	CocoaPods: The Elegant Solution To Installing The Same Pod In Multiple Targets	CocoaPods	20150718
 advanced	http://sketchytech.blogspot.com/2015/07/deferring-and-delegating-in-swift-2.html	Deferring and Delegating in Swift 2 (Xcode 7 beta 3) - updated		20150719
 advanced	http://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies	AsyncDisplayKit Tutorial: Node Hierarchies	AsyncDisplayKit	20150720
 advanced	http://peterwitham.com/swift/intermediate/creating-and-using-ios-prototype-cells-with-swift	Creating and Using iOS Prototype Cells with Swift		20150720
@@ -1390,7 +1390,7 @@ advanced	http://littlebitesofcocoa.com/56	little bites of cocoa: #56: ResponseDe
 advanced	http://littlebitesofcocoa.com/57	little bites of cocoa: #57: Game Center Leaderboard Basics	GameCenter	20150811
 advanced	http://littlebitesofcocoa.com/58	little bites of cocoa: #58: Photo Editing Extensions	Photos	20150812
 advanced	http://littlebitesofcocoa.com/59	little bites of cocoa: #59: BRYXBanner		20150813
-advanced	http://littlebitesofcocoa.com/60	little bites of cocoa: #60: Creating a CocoaPod		20150814
+advanced	http://littlebitesofcocoa.com/60	little bites of cocoa: #60: Creating a CocoaPod	CocoaPods	20150814
 advanced	http://littlebitesofcocoa.com/61	little bites of cocoa: #61: Game Center Achievements	GameCenter	20150817
 advanced	http://littlebitesofcocoa.com/62	little bites of cocoa: #62: JLRoutes		20150818
 advanced	http://inessential.com/2015/08/07/swift_diary_10_changes_to_properties	Swift Diary #10: Changes to Properties		20150807
@@ -1982,14 +1982,14 @@ advanced	http://bayphillips.com/2015/10/03/protocol-extensions-swift-2-0-draggab
 advanced	http://www.the-nerd.be/2015/10/01/authentication-with-touchid	TouchID authentication tutorial for Swift	TouchId	20151001
 advanced	http://www.the-nerd.be/2015/06/22/tnimagesliderviewcontroller-image-slider-for-swift	TNImageSliderViewController – an image slider gallery for Swift		20150622
 advanced	http://www.the-nerd.be/2015/07/05/custom-cells-for-uipickerview-with-autolayout	Custom cells for UIPickerView with AutoLayout		20150705
-advanced	http://www.the-nerd.be/2015/08/07/load-assets-from-bundle-resources-in-cocoapods	Load assets from bundle resources in Cocoapods		20150807
+advanced	http://www.the-nerd.be/2015/08/07/load-assets-from-bundle-resources-in-cocoapods	Load assets from bundle resources in Cocoapods	CocoaPods	20150807
 advanced	http://www.the-nerd.be/2015/08/12/tnswiftycheckboxgroup-create-checkboxes-for-swift	TNSwiftyCheckboxGroup, create checkbox groups in Swift		20150812
 advanced	http://www.the-nerd.be/2015/09/01/new-features-in-swift-2	New features in Swift 2		20150901
 advanced	http://www.the-nerd.be/2015/09/30/add-3d-touch-quick-actions-tutorial	Add 3D Touch quick actions tutorial	3dTouch	20150930
 libs	http://github.com/hkellaway/Gloss	A shiny JSON parsing library in Swift http://cocoapods.org/pods/Gloss	json	20010101
 advanced	http://www.appcoda.com/ios-contacts-framework	A First Look at Contacts Framework in iOS 9	Contacts	20150929
 advanced	http://codek.tv/957	Swift Programming Language Fundamentals for Absolute Beginners	beginner:video	20150926
-commercial	http://www.amazon.com/dp/1320479243	Swift Algorithms & Data Structures	book:algorithm	20010101
+commercial	http://www.amazon.com/dp/1320479243	Swift Algorithms & Data Structures (Wayne Bishop)	book:algorithm	20010101
 advanced	http://iphonedev.tv/blog/2015/6/23/fix-uiviewcontroller-supportedinterfaceorientations-to-use-uiinterfaceorientationmask-and-optionsettype-in-swift-2	Fix UIViewController supportedInterfaceOrientations() to use UIInterfaceOrientationMask and OptionSetType in Swift 2		20150623
 advanced	http://iphonedev.tv/blog/2015/7/24/how-to-get-uitextfield-text-changed-events-for-your-validation-logic-swift-tips-1	How to get UITextField text editing changed events for user input validation - Swift Tips 1	UITextField	20150724
 advanced	http://iphonedev.tv/blog/2015/7/28/optionsettype-swift-2-means-no-more-nil-values-for-animatewithduration	OptionSetType + Swift 2 means no more nil values for animateWithDuration		20150728
@@ -2205,6 +2205,18 @@ advanced	http://www.codementor.io/swift/tutorial/using-functions-as-parameters-i
 advanced	http://www.codementor.io/swift/tutorial/customize-parse-twitter-facebook-signup-login-view-animations	Parse Tutorial: Customizing Your Twitter/Facebook Signup/Login Views		20150908
 advanced	http://alisoftware.github.io/swift/2015/10/17/lets-talk-about-monads	Let's talk about Monads	monad	20151017
 advanced	http://softwaredesign.jeffverkoeyen.com/getting-the-current-xcode-playground-pages-name	Get current Xcode playground page name	playground	20151017
-advanced	http://softwaredesign.jeffverkoeyen.com/enumerating-tuple-values-swift	Enumerating tuple values	tuple	20151017
+advanced	http://design.featherless.software/enumerating-tuple-values-swift	Enumerating tuple values	tuple	20151017
 advanced	http://rancorsoft.com/ios9-swift-extensions	Getting around iOS9 CoreBluetooth omissions with Swift Extension	bluetooth	20151002
 advanced	http://www.mokacoding.com/blog/xcode-7-ui-testing	Xcode 7 UI testing, a first look	testing	20150616
+libs	http://github.com/erica/swiftslowly/tree/master/Playground%20Secrets%20and%20Power%20Tips	Playground Secrets and Power Tips for Swift 2.0 (from Erica Sadun book)	playground	20010101
+advanced	http://www.thomashanning.com/five-myths-about-swift	Five Myths About Swift		20151019
+advanced	http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables	watchOS 2 Tutorial Part 2: Tables	watchkit	20151019
+advanced	http://softwaredesign.jeffverkoeyen.com/midi-messages-swift-enum	MIDI messages as a Swift associated enum		20151017
+advanced	http://littlebitesofcocoa.com/106	little bites of cocoa: #106: EasyAnimation	animation	20151019
+advanced	http://useyourloaf.com/blog/creating-scaled-images-with-pdf-vectors.html	Creating Scaled Images With PDF Vectors		20151019
+advanced	http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang	Sets vs Dictionaries smackdown in #swiftlang	Dictionary:Set	20151019
+advanced	http://flexmonkey.blogspot.com/2015/10/3d-touch-in-swift-retrospective.html	3D Touch in Swift: A Retrospective	3dTouch	20151020
+advanced	http://christiantietze.de/posts/2015/10/cocoapods-custom-build-configuration	Make Custom Debug Build Configurations Play Nicely With CocoaPods	CocoaPods	20151020
+advanced	http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation	watchOS 2 Tutorial Part 3: Animation	watchkit	20151020
+libs	http://github.com/diwu/LeetCode-Solutions-in-Swift	Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1		20010101
+advanced	http://www.youtube.com/playlist?list=PLCVAxgiX-15w7XukWR3mIvpNg8-uxQIYj	Swifty Ninja Jr is an introduction to programming course, where you'll learn the basics of programming	video	20150925
