@@ -135,9 +135,9 @@ playground	http://developer.apple.com/swift/blog/downloads/Balloons.zip	Balloons
 playground	http://github.com/nettlep/learn-swift	Learn Apple's Swift programming language interactively through these playgrounds	playground	20010101
 playground	http://developer.apple.com/swift/blog/?id=13	Patterns Playground	playground	20010101
 commercial	http://www.udemy.com/courses/search/?q=swift	Udemy Swift Courses	video	20010101
-commercial	http://www.objc.io/books	Functional Programming in Swift	functional:book	20010101
+commercial	http://www.objc.io/books/fpinswift	Functional Programming in Swift (Chris Eidhof, Florian Kugler, and Wouter Swierstra)	functional:book	20010101
 commercial	http://www.raywenderlich.com/87936/ios-games-tutorials-updated-xcode-6-1	iOS Games by Tutorials	SpriteKit:book	20010101
-commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	coredata:book	20010101
+commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	CoreData:book	20010101
 commercial	http://www.raywenderlich.com/91518/ios-apprentice-third-edition-print-version-now-available	Swift by Tutorials	book:SwiftLang	20010101
 advanced	http://airspeedvelocity.net/2014/12/21/avoid-using-var-with-this-one-weird-trick	Avoid using var with this one weird trick		20141221
 advanced	http://allegrotech.io/swift-method-dispatching.html	Swift Method Dispatching		20141212
@@ -497,7 +497,7 @@ advanced	http://vperi.com/2014/06/17/swift-builders	swift builders		20140617
 advanced	http://www.codingexplorer.com/create-uicolor-swift	How to Create a UIColor in Swift	color	20150115
 advanced	http://chris.eidhof.nl/posts/functional-view-controllers.html	Functional View Controllers	functional	20150113
 advanced	http://chris.eidhof.nl/posts/repmin-in-swift.html	Repmin in Swift: Combining Tree Traversals		20150110
-advanced	http://flexmonkey.blogspot.co.uk/2015/01/the-sound-of-pendulum-waves-with-swift.html	The Sound of Pendulum Waves with Swift and AudioKit		20150115
+advanced	http://flexmonkey.blogspot.co.uk/2015/01/the-sound-of-pendulum-waves-with-swift.html	The Sound of Pendulum Waves with Swift and AudioKit	AudioKit	20150115
 advanced	http://www.globalnerdy.com/2015/01/15/a-very-brief-introduction-to-date-formatting-in-ios	A very brief introduction to date formatting in Swift and iOS	date	20150115
 advanced	http://owensd.io/2015/01/14/compiling-swift-without-xcode.html	Compiling Swift Without Xcode	scripting	20150114
 advanced	http://code.tutsplus.com/tutorials/swift-from-scratch-optionals-and-control-flow--cms-22874	Swift from Scratch: Optionals and Control Flow		20150102
@@ -2220,3 +2220,19 @@ advanced	http://christiantietze.de/posts/2015/10/cocoapods-custom-build-configur
 advanced	http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation	watchOS 2 Tutorial Part 3: Animation	watchkit	20151020
 libs	http://github.com/diwu/LeetCode-Solutions-in-Swift	Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1		20010101
 advanced	http://www.youtube.com/playlist?list=PLCVAxgiX-15w7XukWR3mIvpNg8-uxQIYj	Swifty Ninja Jr is an introduction to programming course, where you'll learn the basics of programming	video	20150925
+advanced	http://www.shinobicontrols.com/blog/3d-touch-and-the-enterprise-part1	3D Touch & The Enterprise: Data is a layered thing	3dTouch	20151020
+advanced	http://www.learncoredata.com/nsfetchedresultscontroller-swift	Using NSFetchedResultsController to Display Data	CoreData	20151020
+advanced	http://littlebitesofcocoa.com/107	little bites of cocoa: #107: Audio Recording Basics	audio	20151020
+advanced	http://www.raywenderlich.com/117329/watchos-2-tutorial-part-4-watch-connectivity	watchOS 2 Tutorial Part 4: Watch Connectivity	watchkit	20151020
+advanced	http://appventure.me/2015/10/17/advanced-practical-enum-examples	Advanced & Practical Enum usage	enum	20151017
+libs	http://github.com/vandadnp/iOS-9-Swift-Programming-Cookbook	Contains all example codes for O'Reilly's iOS 9 Swift Programming Cookbook (https://goo.gl/yqsWgY)		20010101
+libs	http://github.com/nickoneill/PermissionScope	Intelligent iOS permissions UI and unified API		20010101
+libs	http://github.com/AlexCatch/ACAnimatedTextField	ACAnimatedTextField is a subclass of UITextField which replaces a text placeholder with an image		20010101
+libs	http://github.com/hryk224/PCLBlurEffectAlert	Swift AlertController with UIVisualeffectview	blur	20010101
+advanced	http://littlebitesofcocoa.com/108	little bites of cocoa: #108: Error Handling		20151021
+advanced	http://medium.com/@buildo/ios-9-app-transport-security-aws-and-sha-2-certificates-the-undocumented-bit-1a42325c3745#.ysxhhr5is	iOS 9, App Transport Security, AWS and SHA-2 certificates: the undocumented bit		20151021
+commercial	http://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11	Swift Documentation Markup (Erica Sadun)	book	20151015
+advanced	http://natashatherobot.com/watchconnectivity-user-info	WatchConnectivity: Sharing All Data via User Info	watchkit	20151021
+advanced	http://realm.io/news/sash-zats-gameplaykit-beyond-games	GameplayKit: Beyond Games	GameplayKit:video	20151021
+commercial	http://www.objc.io/books/core-data	Core Data (Florian Kugler and Daniel Eggert)	CoreData:book	20010101
+commercial	http://www.objc.io/books/advanced-swift	Advanced Swift (Chris Eidhof and Airspeed Velocity)	SwiftLang:book	20010101
