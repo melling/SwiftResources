@@ -893,7 +893,7 @@ advanced	http://ericasadun.com/2015/04/07/swift-a-little-google-playground-hack	
 advanced	http://flexmonkey.blogspot.com/2015/04/audio-visualisation-for-ios-with.html	Audio Visualisation for iOS with AudioKit & ParticleLab	AudioKit	20150408
 advanced	http://www.andrewcbancroft.com/2015/04/08/how-delegation-works-a-swift-developer-guide	How Delegation Works – A Swift Developer’s Guide		20150408
 commercial	http://itunes.apple.com/us/book/swift-swift-view-controllers/id983247343?ls=1&mt=11	Swift Swift View Controllers (Steven Lipton)	book	20010101
-commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips (Erica Sadun)	book	20010101
+commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips (Erica Sadun)	book:playground	20010101
 advanced	http://developer.apple.com/swift/blog/?id=27	Increasing Performance by Reducing Dynamic Dispatch		20150409
 advanced	http://ericasadun.com/2015/04/10/swift-var-parameters	Swift: Var parameters		20150410
 advanced	http://youtu.be/UXhfQZQ3N4c	Scenekit for Absolute Beginners	video:SceneKit	20010101
@@ -2177,7 +2177,7 @@ advanced	http://christiantietze.de/posts/2015/10/value-object-variety	Achieve Mo
 advanced	http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started	watchOS 2 Tutorial Part 1: Getting Started	watchkit	20151016
 advanced	http://www.youtube.com/watch?v=dxi6I28O2ng	‪iOS Apps & Swift Basics: SplitViewControllers on the iPhone and iPad‬	UISplitViewController:video	20151013
 advanced	http://design.featherless.software/access-framework-internals-from-a-swift-playground	How to access framework internals from a Swift Playground	playground	20151009
-libs	http://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at http://github.com/Xcode-Snippets/Objective-C	xcode	20010101
+libs	http://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at http://github.com/Xcode-Snippets/Objective-C	xcode:xcode-snippets	20010101
 advanced	http://www.bignerdranch.com/blog/inpecting-auto-layout-with-the-cocoa-layout-instrument	Inspecting Auto Layout with the Cocoa Layout Instrument	testing:AutoLayout	20151010
 libs	http://github.com/dsmatter/SwiftSortUtils	Useful functions and extensions for sorting	sorting	20010101
 advanced	http://design.featherless.software/swift-dictionary-get-with-default	Swift Dictionary: get with default	Dictionary	20151012
@@ -2236,3 +2236,20 @@ advanced	http://natashatherobot.com/watchconnectivity-user-info	WatchConnectivit
 advanced	http://realm.io/news/sash-zats-gameplaykit-beyond-games	GameplayKit: Beyond Games	GameplayKit:video	20151021
 commercial	http://www.objc.io/books/core-data	Core Data (Florian Kugler and Daniel Eggert)	CoreData:book	20010101
 commercial	http://www.objc.io/books/advanced-swift	Advanced Swift (Chris Eidhof and Airspeed Velocity)	SwiftLang:book	20010101
+advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-messages-midipacket-swift-reflection	Enumerate messages of a MIDIPacket using Swift reflection		20151021
+advanced	http://makeapppie.com/2015/10/21/why-your-web-view-doesnt-work-in-ios9-and-what-to-do-about-it	Why your Web View Doesn’t Work in iOS9 — and what to do about it		20151021
+advanced	http://www.ioscreator.com/tutorials/facebook-tutorial-ios8-swift	FaceBook Tutorial in iOS8 with Swift	SLComposeViewController	20140929
+advanced	http://www.hackingwithswift.com/read/3/3/twitter-and-facebook-slcomposeviewcontroller	Twitter and Facebook: SLComposeViewController	SLComposeViewController	20150101
+advanced	http://teamtreehouse.com/community/swift-social-framework	Swift Social Framework	SLComposeViewController	20140929
+advanced	http://nshipster.com/nsdatecomponents	NSDateComponents	NSDateComponents:dates	20150919
+advanced	http://classictutorials.com/2015/07/how-to-get-current-day-month-and-year-in-nsdate-using-swift	How to get current day, month and year in NSDate() using Swift?	dates	20150701
+advanced	http://www.thomashanning.com/swift-using-local-closures	Swift: Using Local Closures	closure	20151022
+advanced	http://www.ioscreator.com/tutorials/sprite-kit-physics-tutorial	Sprite Kit Physics Tutorial	SpriteKit	20151022
+advanced	http://littlebitesofcocoa.com/109	little bites of cocoa: #109: Xcode Code Snippets	xcode:xcode-snippets	20151022
+advanced	http://masilotti.com/better-swift-unit-testing	Better Unit Testing with Swift	testing	20151021
+advanced	http://medium.com/produkt-blog/3d-force-touch-beyond-peek-pop-c448edc2b1f5	3D Force Touch: beyond peek & pop	3dTouch	20151018
+libs	http://github.com/burczyk/XcodeSwiftSnippets	Xcode Swift Code Snippets	xcode:xcode-snippets	20010101
+libs	http://github.com/ajsnow/Forthwith	Adding Forth's type safety and readability to Swift		20010101
+advanced	http://christiantietze.de/posts/2015/10/error-handler-appkit	How I Solve the Unexpected Error Handling User Experience Problem	exceptions	20151023
+advanced	http://realm.io/news/swift-tasks-nevyn-bengtsson	Monads Everywhere: Porting C#’s Tasks to Swift	monad:video	20151023
+advanced	http://www.raywenderlich.com/117139/swift-tutorial-variables-and-constants	Swift Tutorial: Variables and Constants	beginner	20151023
