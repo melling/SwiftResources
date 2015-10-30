@@ -2303,8 +2303,17 @@ advanced	http://ericasadun.com/2015/10/28/converting-the-swift-programming-langu
 advanced	http://www.thomashanning.com/swift-tutorial-for-beginners-part-1	Swift Tutorial For Beginners: Part 1	beginner	20151029
 advanced	http://www.shinobicontrols.com/blog/3d-touch-and-the-enterprise-part-2	3D Touch & The Enterprise: User Navigation	3dTouch	20151029
 advanced	http://flexmonkey.blogspot.com/2015/10/swift-hierarchical-selector-component.html	Swift Hierarchical Selector Component based on UIPickerView & UICollectionView		20151029
-advanced	http://chamatha.com/blog/2015/10/29/all-about-sfsafariviewcontroller	SFSafariViewController, We love you :)		20151029
+advanced	http://chamatha.com/blog/2015/10/29/all-about-sfsafariviewcontroller	SFSafariViewController, We love you :)	SFSafariViewController	20151029
 libs	http://github.com/marmelroy/phonenumberkit	A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber		20010101
 libs	http://github.com/kanaka/mal/tree/master/swift	mal - Make a Lisp		20010101
 advanced	http://omenafarmariswift.blogspot.com/2015/10/hackernewsapp-in-swift-using-alamofire.html	HackerNewsApp in Swift using Alamofire		20151028
 advanced	http://www.appcoda.com/realm-database-swift	Building a ToDo App Using Realm and Swift	realm	20151028
+advanced	http://littlebitesofcocoa.com/115	little bites of cocoa:#115: Generating Thumbnails from Videos		20151030
+advanced	http://realm.io/news/soffes-swift-network-testing-dvr	DVR: Network Testing	video	20151030
+advanced	http://ericasadun.com/2015/10/30/messing-around-in-swiftlang-on-friday	Messing around in #swiftlang on Friday	SwiftLang	20151030
+advanced	http://www.raywenderlich.com/119815/sprite-kit-swift-2-tutorial-for-beginners	Sprite Kit Swift 2 Tutorial for Beginners	beginner:SpriteKit	20151030
+advanced	http://www.brianjcoleman.com/tvos-tutorial-top-shelf	TVOS TUTORIAL: TOP SHELF IN SWIFT	AppleTV	20151030
+advanced	http://www.iosinsight.com/uitableview-custom-edit-button-in-each-row-with-swift	UITableView Custom Edit Button In Each Row	UITableView	20151029
+libs	http://github.com/yannickl/QRCodeReader.swift	Simple QRCode reader		20010101
+libs	http://github.com/sleekbyte/tailor	Static analyzer for Swift http://tailor.sh		20010101
+advanced	http://youtu.be/m7jiajCHFvc	Swift Radio Pro (iOS App) - Open Source Template/Code	video	20151002
