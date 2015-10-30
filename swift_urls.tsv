@@ -1458,7 +1458,7 @@ advanced	http://www.raizlabs.com/dev/2015/02/how-to-script-os-x-keyboard-shortcu
 advanced	http://www.invasivecode.com/weblog/advanced-cloudkit-i	Advanced CloudKit (Part I)	CloudKit	20150825
 advanced	http://appventure.me/2015/08/20/swift-pattern-matching-in-detail	Match Me if you can: Swift Pattern Matching in Detail.	PatternMatching	20150820
 advanced	http://www.invasivecode.com/weblog/core-data-batch-updates-in-ios-8-and-swift-core	CoreData Batch Updates in Swift	CoreData	20140908
-advanced	http://www.invasivecode.com/weblog/core-animation-scroll-layer-cascrolllayer	Core Animation Scroll Layer: CAScrollLayer	CAScrollLayer	20150721
+advanced	http://www.invasivecode.com/weblog/core-animation-scroll-layer-cascrolllayer	Core Animation Scroll Layer: CAScrollLayer	CAScrollLayer:CoreAnimation	20150721
 advanced	http://ericasadun.com/2015/08/26/beta-6-lazy-swiftlang	Beta 6 Lazy #swiftlang	lazy	20150826
 advanced	http://ericasadun.com/2015/08/26/love-or-hate-swiftlang	Love or hate? #swiftlang		20150826
 advanced	http://www.russbishop.net/swift-2-beta-6	Swift 2: Beta 6		20150826
@@ -1734,7 +1734,7 @@ advanced	http://www.invasivecode.com/weblog/advanced-cloudkit-part-iii	Advanced 
 advanced	http://www.invasivecode.com/weblog/uialertcontroller-alert-action-sheet	UIAlertController: Alert and Action Sheet in iOS	UIAlertController	20150818
 advanced	http://www.invasivecode.com/weblog/gameplaykit-state-machine	GameplayKit: State Machine for non-game Apps	GameplayKit	20150804
 advanced	http://www.invasivecode.com/weblog/mapkit-flyover-transit	MapKit for iOS 9: Flyover, Transit and Customization	MapKit	20150728
-advanced	http://www.invasivecode.com/weblog/uistackview-core-animation	UIStackView, Auto Layout and Core Animation	AutoLayout:UIStackView	20150714
+advanced	http://www.invasivecode.com/weblog/uistackview-core-animation	UIStackView, Auto Layout and Core Animation	AutoLayout:UIStackView:CoreAnimation	20150714
 advanced	http://realm.io/news/andy-matuschak-refactor-mega-controller	Let's Play: Refactor the Mega Controller!		20150916
 advanced	http://littlebitesofcocoa.com/83	little bites of cocoa: #83: UIImagePickerController Basics		20150916
 advanced	http://www.raywenderlich.com/114886/beginning-tvos-development-with-tvml-tutorial	Beginning tvOS Development with TVML Tutorial	AppleTV	20150916
@@ -2253,3 +2253,58 @@ libs	http://github.com/ajsnow/Forthwith	Adding Forth's type safety and readabili
 advanced	http://christiantietze.de/posts/2015/10/error-handler-appkit	How I Solve the Unexpected Error Handling User Experience Problem	exceptions	20151023
 advanced	http://realm.io/news/swift-tasks-nevyn-bengtsson	Monads Everywhere: Porting C#’s Tasks to Swift	monad:video	20151023
 advanced	http://www.raywenderlich.com/117139/swift-tutorial-variables-and-constants	Swift Tutorial: Variables and Constants	beginner	20151023
+advanced	http://five.agency/functional-programming-in-swift	Functional Programming in Swift	functional	20151023
+advanced	http://nshint.io/blog/2015/10/23/noescape-attribute	@noescape Attribute	SwiftLang	20151023
+advanced	http://www.invasivecode.com/weblog/ios-crash-reporters	iOS Crash Reporters		20151020
+advanced	http://littlebitesofcocoa.com/110	little bites of cocoa: #110: Snapshot	testing	20151023
+advanced	http://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars	UIDynamics, UIKit or OpenGL? 3 Types of iOS Animations For the Star Wars		20151020
+advanced	http://github.com/HorizonCamera/HorizonSDK-iOS	HorizonSDK for iOS https://horizon.camera/sdk	camera	20010101
+libs	http://github.com/Weebly/Cereal	Swift object serialization		20010101
+libs	http://github.com/kylef/CardKit	Model structures for building playable card games in Swift		20010101
+libs	http://github.com/comyarzaheri/TuningFork	A Simple Tuner for iOS		20010101
+libs	http://github.com/khoiln/Run	A Swift Wrapper for Grand Central Dispatch (GCD) Framework that supports method chaining	GCD	20010101
+advanced	http://ericasadun.com/2015/10/23/its-friday-in-swift-lang-land	It’s Friday in #swift-lang land		20151023
+advanced	http://thatthinginswift.com/singletons	Singletons	singleton	20151023
+advanced	http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift	Effective Method Swizzling in Swift		20151023
+advanced	http://christiantietze.de/posts/2015/10/small-helper	Small Helper Objects Take You Far		20151024
+advanced	http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html	The Plum-O-Meter: Weighing Plums Using 3D Touch in Swift	3dTouch	20151024
+advanced	http://github.com/insanoid/SwiftyJSONAccelerator	A swift model generator like the Objective-C JSONAccelerator	json	20010101
+advanced	http://github.com/erkie/ApiModel	Interact with REST apis using realm.io to represent objects		20010101
+advanced	http://youtu.be/izrtCEprIWo	How to build 3D Touch App Shortcuts for iOS 9	3dTouch:video	20151023
+advanced	http://youtu.be/0KmI8wIHqqQ	‪UIScrollView - How to keep your views on screen‬	UIScrollView:video	20150907
+advanced	http://softwaredesign.jeffverkoeyen.com/hashable-cfstring-in-swift	Hashable CFString in Swift		20151024
+advanced	http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server	iOS functional testing with user stories, UI Test and local server	testing	20151026
+advanced	http://realm.io/news/swift-3-wishlist	A Wishlist for Swift 3.0	SwiftLang	20151026
+advanced	http://www.raywenderlich.com/117456/swift-tutorial-repeating-steps-with-loops	Swift Tutorial: Repeating Steps with Loops	beginner	20151026
+advanced	http://christiantietze.de/posts/2015/10/nsopenpanel-block	NSOpenPanel's and NSSavePanel's Block-Based API is Superior	mac	20151026
+advanced	http://blog.eliperkins.me/mocks-in-swift-via-protocols	Mocks in Swift via Protocols	testing	20151001
+advanced	http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do	The Swift Reflection API and what you can do with it		20151024
+advanced	http://medium.com/@jpmcglone/how-to-play-a-sound-in-your-swift-ios-app-using-chirp-cbc8a93f62ba#.3eil243tz	How to play a sound in your Swift iOS app using Chirp	audio	20151025
+libs	http://github.com/trifl/Chirp	The easiest way to prepare, play, and remove sounds in your Swift app	audio	20010101
+libs	http://github.com/trifl/TKit	TKit is a simple toolkit full of useful additions and controls		20010101
+advanced	http://useyourloaf.com/blog/cellforrowatindexpath-in-four-lines.html	cellForRowAtIndexPath in Four Lines	UITableView	20151026
+advanced	http://softwaredesign.jeffverkoeyen.com/midi-properties-swift-ambiguous-return-types	Reading MIDI properties in Swift using ambiguous return types		20151026
+advanced	http://littlebitesofcocoa.com/111	little bites of cocoa:#111: Reachability.swift		20151026
+advanced	http://appventure.me/2015/09/30/getting-iphone6s-foundry-from-swift	Getting your iPhone 6s Chip Foundry from Swift		20150930
+advanced	http://appventure.me/2015/08/25/optional-throw-swift	Optional throw via try? in Swift 2 beta 6	exceptions	20150825
+advanced	http://appventure.me/2015/06/17/swift-method-overloading-by-protocol	Generic method overloading by protocol in Swift		20150617
+advanced	http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures	Using try / catch in Swift with asynchronous closures		20150619
+advanced	http://www.raywenderlich.com/116714/swift-tutorial-introducing-structures	Swift Tutorial: Introducing Structures	beginner	20151027
+advanced	http://littlebitesofcocoa.com/112	little bites of cocoa: #112: Layout Guides & Anchors		20151027
+advanced	http://littlebitesofcocoa.com/113	little bites of cocoa: #113: Profiling Core Animation	CoreAnimation	20151028
+advanced	http://www.mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift	Fixing Bugs Driven By Tests in Swift	testing	20151028
+advanced	http://makeapppie.com/2015/10/28/why-stack-views-are-your-best-friend-if-you-hate-auto-layout	Why Stack Views Are Your Best Friend If You Hate Auto Layout	UIStackView	20151028
+advanced	http://ninoscript.github.io/2015/10/26/swift-and-statically-typed-json	Swift and statically typed JSON	json	20151026
+advanced	http://christiantietze.de/posts/2015/10/el-capitan-asl	Don't Build on El Capitan Without Checking App Transport Security	ATS	20151028
+advanced	http://littlebitesofcocoa.com/114	little bites of cocoa:#114: Creating New Apps with Produce		20151029
+advanced	http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift	Implementing a Small DSL in Swift		20151028
+advanced	http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance	Minimal Swift 2.1 protocol conformance	protocol	20151028
+advanced	http://ericasadun.com/2015/10/28/converting-the-swift-programming-language-to-pdf-2	Converting the Swift Programming Language to PDF		20151028
+advanced	http://www.thomashanning.com/swift-tutorial-for-beginners-part-1	Swift Tutorial For Beginners: Part 1	beginner	20151029
+advanced	http://www.shinobicontrols.com/blog/3d-touch-and-the-enterprise-part-2	3D Touch & The Enterprise: User Navigation	3dTouch	20151029
+advanced	http://flexmonkey.blogspot.com/2015/10/swift-hierarchical-selector-component.html	Swift Hierarchical Selector Component based on UIPickerView & UICollectionView		20151029
+advanced	http://chamatha.com/blog/2015/10/29/all-about-sfsafariviewcontroller	SFSafariViewController, We love you :)		20151029
+libs	http://github.com/marmelroy/phonenumberkit	A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber		20010101
+libs	http://github.com/kanaka/mal/tree/master/swift	mal - Make a Lisp		20010101
+advanced	http://omenafarmariswift.blogspot.com/2015/10/hackernewsapp-in-swift-using-alamofire.html	HackerNewsApp in Swift using Alamofire		20151028
+advanced	http://www.appcoda.com/realm-database-swift	Building a ToDo App Using Realm and Swift	realm	20151028
