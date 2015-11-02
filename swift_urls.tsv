@@ -2317,3 +2317,19 @@ advanced	http://www.iosinsight.com/uitableview-custom-edit-button-in-each-row-wi
 libs	http://github.com/yannickl/QRCodeReader.swift	Simple QRCode reader		20010101
 libs	http://github.com/sleekbyte/tailor	Static analyzer for Swift http://tailor.sh		20010101
 advanced	http://youtu.be/m7jiajCHFvc	Swift Radio Pro (iOS App) - Open Source Template/Code	video	20151002
+advanced	http://christiantietze.de/posts/2015/10/domain-driven-design-meaning	What It Means to Domain-Drive Your Design		20151031
+advanced	http://www.iosinsight.com/circular-uibutton-with-swift	Circular UIButton With Swift	UIButton	20150906
+advanced	http://www.iosinsight.com/how-to-easily-make-your-ios-app-icon	How To Easily Make Your iOS App Icon	design	20150915
+advanced	http://www.iosinsight.com/browsing-parse-local-datastore-ios	Browsing Parse Local Datastore for iOS		20150917
+advanced	http://www.iosinsight.com/case-study-core-data-parse-one-app	Case Study: Core Data, Parse MBaaS, and Parse Local Datastore In One App		20150926
+advanced	http://www.iosinsight.com/override-viewdidlayoutsubviews	When Should You Override viewDidLayoutSubviews?		20150929
+advanced	http://www.iosinsight.com/video-tutorial-move-view-for-keyboard	2 Minute Video Tutorial: Let Auto Layout and Constraints Move View for Keyboard	AutoLayout:video	20151001
+advanced	http://medium.com/the-traveled-ios-developers-guide/swift-option-set-d939d1228557	Swift + Option Set		20151031
+advanced	http://medium.com/the-traveled-ios-developers-guide/swift-error-handling-2ccc1e305f3f#.z8h86w	Swift + Error Handling		20150910
+advanced	http://medium.com/the-traveled-ios-developers-guide/swift-javascript-32eca7cf69a6#.6x0z04u5j	Swift + Javascript		20151003
+advanced	http://ericasadun.com/2015/10/31/printing-playground-documents-swiftlang	Printing Playground Documents #swiftlang		20151031
+advanced	http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html	Unwind Segues as an Alternative to Delegation		20151101
+advanced	http://flexmonkey.blogspot.com/2015/11/introducing-image-processing-in-metal.html	Introducing Image Processing in Metal	metal	20151101
+advanced	http://ios-blog.co.uk/tutorials/introduction-to-uistackview	Introduction to UIStackView	UIStackView	20151102
+advanced	http://realm.io/news/gwendolyn-weston-ios-background-networking	While Your App Was Sleeping: Background Transfer Services	networking:video	20151102
+advanced	http://www.raywenderlich.com/118225/introduction-sprite-kit-scene-editor	Introduction to the Sprite Kit Scene Editor	SpriteKit	20151102
