@@ -2333,3 +2333,20 @@ advanced	http://flexmonkey.blogspot.com/2015/11/introducing-image-processing-in-
 advanced	http://ios-blog.co.uk/tutorials/introduction-to-uistackview	Introduction to UIStackView	UIStackView	20151102
 advanced	http://realm.io/news/gwendolyn-weston-ios-background-networking	While Your App Was Sleeping: Background Transfer Services	networking:video	20151102
 advanced	http://www.raywenderlich.com/118225/introduction-sprite-kit-scene-editor	Introduction to the Sprite Kit Scene Editor	SpriteKit	20151102
+advanced	http://littlebitesofcocoa.com/116	little bites of cocoa:#116: Instructions		20151102
+advanced	http://robots.thoughtbot.com/naming-colors	Naming Colors	UIColor:color:design	20151103
+advanced	http://christiantietze.de/posts/2015/11/core-data	Ideas to Solve Background Fetching and Saving Race Conditions with Core Data	CoreData	20151103
+advanced	http://www.learncoredata.com/sorting-results-with-nssortdescriptor	Sorting Results with NSSortDescriptor	CoreData	20151103
+advanced	http://littlebitesofcocoa.com/117	little bites of cocoa:#117: Pace & Cadence		20151103
+advanced	http://www.mokacoding.com/blog/circle-ci-ios-testing	How to configure CircleCI for iOS testing	testing	20151103
+advanced	http://christiantietze.de/posts/2015/11/unit-of-work-context	Core Data Calls Them Contexts for a Reason	CoreData	20151103
+advanced	http://www.andrewcbancroft.com/2015/11/03/creating-trust-able-unit-tests-in-swift	Creating Trust-able Unit Tests in Swift	testing	20151103
+advanced	http://www.raywenderlich.com/119959/gameplaykit-tutorial-entity-component-system-agents-goals-behaviors	GameplayKit Tutorial: Entity-Component System, Agents, Goals, and Behaviors	GameplayKit	20151103
+commercial	http://www.apress.com/9781484212349	Swift OS X Programming for Absolute Beginners	book:mac	20150808
+advanced	http://makeapppie.com/2015/11/04/how-to-make-xib-based-custom-uiimagepickercontroller-cameras-in-swift	How to Make Xib-Based Custom UIImagePickerController Cameras	camera	20151104
+advanced	http://littlebitesofcocoa.com/118	little bites of cocoa:#118: Surviving Auto Layout Bugs		20151104
+advanced	http://littlebitesofcocoa.com/119	little bites of cocoa:#119: IBInspectable & IBDesignable	IBDesignable:xcode	20151105
+advanced	http://ericasadun.com/2015/11/04/5-delicious-tuple-tricks-in-swiftlang	5 delicious tuple tricks in #swiftlang	tuple	20151104
+advanced	http://invasivecode.tumblr.com/post/132582752215/uipopoverpresentationcontroller-uisearchcontroller	UIPopoverPresentationController and UISearchController	UISearchController:UIPopoverPresentationController	20151104
+advanced	http://www.russbishop.net/shoot-the-heap	Shoot the Heap	testing	20151105
+advanced	http://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2	Beer Brewing App with FRP & Swift 2	video	20151105
