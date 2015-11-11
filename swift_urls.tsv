@@ -2350,3 +2350,28 @@ advanced	http://ericasadun.com/2015/11/04/5-delicious-tuple-tricks-in-swiftlang	
 advanced	http://invasivecode.tumblr.com/post/132582752215/uipopoverpresentationcontroller-uisearchcontroller	UIPopoverPresentationController and UISearchController	UISearchController:UIPopoverPresentationController	20151104
 advanced	http://www.russbishop.net/shoot-the-heap	Shoot the Heap	testing	20151105
 advanced	http://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2	Beer Brewing App with FRP & Swift 2	video	20151105
+advanced	http://ericasadun.com/2015/11/05/implementing-printing-versions-of-try-and-try-on-steroids-in-swiftlang	Implementing printing versions of “try?” and “try!” — on steroids! in #swiftlang	exceptions	20151105
+advanced	http://flexmonkey.blogspot.com/2015/11/smooth-drawing-for-ios-in-swift-with.html	Smooth Drawing for iOS in Swift with Hermite Spline Interpolation		20151105
+advanced	http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons	Lessons From the Swift Standard Library Protocols	protocol	20151102
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html	Friday Q&A 2015-11-06: Why is Swift's String API So Hard?	string	20151106
+advanced	http://littlebitesofcocoa.com/120	little bites of cocoa:#120: Uploading Apps & Metadata with Deliver		20151106
+advanced	http://sketchytech.blogspot.com/2015/11/random-numbers-in-swift-wherefore-art.html	Random numbers in Swift: wherefore art thou arc4random_uniform	random	20151106
+advanced	http://realm.io/news/building-an-ios-search-controller-in-swift	Building a Swift iOS Search Controller	video	20151106
+libs	http://github.com/JohnSundell/Unbox	Unbox is an easy to use Swift JSON decoder	json	20010101
+advanced	http://medium.com/@karthikkeyan/uilayoutguide-auto-layout-helper-view-ecfb1af5e09d	UILayoutGuide: Auto Layout Helper View	AutoLayout	20151107
+advanced	http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance	Mixins over Inheritance		20151107
+advanced	http://www.thomashanning.com/a-trick-to-discover-retain-cycles	A Trick To Discover Retain Cycles		20151109
+advanced	http://realm.io/news/david-east-simplifying-login-swift-enums	Simplifying Login with Swift Enums	enum	20151109
+advanced	http://www.raywenderlich.com/112027/reference-value-types-in-swift-part-1	Reference vs Value Types in Swift: Part 1/2		20151109
+libs	http://github.com/marmelroy/TVButton	Recreating the cool parallax icons from Apple TV as iOS UIButtons		20010101
+advanced	http://littlebitesofcocoa.com/121	little bites of cocoa:#121: Swiftier Regular Expressions with Regex	regex	20151109
+advanced	http://littlebitesofcocoa.com/122	little bites of cocoa:#122: Notification Actions		20151110
+advanced	http://useyourloaf.com/blog/quick-guide-to-swift-delegates.html	Quick Guide to Swift Delegates		20151109
+advanced	http://realm.io/news/rachel-bobbins-testing-view-controllers-quick	Testing View Controllers with Quick	testing	20151109
+advanced	http://www.mokacoding.com/blog/travis-ci-ios-testing	How to configure Travis CI for iOS testing	testing	20151110
+advanced	http://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756	Null Object Pattern in Swift		20151110
+advanced	http://www.raywenderlich.com/112029/reference-value-types-in-swift-part-2	Reference vs Value Types in Swift: Part 2/2		20151110
+advanced	http://www.learncoredata.com/core-data-and-playgrounds	Core Data and Playgrounds	CoreData:playground	20151110
+advanced	http://www.stringcode.co.uk/snowglobe-framework-ios-xmas-easter-egg-shake-iphone-to-make-it-snow	SnowGlobe.framework iOS Xmas easter egg, shake iPhone to make it snow		20151111
+advanced	http://christiantietze.de/posts/2015/11/structured-data-domain	Modeling: From Structured Data Representation to Problem Domain	CoreData	20151111
+advanced	http://realm.io/news/building-a-grid-layout-with-uicollectionview-and-realm-swift	Building a Grid Layout with UICollectionView and Realm	UICollectionView	20151111
