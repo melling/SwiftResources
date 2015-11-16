@@ -1037,13 +1037,13 @@ advanced	http://www.extelligentcocoa.org/curried-function-example	Curried Functi
 advanced	http://www.extelligentcocoa.org/basic-tool-palette	Basic Tool Palette	mac	20150531
 advanced	http://flexmonkey.blogspot.com/2015/06/fast-core-image-filter-chaining-in.html	Fast Core Image Filter Chaining in Swift with Shinpuru Image	CoreImage	20150601
 advanced	http://www.extelligentcocoa.org/colouring-buttons	Colouring buttons	button	20150601
-advanced	http://sketchytech.blogspot.com/2015/06/swift-what-do-map-and-flatmap-really-do.html	Swift: What do map() and flatMap() really do?	functional	20150602
+advanced	http://sketchytech.blogspot.com/2015/06/swift-what-do-map-and-flatmap-really-do.html	Swift: What do map() and flatMap() really do?	functional:flatMap	20150602
 advanced	http://www.raywenderlich.com/94020/creating-an-xcode-plugin-part-1	How To Create an Xcode Plugin: Part 1/3	xcode:plugin	20150602
 advanced	http://www.andrewcbancroft.com/2015/06/02/tips-for-unpacking-uinavigationcontrollers-in-swift	Tips for Unpacking UINavigationControllers in Swift		20150602
 advanced	http://nshipster.com/mirrortype	Mirror Type		20150601
 advanced	http://ericasadun.com/2015/06/02/swift-overlooked-playground-cool-stuff-1	Swift: Overlooked playground cool stuff #1	playground	20150602
 advanced	http://ericasadun.com/2015/06/02/swift-swappity-doo-dah	Swift: Swappity Doo-dah!		20150602
-advanced	http://sketchytech.blogspot.com/2015/06/swift-further-adventures-in-flatmap.html	Swift: Further adventures in flatMap()	functional	20150603
+advanced	http://sketchytech.blogspot.com/2015/06/swift-further-adventures-in-flatmap.html	Swift: Further adventures in flatMap()	functional:flatMap	20150603
 advanced	http://www.extelligentcocoa.org/adding-images-to-buttons	Adding Images to Buttons	mac	20150603
 advanced	http://sketchytech.blogspot.com/2015/06/swift-banking-on-reduce.html	Swift: Banking on reduce()	functional	20150603
 advanced	http://www.raywenderlich.com/97756/creating-an-xcode-plugin-part-2	How To Create an Xcode Plugin: Part 2/3	xcode:plugin	20150603
@@ -1232,7 +1232,7 @@ advanced	http://ericasadun.com/2015/06/29/swift-and-sleep-deprevation	Swift and 
 advanced	http://peterwitham.com/xcode/video-using-xcode-7-storyboard-referencing	Using Xcode 7 Storyboard Referencing	video;storyboard	20150629
 advanced	http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2	Swift Exceptions are Swifty: Part 2	exceptions	20150629
 advanced	http://www.extelligentcocoa.org/gameplaykit-randomness	GameplayKit: Randomness	GameplayKit	20150630
-advanced	http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html	Similarly different: join(), reduce() and flatMap() in Swift 2	functional	20150630
+advanced	http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html	Similarly different: join(), reduce() and flatMap() in Swift 2	functional:flatMap	20150630
 advanced	http://natashatherobot.com/xcode-debugging-trick	Xcode: One Weird Debugging Trick That Will Save Your Life	xcode	20150630
 advanced	http://medium.com/swift-programming/groundup-json-stringify-in-swift-b2d805458985	GroundUp JSON Stringify in Swift	json	20150630
 advanced	http://ericasadun.com/2015/06/30/going-random-in-the-age-of-gameplaykit	Going random in the age of GameplayKit	GameplayKit	20150630
@@ -1336,10 +1336,10 @@ advanced	http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures	S
 advanced	http://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other	How iOS view controllers communicate with each other		20150714
 advanced	http://dduan.net/post/2015/07/swift-algebraic-data-types	Swift Algebraic Data Types	functional	20150712
 advanced	http://ericasadun.com/2015/07/24/beta-4-we-want-more-swiftlang	Beta 4: We want more! #swiftlang		20150724
-advanced	http://sketchytech.blogspot.com/2015/07/swift-what-do-i-understand-about-flatmap.html	Swift: What do I understand about flatMap?		20150725
+advanced	http://sketchytech.blogspot.com/2015/07/swift-what-do-i-understand-about-flatmap.html	Swift: What do I understand about flatMap?	flatMap	20150725
 advanced	http://natashatherobot.com/swift-how-to-name-your-extensions	Swift: How To Name Your Extensions		20150726
 advanced	http://sketchytech.blogspot.com/2015/07/updating-aldwych-part-1-parsing-json.html	Updating Aldwych (Part 1): Parsing JSON with recursive enums in Swift	json:enum	20150726
-advanced	http://natashatherobot.com/swift-2-flatmap	Swift 2.0: Understanding flatMap	SwiftLang	20150726
+advanced	http://natashatherobot.com/swift-2-flatmap	Swift 2.0: Understanding flatMap	SwiftLang:flatMap	20150726
 advanced	http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity	Linked lists, enums, value types and identity	enum	20150726
 advanced	http://www.raywenderlich.com/96822/sprite-kit-tutorial-drag-drop-sprites	Sprite Kit Tutorial: Drag and Drop Sprites	SpriteKit	20150727
 advanced	http://ericasadun.com/2015/07/27/parameter-less-subscripting-fun-in-swiftlang	Parameter-less subscripting fun in #swiftlang	SwiftLang	20150727
@@ -2020,7 +2020,7 @@ advanced	http://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-val
 advanced	http://christiantietze.de/posts/2015/10/domain-model-core-data	Expressive Domain Model, Core Data, and You	CoreData	20151006
 advanced	http://netguru.co/blog/hidden-gems-swift	Hidden Gems in Swift You Didn't Know About	SwiftLang	20151005
 advanced	http://www.youtube.com/watch?v=XmLdEcq-QNI	How to build an Apple TV App Tutorial for tvOS	AppleTV:video	20150912
-advanced	http://www.mokacoding.com/blog/when-to-use-map-flatmap-for	When to use map, flatMap, or for loops in Swift		20151005
+advanced	http://www.mokacoding.com/blog/when-to-use-map-flatmap-for	When to use map, flatMap, or for loops in Swift	flatMap	20151005
 advanced	http://candycode.io/fixing-a-broken-uitableview-linked-with-core-data	Fixing a broken UITableView linked with Core Data	CoreData:UITableView	20151005
 advanced	http://makeapppie.com/2015/10/06/how-to-make-drill-down-tables-in-swift	How to Make Drill-Down Tables	UITableView	20151006
 advanced	http://www.raywenderlich.com/114084/core-data-migrations-tutorial-lightweight-migrations	Core Data Migrations Tutorial: Lightweight Migrations	CoreData	20151006
@@ -2055,7 +2055,7 @@ advanced	http://developer.apple.com/swift/blog/?id=33	Literals in Playgrounds	pl
 advanced	http://littlebitesofcocoa.com/99	little bites of cocoa: #99: Auto Layout Visual Format Language	AutoLayout	20151008
 advanced	http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8	Generic Array of Int - what, why, how?	generics	20151007
 advanced	http://www.47deg.com/blog/swift-enum-oriented-dev-table-views	A different approach to UITableView delegate methods: a cool use of Swift’s enums.	UITableView:enum	20151005
-advanced	http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified	Swift 2.0: Map and FlatMap Demystified		20151008
+advanced	http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified	Swift 2.0: Map and FlatMap Demystified	flatMap	20151008
 libs	http://github.com/kaler/SmartRouter	A tiny routing library written in Swift 2.0.		20010101
 libs	http://github.com/k0nserv/SwiftObjLoader	A wavefront object format loader		20010101
 libs	http://github.com/icanzilb/EasyAnimation	A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!		20010101
@@ -2375,3 +2375,21 @@ advanced	http://www.learncoredata.com/core-data-and-playgrounds	Core Data and Pl
 advanced	http://www.stringcode.co.uk/snowglobe-framework-ios-xmas-easter-egg-shake-iphone-to-make-it-snow	SnowGlobe.framework iOS Xmas easter egg, shake iPhone to make it snow		20151111
 advanced	http://christiantietze.de/posts/2015/11/structured-data-domain	Modeling: From Structured Data Representation to Problem Domain	CoreData	20151111
 advanced	http://realm.io/news/building-a-grid-layout-with-uicollectionview-and-realm-swift	Building a Grid Layout with UICollectionView and Realm	UICollectionView	20151111
+advanced	http://littlebitesofcocoa.com/123	little bites of cocoa:#123: Playing Audio in the Background	audio	20151111
+advanced	http://makeapppie.com/2015/11/11/how-to-add-stack-views-programmatically-and-almost-avoid-autolayout	How to Add Stack Views Programmatically and (almost) avoid AutoLayout	UIStackView	20151111
+advanced	http://www.ioscreator.com/tutorials/open-pdf-tutorial	Open PDF Tutorial		20151112
+advanced	http://natashatherobot.com/swift-protocol-composition	Swift: Protocol Composition	protocol	20151112
+advanced	http://sketchytech.blogspot.com/2015/11/bytes-for-beginners-representation-of.html	Bytes for Beginners: Representation of negative numbers in binary using Swift (two's complement)		20151112
+advanced	http://realm.io/news/jordan-kay-type-safe-data-views	Painless Type-Safe Data Views in Swift	video	20151112
+advanced	http://www.raywenderlich.com/111071/paintcode-review	PaintCode Review: Dynamic Graphics Made Easy		20151112
+advanced	http://ericasadun.com/2015/11/12/more-bad-things-synchronous-nsurlsessions	More bad things: Synchronous NSURLSessions	NSURLSession	20151112
+advanced	http://swift.ayaka.me/posts/2015/11/5/swift-scripting-generating-acknowledgements-for-cocoapods-and-carthage-dependencies	Swift Scripting by Example: Generating Acknowledgements for CocoaPods & Carthage Dependencies	scripting	20151109
+advanced	http://www.marisibrothers.com/2015/11/storing-your-data-on-tvos-part-2.html	Storing your data on tvOS, part 2: CloudKit	AppleTV:CloudKit	20151108
+advanced	http://littlebitesofcocoa.com/124	little bites of cocoa: #124: More on UI Testing	testing	20151112
+advanced	http://littlebitesofcocoa.com/125	little bites of cocoa: #125: Building and Packaging Apps with Gym		20151113
+advanced	http://www.raywenderlich.com/110054/routing-mapkit-core-location	Routing with MapKit and Core Location	CoreLocation:MapKit	20151113
+advanced	http://www.ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift	Detecting Swipe Gestures in iOS8 with Swift	gesture	20141121
+advanced	http://christiantietze.de/posts/2015/11/jiggle-gcd-queues	Jiggle GCD Queues to Find Problems	GCD	20151113
+advanced	http://ericasadun.com/2015/11/15/speeding-up-swift-playgrounds-with-closure-initialization-swiftlang	Speeding up Swift playgrounds with closure initialization #swiftlang	playground	20151115
+advanced	http://www.thomashanning.com/swift-map-and-flatmap	Swift: map and flatMap	flatMap	20151115
+advanced	http://realm.io/news/alexis-gallagher-3d-touch-swift	The Astonishing Powers and Mesmerizing Secrets of 3D Touch	3dTouch	20151116
