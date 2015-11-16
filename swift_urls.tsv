@@ -2393,3 +2393,15 @@ advanced	http://christiantietze.de/posts/2015/11/jiggle-gcd-queues	Jiggle GCD Qu
 advanced	http://ericasadun.com/2015/11/15/speeding-up-swift-playgrounds-with-closure-initialization-swiftlang	Speeding up Swift playgrounds with closure initialization #swiftlang	playground	20151115
 advanced	http://www.thomashanning.com/swift-map-and-flatmap	Swift: map and flatMap	flatMap	20151115
 advanced	http://realm.io/news/alexis-gallagher-3d-touch-swift	The Astonishing Powers and Mesmerizing Secrets of 3D Touch	3dTouch	20151116
+libs	http://github.com/oarrabi/Swiftline	Swiftline is a set of tools to help you create command line applications		20010101
+advanced	http://www.codingricky.com/flipping-cards-with-swift-and-uikit	Flipping Cards with Swift and UIKit	animation	20140730
+advanced	http://medium.com/swift-programming/keep-your-swift-models-clean-ea7eb314d49d	How to keep your Swift models and classes clean		20141021
+advanced	http://ericasadun.com/2015/11/13/playground-alerts-for-swiftlang	Playground alerts for #swiftlang	playground	20151113
+libs	http://github.com/FlexMonkey/ParticleLab	Particle system that's both calculated and rendered on the GPU using the Metal framework	metal	20010101
+libs	http://github.com/yannickl/Splitflap	A simple split-flap display for your Swift applications	animation	20010101
+libs	http://gist.github.com/clmntcrl/8e4cab3ed7d1e7da47e7	ShapedButton is a UIButton subclass optimized for non-rectangular button shapes	UIButton	20010101
+advanced	http://savvyapps.com/blog/xcode-tips-for-the-savvy-ios-developer	Xcode Tips for the Savvy iOS Developer	xcode	20151111
+libs	http://github.com/andresinaka/SwiftCop	SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.		20010101
+advanced	http://blog.stablekernel.com/uiview-transformations-and-animations	UIView Transformations and Animations	animation	20151110
+libs	http://github.com/JackBCousineau/swift-chess	A simple chess game built for OSX using Swift 2.0	mac	20010101
+advanced	http://sandofsky.com/blog/singletons.html	The Sin in Singleton	singleton	20010101
