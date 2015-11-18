@@ -2405,3 +2405,19 @@ libs	http://github.com/andresinaka/SwiftCop	SwiftCop is a validation library ful
 advanced	http://blog.stablekernel.com/uiview-transformations-and-animations	UIView Transformations and Animations	animation	20151110
 libs	http://github.com/JackBCousineau/swift-chess	A simple chess game built for OSX using Swift 2.0	mac	20010101
 advanced	http://sandofsky.com/blog/singletons.html	The Sin in Singleton	singleton	20010101
+advanced	http://useyourloaf.com/blog/swift-optional-protocol-methods.html	Swift Optional Protocol Methods	protocol	20151116
+advanced	http://littlebitesofcocoa.com/126	little bites of cocoa: #126: Simpler View Controllers with View Models		20151116
+advanced	http://littlebitesofcocoa.com/127	little bites of cocoa: #127: Introduction to ReactiveCoco		20151117
+advanced	http://littlebitesofcocoa.com/128	little bites of cocoa: #128: NSURLQueryItem & NSURLComponents		20151118
+advanced	http://candycode.io/uislider-with-steps-snapping-to-values-in-swift	UISlider with steps (snapping to values)	UISlider	20151116
+advanced	http://www.mokacoding.com/blog/install-xcode-plugin-with-fastlane	Installing Xcode plugins from the terminal with Fastlane	xcode	20151116
+advanced	http://christiantietze.de/posts/2015/11/massive-view-controller-zarra	Tips to Conquer Massive View Controllers		20151117
+advanced	http://realm.io/news/gotocph-ash-furrow-best-practices-swift	Emerging Best Practices in Swift		20151117
+advanced	http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang	A handful of Swift style rules #swiftlang		20151117
+advanced	http://realm.io/news/building-an-ios-clustered-map-view-in-swift	Building an iOS Clustered Map View	MapKit:video	20151117
+libs	http://github.com/kjpgit/fireworks	Fireworks Graphics Demo (OSX/Metal/Swift)	Particle	20010101
+libs	http://github.com/luosheng/OpenSim	OpenSim is an open source alternative for SimPholders		20010101
+libs	http://github.com/ashleymills/Reachability.swift	Replacement for Apple's Reachability re-written in Swift with closures		20010101
+libs	http://github.com/Ekhoo/Device	Light weight tool for detecting the current device and screen size 		20010101
+libs	http://github.com/UrbanApps/Armchair	A simple yet powerful App Review Manager for iOS and OSX		20010101
+advanced	http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype	Experimenting with Swift Sequences and Generators		20151112
