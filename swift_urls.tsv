@@ -2421,3 +2421,47 @@ libs	http://github.com/ashleymills/Reachability.swift	Replacement for Apple's Re
 libs	http://github.com/Ekhoo/Device	Light weight tool for detecting the current device and screen size 		20010101
 libs	http://github.com/UrbanApps/Armchair	A simple yet powerful App Review Manager for iOS and OSX		20010101
 advanced	http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype	Experimenting with Swift Sequences and Generators		20151112
+advanced	http://blog.human-friendly.com/generating-core-data-swift	Generating Core Data Swift	CoreData	20151118
+advanced	http://littlebitesofcocoa.com/129	little bites of cocoa: #129: More UI Testing Tips	testing	20151119
+advanced	http://littlebitesofcocoa.com/130	little bites of cocoa: #130: Running Tests with Scan	testing	20151120
+advanced	http://littlebitesofcocoa.com/131	little bites of cocoa: #131: Declarative Auto Layout with Cartography	AutoLayout	20151123
+advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
+advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
+advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
+advanced	http://christiantietze.de/posts/2015/11/app-login-state-enum-objects	Switching iOS App Login Methods by Creating Your Own Simple Login Module		20151120
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-8-progress	How To Build An App Without Interface Builder – Part 8: Progress	CodedUI	20151120
+commercial	http://itunes.apple.com/us/book/id1060733718	Practical Auto Layout for Xcode 7 (Steven Lipton)	book	20151120
+advanced	http://realm.io/news/tim-oliver-year-of-realm	A Year of Using Realm in iComics		20151120
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html	Friday Q&A 2015-11-20: Covariance and Contravariance		20151120
+advanced	http://flexmonkey.blogspot.com/2015/11/pencilscale-using-apple-pencil-with.html	PencilScale - Using an Apple Pencil with an iPad Pro as an Electronic Scale	Pencil	20151120
+advanced	http://flexmonkey.blogspot.com/2015/11/a-look-at-agents-goals-behaviours-in.html	A Look at Agents, Goals & Behaviours in GameplayKit		20151121
+advanced	http://realm.io/news/josh-adams-gpx-location-manager	GPX Data in the Simulator	CoreLocation:video	20151121
+advanced	http://flexmonkey.blogspot.com/2015/11/pencilcontroller-using-apple-pencil-as.html	PencilController - Using Apple Pencil as a 3D Controller for Image Editing	Pencil	20151121
+advanced	http://medium.com/swift-programming/swift-sequences-ce22d76f120c	Swift Sequences	Sequence	20151122
+advanced	http://candycode.io/how-to-correctly-set-up-uilabels-with-auto-layout-on-ios	How to correctly set up UILabels with Auto Layout on iOS		20151122
+advanced	http://ericasadun.com/2015/11/22/deducing-your-playground-device	Deducing your playground “device”		20151122
+advanced	http://ericasadun.com/2015/11/22/a-stroll-through-a-swift-oddity-argument-ordering	A stroll through a Swift oddity: argument ordering		20151122
+advanced	http://www.figure.ink/blog/2015/11/22/asynchrony-and-the-main-thread-part-2	Asynchronicity and the Main Thread: Part 2		20151122
+advanced	http://flexmonkey.blogspot.com/2015/11/pencilsynth-apple-pencil-controlled.html	PencilSynth - An Apple Pencil Controlled Synthesiser		20151123
+advanced	http://christiantietze.de/posts/2015/11/error-handling-attempt	How to Handle Errors When You're Not Interested in the Details	exceptions	20151123
+advanced	http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used	Where 'where' may be used?		20151113
+advanced	http://blog.alltheflow.com/lightweight-reactive-coding-with-swift-and-vincerp	Lightweight reactive coding with Swift & VinceRP		20151117
+advanced	http://merowing.info/2015/11/tips-for-interface-builder	Tips for Interface Builder	InterfaceBuilder:UIFont	20151113
+advanced	http://github.com/gmertk/SwiftAlgorithmsClassroom	A classroom where you can learn/teach common algorithms and data structures	algorithm	20151122
+advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	Split Views and Unexpected Keyboards		20151122
+advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video	20151123
+advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode	20151123
+advanced	http://www.andrewcbancroft.com/2015/11/23/get-social-with-swift-posting-to-facebook-and-twitter	Get Social With Swift – Posting to Facebook and Twitter	twitter:facebook	20151123
+advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs		20151124
+advanced	http://realm.io/news/gotocph-rackwitz-therox-learnings-from-cocoapods	Learnings from CocoaPods: Swift, Frameworks, & Modules		20151124
+advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio	20150603
+libs	http://github.com/amornn/MetalTut		metal	20010101
+libs	http://github.com/collinhundley/Swift-AI			20010101
+libs	http://github.com/goktugyil/EZSwipeController			20010101
+libs	http://github.com/moorecode/CalendarTile			20010101
+libs	http://github.com/theddnc/iPromise			20010101
+libs	http://github.com/thellimist/EZAlertController			20010101
+advanced	http://mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html	Friday Q&A 2015-11-20: Covariance and Contravariance		20151120
+advanced	http://sledgedev.com/using-d3-javascript-with-swift-and-ios-javascriptcore-framework	D3 / JAVASCRIPT SWIFT & IOS | JAVASCRIPTCORE FRAMEWORK	javascript	20151120
+advanced	http://thatthinginswift.com/sort-and-sorted	Sort and Sorted	sorting	20151120
+advanced	http://www.slideshare.net/mobile/GlobalLogicUkraine/i-os-adaptive-user-interfaces	iOS Adaptive User Interfaces	AdaptiveLayout	20141120
