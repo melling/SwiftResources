@@ -83,7 +83,7 @@ libs	http://github.com/indragiek/SwiftAutoLayout	Tiny Swift DSL for Autolayout	A
 libs	http://github.com/kylef/QueryKit	A simple CoreData query language for Swift	CoreData	20010101
 libs	http://github.com/lexrus/LTBouncyPlaceholder	A learning-by-doing UITextField extension		20010101
 libs	http://github.com/lexrus/LTMorphingLabel	Cloning the original Morphing Label of iOS 8 introduced in WWDC 2014		20010101
-libs	http://github.com/mattdonnelly/Swifter	Twitter Framework		20010101
+libs	http://github.com/mattdonnelly/Swifter	Twitter Framework	twitter	20010101
 libs	http://github.com/mattt/Euler	Swift Custom Operators for Mathematical Notation		20010101
 libs	http://github.com/nghialv/Net	Http Request wrapper		20010101
 libs	http://github.com/pkluz/PKHUD	Reimplementation of the Apple HUD (Volume, Ringer, Rotation,...		20010101
@@ -2196,7 +2196,7 @@ libs	http://github.com/bradhilton/SwiftKVC	Key-Value Coding (KVC) for native Swi
 libs	http://github.com/mleiv/SerializableData	Swift 2.0 library to get/set json-type data, usable in NSUserDefaults and CoreData	json	20010101
 advanced	http://romain.goyet.com/articles/running_swift_code_on_android	Running Swift code on Android		20151014
 advanced	http://www.codementor.io/swift/tutorial/what-s-new-in-swift-2	What's New In Swift 2		20150930
-advanced	http://www.codementor.io/swift/tutorial/ios-development-facebook-twitter-sharing	Create a Facebook Share Button and Twitter Tweet Button for Your iOS Swift App		20150217
+advanced	http://www.codementor.io/swift/tutorial/ios-development-facebook-twitter-sharing	Create a Facebook Share Button and Twitter Tweet Button for Your iOS Swift App	facebook:twitter	20150217
 advanced	http://www.codementor.io/ios/tutorial/persistent-data-iphone-app-sessions-nsuserdefaults-improve-user-experience-best-practice	Build a Sample iPhone App that Saves a User's Session Data with NSUserDefaults	NSUserDefaults	20150407
 advanced	http://www.codementor.io/swift/tutorial/two-basic-ways-to-populate-your-uitableview	Two Basic Ways To Populate Your UITableView	UITableView	20150419
 advanced	http://www.codementor.io/swift/tutorial/persisting-data-with-nsuserdefaults-and-complex-objects	Making a Bookkeeping App with NSUserDefaults and Complex Objects		20150428
@@ -2425,6 +2425,8 @@ advanced	http://blog.human-friendly.com/generating-core-data-swift	Generating Co
 advanced	http://littlebitesofcocoa.com/129	little bites of cocoa: #129: More UI Testing Tips	testing	20151119
 advanced	http://littlebitesofcocoa.com/130	little bites of cocoa: #130: Running Tests with Scan	testing	20151120
 advanced	http://littlebitesofcocoa.com/131	little bites of cocoa: #131: Declarative Auto Layout with Cartography	AutoLayout	20151123
+advanced	http://littlebitesofcocoa.com/132	little bites of cocoa: #132: Social Authentication with SimpleAuth		20151124
+advanced	http://littlebitesofcocoa.com/133	little bites of cocoa: #133: Code Coverage in Xcode	xcode	20151125
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2452,7 +2454,7 @@ advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	S
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video	20151123
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode	20151123
 advanced	http://www.andrewcbancroft.com/2015/11/23/get-social-with-swift-posting-to-facebook-and-twitter	Get Social With Swift – Posting to Facebook and Twitter	twitter:facebook	20151123
-advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs		20151124
+advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs	testing	20151124
 advanced	http://realm.io/news/gotocph-rackwitz-therox-learnings-from-cocoapods	Learnings from CocoaPods: Swift, Frameworks, & Modules		20151124
 advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio	20150603
 libs	http://github.com/amornn/MetalTut		metal	20010101
@@ -2465,3 +2467,9 @@ advanced	http://mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravar
 advanced	http://sledgedev.com/using-d3-javascript-with-swift-and-ios-javascriptcore-framework	D3 / JAVASCRIPT SWIFT & IOS | JAVASCRIPTCORE FRAMEWORK	javascript	20151120
 advanced	http://thatthinginswift.com/sort-and-sorted	Sort and Sorted	sorting	20151120
 advanced	http://www.slideshare.net/mobile/GlobalLogicUkraine/i-os-adaptive-user-interfaces	iOS Adaptive User Interfaces	AdaptiveLayout	20141120
+advanced	http://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab	Dependency Injection in Swift		20151117
+advanced	http://www.learncoredata.com/using-unique-constraints	Using Unique Constraints	CoreData	20151124
+advanced	http://invasivecode.tumblr.com/post/133867626230/custom-view-controller-transition	Custom View Controller Transitions and Storyboard		20151124
+advanced	http://www.mokacoding.com/blog/xcode-plugins-update	How to update an Xcode plug-in for the latest version of Xcode	xcode:plugin	20151124
+advanced	http://christiantietze.de/posts/2015/11/presenter-for-tableview	Presenter and MVVM for UITableViews?		20151125
+advanced	http://www.raywenderlich.com/116065/fastlane-tutorial-getting-started	fastlane Tutorial: Getting Started		20151125
