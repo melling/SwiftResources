@@ -329,7 +329,7 @@ source	http://github.com/lingoer/SwiftyJSON	The better way to deal with JSON dat
 source	http://github.com/pNre/ExSwift	A set of Swift extensions for standard types and classes		20010101
 source	http://github.com/sarchak/GameOfLife	Game of Life	SpriteKit	20010101
 source	http://github.com/soffes/clock-saver	Simple clock screensaver	mac	20010101
-source	http://github.com/TomCorwine/BigKeyboard-iOS	Swift implementation of a custom keyboard		20010101
+source	http://github.com/TomCorwine/BigKeyboard-iOS	Swift implementation of a custom keyboard	keyboard	20010101
 source	http://github.com/voronianski-on-games/GameOfLifeSwift	Game of Life	SpriteKit	20010101
 source	http://github.com/tibo/SwiftRSS	Swift RSS		20010101
 source	http://github.com/SonoPlot/SerialPortExample-Swift	Serial Port Example		20010101
@@ -606,7 +606,7 @@ advanced	http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swif
 advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	SpriteKit	20140609
 advanced	http://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2		20140609
 advanced	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift		20140616
-advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift		20140627
+advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift	keyboard	20140627
 advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	video:json:SwiftLang	20140709
 advanced	http://www.weheartswift.com/playing-strings	Playing with Strings	string	20140926
 advanced	http://medium.com/swift-programming/ios-make-an-awesome-video-background-view-objective-c-swift-318e1d71d0a2	iOS: Make an Awesome Video Background View Using UIWebView (Objective-C & Swift)		20140726
@@ -2427,6 +2427,8 @@ advanced	http://littlebitesofcocoa.com/130	little bites of cocoa: #130: Running 
 advanced	http://littlebitesofcocoa.com/131	little bites of cocoa: #131: Declarative Auto Layout with Cartography	AutoLayout	20151123
 advanced	http://littlebitesofcocoa.com/132	little bites of cocoa: #132: Social Authentication with SimpleAuth		20151124
 advanced	http://littlebitesofcocoa.com/133	little bites of cocoa: #133: Code Coverage in Xcode	xcode	20151125
+advanced	http://littlebitesofcocoa.com/134	little bites of cocoa: #134: Formatting Strings with Format		20151126
+advanced	https://littlebitesofcocoa.com/135-fastlane	little bites of cocoa: #135: Fastlane	fastlane	20151127
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2457,12 +2459,12 @@ advanced	http://www.andrewcbancroft.com/2015/11/23/get-social-with-swift-posting
 advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs	testing	20151124
 advanced	http://realm.io/news/gotocph-rackwitz-therox-learnings-from-cocoapods	Learnings from CocoaPods: Swift, Frameworks, & Modules		20151124
 advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio	20150603
-libs	http://github.com/amornn/MetalTut		metal	20010101
-libs	http://github.com/collinhundley/Swift-AI			20010101
-libs	http://github.com/goktugyil/EZSwipeController			20010101
-libs	http://github.com/moorecode/CalendarTile			20010101
-libs	http://github.com/theddnc/iPromise			20010101
-libs	http://github.com/thellimist/EZAlertController			20010101
+libs	http://github.com/amornn/MetalTut	Basic metal 3d	metal	20010101
+libs	http://github.com/collinhundley/Swift-AI	Highly optimized Artificial Intelligence and Machine Learning library	MachineLearning	20010101
+libs	http://github.com/goktugyil/EZSwipeController	UIPageViewController like Snapchat/Tinder/iOS Main Pages		20010101
+libs	http://github.com/moorecode/CalendarTile	Simple Calendar tile that can display month, day of month and time of day. Intended use is for event reminders	date	20010101
+libs	http://github.com/theddnc/iPromise	A Promise represents a proxy for a value not necessarily known when the promise is created		20010101
+libs	http://github.com/thellimist/EZAlertController	Easy Swift UIAlertController	UIAlertController	20010101
 advanced	http://mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html	Friday Q&A 2015-11-20: Covariance and Contravariance		20151120
 advanced	http://sledgedev.com/using-d3-javascript-with-swift-and-ios-javascriptcore-framework	D3 / JAVASCRIPT SWIFT & IOS | JAVASCRIPTCORE FRAMEWORK	javascript	20151120
 advanced	http://thatthinginswift.com/sort-and-sorted	Sort and Sorted	sorting	20151120
@@ -2472,4 +2474,19 @@ advanced	http://www.learncoredata.com/using-unique-constraints	Using Unique Cons
 advanced	http://invasivecode.tumblr.com/post/133867626230/custom-view-controller-transition	Custom View Controller Transitions and Storyboard		20151124
 advanced	http://www.mokacoding.com/blog/xcode-plugins-update	How to update an Xcode plug-in for the latest version of Xcode	xcode:plugin	20151124
 advanced	http://christiantietze.de/posts/2015/11/presenter-for-tableview	Presenter and MVVM for UITableViews?		20151125
-advanced	http://www.raywenderlich.com/116065/fastlane-tutorial-getting-started	fastlane Tutorial: Getting Started		20151125
+advanced	http://www.raywenderlich.com/116065/fastlane-tutorial-getting-started	fastlane Tutorial: Getting Started	fastlane	20151125
+advanced	http://swiftandpainless.com/correction-on-testing-uialertcontroller	Correction On Testing UIAlertController	UIAlertController	20151125
+advanced	http://flexmonkey.blogspot.com/2015/11/furrysketch-hirsute-drawing-with-apple.html	FurrySketch: Hirsute Drawing with an Apple Pencil	Pencil	20151125
+advanced	http://makeapppie.com/2015/11/25/using-trait-collections-for-auto-layout-and-size-classes	Using Trait Collections for Auto Layout and Size Classes		20151125
+advanced	http://www.ioscreator.com/tutorials/play-vibration-tutorial	Play Vibration Tutorial		20151126
+advanced	http://christiantietze.de/posts/2015/11/parameter-objects-simplify	Parameter Objects Simplify Your API Versions		20151126
+advanced	http://code.facebook.com/posts/1675399786008080/optimizing-facebook-for-ios-start-time	Optimizing Facebook for iOS start time		20141120
+advanced	http://www.obqo.de/blog/2015/11/25/true-lazy-sequences	True Lazy Sequences	Sequence	20151125
+advanced	http://pspdfkit.com/blog/2015/presentation-controllers	Presentation Controllers and Adaptive Presentations	AdaptiveLayout	20151125
+advanced	http://www.raywenderlich.com/112544/realm-tutorial-getting-started	Realm Tutorial: Getting Started	realm	20151127
+libs	http://github.com/jfuellert/JF3DTouchButton	JF3DTouchButton is a touch sensitive button built for 3D touch compatible devices		20010101
+libs	http://github.com/jfuellert/JFFontObserver	JFFontObserver is used to update fonts and / or UI when a user changes their device font		20010101
+libs	http://github.com/marmelroy/Format	A Swift 2.0 formatter kit. Simple formatting syntax for decimal numbers, currency, addresses, ordinal numbers and hexadecimal colors.		20010101
+advanced	http://crunchybagel.com/using-emoji-skin-tone-modifiers-in-swift	Using Emoji Skin-Tone Modifiers in Swift	emoji	20151125
+advanced	http://labs.kunstmaan.be/blog/ios-continuous-delivery-with-jenkins-and-fastlane	iOS continuous delivery with Jenkins and Fastlane	fastlane	20151124
+advanced	http://medium.com/@marmelroy/formatting-numbers-currencies-distances-colors-and-addresses-in-your-ios-app-add567c5ca80	Formatting numbers, currencies, distances, colors and addresses in your iOS APP		20151125
