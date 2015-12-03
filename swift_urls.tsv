@@ -2430,6 +2430,8 @@ advanced	http://littlebitesofcocoa.com/133	little bites of cocoa: #133: Code Cov
 advanced	http://littlebitesofcocoa.com/134	little bites of cocoa: #134: Formatting Strings with Format		20151126
 advanced	http://littlebitesofcocoa.com/135	little bites of cocoa: #135: Fastlane	fastlane	20151127
 advanced	http://littlebitesofcocoa.com/136	little bites of cocoa: #136: XCPlayground Basics	playground	20151130
+advanced	http://littlebitesofcocoa.com/137	little bites of cocoa: #137: Rich Comments in Xcode Playgrounds 	playground	20151201
+advanced	http://littlebitesofcocoa.com/138	little bites of cocoa: #138: Using CocoaPods in Xcode Playgrounds	playground	20151202
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2502,3 +2504,16 @@ advanced	http://www.thomashanning.com/swift-weak-and-unowned	Swift: weak and uno
 advanced	http://www.raywenderlich.com/110170/mac-os-x-development-tutorial-for-beginners-part-1-intro-to-xcode	Mac OS X Development Tutorial for Beginners Part 1: Intro to Xcode	mac:beginner	20151130
 advanced	http://lowlevelbits.org/how-to-use-llvm-api-with-swift	How to use LLVM API with Swift		20151130
 advanced	http://code.tutsplus.com/tutorials/introduction-to-the-visual-format-language--cms-22715	Introduction to the Visual Format Language	AutoLayout	20141203
+advanced	http://www.raywenderlich.com/110267/mac-os-x-development-tutorial-beginners-part-2-os-x-app-anatomy	Mac OS X Development Tutorial for Beginners Part 2: OS X App Anatomy	mac:beginner	20151130
+advanced	http://www.raywenderlich.com/110269/mac-os-x-development-tutorial-beginners-part-3-first-os-x-app	Mac OS X Development Tutorial for Beginners Part 3: Your First OS X App	mac:beginner	20151130
+advanced	http://useyourloaf.com/blog/making-popovers-adapt-to-size-classes.html	Making Popovers Adapt to Size Classes		20151130
+advanced	http://realm.io/news/pragma-chris-eidhof-swift-c	Swift and C	video	20151201
+advanced	http://www.raywenderlich.com/111947/windows-and-window-controllers-in-os-x-tutorial	Windows and Window Controllers in OS X Tutorial	mac	20151201
+advanced	http://medium.com/swift-programming/swift-collections-e5fff3cd6759	Swift Collections		20151201
+advanced	http://www.codementor.io/swift/tutorial/ios-tip-apple-mapkit-mklocalsearch	MKLocalSearch		20151202
+advanced	http://www.learncoredata.com/filtering-data-with-nspredicate	Filtering Data with NSPredicate	NSPredicate	20151202
+advanced	http://www.raywenderlich.com/112811/os-x-view-controllers-tutorial	OS X View Controllers Tutorial	mac	20151202
+advanced	http://www.russbishop.net/swift-3-open-source	Swift 3 Open Source		20151203
+advanced	http://www.raywenderlich.com/118835/os-x-nstableview-tutorial	OS X NSTableView Tutorial	mac	20151203
+advanced	http://flexmonkey.blogspot.com/2015/12/mercurialtext-embossed-type-using.html	MercurialText: Embossed Type using SceneKit and CIShadedMaterial	SceneKit	20151203
+advanced	http://codeplease.io/2015/11/30/schedulers	Schedulers		20151130
