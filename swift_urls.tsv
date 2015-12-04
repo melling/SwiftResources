@@ -2432,6 +2432,8 @@ advanced	http://littlebitesofcocoa.com/135	little bites of cocoa: #135: Fastlane
 advanced	http://littlebitesofcocoa.com/136	little bites of cocoa: #136: XCPlayground Basics	playground	20151130
 advanced	http://littlebitesofcocoa.com/137	little bites of cocoa: #137: Rich Comments in Xcode Playgrounds 	playground	20151201
 advanced	http://littlebitesofcocoa.com/138	little bites of cocoa: #138: Using CocoaPods in Xcode Playgrounds	playground	20151202
+advanced	http://littlebitesofcocoa.com/139	little bites of cocoa: #139: Visualizing Results in Xcode Playgrounds	playground	20151203
+advanced	http://littlebitesofcocoa.com/140	little bites of cocoa: #140: Customizing Fastfile Lanes with fastlane Actions	fastlane	20151204
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2517,3 +2519,5 @@ advanced	http://www.russbishop.net/swift-3-open-source	Swift 3 Open Source		2015
 advanced	http://www.raywenderlich.com/118835/os-x-nstableview-tutorial	OS X NSTableView Tutorial	mac	20151203
 advanced	http://flexmonkey.blogspot.com/2015/12/mercurialtext-embossed-type-using.html	MercurialText: Embossed Type using SceneKit and CIShadedMaterial	SceneKit	20151203
 advanced	http://codeplease.io/2015/11/30/schedulers	Schedulers		20151130
+advanced	http://makeapppie.com/2015/12/04/how-to-use-custom-table-cells-in-a-uitableview	How to Use Custom Table Cells in a UITableView	UITableView	20151204
+advanced	http://realm.io/news/gotocph-marin-todorov-auto-layout-animations-ios	iOS Animations with Auto Layout	AutoLayout:animation:video	20151204
