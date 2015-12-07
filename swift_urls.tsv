@@ -1106,7 +1106,7 @@ advanced	http://ericasadun.com/2015/06/12/swift-figuring-out-anygenerator	Swift:
 advanced	http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future	The Ghost of Swift Bugs Future		20150613
 advanced	http://medium.com/swift-programming/lets-try-swift-version-swift-2-9a90cd738d53	Lets try! Swift(version: Swift.2)	exceptions	20150613
 advanced	http://flexmonkey.blogspot.com/2015/06/new-core-image-filters-in-ios-9.html	New Core Image Filters in iOS 9	CoreImage	20150613
-advanced	http://robnapier.net/initial-guards	Some Initial Thoughts on Guards	exceptions	20150613
+advanced	http://robnapier.net/initial-guards	Some Initial Thoughts on Guards	exceptions:guard	20150613
 advanced	http://medium.com/swift-programming/keep-your-swift-exceptions-clean-easy-to-update-and-future-proof-20b997d0b46c	Keep your Swift Exceptions clean, easy to update and future proof	exceptions	20150614
 advanced	http://natashatherobot.com/swift-2-pattern-matching-unwrapping-multiple-optionals	Swift 2 Pattern Matching: Unwrapping Multiple Optionals	PatternMatching	20150614
 advanced	http://sketchytech.blogspot.com/2015/06/functional-formatting-in-swift.html	Functional Formatting in Swift: NSAttributedStrings and NSParagraphStyle	NSAttributedString	20150614
@@ -1114,7 +1114,7 @@ advanced	http://ericasadun.com/2015/06/14/swift-header-documentation-in-xcode-7	
 advanced	http://sketchytech.blogspot.com/2015/06/a-paint-pot-analogy-of-functional.html	A paint pot analogy of functional programming in Swift	functional	20150615
 advanced	http://ericasadun.com/2015/06/15/swift-five-excellent-undocumented-functions	Swift: Five excellent undocumented functions		20150615
 advanced	http://www.informit.com/articles/article.aspx?p=2420609	Notes from WWDC 2015: Playing in a GameplayKit Wonderland	GameplayKit	20150613
-advanced	http://ericcerney.com/swift-guard-statement	Swift Guard Statement	exceptions	20150610
+advanced	http://ericcerney.com/swift-guard-statement	Swift Guard Statement	exceptions:guard	20150610
 advanced	http://youtu.be/uN_f6JWYIsI	AzamSharp: Learning iOS Development Part 83 (Follow User in MapKit Using Swift)	MapKit	20150617
 advanced	http://ericasadun.com/2015/06/15/escaping-urls-made-simple	Escaping URLs made simple		20150615
 advanced	http://ericasadun.com/2015/06/15/swift-quicklooks	Swift: Adding custom QuickLooks to your non-objc constructs		20150615
@@ -1127,7 +1127,7 @@ advanced	http://peterwitham.com/swift/xcode-alcatraz	Easy Xcode Plugin Install U
 advanced	http://ericasadun.com/2015/06/16/mirror-mirror-on-the-wall	Mirror Mirror on the Wall		20150616
 advanced	http://robnapier.net/throw-what-dont-throw	Throw What Don't Throw	exceptions	20150616
 advanced	http://sketchytech.blogspot.com/2015/06/fear-and-loathing-in-autolayout-day-one.html	Fear and Loathing in Auto Layout: Positioning and Resizing Behaviour	AutoLayout	20150617
-advanced	http://www.codingexplorer.com/the-guard-statement-in-swift-2	The Guard Statement in Swift 2	exceptions	20150617
+advanced	http://www.codingexplorer.com/the-guard-statement-in-swift-2	The Guard Statement in Swift 2	exceptions:guard	20150617
 advanced	http://www.raywenderlich.com/99386/create-cocoapod-swift	How to Create a CocoaPod in Swift	CocoaPods	20150617
 advanced	http://ericasadun.com/2015/06/17/swift-i-went-there-i-did-that	Swift: I went there. I did that		20150617
 advanced	http://ericasadun.com/2015/06/17/swift-just-one-live-view	Swift: Just one live view		20150617
@@ -1305,7 +1305,7 @@ advanced	http://ericasadun.com/2015/07/15/dear-erica-how-do-i-perform-regular-ex
 advanced	http://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift	How to Create a Complex Loading Animation in Swift	animation	20150715
 advanced	http://www.extelligentcocoa.org/gameplaykit-a-overview	GameplayKit: A Overview	GameplayKit	20150716
 advanced	http://www.raywenderlich.com/97944/make-app-like-runkeeper-swift-part-1	How To Make an App Like RunKeeper with Swift: Part 1		20150716
-advanced	http://natashatherobot.com/swift-guard-better-than-if	Swift 2.0: Why Guard is Better than If	exceptions	20150716
+advanced	http://natashatherobot.com/swift-guard-better-than-if	Swift 2.0: Why Guard is Better than If	exceptions:guard	20150716
 advanced	http://natashatherobot.com/xcode-debugging-user-breakpoints	Xcode Debugging Tip: User Breakpoints	xcode	20150716
 advanced	http://www.andrewcbancroft.com/2015/07/16/uitableview-swipe-to-delete-workflow-in-swift	UITableView Swipe to Delete Workflow in Swift	UITableView	20150717
 advanced	http://flexmonkey.blogspot.com/2015/07/hybrid-marking-menu-radial-slider-swift.html	Hybrid Marking Menu / Radial Slider Swift Component for iOS		20150717
@@ -1664,7 +1664,7 @@ advanced	http://realm.io/news/type-erased-wrappers-in-swift	Type-Erased Wrappers
 advanced	http://timekl.com/blog/2015/08/21/shipping-an-app-with-app-transport-security	Shipping an App With App Transport Security		20150821
 advanced	http://useyourloaf.com/blog/xcode-code-coverage.html	Xcode Code Coverage	xcode	20150831
 advanced	http://www.invasivecode.com/weblog/attributed-text-swift	NSAttributedString in Swift	NSAttributedString	20150216
-advanced	http://swiftandpainless.com/using-guard-in-unit-tests	Using Guard In Unit Tests	exceptions:testing	20150721
+advanced	http://swiftandpainless.com/using-guard-in-unit-tests	Using Guard In Unit Tests	exceptions:testing:guard	20150721
 libs	http://github.com/aaronabentheuer/AAFaceDetection	Prototyping-Library providing easy access to iOS face detection features through NSNotification		20010101
 libs	http://github.com/akosma/SwiftMoment	A time and calendar manipulation library	date	20010101
 libs	http://github.com/antitypical/result	Swift type modelling the success/failure of arbitrary operations		20010101
@@ -1792,7 +1792,7 @@ advanced	http://speakerdeck.com/ayanonagon/swift-scripting	Swift Scripting	scrip
 advanced	http://krakendev.io/blog/scripting-in-swift	Scripting in Swift is Pretty Awesome	scripting	20150630
 libs	http://github.com/sahandnayebaziz/SwiftHub	An iOS app for exploring popular Github repositories		20010101
 libs	http://github.com/superlopuh/bioswift	Implementing algorithms in my Bioinformatics course	algorithm	20010101
-advanced	http://christiantietze.de/posts/2015/09/guard-unit-test	Using Guard in Unit Tests	exceptions	20150922
+advanced	http://christiantietze.de/posts/2015/09/guard-unit-test	Using Guard in Unit Tests	exceptions:guard	20150922
 advanced	http://davisvigneault.com/2015/09/initialization-in-swift	Initialization in Swift	SwiftLang	20150922
 advanced	http://eliasbagley.github.io/json/api/alamofire/2015/09/25/making-network-requests-with-alamofire.html	Making Network Requests with Alamofire	networking	20150925
 libs	http://github.com/AaronBratcher/ALBNoSQLDB	A SQLite database wrapper written in Swift that requires no SQL knowledge to use and can sync with instances of itself	database	20010101
@@ -1957,8 +1957,8 @@ advanced	http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-
 advanced	http://khanlou.com/2015/09/what-the-heck-is-a-monad	What The Heck Is A Monad	functional:monad	20150928
 advanced	http://matthijshollemans.com/2015/08/22/boyer-moore-string-search-in-swift	Boyer-Moore String Search	algorithm	20150822
 advanced	http://medium.com/@skreutzb/random-swift-102c23cd1755	Random Swift: An introduction to randomizing functions in Swift	random	20150729
-advanced	http://medium.com/the-traveled-ios-developers-guide/swift-defer-bcef70de8767	Swift + Defer: Syntactical Sugar Pt.1	exceptions	20150718
-advanced	http://medium.com/the-traveled-ios-developers-guide/swift-guard-dcd725caef7e	Swift + Guard: Syntactical Sugar Pt.2	exceptions	20150821
+advanced	http://medium.com/the-traveled-ios-developers-guide/swift-defer-bcef70de8767	Swift + Defer: Syntactical Sugar Pt.1	exceptions:defer	20150718
+advanced	http://medium.com/the-traveled-ios-developers-guide/swift-guard-dcd725caef7e	Swift + Guard: Syntactical Sugar Pt.2	exceptions:guard	20150821
 advanced	http://novaera.fr/wordpress/structure-your-uitableview-better-with-structs-and-enums-in-swift	Structure your UITableView better with structs and enums	UITableView	20150826
 advanced	http://owensd.io/2015/08/06/protocols.html	Protocols - My Current Recommendations	protocol	20150806
 advanced	http://owensd.io/2015/08/09/filter-performance.html	Be Mindful of Your Filters		20150809
@@ -2026,7 +2026,7 @@ advanced	http://makeapppie.com/2015/10/06/how-to-make-drill-down-tables-in-swift
 advanced	http://www.raywenderlich.com/114084/core-data-migrations-tutorial-lightweight-migrations	Core Data Migrations Tutorial: Lightweight Migrations	CoreData	20151006
 advanced	http://littlebitesofcocoa.com/96	little bites of cocoa: #96: EventKit Basics	EventKit	20151005
 advanced	http://littlebitesofcocoa.com/97	little bites of cocoa: #97: EventKit Alarms	EventKit	20151006
-advanced	http://nshipster.com/guard-and-defer	guard & defer	exceptions	20151005
+advanced	http://nshipster.com/guard-and-defer	guard & defer	exceptions:defer:guard	20151005
 advanced	http://www.the-nerd.be/2015/10/06/3d-touch-peek-and-pop-tutorial	3D touch peek and pop tutorial	3dTouch	20151006
 advanced	http://youtu.be/O0llR7sfrkc	iOS 9 Swift UIStackView	UIStackView:video	20150902
 advanced	http://realm.io/news/hacking-live-photos-iphone-6s	‘Hacking’ Live Photos for Any iPhone	Photos	20151007
@@ -2167,7 +2167,7 @@ advanced	http://realm.io/news/realm-objc-swift-0.96.0	Realm Objective-C & Swift 
 advanced	http://realm.io/news/jacob-schwartz-swift-features	F-Yeah Swift: 4 Features That Changed How I Code		20151015
 advanced	http://www.thomashanning.com/type-casting-in-swift	Type Casting in Swift	SwiftLang	20151015
 advanced	http://littlebitesofcocoa.com/103	little bites of cocoa: #103: UIStackView in Code	UIStackView	20151014
-advanced	http://littlebitesofcocoa.com/104	little bites of cocoa: #104: Interactive Collection View Re-ordering		20151015
+advanced	http://littlebitesofcocoa.com/104	little bites of cocoa: #104: Interactive Collection View Re-ordering	UICollectionView	20151015
 advanced	http://ericasadun.com/2015/10/15/wee-hack-du-jour-swift-lang-formatting-operator	Wee hack du jour #swift-lang : Formatting operator		20151015
 advanced	http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift	Optional Protocol Methods in Pure Swift	protocol	20151015
 advanced	http://roadfiresoftware.com/2015/10/how-to-parse-json-with-swift-2	How to parse JSON with Swift 2	json	20151015
@@ -2434,6 +2434,7 @@ advanced	http://littlebitesofcocoa.com/137	little bites of cocoa: #137: Rich Com
 advanced	http://littlebitesofcocoa.com/138	little bites of cocoa: #138: Using CocoaPods in Xcode Playgrounds	playground	20151202
 advanced	http://littlebitesofcocoa.com/139	little bites of cocoa: #139: Visualizing Results in Xcode Playgrounds	playground	20151203
 advanced	http://littlebitesofcocoa.com/140	little bites of cocoa: #140: Customizing Fastfile Lanes with fastlane Actions	fastlane	20151204
+advanced	http://littlebitesofcocoa.com/141	little bites of cocoa: #141: App Transport Security Basics	ATS	20151207
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2482,7 +2483,7 @@ advanced	http://christiantietze.de/posts/2015/11/presenter-for-tableview	Present
 advanced	http://www.raywenderlich.com/116065/fastlane-tutorial-getting-started	fastlane Tutorial: Getting Started	fastlane	20151125
 advanced	http://swiftandpainless.com/correction-on-testing-uialertcontroller	Correction On Testing UIAlertController	UIAlertController	20151125
 advanced	http://flexmonkey.blogspot.com/2015/11/furrysketch-hirsute-drawing-with-apple.html	FurrySketch: Hirsute Drawing with an Apple Pencil	Pencil	20151125
-advanced	http://makeapppie.com/2015/11/25/using-trait-collections-for-auto-layout-and-size-classes	Using Trait Collections for Auto Layout and Size Classes		20151125
+advanced	http://makeapppie.com/2015/11/25/using-trait-collections-for-auto-layout-and-size-classes	Using Trait Collections for Auto Layout and Size Classes	UITraitCollection	20151125
 advanced	http://www.ioscreator.com/tutorials/play-vibration-tutorial	Play Vibration Tutorial		20151126
 advanced	http://christiantietze.de/posts/2015/11/parameter-objects-simplify	Parameter Objects Simplify Your API Versions		20151126
 advanced	http://code.facebook.com/posts/1675399786008080/optimizing-facebook-for-ios-start-time	Optimizing Facebook for iOS start time		20141120
@@ -2508,7 +2509,7 @@ advanced	http://lowlevelbits.org/how-to-use-llvm-api-with-swift	How to use LLVM 
 advanced	http://code.tutsplus.com/tutorials/introduction-to-the-visual-format-language--cms-22715	Introduction to the Visual Format Language	AutoLayout	20141203
 advanced	http://www.raywenderlich.com/110267/mac-os-x-development-tutorial-beginners-part-2-os-x-app-anatomy	Mac OS X Development Tutorial for Beginners Part 2: OS X App Anatomy	mac:beginner	20151130
 advanced	http://www.raywenderlich.com/110269/mac-os-x-development-tutorial-beginners-part-3-first-os-x-app	Mac OS X Development Tutorial for Beginners Part 3: Your First OS X App	mac:beginner	20151130
-advanced	http://useyourloaf.com/blog/making-popovers-adapt-to-size-classes.html	Making Popovers Adapt to Size Classes		20151130
+advanced	http://useyourloaf.com/blog/making-popovers-adapt-to-size-classes.html	Making Popovers Adapt to Size Classes	popover	20151130
 advanced	http://realm.io/news/pragma-chris-eidhof-swift-c	Swift and C	video	20151201
 advanced	http://www.raywenderlich.com/111947/windows-and-window-controllers-in-os-x-tutorial	Windows and Window Controllers in OS X Tutorial	mac	20151201
 advanced	http://medium.com/swift-programming/swift-collections-e5fff3cd6759	Swift Collections		20151201
@@ -2521,3 +2522,10 @@ advanced	http://flexmonkey.blogspot.com/2015/12/mercurialtext-embossed-type-usin
 advanced	http://codeplease.io/2015/11/30/schedulers	Schedulers		20151130
 advanced	http://makeapppie.com/2015/12/04/how-to-use-custom-table-cells-in-a-uitableview	How to Use Custom Table Cells in a UITableView	UITableView	20151204
 advanced	http://realm.io/news/gotocph-marin-todorov-auto-layout-animations-ios	iOS Animations with Auto Layout	AutoLayout:animation:video	20151204
+advanced	http://flexmonkey.blogspot.com/2015/12/mercurialpaint-globular-embossed.html	MercurialPaint: Globular Embossed Painting with Metal & Core Image	metal	20151206
+advanced	http://christiantietze.de/posts/2015/12/table-view-content-objects	Extract UITableView Contents and Configuration Into Helpers	UITableView	20151202
+advanced	http://www.invasivecode.com/weblog/webkit-safariviewcontroller	WebKit, Safari and SafariViewController	SFSafariViewController	20151204
+advanced	http://krakendev.io/blog/generic-protocols-and-their-shortcomings	Generic Protocols & Their Shortcomings	protocol	20151205
+advanced	http://www.figure.ink/blog/2015/12/6/matching-with-swifts-optional-pattern	Matching with Swift's Optional Pattern		20151206
+advanced	http://www.thomashanning.com/the-pyramid-of-doom	The Pyramid Of Doom In Swift	guard	20151207
+advanced	http://realm.io/news/felix-krause-fastlane-automating-ios-tasks	Automating Your Daily iOS Developer Tasks	video	20151207
