@@ -2437,6 +2437,8 @@ advanced	http://littlebitesofcocoa.com/140	little bites of cocoa: #140: Customiz
 advanced	http://littlebitesofcocoa.com/141	little bites of cocoa: #141: App Transport Security Basics	ATS	20151207
 advanced	http://littlebitesofcocoa.com/142	little bites of cocoa: #142: Colorful Logging with SwiftyBeaver		20151208
 advanced	http://littlebitesofcocoa.com/143	little bites of cocoa: #143: Declarative Attributed Strings with BonMot		20151209
+advanced	http://littlebitesofcocoa.com/144	little bites of cocoa: #144: Drawing Multiline Strings		20151210
+advanced	http://littlebitesofcocoa.com/145	little bites of cocoa: #145: Fixing Code Signing with match		20151211
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2567,3 +2569,14 @@ advanced	http://medium.com/@gigq/using-swift-in-aws-lambda-6e2a67a27e03	Using Sw
 advanced	http://blog.xojo.com/hour-of-code-cat-pictures	Hour of Code: Cat Pictures		20151207
 advanced	http://merowing.info/2015/12/writing-xcode-plugin-in-swift	Writing Xcode plugin in Swift	xcode:plugin	20151208
 advanced	http://medium.com/@marmelroy/swift-package-manager-tutorial-59ade1fc708d	Playing with the Swift Package Manager - A Tutorial	PackageManager	20151207
+advanced	http://www.raywenderlich.com/113772/uisearchcontroller-tutorial	UISearchController Tutorial: Getting Started	UISearchController	20151211
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html	Friday Q&A 2015-12-11: Swift Weak References		20151211
+libs	http://github.com/PureSwift/MySQLSwift	Swift library for MySQL		20010101
+libs	http://github.com/groue/GRMustache.swift	Flexible Mustache templates for Swift		20010101
+libs	http://github.com/terhechte/TextMateSwiftCompletion	Swift Completions for Textmate		20010101
+advanced	http://blog.stablekernel.com/swift-subarrays-array-and-arrayslice	Swift Subarrays: Array and ArraySlice	Array	20151212
+advanced	http://flexmonkey.blogspot.com/2015/12/bristlepaint-embossed-painting-with.html	BristlePaint: Embossed Painting with Individual Bristles using SpriteKit Normal Mapping	SpriteKit	20151213
+advanced	http://ios-blog.co.uk/swift-tutorials/swift-2-a-quick-look-at-print-vs-println-vs-nslog	Swift 2: A quick look at print() vs println() vs NSLog()	print	20151213
+advanced	http://ericasadun.com/2015/12/13/bidding-fairwell-to-postfix-decrement	Bidding farewell to postfix decrement		20151213
+advanced	http://christiantietze.de/posts/2015/12/ios-architectures	iOS View Architectures and VIPER Explained		20151214
+advanced	http://kostiakoval.github.io/posts/exclude-folders---new-feature-in-swift-package-manager	Exclude folders - New feature in SPM	PackageManager	20151212
