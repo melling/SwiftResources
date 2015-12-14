@@ -824,7 +824,7 @@ advanced	http://flexmonkey.blogspot.com/2015/03/radiating-visual-pulses-visualis
 advanced	http://www.youtube.com/watch?v=UXhfQZQ3N4c	‪Scenekit for Absolute Beginners‬	video:SceneKit	20150311
 advanced	http://www.figure.ink/blog/2015/3/21/clean-optional-parameters	Clean Optional Parameters		20150321
 advanced	http://makeapppie.com/2015/03/21/swift-swift-using-the-navigation-bar-title-and-back-button	Swift Swift: Using The Navigation Bar Title and Back button		20150321
-advanced	http://www.knowstack.com/swift-print-println-nslog	Swift print, println, NSLog	logging	20150321
+advanced	http://www.knowstack.com/swift-print-println-nslog	Swift print, println, NSLog	logging:print:NSLog	20150321
 advanced	http://ericasadun.com/2015/03/20/swift-building-os-x-apps-in-the-playground	Swift: Building OS X apps in the playground	playground	20150320
 advanced	http://www.objc.io/snippets/22.html	Typed Table View Controllers Redux		20150323
 advanced	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/21/spritekit-swift-part-1-creating-game-scene.html	SpriteKit and Swift Part 1: Creating the Game Scene	SpriteKit	20150321
@@ -2574,9 +2574,9 @@ advanced	http://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-reference
 libs	http://github.com/PureSwift/MySQLSwift	Swift library for MySQL		20010101
 libs	http://github.com/groue/GRMustache.swift	Flexible Mustache templates for Swift		20010101
 libs	http://github.com/terhechte/TextMateSwiftCompletion	Swift Completions for Textmate		20010101
-advanced	http://blog.stablekernel.com/swift-subarrays-array-and-arrayslice	Swift Subarrays: Array and ArraySlice	Array	20151212
+advanced	http://blog.stablekernel.com/swift-subarrays-array-and-arrayslice	Swift Subarrays: Array and ArraySlice	Array:ArraySlice	20151212
 advanced	http://flexmonkey.blogspot.com/2015/12/bristlepaint-embossed-painting-with.html	BristlePaint: Embossed Painting with Individual Bristles using SpriteKit Normal Mapping	SpriteKit	20151213
-advanced	http://ios-blog.co.uk/swift-tutorials/swift-2-a-quick-look-at-print-vs-println-vs-nslog	Swift 2: A quick look at print() vs println() vs NSLog()	print	20151213
+advanced	http://ios-blog.co.uk/swift-tutorials/swift-2-a-quick-look-at-print-vs-println-vs-nslog	Swift 2: A quick look at print() vs println() vs NSLog()	print:NSLog	20151213
 advanced	http://ericasadun.com/2015/12/13/bidding-fairwell-to-postfix-decrement	Bidding farewell to postfix decrement		20151213
 advanced	http://christiantietze.de/posts/2015/12/ios-architectures	iOS View Architectures and VIPER Explained		20151214
 advanced	http://kostiakoval.github.io/posts/exclude-folders---new-feature-in-swift-package-manager	Exclude folders - New feature in SPM	PackageManager	20151212
