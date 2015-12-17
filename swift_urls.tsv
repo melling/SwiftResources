@@ -102,7 +102,7 @@ libs	http://www.appcoda.com/handoff			20010101
 libs	http://github.com/lvnyk/BezierString#bezierstring		UIBezierPath	20010101
 libs	http://github.com/jatoben/CommandLine			20010101
 libs	http://github.com/github/swift-style-guide			20010101
-libs	http://github.com/waynewbishop/swiftstructures			20010101
+libs	http://github.com/waynewbishop/swiftstructures		algorithm	20010101
 libs	http://github.com/Quick/Quick	Quick: The Swift (and Objective-C) testing framework	testing	20010101
 libs	http://github.com/jpsim/sourcekitten			20010101
 libs	http://github.com/yichizhang/SwiftWithSanity			20010101
@@ -120,7 +120,7 @@ beginner	http://www.highoncoding.com/Articles/879_Introduction_to_Swift.aspx	Int
 beginner	http://www.learnswift.tips	A curated list of helpful resources to learn Swift		20010101
 beginner	http://www.brianjcoleman.com/tutorial-collection-view-using-swift	Tutorial: Collection View Using Swift	UICollectionView	20140901
 beginner	http://www.codingexplorer.com/arrays-swift	Arrays and their Methods in Swift	Array	20140819
-beginner	http://chris.eidhof.nl/posts/tuples-structs-enums.html	Tuples, Structs and Enums	tuple:enum	20140829
+beginner	http://chris.eidhof.nl/posts/tuples-structs-enums.html	Tuples, Structs and Enums	tuple:enum:structs	20140829
 beginner	http://developer.apple.com/swift/blog/?id=16	Building Your First Swift App	video	20141007
 beginner	http://developer.apple.com/swift/blog/?id=18	Introduction to the Swift REPL	repl	20141111
 beginner	http://www.youtube.com/watch?v=s9UBc6BAUTI	Swift in 40 Minutes	video:beginner	20141223
@@ -297,7 +297,7 @@ advanced	http://www.raywenderlich.com/76260/video-tutorial-introduction-swift-pa
 advanced	http://www.raywenderlich.com/77048/video-tutorial-introduction-to-swift-part-7-classes	Video Tutorial: Introduction to Swift Part 7: Classes	video	20140901
 advanced	http://www.raywenderlich.com/77878/video-tutorial-introduction-swift-part-8-tuples	Video Tutorial: Introduction to Swift Part 8: Tuples	video:tuples	20140901
 advanced	http://www.raywenderlich.com/75289/swift-tutorial-part-3-tuples-protocols-delegates-table-views	Swift Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views	tuple:protocol	20150921
-advanced	http://www.raywenderlich.com/79850/collection-data-structures-swift	Collection Data Structures In Swift		20150421
+advanced	http://www.raywenderlich.com/79850/collection-data-structures-swift	Collection Data Structures In Swift	algorithm	20150421
 advanced	http://www.raywenderlich.com/82832/video-tutorial-ios-animations-introduction	Video Tutorial: iOS Animation with Swift: Introduction	beginner	20140917
 advanced	http://www.samuelmullen.com/2014/10/performance_testing_in_swift	Performance Testing in Xcode 6	testing	20141020
 advanced	http://www.scottlogic.com/blog/2014/12/08/swift-optional-pyramids-of-doom.html	Tearing Down Swift's Optional Pyramid Of Doom		20141208
@@ -447,7 +447,7 @@ advanced	http://ios-blog.co.uk/tutorials/how-to-create-an-objective-c-bridging-h
 advanced	http://www.ioscreator.com/tutorials/scene-kit-primitives-tutorial-swift	Scene Kit - Primitives Tutorial with Swift	SceneKit	20150105
 advanced	http://www.ioscreator.com/tutorials/reordering-rows-table-view-ios8-swift	Reordering Rows from Table View in iOS8 with Swift	UITableView	20150106
 advanced	http://www.ioscreator.com/tutorials/airprint-tutorial-ios8-swift	AirPrint Tutorial in iOS8 with Swift	print	20150108
-advanced	http://natashatherobot.com/mutating-functions-swift-structs	Mutating Functions in Swift Structs		20150107
+advanced	http://natashatherobot.com/mutating-functions-swift-structs	Mutating Functions in Swift Structs	structs	20150107
 advanced	http://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1	Grand Central Dispatch Tutorial for Swift: Part 1/2	GCD	20150107
 advanced	http://www.raywenderlich.com/79150/grand-central-dispatch-tutorial-swift-part-2	Grand Central Dispatch Tutorial for Swift: Part 2/2	GCD	20150107
 advanced	http://www.raywenderlich.com/85515/liquidfun-tutorial-1	LiquidFun Tutorial with Metal and Swift – Part 1	metal	20150106
@@ -472,7 +472,7 @@ libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of you
 sites	http://swiftlang.eu	SwiftLang.eu		20010101
 advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift		20141228
 advanced	http://gilesvangruisen.com/all-about-table-views	All about table views	UITableView	20141105
-libs	http://github.com/davecom/SwiftGraph	SwiftGraph:  A Graph Data Structure		20010101
+libs	http://github.com/davecom/SwiftGraph	SwiftGraph:  A Graph Data Structure	algorithm	20010101
 advanced	http://meghagulati.com/2015/01/04/integrating-stripe-in-swift-with-custom-view	Integrating Stripe in Swift with Custom View		20150104
 advanced	http://www.russbishop.net/swift-associated-types	Swift: Associated Types		20150105
 advanced	http://www.russbishop.net/swift-and-uitableviewcontroller	Swift: Strange tales of initialization		20141117
@@ -919,7 +919,7 @@ advanced	http://medium.com/the-traveled-ios-developers-guide/swift-s-set-a7eb4f4
 advanced	http://flexmonkey.blogspot.com/2015/04/snapswift-open-source-popup-menu.html	SnapSwift: Open Source Popup Menu / Numeric Slider for iOS		20150419
 advanced	http://www.extelligentcocoa.org/the-meta-syntax-of-optionals	The meta-syntax of optionals		20150419
 advanced	http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews	Fun With Scrollviews	uiscrollview	20150419
-advanced	http://www.knowstack.com/converting-array-of-dictionary-to-tree-org-structure	Converting Array of Dictionary to Tree, Org Structure		20150419
+advanced	http://www.knowstack.com/converting-array-of-dictionary-to-tree-org-structure	Converting Array of Dictionary to Tree, Org Structure	Array:Tree	20150419
 advanced	http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging	Reveal Tutorial: Live View Debugging		20150420
 advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	watchkit	20150420
 advanced	http://ericasadun.com/2015/04/21/swift-occams-code-razor	Swift: Occam’s Code Razor		20150421
@@ -1032,7 +1032,7 @@ advanced	http://ericasadun.com/2015/05/28/swift-five-things-about-core-foundatio
 advanced	http://www.andrewcbancroft.com/2015/05/28/sync-table-view-data-nsfetchedresultscontroller-swift	Sync Table View Data: NSFetchedResultsController and Swift	CoreData	20150528
 advanced	http://www.russbishop.net/more-swift-attributes	More Swift Attributes		20150529
 advanced	http://www.raywenderlich.com/97886/instruments-tutorial-with-swift-getting-started	Instruments Tutorial with Swift: Getting Started	instruments	20150529
-advanced	http://www.extelligentcocoa.org/struct-initialisation	Struct initialisation		20150531
+advanced	http://www.extelligentcocoa.org/struct-initialisation	Struct initialisation	structs	20150531
 advanced	http://www.extelligentcocoa.org/curried-function-example	Curried Function Example	functional	20150531
 advanced	http://www.extelligentcocoa.org/basic-tool-palette	Basic Tool Palette	mac	20150531
 advanced	http://flexmonkey.blogspot.com/2015/06/fast-core-image-filter-chaining-in.html	Fast Core Image Filter Chaining in Swift with Shinpuru Image	CoreImage	20150601
@@ -1310,7 +1310,7 @@ advanced	http://natashatherobot.com/xcode-debugging-user-breakpoints	Xcode Debug
 advanced	http://www.andrewcbancroft.com/2015/07/16/uitableview-swipe-to-delete-workflow-in-swift	UITableView Swipe to Delete Workflow in Swift	UITableView	20150717
 advanced	http://flexmonkey.blogspot.com/2015/07/hybrid-marking-menu-radial-slider-swift.html	Hybrid Marking Menu / Radial Slider Swift Component for iOS		20150717
 advanced	http://peterwitham.com/xcode/quick-tip-xcode-utilities-panel-keyboard-shortcuts	Quick Tip – Xcode Utilities Panel Keyboard Shortcuts	xcode	20150717
-advanced	http://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html	Friday Q&A 2015-07-17: When to Use Swift Structs and Classes	struct	20150717
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html	Friday Q&A 2015-07-17: When to Use Swift Structs and Classes	structs	20150717
 advanced	http://www.raywenderlich.com/97945/make-app-like-runkeeper-swift-part-2	How To Make an App Like RunKeeper with Swift: Part 2		20150717
 advanced	http://ericasadun.com/2015/07/17/swift-ad-hoc-anonymous-arguments	Swift: Ad hoc anonymous arguments	closure	20150717
 advanced	http://ericasadun.com/2015/07/17/swift-did-something-change-with-implicit-unwrapping-when-i-wasnt-looking	Swift: Did something change with implicit unwrapping when I wasn’t looking?		20150717
@@ -1582,10 +1582,10 @@ libs	http://github.com/DaveWoodCom/XCGLogger	XCGLogger - A debug log framework	l
 libs	http://gist.github.com/chriseidhof/48243eb549481bc38d58	Reflection	SwiftLang:reflection	20010101
 libs	http://gist.github.com/mikeash/0ac60ce46f40e9c825a3	SerializationExperiment.swift		20010101
 libs	http://github.com/Alamofire/AlamofireImage	AlamofireImage is an image component library for Alamofire	networking	20010101
-libs	http://github.com/alskipp/Swift-Diagram-Playgrounds	Drawing diagrams in Swift using a recursive enum data structure		20010101
+libs	http://github.com/alskipp/Swift-Diagram-Playgrounds	Drawing diagrams in Swift using a recursive enum data structure	enum	20010101
 libs	http://github.com/andreamazz/BubbleTransition	A custom modal transition that presents and dismiss a controller with an expanding bubble effect.	transitions	20010101
 libs	http://github.com/Anviking/Decodable	Swift 2 JSON parsing done (more) right	json	20010101
-libs	http://github.com/benzguo/MusicKit	A framework for composing and transforming music		20010101
+libs	http://github.com/benzguo/MusicKit	A framework for composing and transforming music	music:audio	20010101
 libs	http://github.com/CezaryKopacz/CKWaveCollectionViewTransition	Cool wave like transition between two or more UICollectionView	UICollectionView:transitions	20010101
 libs	http://github.com/chriseidhof/LiterateSwiftGUI	LiterateSwift is a (GUI) tool to edit your literate swift files.		20010101
 libs	http://github.com/coolioxlr/watchOS-2-heartrate	watchOS 2.0 healthkit, heartrate streaming, start workout session	watchkit	20010101
@@ -1656,7 +1656,7 @@ advanced	http://ijoshsmith.com/2015/04/29/creating-ascii-art-in-functional-swift
 advanced	http://jasdev.me/ios-interactive-notifications	A Tour of iOS Interactive Notifications		20150905
 advanced	http://krakendev.io/blog/the-right-way-to-write-a-singleton	The Right Way To Write a Singleton	singleton	20150721
 advanced	http://macoscope.com/blog/the-not-so-complicated-complications	The Not-So-Complicated Complications	watchkit	20150623
-advanced	http://medium.com/@valentinkalchev/how-to-pause-and-resume-a-sequence-of-mutating-swift-structs-using-dispatch-semaphore-fc98eca55c0	How to pause and resume a sequence of mutating Swift structs using dispatch semaphore?		20150825
+advanced	http://medium.com/@valentinkalchev/how-to-pause-and-resume-a-sequence-of-mutating-swift-structs-using-dispatch-semaphore-fc98eca55c0	How to pause and resume a sequence of mutating Swift structs using dispatch semaphore?	structs	20150825
 advanced	http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering	UICollectionViews Now Have Easy Reordering	UICollectionView	20150716
 advanced	http://radex.io/swift/nsuserdefaults/static	Statically-typed NSUserDefaults	NSUserDefaults	20150831
 advanced	http://realm.io/news/tips-for-ios-9-development	Top Tips for iOS 9 Development		20150910
@@ -1787,7 +1787,7 @@ libs	http://github.com/sabiland/TrippyBackgrounds	Easy way to create random-trip
 libs	http://github.com/Zewo/SwiftGo	Pure Swift/C library that provides Go's concurrency features in Swift 2	concurrency	20010101
 advanced	http://oleb.net/blog/2015/09/swift-ranges-and-intervals	Ranges and Intervals in Swift	Range	20150924
 advanced	http://www.appcoda.com/search-api-sfsafariviewcontroller	Getting Started with Search APIs and SFSafariViewController in iOS 9	SFSafariViewController	20150920
-advanced	http://moduscreate.com/classes-and-structs-in-swift	Classes and Structs in Swift	struct	20150915
+advanced	http://moduscreate.com/classes-and-structs-in-swift	Classes and Structs in Swift	structs	20150915
 advanced	http://speakerdeck.com/ayanonagon/swift-scripting	Swift Scripting	scripting	20150321
 advanced	http://krakendev.io/blog/scripting-in-swift	Scripting in Swift is Pretty Awesome	scripting	20150630
 libs	http://github.com/sahandnayebaziz/SwiftHub	An iOS app for exploring popular Github repositories		20010101
@@ -1948,7 +1948,7 @@ advanced	http://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance	Seq
 advanced	http://bit.boutique/blog/2015/6/8/drag-sorting-nstableview-rows-in-swift	Drag Sorting NSTableView rows in Swift	mac	20150609
 advanced	http://blog.zats.io/2015/08/15/randoms	GKRandomDistribution, GKShuffledDistribution and the GKGaussianDistribution	GameplayKit:random	20150815
 advanced	http://bluelemonbits.com/index.php/2015/08/20/evaluate-string-width-and-return-cgfloat-swift-osx	Evaluate string width and return CGFloat (Swift, OSX)	string	20150820
-advanced	http://chris.eidhof.nl/posts/struct-semantics-in-swift.html	Struct Semantics in Swift: Implementing Copy-on-Write efficiently	SwiftLang	20150830
+advanced	http://chris.eidhof.nl/posts/struct-semantics-in-swift.html	Struct Semantics in Swift: Implementing Copy-on-Write efficiently	SwiftLang:structs	20150830
 advanced	http://christiantietze.de/posts/2015/08/simple-singleton	How to Write Pragmatic, Testable Singletons	singleton:testing	20150804
 advanced	http://christiantietze.de/posts/2015/09/model-bind	Where Instead of Using Functional Bind, I Create an Expressive Model		20150802
 advanced	http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift	An Observable Pattern Implementation in Swift		20151001
@@ -1959,14 +1959,14 @@ advanced	http://matthijshollemans.com/2015/08/22/boyer-moore-string-search-in-sw
 advanced	http://medium.com/@skreutzb/random-swift-102c23cd1755	Random Swift: An introduction to randomizing functions in Swift	random	20150729
 advanced	http://medium.com/the-traveled-ios-developers-guide/swift-defer-bcef70de8767	Swift + Defer: Syntactical Sugar Pt.1	exceptions:defer	20150718
 advanced	http://medium.com/the-traveled-ios-developers-guide/swift-guard-dcd725caef7e	Swift + Guard: Syntactical Sugar Pt.2	exceptions:guard	20150821
-advanced	http://novaera.fr/wordpress/structure-your-uitableview-better-with-structs-and-enums-in-swift	Structure your UITableView better with structs and enums	UITableView	20150826
+advanced	http://novaera.fr/wordpress/structure-your-uitableview-better-with-structs-and-enums-in-swift	Structure your UITableView better with structs and enums	UITableView:structs	20150826
 advanced	http://owensd.io/2015/08/06/protocols.html	Protocols - My Current Recommendations	protocol	20150806
 advanced	http://owensd.io/2015/08/09/filter-performance.html	Be Mindful of Your Filters		20150809
 advanced	http://owensd.io/2015/08/19/guess-the-protocol-behavior.html	Guess the Protocol Behavior	protocol	20150819
 advanced	http://rajkandathi.com/swift-sequencetype-generatortype	Swift – SequenceType & GeneratorType	Sequence	20150815
 advanced	http://snackcoffee.me/2015/08/25/string-swift	Working with String	string	20150825
 advanced	http://stackoverflow.com/questions/24101718/swift-performance-sorting-arrays/24102237	Swift performance: sorting arrays		20140608
-advanced	http://swiftandpainless.com/nscoding-and-swift-structs	NSCoding And Swift Structs		20150819
+advanced	http://swiftandpainless.com/nscoding-and-swift-structs	NSCoding And Swift Structs	structs	20150819
 advanced	http://theswiftdev.com/2015/08/05/swift-init-patterns	Swift init patterns	SwiftLang	20150805
 advanced	http://whichline.wordpress.com/2015/07/13/os-x-screensaver-swift-2-part-1	Writing OS X Screensaver in Swift 2.0	mac	20150805
 advanced	http://www.jessesquires.com/swift-enumerations-and-equatable	Swift enumerations and equatable	enum	20150726
@@ -2156,8 +2156,8 @@ advanced	http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4	Think
 advanced	http://alisoftware.github.io/swift/enum/json/2015/07/16/swift-enums-for-JSON-parsing	Swift enums for JSON parsing	enum:json	20150716
 advanced	http://alisoftware.github.io/swift/enum/constants/2015/07/19/enums-as-constants	Enums as constants	enum	20150719
 advanced	http://alisoftware.github.io/swift/pattern-matching/2015/08/23/urls-and-pattern-matching	URLs and Pattern Matching		20150823
-advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Thinking in Swift, Part 2: map those arrays		20150930
-advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class		20151003
+advanced	http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2	Thinking in Swift, Part 2: map those arrays	Array:map	20150930
+advanced	http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3	Thinking in Swift, Part 3: Struct vs. Class	structs	20151003
 source	http://gist.github.com/andymatuschak/5b4165d278c265cd5a35	Source for the Khan Academy app's unusual scrolling interactions	UIScrollView	20010101
 advanced	http://www.andrewcbancroft.com/2015/10/13/loading-a-receipt-for-validation-with-swift	Loading a Receipt for Validation		20151013
 advanced	http://christiantietze.de/posts/2015/10/view-model-control	Decouple UI from Model with View Models and Controls	mvvm	20151014
@@ -2192,7 +2192,7 @@ advanced	http://christiantietze.de/posts/2015/10/optional-protocol-swift-closure
 advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-midipacketlist-in-swift-part-1	Enumerate MIDIPacketList in Swift: Part 1		20151005
 advanced	http://softwaredesign.jeffverkoeyen.com/swift-frameworks-conflicting-symbols-objective-c-apps	Swift frameworks with conflicting symbols in Objective-C apps		20151007
 advanced	http://design.featherless.software/enumerate-midipacketlist-in-swift-part-2	Enumerate MIDIPacketList in Swift: Part 2		20151009
-libs	http://github.com/bradhilton/SwiftKVC	Key-Value Coding (KVC) for native Swift classes and structs		20010101
+libs	http://github.com/bradhilton/SwiftKVC	Key-Value Coding (KVC) for native Swift classes and structs	structs	20010101
 libs	http://github.com/mleiv/SerializableData	Swift 2.0 library to get/set json-type data, usable in NSUserDefaults and CoreData	json	20010101
 advanced	http://romain.goyet.com/articles/running_swift_code_on_android	Running Swift code on Android		20151014
 advanced	http://www.codementor.io/swift/tutorial/what-s-new-in-swift-2	What's New In Swift 2		20150930
@@ -2289,8 +2289,8 @@ advanced	http://appventure.me/2015/09/30/getting-iphone6s-foundry-from-swift	Get
 advanced	http://appventure.me/2015/08/25/optional-throw-swift	Optional throw via try? in Swift 2 beta 6	exceptions	20150825
 advanced	http://appventure.me/2015/06/17/swift-method-overloading-by-protocol	Generic method overloading by protocol in Swift		20150617
 advanced	http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures	Using try / catch in Swift with asynchronous closures		20150619
-advanced	http://www.raywenderlich.com/116714/swift-tutorial-introducing-structures	Swift Tutorial: Introducing Structures	beginner	20151027
-advanced	http://littlebitesofcocoa.com/112	little bites of cocoa: #112: Layout Guides & Anchors		20151027
+advanced	http://www.raywenderlich.com/116714/swift-tutorial-introducing-structures	Swift Tutorial: Introducing Structures	beginner:structs	20151027
+advanced	http://littlebitesofcocoa.com/112	little bites of cocoa: #112: Layout Guides & Anchors	AutoLayout	20151027
 advanced	http://littlebitesofcocoa.com/113	little bites of cocoa: #113: Profiling Core Animation	CoreAnimation	20151028
 advanced	http://www.mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift	Fixing Bugs Driven By Tests in Swift	testing	20151028
 advanced	http://makeapppie.com/2015/10/28/why-stack-views-are-your-best-friend-if-you-hate-auto-layout	Why Stack Views Are Your Best Friend If You Hate Auto Layout	UIStackView	20151028
@@ -2471,7 +2471,7 @@ advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	S
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video	20151123
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode	20151123
 advanced	http://www.andrewcbancroft.com/2015/11/23/get-social-with-swift-posting-to-facebook-and-twitter	Get Social With Swift – Posting to Facebook and Twitter	twitter:facebook	20151123
-advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs	testing	20151124
+advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs	testing:structs	20151124
 advanced	http://realm.io/news/gotocph-rackwitz-therox-learnings-from-cocoapods	Learnings from CocoaPods: Swift, Frameworks, & Modules		20151124
 advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio	20150603
 libs	http://github.com/amornn/MetalTut	Basic metal 3d	metal	20010101
@@ -2596,6 +2596,7 @@ advanced	http://alisoftware.github.io/2015/12/17/let-it-throw	Let it throw, Let 
 advanced	http://medium.com/swift-programming/generic-type-extension-by-retrofitting-protocols-in-swift-2-79fb0e0e2ebe	Generic type extension by retrofitting protocols in Swift 2	generics	20151216
 advanced	http://ericasadun.com/2015/12/16/a-little-gift-for-my-linux-friends-reading-and-writing-strings-from-and-to-files	A little gift for my Linux friends: reading and writing strings from and to files	Linux	20151216
 advanced	http://realm.io/news/marcus-zarra-core-data-threading	Core Data Threading Demystified	CoreData:video	20151217
-advanced	http://khanlou.com/2015/12/a-structy-model-layer	A Structy Model Layer		20151211
+advanced	http://khanlou.com/2015/12/a-structy-model-layer	A Structy Model Layer	structs	20151211
 advanced	http://medium.com/@eofster/view-event-testing-in-swift-bce860bb682f	View Event Testing in Swift	testing	20151215
 advanced	http://medium.com/the-traveled-ios-developers-guide/they-say-it-s-all-about-how-you-finish-d0203c7fbe8a	Swift + Initialization		20151217
+advanced	http://oleb.net/blog/2015/12/lazy-properties-in-structs-swift	Lazy Properties in Structs	structs	20151217
