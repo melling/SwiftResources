@@ -2439,6 +2439,11 @@ advanced	http://littlebitesofcocoa.com/142	little bites of cocoa: #142: Colorful
 advanced	http://littlebitesofcocoa.com/143	little bites of cocoa: #143: Declarative Attributed Strings with BonMot		20151209
 advanced	http://littlebitesofcocoa.com/144	little bites of cocoa: #144: Drawing Multiline Strings		20151210
 advanced	http://littlebitesofcocoa.com/145	little bites of cocoa: #145: Fixing Code Signing with match		20151211
+advanced	http://littlebitesofcocoa.com/146	little bites of cocoa: #146: Navigating around Xcode with Keyboard Shortcuts	xcode	20151214
+advanced	http://littlebitesofcocoa.com/147	little bites of cocoa: #147: Supercharging Xcode with Plugins Using Alcatraz	xcode:plugin	20151215
+advanced	http://littlebitesofcocoa.com/148	little bites of cocoa: #148: Using Behaviors to Automate Xcode	xcode	20151216
+advanced	http://littlebitesofcocoa.com/149	little bites of cocoa: #149: Enforcing Coding Style and Conventions with SwiftLint		20151217
+advanced	http://littlebitesofcocoa.com/150	little bites of cocoa: #150:		20151218
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2580,3 +2585,17 @@ advanced	http://ios-blog.co.uk/swift-tutorials/swift-2-a-quick-look-at-print-vs-
 advanced	http://ericasadun.com/2015/12/13/bidding-fairwell-to-postfix-decrement	Bidding farewell to postfix decrement		20151213
 advanced	http://christiantietze.de/posts/2015/12/ios-architectures	iOS View Architectures and VIPER Explained		20151214
 advanced	http://kostiakoval.github.io/posts/exclude-folders---new-feature-in-swift-package-manager	Exclude folders - New feature in SPM	PackageManager	20151212
+advanced	http://realm.io/news/danny-keogan-swift-cryptography	CommonCrypto in Swift	encryption	20151214
+advanced	http://useyourloaf.com/blog/swift-string-cheat-sheet.html	Swift String Cheat Sheet	string	20151214
+advanced	http://sketchytech.blogspot.com/2014/07/swift-join-and-split-explained.html	Swift: join() and split() explained	string:split:join	20140728
+advanced	http://realm.io/news/gotocph-wei-meng-lee-killer-apple-watch-apps	Developing Killer Apple Watch Apps	watchkit	20151215
+advanced	http://radex.io/swift/guard	When (not) to use guard		20151215
+advanced	http://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself	Swift Type Constrained Extensions: Express Yourself		20151214
+advanced	http://www.learncoredata.com/saving-data-in-a-tvos-app	Saving Data in a tvOS App	AppleTV	20151216
+advanced	http://alisoftware.github.io/2015/12/17/let-it-throw	Let it throw, Let it throw!	exceptions	20151217
+advanced	http://medium.com/swift-programming/generic-type-extension-by-retrofitting-protocols-in-swift-2-79fb0e0e2ebe	Generic type extension by retrofitting protocols in Swift 2	generics	20151216
+advanced	http://ericasadun.com/2015/12/16/a-little-gift-for-my-linux-friends-reading-and-writing-strings-from-and-to-files	A little gift for my Linux friends: reading and writing strings from and to files	Linux	20151216
+advanced	http://realm.io/news/marcus-zarra-core-data-threading	Core Data Threading Demystified	CoreData:video	20151217
+advanced	http://khanlou.com/2015/12/a-structy-model-layer	A Structy Model Layer		20151211
+advanced	http://medium.com/@eofster/view-event-testing-in-swift-bce860bb682f	View Event Testing in Swift	testing	20151215
+advanced	http://medium.com/the-traveled-ios-developers-guide/they-say-it-s-all-about-how-you-finish-d0203c7fbe8a	Swift + Initialization		20151217
