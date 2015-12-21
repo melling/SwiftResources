@@ -2443,7 +2443,7 @@ advanced	http://littlebitesofcocoa.com/146	little bites of cocoa: #146: Navigati
 advanced	http://littlebitesofcocoa.com/147	little bites of cocoa: #147: Supercharging Xcode with Plugins Using Alcatraz	xcode:plugin	20151215
 advanced	http://littlebitesofcocoa.com/148	little bites of cocoa: #148: Using Behaviors to Automate Xcode	xcode	20151216
 advanced	http://littlebitesofcocoa.com/149	little bites of cocoa: #149: Enforcing Coding Style and Conventions with SwiftLint		20151217
-advanced	http://littlebitesofcocoa.com/150	little bites of cocoa: #150:		20151218
+advanced	http://littlebitesofcocoa.com/150	little bites of cocoa: #150: Standardizing Network Abstractions with Moya		20151218
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2601,3 +2601,22 @@ advanced	http://medium.com/@eofster/view-event-testing-in-swift-bce860bb682f	Vie
 advanced	http://medium.com/the-traveled-ios-developers-guide/they-say-it-s-all-about-how-you-finish-d0203c7fbe8a	Swift + Initialization		20151217
 advanced	http://oleb.net/blog/2015/12/lazy-properties-in-structs-swift	Lazy Properties in Structs	structs:lazy	20151217
 advanced	http://www.bloomberg.com/company/announcements/realising-the-ipad-pros-potential	Realising the iPad Pro’s Potential		20151216
+advanced	http://ericasadun.com/2015/12/17/evolve-or-die-the-swift-storm-rages-on	Evolve or die: The Swift storm rages on		20151217
+advanced	http://natashatherobot.com/protocol-oriented-segue-identifiers-swift	Protocol-Oriented Segue Identifiers in Swift	protocol	20151217
+advanced	http://realm.io/news/yoav-schwartz-corebluetooth-peripherals	Practical CoreBluetooth for Peripherals	bluetooth	20151218
+advanced	http://ericasadun.com/2015/12/18/naturally-final-classes-in-swift	Naturally final classes in Swift		20151218
+advanced	http://natashatherobot.com/cocoapods-on-a-team	The Trick to Working with CocoaPods on a Team		20151218
+advanced	http://ericasadun.com/2015/12/18/bidding-farewell-to-currying	Bidding farewell to currying		20151218
+advanced	http://www.andrewcbancroft.com/2015/12/18/working-with-unwind-segues-programmatically-in-swift	Working with Unwind Segues Programmatically in Swift		20151218
+advanced	http://christiantietze.de/posts/2015/12/separate-read-write-models	Separate Read Model from Write Model to Support Complex Forms		20151219
+advanced	http://flexmonkey.blogspot.com/2015/12/apple-pencil-controlled-christmas-tree.html	Apple Pencil Controlled Christmas Tree Bowling with SceneKit	Pencil:SceneKit	20151219
+advanced	http://ios-blog.co.uk/tutorials/swift/how-to-creating-ascii-art	How to Create ASCII art in functional Swift		20151219
+advanced	http://ericasadun.com/2015/12/20/living-la-vida-linux	Living la vida Linux	Linux	20151220
+advanced	http://ericasadun.com/2015/12/20/how-to-curl-raw-content-from-gists	How to curl raw content from gists	Linux	20151220
+advanced	http://ericasadun.com/2015/12/18/dear-erica-help-me-refactor	Dear Erica: Help me refactor		20151218
+advanced	http://ericasadun.com/2015/12/19/survey-how-would-you-rename-associated-type	Survey: How would you rename associated type?		20151219
+libs	http://github.com/rhodgkins/SwiftHTTPStatusCodes	Swift enum wrapper for easier handling of HTTP status codes		20010101
+libs	http://github.com/samhann/SwiftLisp	A toy Lisp interpreter in Swift I tried to write after seeing Peter Norvig's version in Python.		20010101
+advanced	http://medium.com/@bardonadam/how-i-m-using-swift-scripting-to-create-newsletter-for-ios-cookies-93db5deca4c	How I’m Using Swift Scripting To Create Newsletter For iOS Cookies	scripting	20151207
+advanced	http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation	Details matter - harnessing the power of Core Animation	animation	20151216
+advanced	http://www.codecaptain.io/ios-development/focus-engine-for-spritekit-tvos/245	Focus Engine For SpriteKit tvOS	AppleTV	20151219
