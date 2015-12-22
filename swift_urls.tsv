@@ -34,7 +34,7 @@ advanced	http://natecook.com/blog/2014/10/loopy-random-enum-ideas	Loopy, Random 
 advanced	http://nshipster.com/swift-default-protocol-implementations	Swift Default Protocol Implementations		20140902
 advanced	http://rasic.info/bindings-generics-swift-and-mvvm	Bindings, Generics, Swift and MVVM	generics:mvvm	20141210
 advanced	http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift	A safer approach to JSON parsing in Swift	json	20140826
-advanced	http://robots.thoughtbot.com/introduction-to-function-currying-in-swift	Introduction to Function Currying in Swift	functional	20141211
+advanced	http://robots.thoughtbot.com/introduction-to-function-currying-in-swift	Introduction to Function Currying in Swift	functional:currying	20141211
 advanced	http://robots.thoughtbot.com/using-the-dropbox-objectivec-api-in-swift	Using the Dropbox Objective-C API in Swift		20141208
 advanced	http://sketchytech.blogspot.com/2014/12/swift-quiet-affair-of-fallible.html	The quiet affair of the failable initializer and the nil coalescing operator		20141216
 advanced	http://www.cimgf.com/2014/11/05/swift-and-valueforkeypath-you-cant-keep-a-good-api-down	Swift And ValueForKeypath: You Can’t Keep A Good API Down!		20141105
@@ -50,10 +50,10 @@ advanced	http://www.objc.io/snippets/2.html	Function Composition	functional	2001
 advanced	http://www.objc.io/snippets/3.html	Functional Quicksort	functional	20010101
 advanced	http://www.objc.io/snippets/4.html	Flattening and mapping arrays	functional	20010101
 advanced	http://www.objc.io/snippets/5.html	Reduce	functional	20010101
-advanced	http://www.objc.io/snippets/6.html	Currying	functional	20010101
+advanced	http://www.objc.io/snippets/6.html	Currying	functional:currying	20010101
 advanced	http://www.objc.io/snippets/7.html	Applicative Functors	functional	20010101
 advanced	http://www.objc.io/snippets/8.html	Wrapper Types	functional	20010101
-advanced	http://www.objc.io/snippets/9.html	Map for Optionals	functional	20010101
+advanced	http://www.objc.io/snippets/9.html	Map for Optionals	functional:map	20010101
 advanced	http://www.objc.io/snippets/10.html	Permutations	functional:random	20010101
 advanced	http://www.objc.io/snippets/11.html	Lightweight API Wrappers	functional	20010101
 advanced	http://www.objc.io/snippets/12.html	Enums instead of Booleans	functional	20010101
@@ -478,7 +478,7 @@ advanced	http://www.russbishop.net/swift-associated-types	Swift: Associated Type
 advanced	http://www.russbishop.net/swift-and-uitableviewcontroller	Swift: Strange tales of initialization		20141117
 advanced	http://www.russbishop.net/swift-respondstoselector	Swift: respondsToSelector?		20141019
 advanced	http://www.russbishop.net/swift-and-objc-gotcha	Swift and ObjC: Gotcha!		20141116
-advanced	http://www.russbishop.net/swift-function-currying	Swift Function Currying	functional	20140811
+advanced	http://www.russbishop.net/swift-function-currying	Swift Function Currying	functional:currying	20140811
 advanced	http://www.russbishop.net/swift-implicit-pointers	Swift: Implicit Pointers		20140714
 advanced	http://www.russbishop.net/swift-let-s-query-dns	Swift: Let's Query DNS		20140719
 advanced	http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html	Proof in Functions	functional	20150105
@@ -958,7 +958,7 @@ advanced	http://flexmonkey.blogspot.com/2015/05/depth-of-field-in-scenekit.html	
 advanced	http://airspeedvelocity.net/2015/05/02/spelling	A Swift Spelling Corrector		20150502
 advanced	http://natashatherobot.com/swift-unused-optional-value	Swift: The Unused Optional Value Problem		20150502
 advanced	http://www.knowstack.com/swift-nstoolbar-sample-code	Swift NSToolbar Sample Code	mac	20150502
-advanced	http://jamesonquave.com/blog/function-currying-in-swift	Function Currying in Swift	functional	20150503
+advanced	http://jamesonquave.com/blog/function-currying-in-swift	Function Currying in Swift	functional:currying	20150503
 advanced	http://makeapppie.com/2015/05/03/swift-swift-making-background-images-small-images-and-custom-uiviews-with-autolayout	Swift Swift: Making Background Images, Small Images and Custom UIViews with Autolayout		20150503
 advanced	http://www.ioscreator.com/tutorials/load-data-property-list-ios8-swift	Load Data from Property List in iOS8 with Swift		20150504
 advanced	http://flexmonkey.blogspot.com/2015/05/easy-group-based-layout-for-swift-with.html	Easy Group Based Layout for Swift with Shinpuru Layout		20150504
@@ -985,7 +985,7 @@ advanced	http://nshipster.com/xcplayground	XCPlayground	playground	20150511
 advanced	http://natashatherobot.com/watchkit-text-over-animating-image	WatchKit: How to Place Text Over An (Animating) Image	watchkit	20150512
 advanced	http://ericasadun.com/2015/05/12/swift-enumerating-collections	Swift: Enumerating Collections		20150512
 advanced	http://peterwitham.com/swift/intermediate/basic-file-reading-and-writing-in-ios-8	Basic File Reading and Writing Using Swift in iOS 8	file	20150513
-advanced	http://ericasadun.com/2015/05/14/swift-curry-take-out-with-a-side-of-image-processing	Swift: Curry take-out with a side of Image Processing	functional	20150514
+advanced	http://ericasadun.com/2015/05/14/swift-curry-take-out-with-a-side-of-image-processing	Swift: Curry take-out with a side of Image Processing	functional:currying	20150514
 advanced	http://www.andrewcbancroft.com/2015/05/14/beginners-guide-to-eventkit-in-swift-requesting-permission	Beginner’s Guide to EventKit in Swift – Requesting Permission	EventKit	20150514
 advanced	http://ericasadun.com/2015/05/15/swift-playground-hack-of-the-day	Swift: Playground Hack of the day	playground	20150515
 advanced	http://ericasadun.com/2015/05/15/swift-confessional	Swift: Confessional		20150515
@@ -1525,7 +1525,7 @@ advanced	http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-s
 advanced	http://realm.io/news/altconf-ash-furrow-functional-reactive-swift	Functional Reactive Awesomeness With Swift	functional:reactive	20150812
 advanced	http://www.thorntech.com/2015/08/want-your-swift-app-to-scroll-in-two-directions-like-netflix-heres-how	Want your Swift app to scroll in two directions, like Netflix? Here’s how.	UICollectionView:UITableView	20150806
 advanced	http://shrikar.com/build-your-own-uber-app-in-swift	Build your own Uber app in Swift		20150812
-advanced	http://medium.com/@NSomar/swift-currying-in-practice-85d3f1064b56	Swift currying in practice	functional	20150804
+advanced	http://medium.com/@NSomar/swift-currying-in-practice-85d3f1064b56	Swift currying in practice	functional:currying	20150804
 advanced	http://sdbr.net/post/Themes-in-Swift	Color Themes in Swift on iOS	color	20150802
 advanced	http://www.hackingwithswift.com/read/36/overview	Project 36: Crashy Plane	SpriteKit:SKAudioNode	20150802
 advanced	http://www.hackingwithswift.com/read/35/overview	Project 35: Generating random numbers with GameplayKit	GameplayKit	20150802
@@ -2590,7 +2590,7 @@ advanced	http://realm.io/news/danny-keogan-swift-cryptography	CommonCrypto in Sw
 advanced	http://useyourloaf.com/blog/swift-string-cheat-sheet.html	Swift String Cheat Sheet	string	20151214
 advanced	http://sketchytech.blogspot.com/2014/07/swift-join-and-split-explained.html	Swift: join() and split() explained	string:split:join	20140728
 advanced	http://realm.io/news/gotocph-wei-meng-lee-killer-apple-watch-apps	Developing Killer Apple Watch Apps	watchkit	20151215
-advanced	http://radex.io/swift/guard	When (not) to use guard		20151215
+advanced	http://radex.io/swift/guard	When (not) to use guard	guard	20151215
 advanced	http://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself	Swift Type Constrained Extensions: Express Yourself		20151214
 advanced	http://www.learncoredata.com/saving-data-in-a-tvos-app	Saving Data in a tvOS App	AppleTV	20151216
 advanced	http://alisoftware.github.io/2015/12/17/let-it-throw	Let it throw, Let it throw!	exceptions	20151217
@@ -2607,7 +2607,7 @@ advanced	http://natashatherobot.com/protocol-oriented-segue-identifiers-swift	Pr
 advanced	http://realm.io/news/yoav-schwartz-corebluetooth-peripherals	Practical CoreBluetooth for Peripherals	bluetooth	20151218
 advanced	http://ericasadun.com/2015/12/18/naturally-final-classes-in-swift	Naturally final classes in Swift		20151218
 advanced	http://natashatherobot.com/cocoapods-on-a-team	The Trick to Working with CocoaPods on a Team		20151218
-advanced	http://ericasadun.com/2015/12/18/bidding-farewell-to-currying	Bidding farewell to currying		20151218
+advanced	http://ericasadun.com/2015/12/18/bidding-farewell-to-currying	Bidding farewell to currying	currying	20151218
 advanced	http://www.andrewcbancroft.com/2015/12/18/working-with-unwind-segues-programmatically-in-swift	Working with Unwind Segues Programmatically in Swift		20151218
 advanced	http://christiantietze.de/posts/2015/12/separate-read-write-models	Separate Read Model from Write Model to Support Complex Forms		20151219
 advanced	http://flexmonkey.blogspot.com/2015/12/apple-pencil-controlled-christmas-tree.html	Apple Pencil Controlled Christmas Tree Bowling with SceneKit	Pencil:SceneKit	20151219
