@@ -43,13 +43,13 @@ advanced	http://www.codingexplorer.com/swift-operator-overloading	Operator Overl
 advanced	http://www.ioscreator.com/tutorials/draw-gradients-core-graphics-ios8-swift	Draw Gradients with Core Graphics in iOS8 with Swift		20141029
 advanced	http://www.iosmike.com/2014/08/unit-testing-viewcontrollers-in-swift.html	Unit Testing ViewControllers In Swift With IOS 8 And Xcode 6	testing	20141018
 advanced	http://www.jessesquires.com/swift-failable-initializers	Swift Failable Initializers		20141022
-advanced	http://www.juliusparishy.com/articles/2014/12/14/adopting-map-reduce-in-swift	Adopting map() & reduce() in Swift	functional	20010101
+advanced	http://www.juliusparishy.com/articles/2014/12/14/adopting-map-reduce-in-swift	Adopting map() & reduce() in Swift	functional:map:reduce	20010101
 advanced	http://www.juliusparishy.com/articles/2014/12/5/variable-types-in-swift-for-objective-c-developers	Variable Types in Swift for Objective-C Developers		20010101
 advanced	http://www.objc.io/snippets/1.html	Decomposing Arrays	functional	20010101
 advanced	http://www.objc.io/snippets/2.html	Function Composition	functional	20010101
 advanced	http://www.objc.io/snippets/3.html	Functional Quicksort	functional	20010101
 advanced	http://www.objc.io/snippets/4.html	Flattening and mapping arrays	functional	20010101
-advanced	http://www.objc.io/snippets/5.html	Reduce	functional	20010101
+advanced	http://www.objc.io/snippets/5.html	Reduce	functional:reduce	20010101
 advanced	http://www.objc.io/snippets/6.html	Currying	functional:currying	20010101
 advanced	http://www.objc.io/snippets/7.html	Applicative Functors	functional	20010101
 advanced	http://www.objc.io/snippets/8.html	Wrapper Types	functional	20010101
@@ -599,7 +599,7 @@ advanced	http://dev.teeps.org/blog/2015/1/16/function-composition-in-swift	Funct
 advanced	http://chris.eidhof.nl/posts/lenses-in-swift.html	Lenses in Swift: Combining getters and setters for great glory	functional	20141114
 advanced	http://www.raywenderlich.com/92667/securing-ios-data-keychain-touch-id-1password	Securing iOS User Data: The Keychain, Touch ID, and 1Password	TouchId	20150203
 advanced	http://robots.thoughtbot.com/real-world-json-parsing-with-swift	Real World JSON Parsing with Swift	functional:json	20140918
-advanced	http://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more	Higher Order Functions: Map, Filter, Reduce and more – Part 1	functional	20140603
+advanced	http://www.weheartswift.com/higher-order-functions-map-filter-reduce-and-more	Higher Order Functions: Map, Filter, Reduce and more – Part 1	functional:map:filter:reduce	20140603
 advanced	http://www.weheartswift.com/swift-classes-part-1	Swift Classes – Part 1		20140603
 advanced	http://www.weheartswift.com/swifting-around	Swifting Around		20140605
 advanced	http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6	How to make awesome UI components in iOS 8 using Swift and XCode 6		20140606
@@ -1045,7 +1045,7 @@ advanced	http://ericasadun.com/2015/06/02/swift-overlooked-playground-cool-stuff
 advanced	http://ericasadun.com/2015/06/02/swift-swappity-doo-dah	Swift: Swappity Doo-dah!		20150602
 advanced	http://sketchytech.blogspot.com/2015/06/swift-further-adventures-in-flatmap.html	Swift: Further adventures in flatMap()	functional:flatMap	20150603
 advanced	http://www.extelligentcocoa.org/adding-images-to-buttons	Adding Images to Buttons	mac	20150603
-advanced	http://sketchytech.blogspot.com/2015/06/swift-banking-on-reduce.html	Swift: Banking on reduce()	functional	20150603
+advanced	http://sketchytech.blogspot.com/2015/06/swift-banking-on-reduce.html	Swift: Banking on reduce()	functional:reduce	20150603
 advanced	http://www.raywenderlich.com/97756/creating-an-xcode-plugin-part-2	How To Create an Xcode Plugin: Part 2/3	xcode:plugin	20150603
 advanced	http://www.weheartswift.com/make-ios-fractal-app	How to Make an iOS Fractal App		20150603
 advanced	http://ericasadun.com/2015/06/03/swift-overlooked-playground-cool-stuff-2	Swift: Overlooked playground cool stuff #2	playground	20150603
@@ -1232,7 +1232,7 @@ advanced	http://ericasadun.com/2015/06/29/swift-and-sleep-deprevation	Swift and 
 advanced	http://peterwitham.com/xcode/video-using-xcode-7-storyboard-referencing	Using Xcode 7 Storyboard Referencing	video;storyboard	20150629
 advanced	http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2	Swift Exceptions are Swifty: Part 2	exceptions	20150629
 advanced	http://www.extelligentcocoa.org/gameplaykit-randomness	GameplayKit: Randomness	GameplayKit	20150630
-advanced	http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html	Similarly different: join(), reduce() and flatMap() in Swift 2	functional:flatMap	20150630
+advanced	http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html	Similarly different: join(), reduce() and flatMap() in Swift 2	functional:flatMap:reduce	20150630
 advanced	http://natashatherobot.com/xcode-debugging-trick	Xcode: One Weird Debugging Trick That Will Save Your Life	xcode	20150630
 advanced	http://medium.com/swift-programming/groundup-json-stringify-in-swift-b2d805458985	GroundUp JSON Stringify in Swift	json	20150630
 advanced	http://ericasadun.com/2015/06/30/going-random-in-the-age-of-gameplaykit	Going random in the age of GameplayKit	GameplayKit	20150630
@@ -2511,7 +2511,7 @@ libs	http://github.com/realm/jazzy	Soulful docs for Swift & Objective-C		2001010
 libs	http://github.com/fen-x/OMM	OMM is a one more mapper that helps to map JSON objects to Swift instances	json	20010101
 libs	http://github.com/kasketis/netfox	A lightweight, one line setup, iOS network debugging library	networking	20010101
 advanced	http://merowing.info/2015/11/swift-init	Swift init()		20151117
-advanced	http://appventure.me/2015/11/30/reduce-all-the-things	Reduce all the things	functional	20151130
+advanced	http://appventure.me/2015/11/30/reduce-all-the-things	Reduce all the things	functional:reduce	20151130
 advanced	http://christiantietze.de/posts/2015/11/config-object-init	Configuration Objects: Delegate Initialization to a Parameter	DesignPatterns	20151128
 advanced	http://www.thomashanning.com/swift-weak-and-unowned	Swift: weak and unowned		20151130
 advanced	http://www.raywenderlich.com/110170/mac-os-x-development-tutorial-for-beginners-part-1-intro-to-xcode	Mac OS X Development Tutorial for Beginners Part 1: Intro to Xcode	mac:beginner	20151130
@@ -2640,5 +2640,5 @@ advanced	http://swiftserver.codeplex.com	Server-side Swift with an HTTP server a
 advanced	http://ios-blog.co.uk/tutorials/swift/editable-uitextfield-inside-a-uialertcontroller	Editable UITextFields inside a UIAlertController		20151222
 advanced	http://www.ioscreator.com/tutorials/spelling-checker-tutorial	Spelling Checker Tutorial		20151222
 advanced	http://realm.io/news/steve-streza-caramel-for-swift	Caramel for Swift	video	20151222
-advanced	http://www.raywenderlich.com/114456/introduction-functional-programming-swift	Introduction to Functional Programming in Swift	functional	20151222
+advanced	http://www.raywenderlich.com/114456/introduction-functional-programming-swift	Introduction to Functional Programming in Swift	functional:map:filter:reduce:currying	20151222
 advanced	http://medium.com/swift-programming/why-swift-guard-should-be-avoided-484cfc2603c5	Why Swift guard Should Be Avoided	guard	20151222
