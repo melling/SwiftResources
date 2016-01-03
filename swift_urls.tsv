@@ -262,7 +262,7 @@ advanced	http://www.raywenderlich.com/77983/make-letter-word-game-uikit-swift-pa
 advanced	http://www.raywenderlich.com/76740/make-game-like-space-invaders-sprite-kit-and-swift-tutorial-part-1	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 1	SpriteKit	20150421
 advanced	http://www.raywenderlich.com/76741/make-game-like-space-invaders-sprite-kit-and-swift-tutorial-part-2	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 2	SpriteKit	20150421
 advanced	http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swift	Introduction to Google Maps iOS SDK in Swift		20150915
-advanced	http://www.raywenderlich.com/79764/custom-subscripting-swift-tutorial	Custom Subscripting in Swift Tutorial		20150409
+advanced	http://www.raywenderlich.com/79764/custom-subscripting-swift-tutorial	Custom Subscripting in Swift Tutorial	subscript	20150409
 advanced	http://www.raywenderlich.com/82022/create-game-like-cut-the-rope-using-sprite-kit-swift	Create a Game Like Cut the Rope Using Sprite Kit and Swift	SpriteKit	20150409
 advanced	http://www.raywenderlich.com/85578/first-core-data-app-using-swift	Your First Core Data App Using Swift	CoreData	20151002
 advanced	http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift	How to Create Your Own Slide-Out Navigation Panel in Swift		20150922
@@ -605,7 +605,7 @@ advanced	http://www.weheartswift.com/swifting-around	Swifting Around		20140605
 advanced	http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6	How to make awesome UI components in iOS 8 using Swift and XCode 6		20140606
 advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	SpriteKit	20140609
 advanced	http://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2		20140609
-advanced	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift		20140616
+advanced	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift	subscript	20140616
 advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift	keyboard	20140627
 advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	video:json:SwiftLang	20140709
 advanced	http://www.weheartswift.com/playing-strings	Playing with Strings	string	20140926
@@ -2447,8 +2447,13 @@ advanced	http://littlebitesofcocoa.com/150	little bites of cocoa: #150: Standard
 advanced	http://littlebitesofcocoa.com/151	little bites of cocoa: #151: UIView B-sides	UIView	20151221
 advanced	http://littlebitesofcocoa.com/152	little bites of cocoa: #152: UITableView & UITableViewCell B-sides	UITableView:UITableViewCell	20151222
 advanced	http://littlebitesofcocoa.com/153	little bites of cocoa: #153: Xcode Plugins that Make Writing Code Easier	xcode:plugin	20151223
-#advanced	http://littlebitesofcocoa.com/154	little bites of cocoa:		20151224
-#advanced	http://littlebitesofcocoa.com/155	little bites of cocoa:		20151225
+advanced	http://littlebitesofcocoa.com/154	little bites of cocoa: #154: Return of the UIKit B-sides!		20151224
+advanced	http://littlebitesofcocoa.com/155	little bites of cocoa: #155: Generating Beautiful Screenshots with frameit		20151225
+advanced	http://littlebitesofcocoa.com/156	little bites of cocoa: #156: Caching with AwesomeCache		20151228
+advanced	http://littlebitesofcocoa.com/157	little bites of cocoa: #157		20151229
+advanced	http://littlebitesofcocoa.com/158	little bites of cocoa: #158: Better UIPageViewControllers with Pages		20151230
+advanced	http://littlebitesofcocoa.com/159	little bites of cocoa: #159: Swift Shortcuts		20151231
+advanced	http://littlebitesofcocoa.com/160	little bites of cocoa: #160: In-App Notifications with Whisper		20160101
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2544,8 +2549,8 @@ advanced	http://www.figure.ink/blog/2015/12/6/matching-with-swifts-optional-patt
 advanced	http://www.thomashanning.com/the-pyramid-of-doom	The Pyramid Of Doom In Swift	guard	20151207
 advanced	http://realm.io/news/felix-krause-fastlane-automating-ios-tasks	Automating Your Daily iOS Developer Tasks	fastlane:video	20151207
 advanced	http://andybargh.com/2015/11/18/arrays-in-swift	The Essentials of Arrays in Swift	Array	20151118
-advanced	http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue	Code at the end of the queue	NSOperation	20151125
-advanced	http://blog.matthewcheok.com/writing-a-parser-in-swift	Writing a parser in Swift (I)		20151121
+advanced	http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue	Code at the end of the queue	NSOperation:concurrency	20151125
+advanced	http://blog.matthewcheok.com/writing-a-parser-in-swift	Writing a parser in Swift (I)	parser	20151121
 advanced	http://dev.iachieved.it/iachievedit/swift-on-linux	Swift on Linux	Linux	20151205
 advanced	http://eng.lyft.com/using-mapper-to-parse-json-in-swift-7788d5c57d74	Using Mapper to parse JSON in Swift	json	20151201
 libs	http://github.com/badoo/Chatto			20010101
@@ -2674,3 +2679,61 @@ advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-explorin
 advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461	iOS From Scratch With Swift: First Steps With UIKit	beginner	20151216
 advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-auto-layout-basics--cms-25520	iOS From Scratch With Swift: Auto Layout Basics	beginner	20151217
 advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-table-view-basics--cms-25160	iOS From Scratch With Swift: Table View Basics	beginner	20151218
+advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-navigation-controllers-and-view-controller-hierarchies--cms-25462	iOS From Scratch With Swift: Navigation Controllers and View Controller Hierarchies	beginner	20151223
+advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-exploring-tab-bar-controller--cms-25470	iOS From Scratch With Swift: Exploring Tab Bar Controller	beginner	20151224
+advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-data-persistence-and-sandboxing-on-ios--cms-25505	iOS From Scratch With Swift: Data Persistence and Sandboxing on iOS	beginner	20151225
+advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-building-a-shopping-list-application-1--cms-25515	iOS From Scratch With Swift: Building a Shopping List Application 1	beginner	20151228
+advanced	http://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-building-a-shopping-list-application-2--cms-25516	iOS From Scratch With Swift: Building a Shopping List Application 2	beginner	20151229
+advanced	http://ios-blog.co.uk/tutorials/objective-c/manage-the-keyboard-for-uitextfield	How to manage the keyboard for a UITextField	UITextField	20151223
+advanced	http://natashatherobot.com/ios-weak-delegates-swift	iOS: How To Make Weak Delegates In Swift		20151223
+advanced	http://www.thomashanning.com/public-properties-with-private-setters	Swift: Public Properties With Private Setters		20151224
+advanced	http://ericasadun.com/2015/12/24/more-linux-y-stuff	More Linux-y Stuff	Linux	20151224
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-12-25-swifty-targetaction.html	Friday Q&A 2015-12-25: Swifty Target/Action		20151225
+advanced	http://ios-blog.co.uk/tutorials/swift/introduction-to-guard-syntax	Introduction to guard syntax	guard	20151225
+advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-checking-reachability	watchOS 2 Tutorial: Checking Reachability	watchkit	20151225
+advanced	http://ashishkakkad.com/2015/12/use-of-constant-define-in-swift-language-ios	Use of constant (#define) in Swift Language – iOS		20151226
+advanced	http://flexmonkey.blogspot.com/2015/12/cartooneyes-compositing-cartoon-eyes.html	CartoonEyes: Compositing Cartoon Eyes over Face from Front Camera in Swift	camera	20151226
+advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-hello-world	watchOS 2: Hello World Tutorial	watchkit	20151227
+advanced	http://ericasadun.com/2015/12/27/holiday-strings	Holiday Strings		20151227
+advanced	http://ericasadun.com/2015/12/27/creating-a-swift-package-on-github-not-as-easy-as-i-thought	Creating a Swift Package on github: Not as easy as I thought		20151227
+advanced	http://ericasadun.com/2015/12/27/clarity-and-optional-mapping-looking-for-opinions	Clarity and Optional mapping: looking for opinions		20151227
+advanced	http://ios-blog.co.uk/tutorials/swift/core-data-p1	Swift 2 Core Data – Everything you need to know Part 1	CoreData	20151227
+advanced	http://realm.io/news/slug-max-alexander-functional-reactive-rxswift	Functional Reactive Programming with RxSwift	video	20151228
+advanced	http://ericasadun.com/2015/12/28/swift-bracing	Swift bracing		20151228
+advanced	http://airspeedvelocity.net/2015/12/28/collection-indices-slices-and-generics	Collection Indices, Slices, and Generics		20151228
+advanced	http://jamesonquave.com/blog/being-swifty-with-collection-view-and-table-view-cells	Being Swifty with Collection View and Table View Cells		20151228
+advanced	http://natashatherobot.com/how-to-download-images-asynchronously-and-make-your-uitableview-scroll-fast-in-ios	iOS: Downloading Images Asynchronously (And Making Your UITableView Scroll Fast) is HARD		20151228
+advanced	http://christiantietze.de/posts/2015/12/cocoa-outer-layer	Making Cocoa the Outermost Layer		20151229
+advanced	http://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions	Creating Custom UIViewController Transitions		20151229
+advanced	http://ericasadun.com/2015/12/29/migrating-ifs-to-guards-in-swift	Migrating `if`s to `guard`s in Swift		20151229
+advanced	http://natashatherobot.com/updated-protocol-oriented-mvvm-in-swift-2-0	Updated: Protocol-Oriented MVVM in Swift 2.0		20151229
+advanced	http://natashatherobot.com/swift-protocols-with-associated-types	A Swift Look at Protocols with Associated Types		20151229
+advanced	http://www.learncoredata.com/icloud-key-value-store	Setting Up and Using iCloud Key-Value Store		20151230
+advanced	http://jamesonquave.com/blog/adding-ibinspectable-to-a-superclass-in-swift	Adding IBInspectable to a superclass in Swift		20151230
+advanced	http://www.thomashanning.com/xcode-groups-folder-references	Xcode: Groups And Folder References	xcode	20151230
+advanced	http://flexmonkey.blogspot.com/2015/12/filterpedia-core-image-filter-explorer.html	Filterpedia: Core Image Filter Explorer		20151231
+advanced	http://realm.io/news/tmi-scrollview-for-keyboards	TMI #5: Scrollview for Keyboards in iOS	video	20151231
+advanced	http://swiftandpainless.com/utilize-the-responder-chain-for-target-action	Utilize The Responder Chain For Target-Action		20160101
+advanced	http://ericasadun.com/2016/01/01/another-take-on-guard	Another take on guard	guard	20160101
+advanced	http://www.mokacoding.com/blog/double-slash-xcconfig	How to use a double slash in xcconfig files	xcode	20160101
+libs	http://github.com/swift-flow/swift-flow	Unidirectional Data Flow in Swift		20160101
+advanced	http://natashatherobot.com/custom-subscripts-swift	Writing Better Code with Custom Subscripts in Swift	subscript	20160102
+commercial	http://www.apress.com/9781484214893	Swift 2 for Absolute Beginners	book	20151010
+advanced	http://youtu.be/1aeQZwWx_J8	‪Using TouchID! (Swift 2 in Xcode)‬	TouchId:video	20151110
+libs	http://github.com/apple/swift-evolution/blob/master/commonly_proposed.md	Commonly Rejected Changes		20010101
+libs	http://github.com/devxoul/Then	Super sweet syntactic sugar for Swift initializers		20010101
+libs	http://github.com/jkandzi/Progress.swift	Add beautiful progress bars to your loops		20010101
+libs	http://github.com/jpedrosa/sua_swift/blob/master/docs/Time.md		date	20010101
+libs	http://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground	Swift Functors, Applicatives, and Monads in Pictures - Playground	functional:monad:playground	20010101
+libs	http://github.com/pixelglow/PredicatePal	Swift DSL for building NSPredicate objects	NSPredicate	20010101
+libs	http://github.com/samhann/SwiftDates	Elegant date arithmetic in Swift	date	20010101
+libs	http://github.com/avaidyam/Parrot	The next generation messenger		20010101
+libs	http://github.com/optonaut/Icomoon.swift	Use your Icomoon fonts with Swift - auto-generates type safe enums for each icon		20010101
+advanced	http://realm.io/news/swift-summit-jorge-izquierdo-taylor-http-server-library	Taylor: The Most Un-Googleable Swift Library	video	20150618
+advanced	http://www.fantageek.com/blog/2015/12/18/a-dive-into-swift-2	A Dive Into Swift 2		20151218
+advanced	http://www.totem.training/swift-ios-tips-tricks-tutorials-blog/ux-chops-dim-the-lights	UI/UX Chops: Transparent View Controllers and Dim Backgrounds		20151229
+advanced	http://developer.ibm.com/swift/2015/12/15/running-swift-within-docker	Running Swift within Docker	docker:Linux	20151215
+advanced	http://medium.com/learning-swift/ios-let-s-build-a-network-abstraction-layer-6133ae60d143	iOS : Let’s Build a Network Abstraction Layer	AlamoFire:networking	20151223
+advanced	http://ankit.im/swift/2015/12/27/ship-c-code-with-swift-packages-using-swift-package-manager	Ship C code with swift packages using swift package manager	PackageManager	20151227
+advanced	http://youtu.be/XWoNjiSPqI8	‪Alexis Gallagher - Protocols with Associated Types‬	protocol	20151215
+advanced	http://useyourloaf.com/blog/easier-autolayout-with-stackviews.html	Easier Auto Layout With Stack Views	UIStackView	20150621
