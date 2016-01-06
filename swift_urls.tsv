@@ -583,7 +583,7 @@ advanced	http://www.ioscreator.com/tutorials/local-notification-tutorial-ios8-sw
 advanced	http://www.raywenderlich.com/87975/dynamic-table-view-cell-height-ios-8-swift	Dynamic Table View Cell Height in iOS 8 and Swift	UITableViewCell	20150129
 advanced	http://flexmonkey.blogspot.com/2015/02/swarm-chemistry-creating-advanced-gpu.html	Swarm Chemistry: Creating an Advanced GPU Based Particle System with Metal	metal	20150202
 advanced	http://shrikar.com/blog/2015/02/01/xcode-6-tutorial-designing-the-ios-app-layout-for-barcode-inventory-app	Xcode 6 Tutorial: Designing the iOS App Layout for Barcode Inventory App	xcode	20150201
-advanced	http://www.ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift	Move View Behind Keyboard in iOS8 With Swift		20150202
+advanced	http://www.ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift	Move View Behind Keyboard in iOS8 With Swift	keyboard	20150202
 libs	http://github.com/MengTo/Spring	A library to simplify iOS animations in Swift	animation	20010101
 advanced	http://owensd.io/2015/01/29/swift-resistance.html	Swift Resistance		20150129
 advanced	http://owensd.io/2015/02/01/the-optimization-game.html	The Optimization Game	optimization	20150201
@@ -921,7 +921,7 @@ advanced	http://www.extelligentcocoa.org/the-meta-syntax-of-optionals	The meta-s
 advanced	http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews	Fun With Scrollviews	uiscrollview	20150419
 advanced	http://www.knowstack.com/converting-array-of-dictionary-to-tree-org-structure	Converting Array of Dictionary to Tree, Org Structure	Array:Tree	20150419
 advanced	http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging	Reveal Tutorial: Live View Debugging		20150420
-advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	watchkit	20150420
+advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	watchkit:NSTimer	20150420
 advanced	http://ericasadun.com/2015/04/21/swift-occams-code-razor	Swift: Occam’s Code Razor		20150421
 advanced	http://www.swift-studies.com/blog/2014/6/10/enumerating-enums-in-swift	Enumerating enums in Swift	enum	20140610
 advanced	http://youtu.be/qQhMkoxSV64	AzamSharp: ‪Learning iOS Development Part 80 (Live Rendering iOS 8)‬	video	20150417
@@ -1229,7 +1229,7 @@ advanced	http://ericasadun.com/2015/06/28/xcode-shenanigans-indentage-servitude	
 advanced	http://nshipster.com/cloudkit	Cloud Kit	CloudKit	20150629
 advanced	http://sketchytech.blogspot.com/2015/06/fear-and-loathing-in-auto-layout_29.html	Fear and Loathing in Auto Layout: Constraint Multipliers, Ratios, Constants and Relations	AutoLayout	20150629
 advanced	http://ericasadun.com/2015/06/29/swift-and-sleep-deprevation	Swift and sleep depravation		20150629
-advanced	http://peterwitham.com/xcode/video-using-xcode-7-storyboard-referencing	Using Xcode 7 Storyboard Referencing	video;storyboard	20150629
+advanced	http://peterwitham.com/xcode/video-using-xcode-7-storyboard-referencing	Using Xcode 7 Storyboard Referencing	video:storyboard	20150629
 advanced	http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2	Swift Exceptions are Swifty: Part 2	exceptions	20150629
 advanced	http://www.extelligentcocoa.org/gameplaykit-randomness	GameplayKit: Randomness	GameplayKit:random	20150630
 advanced	http://sketchytech.blogspot.com/2015/06/similarly-different-join-reduce-and.html	Similarly different: join(), reduce() and flatMap() in Swift 2	functional:flatMap:reduce	20150630
@@ -2454,6 +2454,11 @@ advanced	http://littlebitesofcocoa.com/157	little bites of cocoa: #157		20151229
 advanced	http://littlebitesofcocoa.com/158	little bites of cocoa: #158: Better UIPageViewControllers with Pages	UIPageViewControllers	20151230
 advanced	http://littlebitesofcocoa.com/159	little bites of cocoa: #159: Swift Shortcuts		20151231
 advanced	http://littlebitesofcocoa.com/160	little bites of cocoa: #160: In-App Notifications with Whisper	InAppPurchase	20160101
+advanced	http://littlebitesofcocoa.com/161	little bites of cocoa: #161: UITableView vs. UICollectionView	UITableView:UICollectionView	20160104
+advanced	http://littlebitesofcocoa.com/162	little bites of cocoa: #162: Reacting with RxSwift		20160105
+#advanced	http://littlebitesofcocoa.com/163	little bites of cocoa: 		20160106
+#advanced	http://littlebitesofcocoa.com/164	little bites of cocoa: 		20160107
+#advanced	http://littlebitesofcocoa.com/165	little bites of cocoa: 		20160108
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2712,7 +2717,7 @@ advanced	http://www.learncoredata.com/icloud-key-value-store	Setting Up and Usin
 advanced	http://jamesonquave.com/blog/adding-ibinspectable-to-a-superclass-in-swift	Adding IBInspectable to a superclass in Swift	IBInspectable	20151230
 advanced	http://www.thomashanning.com/xcode-groups-folder-references	Xcode: Groups And Folder References	xcode	20151230
 advanced	http://flexmonkey.blogspot.com/2015/12/filterpedia-core-image-filter-explorer.html	Filterpedia: Core Image Filter Explorer		20151231
-advanced	http://realm.io/news/tmi-scrollview-for-keyboards	TMI #5: Scrollview for Keyboards in iOS	video	20151231
+advanced	http://realm.io/news/tmi-scrollview-for-keyboards	TMI #5: Scrollview for Keyboards in iOS	video:keyboard	20151231
 advanced	http://swiftandpainless.com/utilize-the-responder-chain-for-target-action	Utilize The Responder Chain For Target-Action		20160101
 advanced	http://ericasadun.com/2016/01/01/another-take-on-guard	Another take on guard	guard	20160101
 advanced	http://www.mokacoding.com/blog/double-slash-xcconfig	How to use a double slash in xcconfig files	xcode	20160101
@@ -2745,3 +2750,10 @@ advanced	http://ericasadun.com/2016/01/04/sorting-and-sharing-playground-pages	S
 advanced	http://github.com/DianQK/TransitionTreasury	Easier way to push your viewController	UIViewController	20010101
 advanced	http://youtu.be/-BeQeKVbNJQ	How To Limit Characters in a UITextField w/ Character Counter	video:UITextfield	20151230
 advanced	http://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963	App Development: Teaching Swift	video	20151230
+advanced	http://ericasadun.com/2016/01/04/and-then-there-was-none-when-to-nil-and-when-to-not	And then there was .None: when to nil and when to not		20160104
+advanced	http://www.raywenderlich.com/121834/apple-pencil-tutorial	Apple Pencil Tutorial: Getting Started	Pencil	20160105
+libs	http://github.com/josejuanqm/Ody	Random image generator		20010101
+libs	http://github.com/samhann/Every.swift	A swift wrapper for NSTimer	NSTimer	20010101
+advanced	http://medium.com/@samvlu/100-days-of-swift-736d45a19b63	100 Days of Swift		20160104
+advanced	http://sketchytech.blogspot.com/2016/01/back-to-uistackview-tale-of-incredible.html	Back to the UIStackView: The tale of the incredible shrinking UIButton and how it grew again (Xcode 7.2, iOS 9)	UIStackView	20160105
+advanced	http://ericasadun.com/2016/01/05/swift-development-realities	Swift development realities		20160105

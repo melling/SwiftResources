@@ -10,6 +10,8 @@
 
 import Foundation
 
+var allTags:[String:Int] = [:]
+
 let groupNumbers = [
     "sites": 1,
     "beginner" : 2,
@@ -74,9 +76,17 @@ func readLines(filePath: String) -> [String] {
 
 func writeGoVar(groupNum: Int, url: String, name: String,
     source: String, githubName:String, tags: String, date: Int) {
-        
+        var allTagStr = ""
+
         let lowerTitle = name.lowercaseString
-        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", \"\(tags)\",\(date) },")
+        let tagList = tags.componentsSeparatedByString(":")
+        for t in tagList {
+            if t != "" {
+
+                allTagStr += "\"\(t)\","
+            }
+      }
+        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)},\(date) },")
 }
 
 func deriveSource(url: String) -> (String, String) {
@@ -149,6 +159,29 @@ for line in lines {
     i++
 }
 
+func printTagsArray() {
+    
+    let names = allTags.keys.sort( { $0.lowercaseString < $1.lowercaseString } )
+    
+    let varName = "var tagNameList = []string{"
+    
+    print("\(varName)")
+    for name in names {
+        print("\"\(name)\",", terminator:" ")
+    }
+    print("}")
+    
+}
+
+func printTagCountVar() {
+    print("var tagCountDict = map[string]int{")
+    for (key, value) in allTags.sort({ $0.0.lowercaseString < $1.0.lowercaseString }) {
+        //    let count = allTags[t]
+        print("\"\(key)\": \(value),")
+    }
+    print("}")
+}
+
 database.sortInPlace({ (rec1, rec2) -> Bool in
     if rec1.groupNum < rec2.groupNum {
         return true
@@ -172,15 +205,24 @@ database.sortInPlace({ (rec1, rec2) -> Bool in
 print("package webserver\n")
 print(" var urlList = []SwiftRec{")
 
+
 for row in database {
+
+    let tagList = row.tags.componentsSeparatedByString(":")
+    for tag in tagList {
+        if tag != "" {
+            if let x = allTags[tag] {
+                allTags[tag] = x + 1
+            } else {
+                allTags[tag] = 1
+            }
+        }
+    }
     
     writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags, date:row.date)
 }
 print("}")
 
-//for fileName in Process.arguments {
-//    cat(fileName)
-
-//}
-
+printTagsArray()
+printTagCountVar()
 
