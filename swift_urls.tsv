@@ -2456,9 +2456,9 @@ advanced	http://littlebitesofcocoa.com/159	little bites of cocoa: #159: Swift Sh
 advanced	http://littlebitesofcocoa.com/160	little bites of cocoa: #160: In-App Notifications with Whisper	InAppPurchase	20160101
 advanced	http://littlebitesofcocoa.com/161	little bites of cocoa: #161: UITableView vs. UICollectionView	UITableView:UICollectionView	20160104
 advanced	http://littlebitesofcocoa.com/162	little bites of cocoa: #162: Reacting with RxSwift		20160105
-#advanced	http://littlebitesofcocoa.com/163	little bites of cocoa: 		20160106
-#advanced	http://littlebitesofcocoa.com/164	little bites of cocoa: 		20160107
-#advanced	http://littlebitesofcocoa.com/165	little bites of cocoa: 		20160108
+advanced	http://littlebitesofcocoa.com/163	little bites of cocoa: #163: Creating Observables with RxSwift		20160106
+advanced	http://littlebitesofcocoa.com/164	little bites of cocoa: #164: Swift Tricks		20160107
+advanced	http://littlebitesofcocoa.com/165	little bites of cocoa: #165: Declarative Table Views with Shoyu		20160108
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2757,3 +2757,42 @@ libs	http://github.com/samhann/Every.swift	A swift wrapper for NSTimer	NSTimer	2
 advanced	http://medium.com/@samvlu/100-days-of-swift-736d45a19b63	100 Days of Swift		20160104
 advanced	http://sketchytech.blogspot.com/2016/01/back-to-uistackview-tale-of-incredible.html	Back to the UIStackView: The tale of the incredible shrinking UIButton and how it grew again (Xcode 7.2, iOS 9)	UIStackView	20160105
 advanced	http://ericasadun.com/2016/01/05/swift-development-realities	Swift development realities		20160105
+advanced	http://code.tutsplus.com/tutorials/how-to-use-generics-in-swift--cms-24919	How to Use Generics in Swift	generics	20160106
+advanced	http://alisoftware.github.io/swift/generics/2016/01/06/generic-tableviewcells	Using Generics to improve TableView cells	generics:UITableViewCell	20160106
+advanced	http://ashishkakkad.com/2016/01/work-with-core-data-in-swift-language	Work with Core Data in Swift Language	CoreData	20160106
+advanced	http://ios-blog.co.uk/tutorials/swift/core-data-p2	Swift 2 Core Data Tutorial – Part 2	CoreData	20160106
+advanced	http://ericasadun.com/2016/01/06/the-swift-evolution-proposal-se-0009-rejection	The Swift Evolution proposal SE-0009 rejection		20160106
+advanced	http://robots.thoughtbot.com/creating-your-first-ios-framework	Creating your first iOS Framework	framework	20160107
+advanced	http://ios-blog.co.uk/tutorials/swift/contacts-framework-p1	Swift 2 Contacts Framework Tutorial – Part 1	Contacts	20160107
+advanced	http://realm.io/news/jack-nutting-search-api-ios	Integrating with iOS System Search	video:CoreSpotlight	20160107
+advanced	http://www.raywenderlich.com/115960/swift-tutorial-introduction-to-generics	Swift Tutorial: Introduction to Generics	generics	20160107
+advanced	http://christiantietze.de/posts/2016/01/iramdisk-speed-up-compilation	iRamDisk May Speed Up Your Xcode Compilation Times	xcode	20160107
+advanced	http://www.mokacoding.com/blog/prevent-unit-tests-from-loading-app-delegate-in-swift	Prevent Unit Tests from Loading AppDelegate in Swift	testing	20160107
+advanced	http://peterwitham.com/swift/how-to-install-swift-on-ubuntu-linux-15-10	How to install Swift on Ubuntu Linux 15.10	Linux:video	20160108
+advanced	http://www.codementor.io/swift/tutorial/ios-tutorial-3dtouch-features-api-reference	iOS9 3DTouch Tutorial: Introduction	3dTouch	20160108
+advanced	http://www.andrewcbancroft.com/2016/01/08/swift-framework-woes-unresolved-identifier-no-member	Swift Framework Woes – Unresolved Identifier? No Member?	framework	20160108
+libs	http://github.com/hyperoslo/Sugar	Sugar is a sweetener for your Cocoa implementations		20010101
+advanced	http://github.com/supermarin/xcpretty	Flexible and fast xcodebuild formatter	xcode	20010101
+advanced	http://helpmecodeswift.com/basic-functions/setting-backgrounds-uiview	Setting up backgrounds for UIView		20150114
+advanced	http://helpmecodeswift.com/advanced-functions/generating-uibuttons-loop	Generating UIButtons from a loop	UIButton	20150128
+advanced	http://helpmecodeswift.com/sprite-kit/creating-hud-sprite-kit-game	Creating a HUD for your Sprite Kit Game	SpriteKit	20150213
+advanced	http://helpmecodeswift.com/advanced-functions/generating-uibuttons-from-a-loop-part-2	Generating UIButtons from a loop, part 2	UIButton	20150722
+advanced	http://helpmecodeswift.com/swift-2-0/swift-2-0-get-file-in-local-directory	Get file in local Directory	file	20150914
+advanced	http://helpmecodeswift.com/advanced-functions/saving-and-loading-text-in-swift-2-0	Saving and Loading Text in Swift		20150922
+advanced	http://helpmecodeswift.com/sprite-kit/spritekit-game-from-scratch	SpriteKit Game From Scratch, Swift 2.0, part 1	SpriteKit	20151118
+advanced	http://helpmecodeswift.com/sprite-kit/spritekit-gameift-2-0-part-2	SpriteKit Game From Scratch, Swift 2.0, part 2	SpriteKit	20151124
+advanced	http://helpmecodeswift.com/sprite-kit/spritekit-game-from-scratch-swift-2-0-part-3	SpriteKit Game From Scratch, Swift 2.0, part 3	SpriteKit	20151230
+advanced	http://helpmecodeswift.com/sprite-kit/spritekit-game-from-scratch-swift-2-0-part-4	SpriteKit Game From Scratch, Swift 2.0, part 4	SpriteKit	20160107
+advanced	http://andybargh.com/2016/01/07/swift-operators	Precedence, Associativity and the Swift Operators		20160107
+advanced	http://cpbotha.net/2016/01/07/closure-expressions-in-swift	Closure expressions in Swift	closure	20160107
+libs	http://github.com/jpedrosa/sua/blob/master/docs/ServerSocket.md		networking	20010101
+libs	http://github.com/samhann/Loader.swift	Add a facebook news feed style animation for your placeholder views		20010101
+advanced	http://holko.pl/2016/01/05/typed-table-view-controller	Typed, yet Flexible Table View Controller	UITableView	20160105
+advanced	http://medium.com/@zntfdr/parsing-json-objects-in-swift-2-c402cb90ac00	Parsing JSON Objects in Swift 2	json	20160106
+advanced	http://try.zats.io/breakpoints-for-uiviewcontroller-presentation-warnings	Breakpoints for UIViewController presentation warnings	xcode:testing	20160105
+advanced	http://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends	10 Swift One Liners To Impress Your Friends		20160106
+advanced	http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers	Improve your iOS Architecture with FlowControllers		20160105
+advanced	http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers	Enum-Driven View Controllers	enum	20160103
+libs	http://github.com/morizotter/SwiftRefresher	SwiftRefresher is one of the alternatives of UIRefreshControl		20010101
+advanced	http://blog.krzyzanowskim.com/2016/01/06/retry-in-the-wild	Retry! in the wild		20160106
+advanced	http://codeplease.io/2016/01/08/why-frp	Why FRP?		20160108
