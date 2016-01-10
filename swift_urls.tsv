@@ -2796,3 +2796,14 @@ advanced	http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers	Enum-
 libs	http://github.com/morizotter/SwiftRefresher	SwiftRefresher is one of the alternatives of UIRefreshControl		20010101
 advanced	http://blog.krzyzanowskim.com/2016/01/06/retry-in-the-wild	Retry! in the wild		20160106
 advanced	http://codeplease.io/2016/01/08/why-frp	Why FRP?		20160108
+advanced	http://swiftandpainless.com/an-easy-way-to-stub-nsurlsession	An Easy Way To Stub NSURLSession	NSURLSession:NSUrl	20160109
+advanced	http://ios-blog.co.uk/tutorials/swift/contacts-framework-p2	Swift 2 Contacts Framework Tutorial – Part 2	Contacts	20160109
+advanced	http://useyourloaf.com/blog/using-nullable-to-annotate-objective-c.html	Using Nullable to Annotate Objective-C Code		20160110
+advanced	http://flexmonkey.blogspot.com/2016/01/creating-slide-show-app-with-core-image.html	Creating a Slide Show App with Core Image Transitions	CoreImage	20160110
+advanced	http://www.splinter.com.au/2015/06/21/swift-keychain-wrapper	Swift Keychain wrapper	Keychain	20150620
+advanced	http://www.splinter.com.au/2015/07/23/swift-kvo-alternative	Swift KVO alternative		20150622
+advanced	http://www.splinter.com.au/2015/09/13/dont-be-slack	Don't be slack		20150912
+advanced	http://www.splinter.com.au/2015/09/24/swift-image-cache	Swift Image Cache		20150923
+advanced	http://www.splinter.com.au/2015/10/27/swift-education-screencasts	Swift Education Screencasts	video	20151026
+advanced	http://www.splinter.com.au/2015/11/08/generating-heightmap-terrain-with-swift	Generating heightmap terrain with Swift		20151107
+advanced	http://www.splinter.com.au/2015/12/30/status-bar-colours	Status bar colours: Everything there is to know		20151229
