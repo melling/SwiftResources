@@ -423,9 +423,9 @@ advanced	http://medium.com/swift-programming/secret-of-swift-performance-a8ee860
 advanced	http://medium.com/swift-programming/secret-of-swift-performance-fcc5d2a437a8	Secret of Swift Performance: Part 2		20141122
 advanced	http://shrikar.com/blog/2014/12/31/ios-app-design-using-xcode-6-and-interface-builder-yik-yak-clone-part-1	iOS App Design Using Xcode 6 and Interface Builder - Yik Yak Clone Part 1		20141231
 advanced	http://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift	User Accounts on iOS with Ruby on Rails and Swift		20150101
-advanced	http://ios-blog.co.uk/tutorials/connect-your-swift-application-to-parse-com	Connect your Swift Application to Parse.com		20141122
-advanced	http://ios-blog.co.uk/tutorials/swift-create-user-sign-up-based-app-with-parse-com-using-pfuser	Swift: Create user sign up based app with Parse.com using PFUser		20141123
-advanced	http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith	Swift: Create a login app with Parse.com PFUser & Keychain Locksmith		20141129
+advanced	http://ios-blog.co.uk/tutorials/connect-your-swift-application-to-parse-com	Connect your Swift Application to Parse.com	ParseSDK	20141122
+advanced	http://ios-blog.co.uk/tutorials/swift-create-user-sign-up-based-app-with-parse-com-using-pfuser	Swift: Create user sign up based app with Parse.com using PFUser	ParseSDK	20141123
+advanced	http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith	Swift: Create a login app with Parse.com PFUser & Keychain Locksmith	ParseSDK	20141129
 advanced	http://ios-blog.co.uk/swift-tutorials/swift-enumerations	Swift: Enumerations	enum	20141205
 advanced	http://ios-blog.co.uk/tutorials/swift-how-to-send-a-post-request-to-a-php-script	Swift: How to send a POST Request to a PHP Script		20141208
 advanced	http://ios-blog.co.uk/swift-tutorials/swift-nstimer-tutorial-lets-create-a-counter-application	Swift NSTimer Tutorial – Lets create a counter application	NSTimer	20141215
@@ -438,9 +438,9 @@ advanced	http://medium.com/@glenyi/coco-love-f6cd5a30f63e	CoCo Love: Building th
 advanced	http://www.javiersoto.me/post/106875422394	Functor and Monad in Swift	functional	20150102
 beginner	http://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675	Swiftris: Tetris Clone in Swift		20010101
 advanced	http://ios-blog.co.uk/tutorials/quick-tip-implementing-uialertview-in-swift	Quick tip: Implementing UIAlertView in Swift		20140927
-advanced	http://www.shrikar.com/blog/2015/01/03/integrate-parse-with-swift-in-ios8-using-cocoapods	Integrate Parse With Swift in iOS8 Using CocoaPods	CocoaPods	20150103
-advanced	http://www.shrikar.com/blog/2015/01/03/parse-backed-uitableview-in-ios-8-build-yik-yak-clone-part-2	Parse Backed UITableView in iOS 8 : Build Yik Yak Clone Part 2	UITableView	20150103
-advanced	http://www.shrikar.com/blog/2015/01/08/using-uitableview-and-footerview-to-implement-commenting-system-building-yik-yak-clone-part-3	Using UITableView and FooterView to Implement Commenting System: Building Yik Yak Clone Part 3	UITableView	20150108
+advanced	http://www.shrikar.com/blog/2015/01/03/integrate-parse-with-swift-in-ios8-using-cocoapods	Integrate Parse With Swift in iOS8 Using CocoaPods	CocoaPods:ParseSDK	20150103
+advanced	http://www.shrikar.com/blog/2015/01/03/parse-backed-uitableview-in-ios-8-build-yik-yak-clone-part-2	Parse Backed UITableView in iOS 8 : Build Yik Yak Clone Part 2	UITableView:ParseSDK	20150103
+advanced	http://www.shrikar.com/blog/2015/01/08/using-uitableview-and-footerview-to-implement-commenting-system-building-yik-yak-clone-part-3	Using UITableView and FooterView to Implement Commenting System: Building Yik Yak Clone Part 3	UITableView:ParseSDK	20150108
 advanced	http://flexmonkey.blogspot.com/2015/01/phimagemanager-core-data-and-twitter.html	PHImageManager, Core Data and Twitter Integration in Swift	CoreData	20150101
 advanced	http://flexmonkey.blogspot.com/2015/01/creating-phimagemanager-browserpicker.html	Creating a PHImageManager Browser/Picker in Swift		20150101
 advanced	http://ios-blog.co.uk/tutorials/how-to-create-an-objective-c-bridging-header	How to create an Objective-C Bridging header		20150108
@@ -655,8 +655,8 @@ advanced	http://www.swift-studies.com/blog/2015/1/9/naming-swift-tuples	On Typed
 advanced	http://www.andrewcbancroft.com/2015/02/05/nsnotificationcenter-vs-delegation-analysis	NSNotificationCenter vs Delegation – An Analysis		20150205
 advanced	http://www.scottlogic.com/blog/2015/02/05/swift-events.html	Implementing Events in Swift 		20150205
 advanced	http://robots.thoughtbot.com/asynchronous-nsprogress	NSProgress with Asynchronous Tasks	NSProgess	20150206
-advanced	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-1-of-3-f50842aa95a	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 1 of 3)		20150206
-advanced	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-2-of-3-31a17d1c6581	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 2 of 3)		20150206
+advanced	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-1-of-3-f50842aa95a	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 1 of 3)	ParseSDK	20150206
+advanced	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-2-of-3-31a17d1c6581	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 2 of 3)	ParseSDK	20150206
 advanced	http://shrikar.com/blog/2015/02/08/core-data-swift-tutorial	Core Data Swift Tutorial		20150208
 advanced	http://www.ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift	Add Search to Table View Tutorial in iOS8 with Swift		20150209
 advanced	http://ashfurrow.com/blog/protocols-and-swift	Protocols and Swift	protocol	20150201
@@ -702,14 +702,14 @@ advanced	http://makeapppie.com/2015/02/04/swift-swift-tutorials-passing-data-in-
 advanced	http://flexmonkey.blogspot.com/2015/02/swift-12-lets-talk-about-sets-baby.html	Swift 1.2: Let's Talk About Sets, Baby		20150210
 advanced	http://www.scottlogic.com/blog/2015/02/11/swift-kvo-alternatives.html	Exploring KVO alternatives with Swift 		20150211
 advanced	http://www.raywenderlich.com/95181/whats-new-in-swift-1-2	What’s New in Swift 1.2		20150211
-advanced	http://medium.com/swift-programming/ios-swift-parse-com-part-3-sign-up-sign-in-sign-out-security-349adc94ef0e	iOS + Swift +  parse.com -  Part 3 (Sign Up, Sign In, Sign Out + Security)		20150211
+advanced	http://medium.com/swift-programming/ios-swift-parse-com-part-3-sign-up-sign-in-sign-out-security-349adc94ef0e	iOS + Swift +  parse.com -  Part 3 (Sign Up, Sign In, Sign Out + Security)	ParseSDK	20150211
 advanced	http://airspeedvelocity.net/2015/02/11/changes-to-the-swift-standard-library-in-1-2-beta-1	Changes to the Swift Standard Library in 1.2 beta 1		20150211
 advanced	http://www.codingexplorer.com/multiple-optional-bindings-swift-1-2	Multiple Optional Bindings in Swift 1.2		20150211
 advanced	http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2	Modern Core Graphics with Swift: Part 2: Gradients and Contexts		20150211
 advanced	http://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3	Modern Core Graphics with Swift: Part 3: Patterns and Playgrounds		20150212
 advanced	http://gilesvangruisen.com/uicollectionviewflowlayout-animation-timing	UICollectionViewFlowLayout animation timing		20150211
 advanced	http://www.andrewcbancroft.com/2015/02/12/custom-uitableviewcell-text-input-swift	Custom UITableViewCell for Text Input in Swift	UITableView	20150212
-advanced	http://medium.com/swift-programming/how-to-display-parse-com-images-in-a-table-view-ios-swift-parse-com-f73dd68adb5e	How to display parse.com images in a table view. iOS, Swift, Parse.com	UITableView	20150213
+advanced	http://medium.com/swift-programming/how-to-display-parse-com-images-in-a-table-view-ios-swift-parse-com-f73dd68adb5e	How to display parse.com images in a table view. iOS, Swift, Parse.com	UITableView:ParseSDK	20150213
 advanced	http://ios-blog.co.uk/featured-posts/introduction-to-swift-programming-for-beginners	Introduction to Swift Programming for beginners		20150214
 advanced	http://shrikar.com/blog/2015/02/14/core-data-stack-save-and-fetch-entities	Core Data Stack: Save and Fetch Entities	CoreData	20150214
 advanced	http://www.figure.ink/blog/2015/2/14/custom-switch-matchers-in-swift	Custom Switch Matchers		20150214
@@ -794,7 +794,7 @@ advanced	http://makeapppie.com/2015/03/10/swift-swift-basic-core-graphics-for-th
 advanced	http://flexmonkey.blogspot.com/2015/03/physics-based-computer-generated-music.html	Physics Based Computer Generated Music With AudioKit and SpriteKit	SpriteKit:AudioKit	20150310
 advanced	http://www.andrewcbancroft.com/2015/03/10/an-almost-tdd-workflow-in-swift	An (Almost) TDD Workflow in Swift		20150310
 advanced	http://www.raywenderlich.com/87899/make-simple-drawing-app-uikit-swift	How To Make A Simple Drawing App with UIKit and Swift		20150311
-advanced	http://medium.com/swift-programming/how-to-search-a-parse-com-table-view-2694ec330523	How to search a parse.com table view		20150311
+advanced	http://medium.com/swift-programming/how-to-search-a-parse-com-table-view-2694ec330523	How to search a parse.com table view	ParseSDK	20150311
 advanced	http://medium.com/swift-programming/reactive-swift-3b6050375534	Reactive Swift	Reactive	20150311
 advanced	http://developer.apple.com/swift/blog/?id=25	Nullability and Objective-C		20150312
 advanced	http://makeapppie.com/2015/03/12/swift-swift-split-view-controllers-round-two-part-1-the-master-detail-template	Swift Swift: Split View Controllers (Round Two) Part 1: The Master-Detail template		20150312
@@ -852,7 +852,7 @@ advanced	http://youtu.be/dfSu-qvn0aY	AzamSharp: Learning iOS Development Part 79
 advanced	http://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g	Functional Swift	video:functional	20141201
 advanced	http://engineering.circle.com/swift-compiler-performance-tips-and-tricks	Swift compiler performance tips and tricks		20150106
 advanced	http://nshipster.com/quick-look-debugging	Quick Look Debugging	xcode	20150330
-advanced	http://shrikar.com/blog/2015/03/31/parse-search-in-ios-8-with-swift	Parse Search in iOS 8 With Swift		20150331
+advanced	http://shrikar.com/blog/2015/03/31/parse-search-in-ios-8-with-swift	Parse Search in iOS 8 With Swift	ParseSDK	20150331
 advanced	http://www.andrewcbancroft.com/2015/04/01/enums-instead-of-booleans-an-example-implementation	Enums Instead of Booleans – An Example Implementation	enum	20150401
 advanced	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/31/spritekit-swift-part-2-adding-the-player.html	SpriteKit and Swift Part 2: Adding the Player	SpriteKit	20150331
 commercial	http://www.hackingwithswift.com	Hacking with Swift		20010101
@@ -992,7 +992,7 @@ advanced	http://ericasadun.com/2015/05/15/swift-confessional	Swift: Confessional
 advanced	http://sketchytech.blogspot.com/2015/05/swift-and-nsscanner.html	Swift and NSScanner: Coping with Cocoa	NSScanner	20150517
 advanced	http://ericasadun.com/2015/05/17/swift-weekend-hack-using-social-to-upload-images-from-playgrounds	Swift Weekend Hack: Using social to upload images from playgrounds		20150517
 advanced	http://ericasadun.com/2015/05/17/swift-thingies	Swift thingies		20150517
-advanced	http://medium.com/swift-programming/ios-swift-parse-com-how-to-implement-email-verification-of-users-88248ab7343f	iOS + Swift + parse.com — How to implement email verification of users		20150517
+advanced	http://medium.com/swift-programming/ios-swift-parse-com-how-to-implement-email-verification-of-users-88248ab7343f	iOS + Swift + parse.com — How to implement email verification of users	ParseSDK	20150517
 advanced	http://www.ioscreator.com/tutorials/indexed-table-view-tutorial-ios8-swift	Indexed Table View Tutorial in iOS8 with Swift	UITableView	20150518
 libs	http://github.com/Draveness/DKChainableAnimationKit	Easy to read and write chainable animations in Swift	animation	20010101
 advanced	http://whackylabs.com/rants/?p=1233	Subclassing UILabel in 2015	UILabel	20150516
@@ -1096,7 +1096,7 @@ advanced	http://ericasadun.com/2015/06/11/swift-i-upgrade-my-hate-level-for-avai
 advanced	http://flexmonkey.blogspot.com/2015/06/a-first-look-at-uistackview-in-swift-20.html	A First Look at UIStackView in Swift 2.0	UIStackView	20150611
 advanced	http://ericasadun.com/2015/06/11/swift-wrapping-up-the-day-with-my-favorite-construct-du-jour	Swift: Wrapping up the day with my favorite construct du jour		20150611
 advanced	http://sketchytech.blogspot.com/2015/06/seven-basics-of-functional-programming.html	Seven Basics of Functional Programming in Swift	functional	20150612
-advanced	http://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends	Parse Tutorial: Getting Started with Web Backends		20150612
+advanced	http://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends	Parse Tutorial: Getting Started with Web Backends	ParseSDK	20150612
 advanced	http://www.raywenderlich.com/108522/whats-new-in-swift-2	What’s New in Swift 2	SwiftLang	20150612
 advanced	http://peterwitham.com/swift/basics/checking-api-availability-with-swift-2-available	Checking API availability with Swift 2 #available	SwiftLang	20150612
 advanced	http://sketchytech.blogspot.com/2015/06/living-in-post-oop-world-protocols-rule.html	Living in a Post-OOP world: Protocol Extensions in Swift 2		20150612
@@ -1490,7 +1490,7 @@ advanced	http://ericasadun.com/2015/09/02/good-errors-swiftlang	Good Errors #swi
 advanced	http://medium.com/swift-programming/how-to-prevent-using-weak-self-inside-swift-closure-2c113b8b2651	How to prevent using weak self inside swift closure	closure	20150903
 advanced	http://www.raywenderlich.com/108766/uiappearance-tutorial	UIAppearance Tutorial: Getting Started	UIAppearance	20150903
 advanced	http://ericasadun.com/2015/09/03/alternatives-to-try-swiftlang	Alternatives to try? #swiftlang	exceptions	20150903
-advanced	http://medium.com/swift-programming/parse-native-uicollectionview-uploading-images-part-2-of-2-ed870ab0a47b	Parse + Native UICollectionView + Uploading images — Part 2 of 2	UICollectionView	20150904
+advanced	http://medium.com/swift-programming/parse-native-uicollectionview-uploading-images-part-2-of-2-ed870ab0a47b	Parse + Native UICollectionView + Uploading images — Part 2 of 2	UICollectionView:ParseSDK	20150904
 advanced	http://www.andrewcbancroft.com/2015/09/04/testability-tip-for-swift-developers-parameterize-and-push	Testability Tip for Swift Developers – Parameterize and Push	testing	20150904
 advanced	http://h4labs.wordpress.com/2015/04/29/curling-a-uiview-updown-with-swift/	Curling a UIView Up/Down with Swift	AutoLayout	20150429
 advanced	http://littlebitesofcocoa.com/76	little bites of cocoa: #76: Background Fetch		20150907
@@ -1853,7 +1853,7 @@ advanced	http://swiftyos.wordpress.com/2015/07/17/password-lock-watchkit-apple-w
 beginner	http://swiftyos.wordpress.com/2015/07/17/hello-world-first-swift-ios-app	Hello World – First Swift iOS App	beginner	20150717
 advanced	http://blog.xmartlabs.com/2015/09/29/Introducing-Eureka-iOS-form-library-written-in-pure-Swift	Introducing Eureka! - Elegant iOS forms in Pure Swift 2		20150929
 advanced	http://www.ioscreator.com/tutorials/disable-apple-transport-security-tutorial	Disable Apple Transport Security Tutorial	networking	20150930
-libs	http://github.com/jathu/Sweetercolor	A color extension library	color	20010101
+libs	http://github.com/jathu/sweetercolor	A color extension library	UIColor:color	20010101
 libs	http://github.com/wojteklukaszuk/Watchdog	Class for logging excessive blocking on the main thread	logging	20010101
 libs	http://github.com/2015HuntMJ/UISearchController	UISearchController Example	UISearchController	20010101
 libs	http://github.com/mnem/SwiftA9ChipSource	A Swift version of http://github.com/WDUK/A9ChipSource		20010101
@@ -1934,7 +1934,7 @@ libs	http://github.com/krzyzanowskim/CryptoSwift	Crypto related functions and he
 libs	http://github.com/liufan321/SwiftQRCode	Simple QRCode detector and generator		20010101
 libs	http://github.com/lsolniczek/string-in-chain	convenient and fast approach to create AttributedString	NSAttributedString	20010101
 libs	http://github.com/mperovic/ISO8601Formatter	NSFormatter subclass for ISO8601	date	20010101
-libs	http://github.com/nschum/SwiftCGRectExtensions	A collection of CGRect, CGPoint and CGSize convenience functions		20010101
+libs	http://github.com/nschum/SwiftCGRectExtensions	A collection of CGRect, CGPoint and CGSize convenience functions	CGRect	20010101
 libs	http://github.com/oisdk/SwiftSequence	A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things	Sequence	20010101
 libs	http://github.com/SSA111/SSASwiftReachability	A Swift Library To Track Network Reachability Changes		20010101
 libs	http://github.com/tidwall/Safe	Modern Concurrency and Synchronization for Swift	concurrency	20010101
@@ -1976,7 +1976,7 @@ advanced	http://www.stringcode.co.uk/rendering-version-number-into-beta-app-icon
 advanced	http://flexmonkey.blogspot.com/2015/10/deeppressgesturerecognizer-3d-touch.html	DeepPressGestureRecognizer - A 3D Touch Custom Gesture Recogniser	3dTouch	20151003
 advanced	http://robnapier.net/rncryptor-v4	RNCryptor V4	encryption	20151004
 libs	http://github.com/Adlai-Holler/ArrayDiff	A Swift utility to make updating table views/collection views trivially easy and reliable	Array	20010101
-libs	http://github.com/romainmenke/CGRectExtensionsOSX	An Ode to CGRect	max	20010101
+libs	http://github.com/romainmenke/CGRectExtensionsOSX	An Ode to CGRect	CGRect	20010101
 libs	http://github.com/swiftcodex/Swift-Radio-Pro	Full Professional Radio Station App, created w/ Swift 2.0		20010101
 advanced	http://bayphillips.com/2015/10/03/protocol-extensions-swift-2-0-draggable-uiviews	Protocol Extensions in Swift 2.0 – Draggable UIViews	UIView	20151003
 advanced	http://www.the-nerd.be/2015/10/01/authentication-with-touchid	TouchID authentication tutorial for Swift	TouchId	20151001
@@ -2202,7 +2202,7 @@ advanced	http://www.codementor.io/swift/tutorial/two-basic-ways-to-populate-your
 advanced	http://www.codementor.io/swift/tutorial/persisting-data-with-nsuserdefaults-and-complex-objects	Making a Bookkeeping App with NSUserDefaults and Complex Objects		20150428
 advanced	http://www.codementor.io/swift/tutorial/protocol-extensions-swift-ios	Swift Tips & Tricks: Protocol Extensions in Swift	protocol	20150817
 advanced	http://www.codementor.io/swift/tutorial/using-functions-as-parameters-in-ios-swift-tips	Swift Tips & Tricks: Using Functions as Parameters		20150819
-advanced	http://www.codementor.io/swift/tutorial/customize-parse-twitter-facebook-signup-login-view-animations	Parse Tutorial: Customizing Your Twitter/Facebook Signup/Login Views		20150908
+advanced	http://www.codementor.io/swift/tutorial/customize-parse-twitter-facebook-signup-login-view-animations	Parse Tutorial: Customizing Your Twitter/Facebook Signup/Login Views	ParseSDK	20150908
 advanced	http://alisoftware.github.io/swift/2015/10/17/lets-talk-about-monads	Let's talk about Monads	monad	20151017
 advanced	http://softwaredesign.jeffverkoeyen.com/getting-the-current-xcode-playground-pages-name	Get current Xcode playground page name	playground	20151017
 advanced	http://design.featherless.software/enumerating-tuple-values-swift	Enumerating tuple values	tuple	20151017
@@ -2320,8 +2320,8 @@ advanced	http://youtu.be/m7jiajCHFvc	Swift Radio Pro (iOS App) - Open Source Tem
 advanced	http://christiantietze.de/posts/2015/10/domain-driven-design-meaning	What It Means to Domain-Drive Your Design		20151031
 advanced	http://www.iosinsight.com/circular-uibutton-with-swift	Circular UIButton With Swift	UIButton	20150906
 advanced	http://www.iosinsight.com/how-to-easily-make-your-ios-app-icon	How To Easily Make Your iOS App Icon	design	20150915
-advanced	http://www.iosinsight.com/browsing-parse-local-datastore-ios	Browsing Parse Local Datastore for iOS		20150917
-advanced	http://www.iosinsight.com/case-study-core-data-parse-one-app	Case Study: Core Data, Parse MBaaS, and Parse Local Datastore In One App		20150926
+advanced	http://www.iosinsight.com/browsing-parse-local-datastore-ios	Browsing Parse Local Datastore for iOS	ParseSDK	20150917
+advanced	http://www.iosinsight.com/case-study-core-data-parse-one-app	Case Study: Core Data, Parse MBaaS, and Parse Local Datastore In One App	ParseSDK	20150926
 advanced	http://www.iosinsight.com/override-viewdidlayoutsubviews	When Should You Override viewDidLayoutSubviews?		20150929
 advanced	http://www.iosinsight.com/video-tutorial-move-view-for-keyboard	2 Minute Video Tutorial: Let Auto Layout and Constraints Move View for Keyboard	AutoLayout:video	20151001
 advanced	http://medium.com/the-traveled-ios-developers-guide/swift-option-set-d939d1228557	Swift + Option Set		20151031
@@ -2833,5 +2833,15 @@ advanced	http://ericasadun.com/2016/01/11/xcode-7-3-beta-introduces-fuzzy-code-c
 advanced	http://www.mokacoding.com/blog/testing-callbacks-in-swift-with-xctest	Testing callbacks in Swift with XCTest	testing	20160112
 advanced	http://ericasadun.com/2016/01/11/make-this-swift-er-coordinate-distances	Make this Swift-er: Coordinate distances		20160111
 advanced	http://ios-blog.co.uk/tutorials/swift/parse-json-deserialization	Swift 2 Parse JSON (Deserialization)	json	20160112
-advanced	http://sketchytech.blogspot.com/2016/01/swift-replace-range-of-values-in-array.html	Swift: Replace a range of values in an array (and do other groovy stuff too) the easy way (Xcode 7.2, Swift 2.1)		20160112
+advanced	http://sketchytech.blogspot.com/2016/01/swift-replace-range-of-values-in-array.html	Swift: Replace a range of values in an array (and do other groovy stuff too) the easy way (Xcode 7.2, Swift 2.1)	Array	20160112
 advanced	http://www.raywenderlich.com/117471/state-restoration-tutorial	State Restoration Tutorial: Getting Started		20160112
+libs	http://github.com/johnno1962/Refactorator	SourceKit Xcode Plugin that Refactors Swift	xcode:plugin	20010101
+libs	http://github.com/NSNotFound/blog.swift	A tiny server-side Swift blog app		20010101
+advanced	http://h4labs.wordpress.com/2016/01/11/isleapyear-in-swift	isLeapYear() in Swift	date	20160111
+advanced	http://medium.com/@maxsteinapps/define-uicolor-s-more-easily-in-swift-1f4f0cabdd4f	Define UIColor’s more easily in Swift	UIColor:color	20160111
+advanced	http://narf.pl/posts/lenses-in-swift	Lenses in Swift, or how to change parts of immutable objects	functional	20160112
+libs	http://oyvindkg.github.io/swiftydb	SwiftyDB	database	20010101
+advanced	http://ankit.im/swift/2016/01/12/swift-mysterious-builtin-module	Swift's mysterious Builtin module		20160112
+advanced	http://h4labs.wordpress.com/2016/01/12/swift-datefromint-and-intfromdate	Swift: dateFromInt() and intFromDate()	date	20160112
+advanced	http://ericasadun.com/2016/01/12/whats-up-in-swift-evolution	What’s up in Swift Evolution		20160112
+advanced	http://www.codementor.io/swift/tutorial/view-animations-ios-tutorial	Swift Beginner's Guide to View Animations	animation	20160112
