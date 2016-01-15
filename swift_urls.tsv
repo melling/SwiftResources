@@ -203,7 +203,7 @@ advanced	http://www.andrewcbancroft.com/2014/11/16/distinguishing-between-multip
 advanced	http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources	Swift Unit Testing Resources	testing	20141219
 advanced	http://www.andrewcbancroft.com/2014/12/22/swift-unit-testing-verifying-method-calls	Swift Unit Testing – Verifying Method Calls	testing	20141222
 advanced	http://www.appcoda.com/localization-tutorial-ios8	Working with Localization in iOS 8 and Xcode 6	localization	20141106
-advanced	http://www.appdesignvault.com/custom-transition-slide-out-navigation	How to Create A Slide-Out Menu Navigation In Swift	navigation:transitions	20141121
+advanced	http://www.appdesignvault.com/custom-transition-slide-out-navigation	How to Create A Slide-Out Menu Navigation In Swift	navigation:transitions:slide-out	20141121
 advanced	http://www.bignerdranch.com/blog/discover-swift-with-this-one-weird-rubyist	Discover Swift with this One Weird Rubyist	SwiftLang	20140812
 advanced	http://www.bignerdranch.com/blog/swift-access-control	Swift Access Control		20141211
 advanced	http://www.codingexplorer.com/generic-functions-in-swift	Generic Functions in Swift	generics	20140811
@@ -225,7 +225,6 @@ advanced	http://www.johnmullins.info/blog/2014/08/13/building-a-simple-kamakazee
 advanced	http://www.johnmullins.info/blog/2014/08/14/location-tracker-with-maps	How I Used Swift to Build a Map Based Location Tracker for iOS		20140813
 advanced	http://www.kornerstoane.com/2014/08/playing-with-swift-extensions	Playing with Swift Extensions		20140813
 advanced	http://www.makegameswith.us/gamernews/399/create-the-game-of-life-using-swift-and-spritekit	Game of Life	SpriteKit	20140701
-advanced	http://www.mav3r1ck.com/uilongpressgesturerecognizer	LongPressGestureRecognizer		20141206
 advanced	http://www.mikeash.com/pyblog/friday-qa-2014-06-20-interesting-swift-features.html	Interesting Swift Features		20140620
 advanced	http://www.nottombrown.com/blog/2014/08/14/swift-for-rubyists-optionals	Swift for Rubyists: Optionals		20140814
 advanced	http://www.pumpmybicep.com/2014/07/02/uitableview-deleting-moving-and-viewing-rows	UITableView: Deleting, Moving, and Viewing Rows	UITableView	20140702
@@ -265,7 +264,7 @@ advanced	http://www.raywenderlich.com/81103/introduction-google-maps-ios-sdk-swi
 advanced	http://www.raywenderlich.com/79764/custom-subscripting-swift-tutorial	Custom Subscripting in Swift Tutorial	subscript	20150409
 advanced	http://www.raywenderlich.com/82022/create-game-like-cut-the-rope-using-sprite-kit-swift	Create a Game Like Cut the Rope Using Sprite Kit and Swift	SpriteKit	20150409
 advanced	http://www.raywenderlich.com/85578/first-core-data-app-using-swift	Your First Core Data App Using Swift	CoreData	20151002
-advanced	http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift	How to Create Your Own Slide-Out Navigation Panel in Swift		20150922
+advanced	http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift	How to Create Your Own Slide-Out Navigation Panel in Swift	navigation:transitions:slide-out	20150922
 advanced	http://www.raywenderlich.com/83748/beginning-scene-kit-tutorial	Beginning Scene Kit Tutorial	SceneKit	20141008
 advanced	http://www.raywenderlich.com/80586/make-line-drawing-game-sprite-kit-swift	How to Make a Line Drawing Game with Sprite Kit and Swift	SpriteKit	20141006
 advanced	http://www.raywenderlich.com/80917/sprite-kit-inverse-kinematics-swift	Sprite Kit and Inverse Kinematics with Swift	SpriteKit	20150411
@@ -372,10 +371,8 @@ advanced	http://www.ioscreator.com/tutorials/segmented-control-tutorial-ios8-swi
 advanced	http://www.ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift	Display an Alert View in iOS8 with Swift		20140625
 advanced	http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift	Webview Tutorial in iOS8 with Swift		20140709
 advanced	http://www.ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift	UISwitch Tutorial in iOS8 with Swift		20140721
-advanced	http://www.mav3r1ck.com/uitapgesturerecognizer	UITapGestureRecognizer		20141220
 advanced	http://natashatherobot.com/unit-test-optionals-swift	How To Unit Test With Optionals In Swift	testing	20141225
 advanced	http://commandshift.co.uk/blog/2014/12/28/nice-web-services-swift-edition	Nice Web Services, Swift Edition		20141228
-advanced	http://www.mav3r1ck.com/clock	Swift Clock App		20141116
 advanced	http://airspeedvelocity.net/2014/09/24/which-function-does-swift-call-part-2-single-arguments	Which function does Swift call? Part 2: Single_Arguments		20140924
 advanced	http://airspeedvelocity.net/2014/10/07/which-function-does-swift-call-part-3-protocol-composition	Which function does Swift call? Part 3: Protocol_Composition		20141007
 advanced	http://airspeedvelocity.net/2014/10/26/which-function-does-swift-call-part-4-generics	Which function does Swift call? Part 4:_Generics		20141026
@@ -397,14 +394,6 @@ advanced	http://flexmonkey.blogspot.com/2014/10/swift-metal-1000-reaction-diffus
 advanced	http://flexmonkey.blogspot.com/2014/11/swift-and-core-data-saving-data-with.html	Swift and Core Data: Saving Data with Thumbnail Previews	CoreData	20141102
 advanced	http://flexmonkey.blogspot.com/2014/11/london-swift-dev-commnity-talk-whistle.html	London Swift Dev Community Talk: Whistle Stop Swift		20141111
 advanced	http://flexmonkey.blogspot.com/2014/11/updating-and-deleting-with-swift-and.html	Updating and Deleting with Swift and Core Data	CoreData	20141112
-advanced	http://www.mav3r1ck.com/pan-gesture-recognizer	Pan Gesture Recognizer	gesture	20140907
-advanced	http://www.mav3r1ck.com/spritekit	SpriteKit with Swift	SpriteKit	20140916
-advanced	http://www.mav3r1ck.com/arc4random	Arc4random	random	20140922
-advanced	http://www.mav3r1ck.com/epoch-converter	Epoch Converter		20141004
-advanced	http://www.mav3r1ck.com/user-location	User Location		20141011
-advanced	http://www.mav3r1ck.com/sounds-with-swift	Sounds with Swift	audio	20141026
-advanced	http://www.mav3r1ck.com/push-notifications-with-swift	Push notifications with Swift		20141122
-advanced	http://www.mav3r1ck.com/swipe-gesture-recognizers	Swipe gesture recognizers	gesture	20141202
 advanced	http://natashatherobot.com/swift-string-ranges-the-functional	Swift: Using String Ranges The Functional Way	functional	20141203
 advanced	http://natecook.com/blog/2014/08/set-type-follow-up	Set Type Follow-up	Set	20140825
 advanced	http://natecook.com/blog/2014/08/creating-a-set-type-in-swift	Creating a Set Type in Swift	Set	20140820
@@ -466,7 +455,6 @@ advanced	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App 
 advanced	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App Tutorial! Part 2	video	20150106
 advanced	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	video	20150110
 advanced	http://www.youtube.com/watch?v=eCGBHuMOW44	Swift Programming: 2048 App Tutorial! Part 4	video	20150127
-advanced	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	UIBezierPath	20150110
 advanced	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	AudioKit	20150111
 libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
 sites	http://swiftlang.eu	SwiftLang.eu		20010101
@@ -719,7 +707,6 @@ advanced	http://www.componentix.com/blog/35/not-so-swift-implementing-transducer
 libs	http://github.com/SwiftBond/Bond	Bond is a Swift binding framework		20010101
 advanced	http://shrikar.com/blog/2015/02/16/swift-ios-tutorial-uisearchbar-and-uisearchbardelegate	Swift iOS Tutorial: UISearchBar and UISearchBarDelegate		20150216
 beginner	http://makeapppie.com/2015/02/17/swift-swift-tutorials-introducing-table-views	Swift Swift Tutorials: Introducing Table Views		20150217
-beginner	http://www.mav3r1ck.com/struct-quiz	Creating a Study App in Swift		20150217
 advanced	http://blog.human-friendly.com/swift-1-dot-2-presentation-and-notes-swift-london-17th-feb	Swift 1.2 Presentation and Notes (Swift London 17th Feb)		20150217
 advanced	http://www.raywenderlich.com/95910/uiview-animation-swift-tutorial	UIView Animation with Swift Tutorial	animation	20150218
 advanced	http://www.andrewcbancroft.com/2015/02/18/core-data-cheat-sheet-for-swift-ios-developers	Core Data Cheat Sheet for Swift iOS Developers	CoreData	20150218
@@ -732,7 +719,6 @@ advanced	http://five.agency/solving-the-binding-problem-with-swift	Solving the b
 advanced	http://five.agency/how-to-create-an-interactive-blur-effect-in-ios8	How to create an interactive blur effect in iOS8		20141028
 advanced	http://iphonedev.tv/blog/2015/2/9/swift-12-fixes-and-breaks-a-few-things-you-should-be-excited	Swift 1.2 fixes and breaks a few things: you should be excited!		20150209
 advanced	http://www.youtube.com/user/CodeWithChris/videos	Code with Chris	video	20010101
-advanced	http://www.mav3r1ck.com/creating-a-study-app-in-swift-part-ii	Creating a Study App with Swift Part II		20150221
 advanced	http://flexmonkey.blogspot.com/2015/02/swifter-swift-image-processing-with.html	Swifter Swift Image Processing With GPUImage		20150222
 advanced	http://www.figure.ink/blog/2015/2/22/literal-enumerations	Literal Enumerations	enum	20150222
 advanced	http://www.ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift	Use Settings with NSUserDefaults in iOS8 with Swift		20150223
@@ -759,7 +745,6 @@ advanced	http://www.objc.io/snippets/20.html	Configuration Values		20150302
 libs	http://github.com/jquave/LumaJSON	A super simple JSON helper	json	20010101
 advanced	http://oleb.net/blog/2015/02/truncated-text	Truncated Text in Mobile UIs		20150227
 advanced	http://oleb.net/blog/2015/02/minus-sign	The Minus Sign		20150226
-advanced	http://www.mav3r1ck.com/one-thousand-character-password	One Thousand Character Password		20150222
 advanced	http://www.figure.ink/blog/2015/2/28/nil-coalescing-operator	Nil Coalescing Operator		20150228
 advanced	http://www.youtube.com/watch?v=9hgfNfG7EKQ	‪AzamSharp: Learning iOS Development Part 77 (Custom CheckBox in UITableView)‬	video	20150301
 advanced	http://www.codingexplorer.com/integers-and-numeric-literals-in-swift	Integers and Numeric Literals in Swift		20150228
@@ -817,7 +802,6 @@ advanced	http://ericasadun.com/2015/03/16/swift-working-around-sources-playgroun
 advanced	http://nshipster.com/nscalendar-additions	NSCalendar Additions	date	20150316
 advanced	http://www.raywenderlich.com/90971/introduction-mapkit-swift-tutorial	Introduction to MapKit in Swift Tutorial	MapKit	20150318
 advanced	http://ericasadun.com/2015/03/19/swift-my-favorite-playground-feature-of-the-week	Swift: My favorite Playground feature of the week	playground	20150319
-advanced	http://www.mav3r1ck.com/recursion-recursion-recursion	Recursion with Swift		20150319
 advanced	http://www.dotswift.io	dot Swift – The European Swift Conference	video	20150206
 advanced	http://medium.com/swift-programming/devicetype-a-swift-helper-301b71675a05	DeviceType — A Swift Helper		20150319
 advanced	http://flexmonkey.blogspot.com/2015/03/radiating-visual-pulses-visualising.html	Radiating Visual Pulses: Visualising AudioKit Sounds in SpriteKit with SKAction	SpriteKit:AudioKit	20150318
@@ -830,7 +814,6 @@ advanced	http://www.objc.io/snippets/22.html	Typed Table View Controllers Redux	
 advanced	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/21/spritekit-swift-part-1-creating-game-scene.html	SpriteKit and Swift Part 1: Creating the Game Scene	SpriteKit	20150321
 advanced	http://ericasadun.com/2015/03/22/swift-more-fun-with-reflection	Swift: More Fun with Reflection		20150322
 advanced	http://blog.human-friendly.com/how-swift-is-swift	How Swift is Swift?		20150322
-advanced	http://www.mav3r1ck.com/arrays-in-swift	Arrays in Swift	Array	20150322
 advanced	http://www.raywenderlich.com/87008/overlay-views-mapkit-swift-tutorial	Overlay Views with MapKit and Swift Tutorial	MapKit	20150325
 advanced	http://ericasadun.com/2015/03/25/swift-todays-wow-moment-adding-menus-to-playgrounds	Swift: Today’s Wow moment. Adding menus to playgrounds	playground	20150325
 advanced	http://airspeedvelocity.net/2015/03/26/protocols-and-generics-2	Protocols and Generics	protocol:generics	20150326
@@ -856,7 +839,7 @@ advanced	http://shrikar.com/blog/2015/03/31/parse-search-in-ios-8-with-swift	Par
 advanced	http://www.andrewcbancroft.com/2015/04/01/enums-instead-of-booleans-an-example-implementation	Enums Instead of Booleans – An Example Implementation	enum	20150401
 advanced	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/31/spritekit-swift-part-2-adding-the-player.html	SpriteKit and Swift Part 2: Adding the Player	SpriteKit	20150331
 commercial	http://www.hackingwithswift.com	Hacking with Swift		20010101
-advanced	http://www.rockhoppertech.com/blog/swift-and-core-audio	Swift and Core Audio	CoreAudio	20140608
+advanced	http://www.rockhoppertech.com/blog/swift-and-core-audio	Swift and Core Audio	CoreAudio:AVAudioPlayer	20140608
 advanced	http://flexmonkey.blogspot.com/2014/10/sound-synthesis-in-swift-core-audio.html	Sound Synthesis in Swift: A Core Audio Tone Generator	CoreAudio	20141016
 advanced	http://flexmonkey.blogspot.com/2015/03/audiokit-reaches-version-20.html?m=1	AudioKit Reaches Version 2.0	AudioKit	20150328
 libs	http://github.com/victor/Learning-Core-Audio-in-Swift	Learning Core Audio in Swift	CoreAudio	20010101
@@ -868,7 +851,6 @@ beginner	http://www.udacity.com/course/ud585	Intro to iOS App Development with S
 beginner	http://blog.udacity.com/2015/03/learn-swift-tutorial-fundamentals.html	A Simple Swift Tutorial: Playgrounds and Fundamentals	playground	20150304
 advanced	http://ericasadun.com/2015/04/02/swift-mumble-mumble-thoughts	Swift: mumble mumble thoughts		20150402
 advanced	http://ericasadun.com/2015/04/02/swift-my-favorite-line-of-code-for-today	Swift: My favorite line of code for today		20150402
-advanced	http://www.mav3r1ck.com/pythagorean-theorem-with-swift	Pythagoras's theorem with Swift		20150402
 advanced	http://www.ioscreator.com/tutorials/core-image-tutorial-ios8-swift	Core Image Tutorial in iOS8 with Swift	CoreImage	20150403
 advanced	http://www.raywenderlich.com/87873/make-game-like-candy-crush-tutorial-os-x-port	How to Make a Game Like Candy Crush Tutorial: OS X Port	mac	20150403
 advanced	http://www.russbishop.net/uikit-missing-bits-1	UIKit Missing Bits #1	UIKit	20150403
@@ -933,7 +915,6 @@ advanced	http://ericasadun.com/2015/04/22/swift-simple-spritekit-experimentation
 advanced	http://www.ioscreator.com/tutorials/searching-map-view-ios8-swift	Searching on a Map View in iOS8 with Swift	MapKit	20150423
 advanced	http://ericasadun.com/2015/04/23/swift-convert-a-sequence-to-an-array	Swift: Convert a sequence to an array	Array:Sequence	20150423
 advanced	http://www.russbishop.net/swift-nested-closure-captures	Swift Nested Closure Captures		20150423
-advanced	http://www.mav3r1ck.io/open-source-weather-app-in-swift	Project RainMan	source	20150424
 advanced	http://makeapppie.com/2015/04/24/swift-swift-using-nstimer-to-make-a-timer-or-alarm	Swift Swift: Using NSTimer to Make a Timer or Alarm	NSTimer	20150424
 advanced	http://www.andrewcbancroft.com/2015/04/24/clarifying-swift-access-control-hint-swift-isnt-c-sharp	Clarifying Swift Access Control (Hint: Swift Isn’t C#)		20150424
 advanced	http://www.codingexplorer.com/watchkit-and-ios-app-messaging-with-openparentapplication	Watchkit and iOS App Messaging with openParentApplication	watchkit	20150424
@@ -1651,7 +1632,7 @@ advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-
 advanced	http://code.tutsplus.com/tutorials/an-introduction-to-gameplaykit-part-3--cms-24611	An Introduction to GameplayKit: Part 3	GameplayKit	20150907
 advanced	http://code.tutsplus.com/tutorials/building-a-shopping-list-application-with-cloudkit-introduction--cms-24674	Building a Shopping List Application With CloudKit: Introduction	CloudKit	20150821
 advanced	http://code.tutsplus.com/tutorials/building-a-shopping-list-application-with-cloudkit-adding-records--cms-24731	Building a Shopping List Application With CloudKit: Adding Records	CloudKit	20150828
-advanced	http://blog.xebia.com/2015/07/21/parallax-image-scrolling-using-storyboards	Parallax Image Scrolling Using Storyboards	storyboard	20150721
+advanced	http://blog.xebia.com/2015/07/21/parallax-image-scrolling-using-storyboards	Parallax Image Scrolling Using Storyboards	storyboard:Parallax	20150721
 advanced	http://ijoshsmith.com/2015/04/29/creating-ascii-art-in-functional-swift	Creating ASCII art in functional Swift	functional	20150429
 advanced	http://jasdev.me/ios-interactive-notifications	A Tour of iOS Interactive Notifications		20150905
 advanced	http://krakendev.io/blog/the-right-way-to-write-a-singleton	The Right Way To Write a Singleton	singleton	20150721
@@ -1687,7 +1668,7 @@ libs	http://github.com/krzyzanowskim/Natalie	Storyboard Code Generator	storyboar
 libs	http://github.com/KyleGoddard/KGFloatingDrawer	A floating navigation drawer with an interesting animated presentation		20010101
 libs	http://github.com/LiorNn/DragDropCollectionView	A UICollectionView which allows for easy drag and drop to reorder cells. Mimicks the drag and drop on the iOS Springboard when reordering apps (wiggle animation included!).	UICollectionView	20010101
 libs	http://github.com/MHaroonBaig/MotionKit	Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple		20010101
-libs	http://github.com/michaelbabiy/RMParallax	The way to impress users on the first app launch		20010101
+libs	http://github.com/michaelbabiy/RMParallax	The way to impress users on the first app launch	Parallax	20010101
 libs	http://github.com/Mozharovsky/CVCalendar	A custom visual calendar		20010101
 libs	http://github.com/muhammadbassio/MABCardsView	A Swift port for http://github.com/zhxnlai/ZLSwipeableView		20010101
 libs	http://github.com/nori0620/SwiftFilePath	Simple and powerful wrapper for NSFileManager		20010101
@@ -1970,7 +1951,6 @@ advanced	http://swiftandpainless.com/nscoding-and-swift-structs	NSCoding And Swi
 advanced	http://theswiftdev.com/2015/08/05/swift-init-patterns	Swift init patterns	SwiftLang	20150805
 advanced	http://whichline.wordpress.com/2015/07/13/os-x-screensaver-swift-2-part-1	Writing OS X Screensaver in Swift 2.0	mac	20150805
 advanced	http://www.jessesquires.com/swift-enumerations-and-equatable	Swift enumerations and equatable	enum	20150726
-advanced	http://www.mav3r1ck.io/dictionaries-in-swift	Dictionaries with Swift	Dictionary	20150809
 advanced	http://www.sitepoint.com/watch-singleton-patterns-in-swift	Watch: Singleton Patterns	watchkit:singleton	20150820
 advanced	http://www.stringcode.co.uk/rendering-version-number-into-beta-app-icon-using-swift-script	 Rendering version number into beta app icon using swift script		20150828
 advanced	http://flexmonkey.blogspot.com/2015/10/deeppressgesturerecognizer-3d-touch.html	DeepPressGestureRecognizer - A 3D Touch Custom Gesture Recogniser	3dTouch	20151003
@@ -2362,7 +2342,7 @@ advanced	http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inhe
 advanced	http://www.thomashanning.com/a-trick-to-discover-retain-cycles	A Trick To Discover Retain Cycles		20151109
 advanced	http://realm.io/news/david-east-simplifying-login-swift-enums	Simplifying Login with Swift Enums	enum	20151109
 advanced	http://www.raywenderlich.com/112027/reference-value-types-in-swift-part-1	Reference vs Value Types in Swift: Part 1/2		20151109
-libs	http://github.com/marmelroy/TVButton	Recreating the cool parallax icons from Apple TV as iOS UIButtons		20010101
+libs	http://github.com/marmelroy/TVButton	Recreating the cool parallax icons from Apple TV as iOS UIButtons	Parallax	20010101
 advanced	http://littlebitesofcocoa.com/121	little bites of cocoa:#121: Swiftier Regular Expressions with Regex	regex	20151109
 advanced	http://littlebitesofcocoa.com/122	little bites of cocoa:#122: Notification Actions		20151110
 advanced	http://useyourloaf.com/blog/quick-guide-to-swift-delegates.html	Quick Guide to Swift Delegates		20151109
@@ -2374,7 +2354,7 @@ advanced	http://www.learncoredata.com/core-data-and-playgrounds	Core Data and Pl
 advanced	http://www.stringcode.co.uk/snowglobe-framework-ios-xmas-easter-egg-shake-iphone-to-make-it-snow	SnowGlobe.framework iOS Xmas easter egg, shake iPhone to make it snow		20151111
 advanced	http://christiantietze.de/posts/2015/11/structured-data-domain	Modeling: From Structured Data Representation to Problem Domain	CoreData	20151111
 advanced	http://realm.io/news/building-a-grid-layout-with-uicollectionview-and-realm-swift	Building a Grid Layout with UICollectionView and Realm	UICollectionView	20151111
-advanced	http://littlebitesofcocoa.com/123	little bites of cocoa:#123: Playing Audio in the Background	audio	20151111
+advanced	http://littlebitesofcocoa.com/123	little bites of cocoa:#123: Playing Audio in the Background	audio:AVAudioPlayer	20151111
 advanced	http://makeapppie.com/2015/11/11/how-to-add-stack-views-programmatically-and-almost-avoid-autolayout	How to Add Stack Views Programmatically and (almost) avoid AutoLayout	UIStackView	20151111
 advanced	http://www.ioscreator.com/tutorials/open-pdf-tutorial	Open PDF Tutorial		20151112
 advanced	http://natashatherobot.com/swift-protocol-composition	Swift: Protocol Composition	protocol	20151112
@@ -2459,10 +2439,10 @@ advanced	http://littlebitesofcocoa.com/163	little bites of cocoa: #163: Creating
 advanced	http://littlebitesofcocoa.com/164	little bites of cocoa: #164: Swift Tricks		20160107
 advanced	http://littlebitesofcocoa.com/165	little bites of cocoa: #165: Declarative Table Views with Shoyu		20160108
 advanced	http://littlebitesofcocoa.com/166	little bites of cocoa: #166: SAHistoryNavigationViewController		20160111
-advanced	http://littlebitesofcocoa.com/167	little bites of cocoa: #167: Beautiful Parallax Headers with MXParallaxHeader		20160112
+advanced	http://littlebitesofcocoa.com/167	little bites of cocoa: #167: Beautiful Parallax Headers with MXParallaxHeader	Parallax	20160112
 advanced	http://littlebitesofcocoa.com/168	little bites of cocoa: #168: Loading, Empty, & Error States with StatefulViewController		20160113
 advanced	http://littlebitesofcocoa.com/169	little bites of cocoa: #169: Automatically Continuing at Breakpoints	xcode:testing	20160114
-#advanced	http://littlebitesofcocoa.com/170	little bites of cocoa:		20160115
+advanced	http://littlebitesofcocoa.com/170	little bites of cocoa: #170: Swift Tricks Revisited		20160115
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2492,7 +2472,7 @@ advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-
 advanced	http://www.andrewcbancroft.com/2015/11/23/get-social-with-swift-posting-to-facebook-and-twitter	Get Social With Swift – Posting to Facebook and Twitter	twitter:facebook	20151123
 advanced	http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift	iOS Unit Testing: Dependency Injection with Structs	testing:structs	20151124
 advanced	http://realm.io/news/gotocph-rackwitz-therox-learnings-from-cocoapods	Learnings from CocoaPods: Swift, Frameworks, & Modules		20151124
-advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio	20150603
+advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio:AVAudioPlayer	20150603
 libs	http://github.com/amornn/MetalTut	Basic metal 3d	metal	20010101
 libs	http://github.com/collinhundley/Swift-AI	Highly optimized Artificial Intelligence and Machine Learning library	MachineLearning	20010101
 libs	http://github.com/goktugyil/EZSwipeController	UIPageViewController like Snapchat/Tinder/iOS Main Pages	UIPageViewControllers	20010101
@@ -2874,11 +2854,11 @@ advanced	http://blog.matthewcheok.com/from-uikit-to-web	From UIKit to Web		20150
 advanced	http://blog.matthewcheok.com/writing-a-lexer-in-swift	Writing a lexer in Swift		20151116
 advanced	http://blog.matthewcheok.com/a-better-nsnotificationcenter	A better NSNotificationCenter		20151118
 advanced	http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2	Writing a parser in Swift (II)		20151127
-advanced	http://matthewfecher.com/app-developement/audiokit-io-examples-converted-to-swift	AudioKit Examples Converted to Swift	Audio	20150527
+advanced	http://matthewfecher.com/app-developement/audiokit-io-examples-converted-to-swift	AudioKit Examples Converted to Swift	audio:AudioKit	20150527
 advanced	http://matthewfecher.com/app-developement/initializing-a-singleton-in-swift-1-2	Converting an Obj-C Singleton to Swift 1.2 with just one line of code	singleton	20150527
 advanced	http://matthewfecher.com/app-developement/getting-dynamic-with-key-value-observation-kvo-in-swift-1-2	Getting Dynamic with Key Value Observation (KVO) in Swift 1.2		20150604
 advanced	http://matthewfecher.com/app-developement/swift-2-0s-new-take-on-defensive-design-with-guard	Swift 2.0’s New Take on Defensive Design with “Guard”	guard	20150613
-advanced	http://matthewfecher.com/app-developement/open-source-swift-radio-station-app-released		Audio	20150103
+advanced	http://matthewfecher.com/app-developement/open-source-swift-radio-station-app-released	Open Source Swift Radio Station App Released!	Audio	20150103
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-array-of-tuples	Playing with Array of Tuples	Array:tuple	20150224
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/custom-generic-unwrap-function	Custom generic unwrap function!	generics	20150224
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-optionals-type	Playing with optionals type!		20150224
@@ -2909,3 +2889,42 @@ advanced	http://www.appcoda.com/ios-concurrency	iOS Concurrency: Getting Started
 advanced	http://www.appcoda.com/core-spotlight-framework	How To Use Core Spotlight Framework in iOS 9	CoreSpotlight	20151222
 advanced	http://www.appcoda.com/linkedin-sign-in	Integrating LinkedIn Sign In with iOS Apps Using OAuth 2.0	oauth2	20160103
 advanced	http://metova.com/dev/blog/2016/01/05/how-to-implement-3d-touch	How To Implement 3D Touch	3dTouch	20160105
+advanced	http://www.invasivecode.com/weblog/metal-image-processing	Metal: Blazing Fast Image Processing	metal	20160105
+advanced	http://www.appdesignvault.com/enable-ipad-multitasking-slide-over-split-view	How to Enable Multitasking in Your iPad App : Split View and Slide Over		20150910
+advanced	http://christiantietze.de/posts/2016/01/separating-state-change	Separating State from State Changes		20160115
+libs	http://github.com/Azuritul/AZDropdownMenu	A simple dropdown menu component for iOS		20010101
+libs	http://github.com/jhurt/GBPageControl	A page control for SpriteKit based games		20010101
+libs	http://github.com/metasmile/ai2app	Creating AppIcon sets from Adobe Illustrator	design:Ai	20010101
+libs	http://github.com/pitiphong-p/PTPPlaceholderTextView	A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView		20010101
+libs	http://www.cocoacontrols.com/controls/splitflap	A simple split-flap display for your Swift applications http://cocoadocs.org/docsets/Splitflap		20010101
+advanced	http://www.codecaptain.io/ios-development/random-exc_bad_access-crash-in-swift/239	Random EXC_BAD_ACCESS crash in Swift		20151217
+advanced	http://dev.iachieved.it/iachievedit/trapping-signals-with-swift-on-linux	Trapping Signals with Swift on Linux	Linux	20160111
+libs	http://github.com/lancy/CaesarParser	Simple JSON Model Parser written in Swift	json	20010101
+advanced	http://www.mav3r1ck.com/pan-gesture-recognizer	Pan Gesture Recognizer	gesture	20140907
+advanced	http://www.mav3r1ck.com/spritekit	SpriteKit with Swift	SpriteKit	20140916
+advanced	http://www.mav3r1ck.com/arc4random	Arc4random	random	20140922
+advanced	http://www.mav3r1ck.com/epoch-converter	Epoch Converter		20141004
+advanced	http://www.mav3r1ck.com/user-location	User Location		20141011
+advanced	http://www.mav3r1ck.com/sounds-with-swift	Sounds with Swift	audio	20141026
+advanced	http://www.mav3r1ck.com/push-notifications-with-swift	Push notifications with Swift		20141122
+advanced	http://www.mav3r1ck.com/swipe-gesture-recognizers	Swipe gesture recognizers	gesture	20141202
+advanced	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	UIBezierPath	20150110
+advanced	http://www.mav3r1ck.com/uilongpressgesturerecognizer	LongPressGestureRecognizer		20141206
+advanced	http://www.mav3r1ck.com/uitapgesturerecognizer	UITapGestureRecognizer		20141220
+advanced	http://www.mav3r1ck.com/clock	Swift Clock App		20141116
+beginner	http://www.mav3r1ck.io/creating-a-study-app-with-swift-part-i	Creating a Study App in Swift		20150217
+advanced	http://www.mav3r1ck.io/creating-a-study-app-with-swift-part-ii	Creating a Study App with Swift Part II		20150221
+advanced	http://www.mav3r1ck.io/one-thousand-character-password	One Thousand Character Password		20150222
+advanced	http://www.mav3r1ck.com/recursion-recursion-recursion	Recursion with Swift		20150319
+advanced	http://www.mav3r1ck.io/arrays-in-swift	Arrays in Swift	Array	20150322
+advanced	http://www.mav3r1ck.io/pythagorean-theorem-in-swift	Pythagoras's theorem with Swift		20150402
+advanced	http://www.mav3r1ck.io/open-source-weather-app-in-swift	Project RainMan	source	20150424
+advanced	http://www.mav3r1ck.io/dictionaries-in-swift	Dictionaries with Swift	Dictionary	20150809
+advanced	http://www.mav3r1ck.io/functions-in-swift	Functions with Swift		20151012
+advanced	http://www.mav3r1ck.io/spritekit-with-swift	SpriteKit with Swift	SpriteKit	20151018
+advanced	http://www.mav3r1ck.io/spritekit-with-swift-ii	SpriteKit with Swift II	SpriteKit	20151024
+advanced	http://www.mav3r1ck.io/spritekit-with-swift-iii	SpriteKit with Swift III	SpriteKit	20151101
+advanced	http://www.mav3r1ck.io/spritekit-with-swift-iv	SpriteKit with Swift IV	SpriteKit	20151107
+advanced	http://www.mav3r1ck.io/spritekit-with-swift-v	SpriteKit with Swift V	SpriteKit	20151115
+advanced	http://www.mav3r1ck.io/particle-emitter-with-spritekit	Particle Emitter with SpriteKit	SpriteKit:ParticleEmitter	20151205
+advanced	http://www.mav3r1ck.io/spritekit-with-swift-introducing-the-level-editor-2	Introducing the SpriteKit Level Editor	SpriteKit	20151220
