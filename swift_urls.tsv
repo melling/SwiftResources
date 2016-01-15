@@ -2312,7 +2312,6 @@ advanced	http://littlebitesofcocoa.com/115	little bites of cocoa:#115: Generatin
 advanced	http://realm.io/news/soffes-swift-network-testing-dvr	DVR: Network Testing	video	20151030
 advanced	http://ericasadun.com/2015/10/30/messing-around-in-swiftlang-on-friday	Messing around in #swiftlang on Friday	SwiftLang	20151030
 advanced	http://www.raywenderlich.com/119815/sprite-kit-swift-2-tutorial-for-beginners	Sprite Kit Swift 2 Tutorial for Beginners	beginner:SpriteKit	20151030
-advanced	http://www.brianjcoleman.com/tvos-tutorial-top-shelf	TVOS TUTORIAL: TOP SHELF IN SWIFT	AppleTV	20151030
 advanced	http://www.iosinsight.com/uitableview-custom-edit-button-in-each-row-with-swift	UITableView Custom Edit Button In Each Row	UITableView	20151029
 libs	http://github.com/yannickl/QRCodeReader.swift	Simple QRCode reader		20010101
 libs	http://github.com/sleekbyte/tailor	Static analyzer for Swift http://tailor.sh		20010101
@@ -2461,8 +2460,8 @@ advanced	http://littlebitesofcocoa.com/164	little bites of cocoa: #164: Swift Tr
 advanced	http://littlebitesofcocoa.com/165	little bites of cocoa: #165: Declarative Table Views with Shoyu		20160108
 advanced	http://littlebitesofcocoa.com/166	little bites of cocoa: #166: SAHistoryNavigationViewController		20160111
 advanced	http://littlebitesofcocoa.com/167	little bites of cocoa: #167: Beautiful Parallax Headers with MXParallaxHeader		20160112
-#advanced	http://littlebitesofcocoa.com/168	little bites of cocoa:		20160113
-#advanced	http://littlebitesofcocoa.com/169	little bites of cocoa:		20160114
+advanced	http://littlebitesofcocoa.com/168	little bites of cocoa: #168: Loading, Empty, & Error States with StatefulViewController		20160113
+advanced	http://littlebitesofcocoa.com/169	little bites of cocoa: #169: Automatically Continuing at Breakpoints	xcode:testing	20160114
 #advanced	http://littlebitesofcocoa.com/170	little bites of cocoa:		20160115
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
@@ -2845,3 +2844,67 @@ advanced	http://ankit.im/swift/2016/01/12/swift-mysterious-builtin-module	Swift'
 advanced	http://h4labs.wordpress.com/2016/01/12/swift-datefromint-and-intfromdate	Swift: dateFromInt() and intFromDate()	date	20160112
 advanced	http://ericasadun.com/2016/01/12/whats-up-in-swift-evolution	What’s up in Swift Evolution		20160112
 advanced	http://www.codementor.io/swift/tutorial/view-animations-ios-tutorial	Swift Beginner's Guide to View Animations	animation	20160112
+advanced	http://blog.davidungar.net/2016/01/10/understanding-swifts-abstract-types-2	Understanding Swift’s Abstract Types		20160110
+advanced	http://www.thorntech.com/2016/01/how-to-search-for-location-using-apples-mapkit	Tutorial: How to search for location and display results using Apple’s MapKit	MapKit	20160112
+advanced	http://www.brianjcoleman.com/tutorial-3d-touch-quick-actions-in-swift	Tutorial: 3D Touch – Quick Actions in Swift 	3dTouch	20160112
+advanced	http://blog.davidungar.net/2016/01/02/how-to-avoid-seven-swift-snares-2	(How to Avoid) Seven Swift Snares		20160102
+advanced	http://www.brianjcoleman.com/tutorial-swipe-actions-for-uitableviewcell-in-swift	Tutorial: Swipe Actions for UITableViewCell in Swift 	UITableViewCell	20150514
+advanced	http://www.brianjcoleman.com/tutorial-in-app-purchases-iap-in-swift	Tutorial: In-App Purchases in Swift 	InAppPurchase	20150525
+advanced	http://www.brianjcoleman.com/tutorial-receipt-validation-in-swift	Tutorial: Receipt Validation in Swift 	InAppPurchase	20150525
+advanced	http://www.brianjcoleman.com/tutorial-deep-linking-in-swift	Tutorial: Deep Linking in Swift 		20150713
+advanced	http://www.brianjcoleman.com/tvos-tutorial-video-app-in-swift	tvOS Tutorial: Make a Video App in Swift 	AppleTV	20151013
+advanced	http://www.brianjcoleman.com/tvos-tutorial-top-shelf	tvOS Tutorial: Top Shelf in Swift 	AppleTV	20151030
+advanced	http://code.tutsplus.com/tutorials/ios-9-an-introduction-to-replaykit--cms-25458	iOS 9: An Introduction to ReplayKit	ReplayKit	20160113
+advanced	http://ericasadun.com/2016/01/13/a-few-thoughts-on-swift-symbologygist	A few thoughts on Swift symbology		20160113
+advanced	http://www.thomashanning.com/network-link-conditioner	Network Link Conditioner	testing	20160114
+advanced	http://www.raywenderlich.com/110458/nsurlsession-tutorial-getting-started	NSURLSession Tutorial: Getting Started	NSURLSession	20160114
+advanced	http://realm.io/news/benji-encz-unidirectional-data-flow-swift	Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers	video	20160114
+advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-example-in-swift-part-1	UISegmentedControl with UITableView example in Swift. Part 1	video	20150816
+advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-example-in-swift-part-2	UISegmentedControl with UITableView example in Swift. Part 2	video	20150816
+advanced	http://swiftdeveloperblog.com/sign-in-with-google-account-example-in-swift	Sign-in with Google Account Example in Swift	video	20150819
+advanced	http://swiftdeveloperblog.com/play-music-mp3-file-example-in-swift	Play music MP3 file example in Swift	video	20150821
+advanced	http://swiftdeveloperblog.com/uidatepicker-example-in-swift	UIDatePicker example in Swift	video	20150830
+advanced	http://swiftdeveloperblog.com/uitextview-and-uitextviewdelegate-example-in-swift	UITextView and UITextViewDelegate example in Swift	video	20150907
+advanced	http://swiftdeveloperblog.com/mobile-app-with-uitabbarcontroller-sliding-side-menus	Mobile App with UITabBarController + Sliding Side Menus	video	20151228
+advanced	http://swiftdeveloperblog.com/http-get-request-example-in-swift	HTTP GET Request Example in Swift		20160102
+advanced	http://swiftdeveloperblog.com/pass-information-forward-from-one-viewcontroller-to-another-in-swift	Pass Information Forward From One ViewController to Another in Swift		20160111
+advanced	http://blog.matthewcheok.com/json-and-swift	JSON and Swift		20150624
+advanced	http://blog.matthewcheok.com/working-with-urls	Working with URLs		20150707
+advanced	http://blog.matthewcheok.com/from-uikit-to-web	From UIKit to Web		20150708
+advanced	http://blog.matthewcheok.com/writing-a-lexer-in-swift	Writing a lexer in Swift		20151116
+advanced	http://blog.matthewcheok.com/a-better-nsnotificationcenter	A better NSNotificationCenter		20151118
+advanced	http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2	Writing a parser in Swift (II)		20151127
+advanced	http://matthewfecher.com/app-developement/audiokit-io-examples-converted-to-swift	AudioKit Examples Converted to Swift	Audio	20150527
+advanced	http://matthewfecher.com/app-developement/initializing-a-singleton-in-swift-1-2	Converting an Obj-C Singleton to Swift 1.2 with just one line of code	singleton	20150527
+advanced	http://matthewfecher.com/app-developement/getting-dynamic-with-key-value-observation-kvo-in-swift-1-2	Getting Dynamic with Key Value Observation (KVO) in Swift 1.2		20150604
+advanced	http://matthewfecher.com/app-developement/swift-2-0s-new-take-on-defensive-design-with-guard	Swift 2.0’s New Take on Defensive Design with “Guard”	guard	20150613
+advanced	http://matthewfecher.com/app-developement/open-source-swift-radio-station-app-released		Audio	20150103
+advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-array-of-tuples	Playing with Array of Tuples	Array:tuple	20150224
+advanced	http://ios8programminginswift.wordpress.com/2015/02/24/custom-generic-unwrap-function	Custom generic unwrap function!	generics	20150224
+advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-optionals-type	Playing with optionals type!		20150224
+advanced	http://ios8programminginswift.wordpress.com/2015/02/24/function-argument-excercise	Function Argument Excercise.		20150224
+advanced	http://ios8programminginswift.wordpress.com/2015/02/24/inout-parameter	Inout Parameter		20150224
+advanced	http://ios8programminginswift.wordpress.com/2015/02/25/create-custom-delegate-and-protocol-ios-swift-objective-c	CREATE CUSTOM DELEGATE AND PROTOCOL IOS | SWIFT & OBJECTIVE-C	protocol	20150225
+advanced	http://ios8programminginswift.wordpress.com/2015/02/25/pattern-matching	Pattern Matching!	PatternMatching	20150225
+advanced	http://ios8programminginswift.wordpress.com/2015/02/25/extensions	Extensions!!		20150225
+advanced	http://ios8programminginswift.wordpress.com/2015/02/26/piglatin-game	Piglatin Game!		20150226
+advanced	http://ios8programminginswift.wordpress.com/2015/09/26/decoding-base64url-encoded-data	Decoding Base64URL encoded data		20150926
+advanced	http://runmad.com/blog/2015/08/parallax-uitableview-header-with-auto-layout	Parallax UITableView header with Auto Layout	Parallax	20150830
+advanced	http://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html	Start Developing iOS Apps (Swift)	beginner	20010101
+advanced	http://blog.fivelakesstudio.com/2015/10/swift-optionals-questions-and-bangs.html	Swift Optionals Questions (?) and Bangs (!)		20150914
+advanced	http://blog.fivelakesstudio.com/2015/11/nstimer-and-blocks-closures.html	Swift NSTimer and Blocks (Closures)	NSTimer	20151102
+advanced	http://blog.fivelakesstudio.com/2014/06/advanced-swift-part-1.html	Advanced Swift - Part 1		20140619
+advanced	http://blog.fivelakesstudio.com/2014/06/advanced-swift-part-2.html	Advanced Swift - Part 2		20140623
+advanced	http://www.cimgf.com/2015/09/21/massive-view-controllers	Massive View Controllers		20150921
+advanced	http://www.cimgf.com/2015/06/25/core-data-and-aggregate-fetches-in-swift	Core Data and Aggregate Fetches In Swift	CoreData	20150625
+advanced	http://www.cimgf.com/2015/05/26/setting-up-jenkins-ci-on-a-mac-2	Setting up Jenkins CI on a Mac	jenkins	20150526
+advanced	http://www.raizlabs.com/dev/2015/01/raisin-toast-a-custom-uialertview-for-ios	Raisin Toast – A Custom UIAlertView for iOS	objc_src	20150121
+advanced	http://www.raizlabs.com/dev/2015/01/uiview-animation-sequencing-and-grouping-techniques	UIView Animation Sequencing and Grouping Techniques	objc_src:animation	20150123
+advanced	http://www.appcoda.com/tvos-introduction	Introduction to tvOS: Building Your First tvOS App	AppleTV	20151102
+advanced	http://www.appcoda.com/3d-touch-tutorial	3D Touch Introduction: Building a Digital Scale App and Quick Actions	3dTouch	20151109
+advanced	http://www.appcoda.com/expandable-table-view	How To Create an Expandable Table View in iOS	UITableView	20151116
+advanced	http://www.appcoda.com/foursquare-realm-swift	Building a Coffee Shop App with Swift, Foursquare API and Realm	realm	20151123
+advanced	http://www.appcoda.com/alamofire-beginner-guide	The Absolute Guide to Networking in Swift with Alamofire	AlamoFire:networking	20151130
+advanced	http://www.appcoda.com/ios-concurrency	iOS Concurrency: Getting Started with NSOperation and Dispatch Queues	NSOperation:concurrency	20151209
+advanced	http://www.appcoda.com/core-spotlight-framework	How To Use Core Spotlight Framework in iOS 9	CoreSpotlight	20151222
+advanced	http://www.appcoda.com/linkedin-sign-in	Integrating LinkedIn Sign In with iOS Apps Using OAuth 2.0	oauth2	20160103
