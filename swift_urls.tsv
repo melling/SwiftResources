@@ -577,7 +577,7 @@ advanced	http://owensd.io/2014/09/24/swift-experiences.html	My Swift Dilemma		20
 libs	http://github.com/AlwaysRightInstitute/SwiftSockets	A simple GCD based socket wrapper for Swift. 	GCD	20010101
 libs	http://github.com/vandadnp/iOS-8-Swift-Programming-Cookbook	GitHub repository of O'Reilly's iOS 8 Swift Programming Cookbook		20010101
 advanced	http://realm.io/news/chris-eidhof-micro-libraries-swift	Tiny Networking: Building Micro-Libraries in Swift	video	20150128
-advanced	http://www.youtube.com/user/SkipCasts/playlists	SkipCasts – Skip Wilson	video	20010101
+advanced	http://www.youtube.com/user/SkipCasts/playlists	SkipCasts – Skip Wilson	video:SkipCasts	20010101
 advanced	http://blog.human-friendly.com/the-importance-of-being-final	The Importance of Being `final`		20150130
 advanced	http://dev.teeps.org/blog/2015/1/16/function-composition-in-swift	Function Composition in Swift	functional	20150116
 advanced	http://chris.eidhof.nl/posts/lenses-in-swift.html	Lenses in Swift: Combining getters and setters for great glory	functional	20141114
@@ -615,7 +615,7 @@ advanced	http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus	A
 advanced	http://swiftyeti.com/texteffects-with-nslayoutmanager	TextEffects with NSLayoutManager		20140711
 advanced	http://nshipster.com/ibinspectable-ibdesignable	IBInspectable / IBDesignable	IBInspectable:IBDesignable	20150202
 advanced	http://www.ioscreator.com/tutorials/size-classes-ios8-xcode-6	Size Classes Tutorial in iOS8 and Xcode 6	AdaptiveLayout	20140925
-beginner	http://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	MadApper - Swift Programming: Introduction	video	20010101
+beginner	http://www.youtube.com/playlist?list=PLDj3dknzoPvMYvf3skevfJb3zV3qt1_Fp	MadApper - Swift Programming: Introduction	video:MadApper	20010101
 advanced	http://www.raywenderlich.com/89222/sprite-kit-animations-texture-atlases-swift	Sprite Kit Animations and Texture Atlases in Swift	SpriteKit	20150204
 advanced	http://flexmonkey.blogspot.com/2015/02/if-you-were-interested-in-my-recent.html	Adding a User Interface to my Swarm Chemistry App on an iPad		20150204
 advanced	http://www.andrewcbancroft.com/2015/01/29/converting-complex-objective-c-macros-swift-functions	Converting Complex Objective-C Macros to Swift Functions		20150129
@@ -3003,3 +3003,18 @@ advanced	https://www.youtube.com/watch?v=uOi9UW5Joeo	‪Swift Programming: 2048 
 advanced	https://www.youtube.com/watch?v=UXhfQZQ3N4c	Scenekit for Absolute Beginners	video:BuildingBuddies:SceneKit	20150311
 advanced	https://www.youtube.com/watch?v=kjJyRXk-7xg	‪Scenekit for beginners - Hit testing tutorial!!‬	video:BuildingBuddies:SceneKit	20150316
 advanced	https://www.youtube.com/watch?v=cPgsn2tDn1c	‪iOS Xcode Tutorial: Universal Storyboard‬	video:BuildingBuddies:Storyboard	20150411
+advanced	https://www.youtube.com/watch?v=nre-ALSA740	‪Pinch To Zoom - UIImageView with Swift‬	UIImageView:video:VeaSoftware	20150803
+advanced	https://www.youtube.com/watch?v=tfPZ93yvAko	‪Custom Segue with Swift‬	video:VeaSoftware	20150804
+advanced	https://www.youtube.com/watch?v=kjQCgB820mM	‪Touch ID Authentication with Swift‬	video:VeaSoftware	20150809
+advanced	https://www.youtube.com/watch?v=t9gtL0Y4DaE	‪Custom URL Schemes‬	video:VeaSoftware	20150816
+advanced	https://www.youtube.com/watch?v=sx_B5tcU0Jc	‪Universal App Orientations (iPhone Portrait Only - iPad Landscape and Portrait)‬	video:VeaSoftware	20150818
+advanced	https://www.youtube.com/watch?v=PoNHlP6gvlc	‪UIKit Dynamics - Getting Started‬	video:VeaSoftware	20150830
+advanced	https://www.youtube.com/watch?v=8RYK1CMaWmE	‪Swift Generics - Introduction‬	video:VeaSoftware	20150901
+advanced	https://www.youtube.com/watch?v=WjaRUNcccD4	‪UISplitViewController (Universal App)‬	video:VeaSoftware	20150908
+advanced	https://www.youtube.com/watch?v=SYRiiRGpH3I	‪QLPreviewController Tutorial‬	video:VeaSoftware	20150929
+advanced	https://www.youtube.com/watch?v=L80iOWpayPE	‪Home Screen Quick Actions with 3D Touch‬	video:VeaSoftware:3dTouch	20151005
+advanced	https://www.youtube.com/watch?v=WJ93fXMzuP8	‪How to use the Parse SDK with Xcode 7 and iOS 9‬	video:VeaSoftware:ParseSDK	20151012
+advanced	https://www.youtube.com/watch?v=MRwgqpaXdwk	‪Unique Values In Swift Array‬	video:VeaSoftware:Array	20151104
+advanced	https://www.youtube.com/watch?v=YrxOv7Gymig	PFQueryTableViewController Tutorial in Swift	video:VeaSoftware:ParseSDK	20151109
+advanced	https://www.youtube.com/watch?v=ybB4ygRDOt8	‪Parse Email Verification Tutorial‬	video:VeaSoftware:ParseSDK	20151215
+advanced	https://www.youtube.com/watch?v=2_3Dn8-qhgg	‪Custom UIActivity Tutorial in Swift - Xcode 7.2 iOS 9.2‬	video:VeaSoftware	20160114
