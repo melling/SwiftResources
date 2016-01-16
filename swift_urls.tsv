@@ -741,7 +741,7 @@ libs	http://github.com/jquave/LumaJSON	A super simple JSON helper	json	20010101
 advanced	http://oleb.net/blog/2015/02/truncated-text	Truncated Text in Mobile UIs		20150227
 advanced	http://oleb.net/blog/2015/02/minus-sign	The Minus Sign		20150226
 advanced	http://www.figure.ink/blog/2015/2/28/nil-coalescing-operator	Nil Coalescing Operator		20150228
-advanced	http://www.youtube.com/watch?v=9hgfNfG7EKQ	‪AzamSharp: Learning iOS Development Part 77 (Custom CheckBox in UITableView)‬	video	20150301
+advanced	http://www.youtube.com/watch?v=9hgfNfG7EKQ	‪AzamSharp: Learning iOS Development Part 77 (Custom CheckBox in UITableView)‬	video:AzamSharp	20150301
 advanced	http://www.codingexplorer.com/integers-and-numeric-literals-in-swift	Integers and Numeric Literals in Swift		20150228
 advanced	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-opportunities-for.html	Type Safety in Swift: Opportunities for Control		20150302
 advanced	http://jamesonquave.com/blog/fun-with-cashapelayer	Fun with CAShapeLayer		20150302
@@ -825,8 +825,8 @@ advanced	http://flexmonkey.blogspot.com/2015/03/mind-blowing-metal-four-million.
 advanced	http://ericasadun.com/2015/03/31/swift-path-interpolation-in-pure-swift	Swift: Path interpolation in pure Swift		20150331
 advanced	http://www.infoq.com/presentations/swift-llvm	Swift - Under the Hood	video	20150328
 advanced	http://www.appcoda.com/custom-view-controller-transitions-tutorial	Introduction to Custom View Controller Transitions and Animations	animation:transition	20150323
-advanced	http://youtu.be/ZTVRAfQFWVo	AzamSharp: Learning iOS Development Part 78 (Spring Animations)	video:animation	20150327
-advanced	http://youtu.be/dfSu-qvn0aY	AzamSharp: Learning iOS Development Part 79 (UIView Transitions)	video:transitions	20150329
+advanced	http://youtu.be/ZTVRAfQFWVo	AzamSharp: Learning iOS Development Part 78 (Spring Animations)	video:animation:AzamSharp	20150327
+advanced	http://youtu.be/dfSu-qvn0aY	AzamSharp: Learning iOS Development Part 79 (UIView Transitions)	video:transitions:AzamSharp	20150329
 advanced	http://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g	Functional Swift	video:functional	20141201
 advanced	http://engineering.circle.com/swift-compiler-performance-tips-and-tricks	Swift compiler performance tips and tricks		20150106
 advanced	http://nshipster.com/quick-look-debugging	Quick Look Debugging	xcode	20150330
@@ -901,7 +901,7 @@ advanced	http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging	
 advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	watchkit:NSTimer	20150420
 advanced	http://ericasadun.com/2015/04/21/swift-occams-code-razor	Swift: Occam’s Code Razor		20150421
 advanced	http://www.swift-studies.com/blog/2014/6/10/enumerating-enums-in-swift	Enumerating enums in Swift	enum	20140610
-advanced	http://youtu.be/qQhMkoxSV64	AzamSharp: ‪Learning iOS Development Part 80 (Live Rendering iOS 8)‬	video	20150417
+advanced	http://youtu.be/qQhMkoxSV64	AzamSharp: ‪Learning iOS Development Part 80 (Live Rendering iOS 8)‬	video:AzamSharp	20150417
 advanced	http://dduan.net/post/2015/04/swift-function-fun-facts	Swift Function Fun Facts		20150418
 advanced	http://www.extelligentcocoa.org/sending-out-notifications-of-change	Sending out Notifications of Change		20150422
 advanced	http://www.raywenderlich.com/94719/uikit-dynamics-swift-tutorial-tossing-views	UIKit Dynamics and Swift Tutorial: Tossing Views		20150422
@@ -1001,7 +1001,7 @@ advanced	http://www.raywenderlich.com/104575/researchkit-tutorial-with-swift	Res
 advanced	http://ericasadun.com/2015/05/26/swift-the-hall-of-the-dwarven-enumeration-king	Swift: The Hall of the Dwarven Enumeration King	enum	20150526
 advanced	http://www.weheartswift.com/nstimer-in-swift	NSTimer in Swift	NSTimer	20150527
 advanced	http://ericasadun.com/2015/05/27/swift-the-good-switch-of-the-east	Swift: The Good Switch of the East	enum	20150527
-advanced	http://youtu.be/n_vBf6yH0ys	AzamSharp:#4 Swift Functions Continued	video	20150526
+advanced	http://youtu.be/n_vBf6yH0ys	AzamSharp:#4 Swift Functions Continued	video:AzamSharp	20150526
 advanced	http://www.ioscreator.com/tutorials/particle-emitter-tutorial-sprite-kit-swift	Particle Emitter Tutorial in Sprite Kit with Swift	SpriteKit	20150528
 advanced	http://www.raywenderlich.com/87268/3d-effect-taasky-swift	How To Create a Cool 3D Sidebar Animation Like in Taasky	animation	20150528
 advanced	http://ericasadun.com/2015/05/28/swift-five-things-about-core-foundation	Swift: Five Things about Core Foundation	CoreFoundation	20150528
@@ -1045,7 +1045,7 @@ advanced	http://ericasadun.com/2015/06/09/swift-2-0-playgrounds-a-few-thoughts	S
 advanced	http://ericasadun.com/2015/06/09/swift-the-length-of-a-string-part-3	Swift: The length of a string. Part 3	string	20150609
 advanced	http://jamesonquave.com/blog/open-source-swift-a-look-at-the-top-swift-repositories	Open Source Swift – A Look At The Top Swift Repositories		20150605
 advanced	http://robots.thoughtbot.com/introducing-argo-10-more-power-more-fun	Introducing Argo 1.0: More Power, More Fun		20150526
-advanced	http://youtu.be/AdExpvw9n9Y	AzamSharp: ‪Learning iOS Development Part 81 (Autolayouts)	AutoLayout	20150601
+advanced	http://youtu.be/AdExpvw9n9Y	AzamSharp: ‪Learning iOS Development Part 81 (Autolayouts)	AutoLayout:AzamSharp	20150601
 advanced	http://realm.io/news/russ-bishop-unsafe-swift	Unsafe Swift: For Fun & Profit		20150526
 advanced	http://realm.io/news/swift-summit	Swift Summit		20010101
 advanced	http://realm.io/news/swift-summit-simon-gladman-metal	The Supercomputer In Your Pocket: Metal & Swift	metal	20150522
@@ -1091,7 +1091,7 @@ advanced	http://sketchytech.blogspot.com/2015/06/a-paint-pot-analogy-of-function
 advanced	http://ericasadun.com/2015/06/15/swift-five-excellent-undocumented-functions	Swift: Five excellent undocumented functions		20150615
 advanced	http://www.informit.com/articles/article.aspx?p=2420609	Notes from WWDC 2015: Playing in a GameplayKit Wonderland	GameplayKit	20150613
 advanced	http://ericcerney.com/swift-guard-statement	Swift Guard Statement	exceptions:guard	20150610
-advanced	http://youtu.be/uN_f6JWYIsI	AzamSharp: Learning iOS Development Part 83 (Follow User in MapKit Using Swift)	MapKit	20150617
+advanced	http://youtu.be/uN_f6JWYIsI	AzamSharp: Learning iOS Development Part 83 (Follow User in MapKit Using Swift)	MapKit:AzamSharp	20150617
 advanced	http://ericasadun.com/2015/06/15/escaping-urls-made-simple	Escaping URLs made simple		20150615
 advanced	http://ericasadun.com/2015/06/15/swift-quicklooks	Swift: Adding custom QuickLooks to your non-objc constructs		20150615
 advanced	http://ericasadun.com/2015/06/15/rendering-playground-views	Rendering Playground Views	playground	20150615
@@ -1109,7 +1109,7 @@ advanced	http://ericasadun.com/2015/06/17/swift-i-went-there-i-did-that	Swift: I
 advanced	http://ericasadun.com/2015/06/17/swift-just-one-live-view	Swift: Just one live view		20150617
 advanced	http://www.andrewcbancroft.com/2015/06/17/creating-calendars-with-event-kit-and-swift	Creating Calendars with Event Kit and Swift	EventKit	20150617
 advanced	http://medium.com/the-traveled-ios-developers-guide/protocol-oriented-programming-9e1641946b5c	Protocol Oriented Programming	protocol	20150614
-advanced	http://youtu.be/EH05-nuBGpg	azamSharp: ‪Learning iOS Development Part 82 (Introduction to MapKit iOS 8 Using Swift)	MapKit	20150616
+advanced	http://youtu.be/EH05-nuBGpg	azamSharp: ‪Learning iOS Development Part 82 (Introduction to MapKit iOS 8 Using Swift)	MapKit:AzamSharp	20150616
 advanced	http://littlebitesofcocoa.com/18	little bites of cocoa: #18: SFSafariViewController	SFSafariViewController	20150617
 advanced	http://peterwitham.com/swift/new-in-swift-2-beta-1	What’s New in Swift 2 (Beta 1)		20150618
 advanced	http://robnapier.net/re-throws	Re...throws?	exceptions	20150618
@@ -1163,8 +1163,8 @@ advanced	http://ericasadun.com/2015/06/26/swift-protocol-requirements	Swift: Pro
 advanced	http://natashatherobot.com/ios-optional-vs-empty-data-source-swift	iOS: An Optional vs Empty Data Source in Swift		20150626
 advanced	http://ericasadun.com/2015/06/26/swift-crash-burn-die	Swift: Crash. Burn. Die.		20150626
 advanced	http://gist.github.com/nicklockwood/21495c2015fd2dda56cf	Thoughts on Swift 2 Errors		20150615
-advanced	http://youtu.be/jpZD2GPwf_w	AzamSharp: ‪Learning iOS Development Part 84 (Custom Annotations)		20150623
-advanced	http://youtu.be/LpGirJejgrU	AzamSharp: ‪Learning iOS Development Part 85 (Creating Custom Annotation Views for MKMapView)	MapKit	20150626
+advanced	http://youtu.be/jpZD2GPwf_w	AzamSharp: ‪Learning iOS Development Part 84 (Custom Annotations)	video:AzamSharp	20150623
+advanced	http://youtu.be/LpGirJejgrU	AzamSharp: ‪Learning iOS Development Part 85 (Creating Custom Annotation Views for MKMapView)	MapKit:video:AzamSharp	20150626
 libs	http://github.com/glock45/swifter	Swifter: Tiny http server engine 		20010101
 advanced	http://fancypixel.github.io/blog/2015/06/19/playing-with-uidynamics-in-ios-9	Playing With UIDynamics in iOS 9	UIDynamics	20150619
 advanced	http://littlebitesofcocoa.com/6	little bites of cocoa: #6: Debugging Tips	xcode	20150525
@@ -3011,10 +3011,40 @@ advanced	https://www.youtube.com/watch?v=sx_B5tcU0Jc	‪Universal App Orientatio
 advanced	https://www.youtube.com/watch?v=PoNHlP6gvlc	‪UIKit Dynamics - Getting Started‬	video:VeaSoftware	20150830
 advanced	https://www.youtube.com/watch?v=8RYK1CMaWmE	‪Swift Generics - Introduction‬	video:VeaSoftware	20150901
 advanced	https://www.youtube.com/watch?v=WjaRUNcccD4	‪UISplitViewController (Universal App)‬	video:VeaSoftware	20150908
-advanced	https://www.youtube.com/watch?v=SYRiiRGpH3I	‪QLPreviewController Tutorial‬	video:VeaSoftware	20150929
+advanced	https://www.youtube.com/watch?v=SYRiiRGpH3I	‪QLPreviewController Tutorial‬	video:VeaSoftware:QLPreviewController	20150929
 advanced	https://www.youtube.com/watch?v=L80iOWpayPE	‪Home Screen Quick Actions with 3D Touch‬	video:VeaSoftware:3dTouch	20151005
 advanced	https://www.youtube.com/watch?v=WJ93fXMzuP8	‪How to use the Parse SDK with Xcode 7 and iOS 9‬	video:VeaSoftware:ParseSDK	20151012
 advanced	https://www.youtube.com/watch?v=MRwgqpaXdwk	‪Unique Values In Swift Array‬	video:VeaSoftware:Array	20151104
 advanced	https://www.youtube.com/watch?v=YrxOv7Gymig	PFQueryTableViewController Tutorial in Swift	video:VeaSoftware:ParseSDK	20151109
 advanced	https://www.youtube.com/watch?v=ybB4ygRDOt8	‪Parse Email Verification Tutorial‬	video:VeaSoftware:ParseSDK	20151215
 advanced	https://www.youtube.com/watch?v=2_3Dn8-qhgg	‪Custom UIActivity Tutorial in Swift - Xcode 7.2 iOS 9.2‬	video:VeaSoftware	20160114
+advanced	https://www.youtube.com/watch?v=Ixk93yx-v28	‪Swift: Using External Databases and API's Part 2: The App‬	video:SkipWilson	20140822
+advanced	https://www.youtube.com/watch?v=ooPE5FoTvh4	Swift Language Part 1: Var & Let	video:SkipWilson:beginner	20140912
+advanced	https://www.youtube.com/watch?v=Y9FKMW0dhLE	‪Swift programming language tutorial: Sentiment Analysis with HP IDOL On Demand‬	video:SkipWilson	20140922
+advanced	https://www.youtube.com/watch?v=iCZVI_fGPeg	‪Swift SpriteKit Tutorial Part 1(Revised): Background‬	video:SkipWilson:SpriteKit	20141105
+advanced	https://www.youtube.com/watch?v=xzKw68D1gKc	‪Swift SpriteKit Tutorial Part 2(Revised): The Hero‬	video:SkipWilson:SpriteKit	20141105
+advanced	https://www.youtube.com/watch?v=e2qHv0qlC_g	‪Swift SpriteKit Tutorial Part 3(Revised): The Bad Guys‬	video:SkipWilson:SpriteKit	20141106
+advanced	https://www.youtube.com/watch?v=yVARqZ0wUlg	‪Swift SpriteKit Tutorial Part 4(Revised): The Bad Guys Collide‬	video:SkipWilson:SpriteKit	20141106
+advanced	https://www.youtube.com/watch?v=1fEmwKzR00s	‪Swift SpriteKit Tutorial Part 5(Revised): Emitting Particles‬	video:SkipWilson:SpriteKit	20141106
+advanced	https://www.youtube.com/watch?v=HrJuWyDmYlU	‪Swift SpriteKit Tutorial Part 6(Revised): Timers and Resets‬	video:SkipWilson:SpriteKit	20141106
+advanced	https://www.youtube.com/watch?v=lJS4YWUT8Hk	‪Intro to Info.plists for Everyone in Swift‬	video:SkipWilson	20150226
+advanced	https://www.youtube.com/watch?v=97DaTiZhkjA	‪Swift for Absolute Beginners Part 5‬	video:SkipWilson	20150328
+advanced	https://www.youtube.com/watch?v=0vP5OjLeAGo	‪Introduction to XCode Basics Tutorial‬	video:SkipWilson	20151119
+advanced	https://www.youtube.com/watch?v=0wJ2ivyN_7E	Swift Tutorial: 2.0 Differences 04 - Where	video:MadApper	20150921
+advanced	https://www.youtube.com/watch?v=t96UM9U8IVk	Swift Tutorial: 2.0 Differences 05 - Recursive Enums	video:MadApper	20150923
+advanced	https://www.youtube.com/watch?v=Wm0vpkY8k6o	‪Swift Tutorial: 2.0 Differences 06 - ErrorType‬	video:MadApper	20150925
+advanced	https://www.youtube.com/watch?v=o0OII_sXtmo	‪Swift Tutorial: 2.0 Differences 07 - Do Try Catch‬	video:MadApper	20150928
+advanced	https://www.youtube.com/watch?v=NxEat6ASRu4	‪Swift Tutorial: 2.0 Differences 08 - Error Handling‬	video:MadApper	20150930
+advanced	https://www.youtube.com/watch?v=_TCMzA5n16I	‪Swift Tutorial: 2.0 Differences 09 - Optional Error Handling‬	video:MadApper	20151002
+advanced	https://www.youtube.com/watch?v=Jpkcw0exWdY	‪Swift Tutorial: 2.0 Differences 10 - Guard‬	video:MadApper	20151005
+advanced	https://www.youtube.com/watch?v=1EXfqv1Pl-g	Swift Tutorial: 2.0 Differences 11 - Defer	video:MadApper	20151007
+advanced	https://www.youtube.com/watch?v=O83L9e7hxgk	Swift Tutorial: 2.0 Differences 12 - Option Set Type	video:MadApper	20151009
+advanced	https://www.youtube.com/watch?v=b1UX9hc_SCE	‪Swift Tutorial: 2.0 Differences 13 - Availability‬	video:MadApper	20151012
+advanced	https://www.youtube.com/watch?v=7K6TBLbs7Vs	Swift Tutorial: Protocol Oriented Programming - Introduction	video:MadApper	20151014
+advanced	https://www.youtube.com/watch?v=Fv5G1CjiOs8	‪Swift Tutorial: Protocol Oriented Programming - Protocol Inheritance‬	video:MadApper	20151016
+advanced	https://www.youtube.com/watch?v=exkaXqvbHiQ	Swift Tutorial: Protocol Oriented Programming - Protocol Extensions	video:MadApper	20151019
+advanced	https://www.youtube.com/watch?v=FIO-RCe2lkE	Swift Tutorial: Protocol Oriented Programming - Multiple Protocols	video:MadApper	20151021
+advanced	https://www.youtube.com/watch?v=_I9R4_32qaE	Swift Tutorial: Protocol Oriented Programming - Binary Operators	video:MadApper	20151023
+advanced	https://www.youtube.com/watch?v=Ks96mDRqJQc	Mac Development Part 1 (Hello Mac)	video:AzamSharp:mac	20150428
+advanced	https://www.youtube.com/watch?v=HyrehmBLmcQ	Arrived - iBeacon Tracking	video:AzamSharp	20150511
+advanced	https://www.youtube.com/watch?v=iqzXrRRvENM	Museum Tour iBeacon Enabled Application	video:AzamSharp	20150517
