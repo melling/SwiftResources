@@ -451,10 +451,6 @@ advanced	http://peterwitham.com/swift/intermediate/alert-with-user-entry	Display
 beginner	http://www.codingexplorer.com/hello-world-first-ios-app-swift	Hello World! Your first iOS App in Swift	beginner	20150106
 advanced	http://randexdev.com/2014/08/uicollectionviewcell	How to create custom cells for UICollectionView using Swift	UICollectionView	20140830
 advanced	http://realm.io/news/3d-graphics-metal-swift	An Introduction to 3D Graphics with Metal in Swift	metal:video	20150107
-advanced	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App Tutorial! Part 1	video	20141217
-advanced	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App Tutorial! Part 2	video	20150106
-advanced	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	video	20150110
-advanced	http://www.youtube.com/watch?v=eCGBHuMOW44	Swift Programming: 2048 App Tutorial! Part 4	video	20150127
 advanced	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	AudioKit	20150111
 libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
 sites	http://swiftlang.eu	SwiftLang.eu		20010101
@@ -718,7 +714,6 @@ advanced	http://www.raywenderlich.com/96062/custom-view-controller-presentation-
 advanced	http://five.agency/solving-the-binding-problem-with-swift	Solving the binding problem with Swift		20150218
 advanced	http://five.agency/how-to-create-an-interactive-blur-effect-in-ios8	How to create an interactive blur effect in iOS8		20141028
 advanced	http://iphonedev.tv/blog/2015/2/9/swift-12-fixes-and-breaks-a-few-things-you-should-be-excited	Swift 1.2 fixes and breaks a few things: you should be excited!		20150209
-advanced	http://www.youtube.com/user/CodeWithChris/videos	Code with Chris	video	20010101
 advanced	http://flexmonkey.blogspot.com/2015/02/swifter-swift-image-processing-with.html	Swifter Swift Image Processing With GPUImage		20150222
 advanced	http://www.figure.ink/blog/2015/2/22/literal-enumerations	Literal Enumerations	enum	20150222
 advanced	http://www.ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift	Use Settings with NSUserDefaults in iOS8 with Swift		20150223
@@ -2928,3 +2923,83 @@ advanced	http://www.mav3r1ck.io/spritekit-with-swift-iv	SpriteKit with Swift IV	
 advanced	http://www.mav3r1ck.io/spritekit-with-swift-v	SpriteKit with Swift V	SpriteKit	20151115
 advanced	http://www.mav3r1ck.io/particle-emitter-with-spritekit	Particle Emitter with SpriteKit	SpriteKit:ParticleEmitter	20151205
 advanced	http://www.mav3r1ck.io/spritekit-with-swift-introducing-the-level-editor-2	Introducing the SpriteKit Level Editor	SpriteKit	20151220
+advanced	http://ericasadun.com/2016/01/15/3-simple-for-in-iteration-tricks	3 simple for-in iteration tricks		20151115
+advanced	http://christiantietze.de/posts/2016/01/table-view-identifier-view-model	How to Couple UITableView Cell Identifiers and View Models	UITableViewCell	20151116
+libs	http://github.com/kciter/KCHorizontalDial	A horizontal scroll dial like Instagram		20010101
+advanced	http://www.youtube.com/user/CodeWithChris/videos	Code with Chris: All Videos	video:CodeWithChris	20010101
+advanced	http://youtu.be/CtdvDxTnd8Q	How To Use Parse (Swift, Xcode) - Ep 1 - Sign up for Parse	ParseSDK:video	20151111
+advanced	http://youtu.be/z4tACSHavlg	‪How To Use Parse (Swift, Xcode) - Ep 2 - Integrate Parse SDK with Cocoapods‬	ParseSDK:video	20151112
+advanced	http://youtu.be/W37GkM1nH6Y	‪How To Use Parse (Swift, Xcode) - Ep 3 - Save Data to Parse‬	ParseSDK:video	20151113
+advanced	http://youtu.be/XdXFd2AYpIs	‪How To Use Parse (Swift, Xcode) - Ep 4 - Retrieve Data from Parse‬	ParseSDK:video	20151114
+advanced	http://youtu.be/3xjdF0T8tjg	‪How To Use Parse (Swift, Xcode) - Ep 5 - Updating and Deleting Objects‬	ParseSDK:video	20151115
+advanced	https://www.youtube.com/watch?v=m_16DvzHs5g	‪How To Make a Soundboard App (Star Wars theme) - Ep 01‬	video:CodeWithChris	20150104
+advanced	https://www.youtube.com/watch?v=I0MugLFQiHo	‪How To Make a Soundboard App (Star Wars theme) - Ep 02 Xcode Project Set up‬	video:CodeWithChris	20150105
+advanced	https://www.youtube.com/watch?v=mjK6GVVaMqo	‪How To Make a Soundboard App (Star Wars theme) - Ep 03 Play Sounds‬	video:CodeWithChris	20150106
+advanced	https://www.youtube.com/watch?v=lhb9pAgUyAU	‪How To Make a Soundboard App (Star Wars theme) - Ep 04 Style the App‬	video:CodeWithChris	20150107
+advanced	https://www.youtube.com/watch?v=oNKVVBN2JN0	‪CocoaPods Tutorial - How to install and setup Cocoa Pods for Xcode‬	video:CodeWithChris:CocoaPods:Xcode	20151222
+advanced	https://www.youtube.com/watch?v=Brei27hdnF8	‪How To Use Alamofire for Networking in your Xcode project (Cocoapod install)‬	video:CodeWithChris:Alamofire	20151223
+advanced	https://www.youtube.com/watch?v=RFuRnKwMS3w	‪SDWebImage Tutorial - Display images from a URL‬	video:CodeWithChris	20151224
+advanced	https://www.youtube.com/watch?v=Rqr3w8scm2E	‪SwiftyJSON Tutorial - Cocoapod install‬	video:CodeWithChris	20151228
+advanced	https://www.youtube.com/watch?v=ZpK5KQdn95w	‪Use SVProgressHUD for Loading spinners, Progress and Status messages - Cocoapod install‬	video:CodeWithChris	20151229
+advanced	https://www.youtube.com/watch?v=hBVxOqFbcBk	‪SnapKit Tutorial for Autolayout Constraints‬	video:CodeWithChris:SnapKit:AutoLayout	20151230
+advanced	https://www.youtube.com/watch?v=oY-lQHJJ2zM	‪iOS Keychain Access with Locksmith Tutorial (Cocoapod Install)‬	video:CodeWithChris	20151231
+advanced	https://www.youtube.com/watch?v=Dxuy4pagxiY	Build a Shopping App with Moltin - Ep 1 - Introduction	video:CodeWithChris	20151207
+advanced	https://www.youtube.com/watch?v=L0gSi3HUo3o	‪Build a Shopping App with Moltin - Ep 2 - Setting up your store‬	video:CodeWithChris	20151208
+advanced	https://www.youtube.com/watch?v=2Ai433HaTjo	Build a Shopping App with Moltin - Ep 3 - Xcode project, Cocoapods and Moltin SDK	video:CodeWithChris	20151209
+advanced	https://www.youtube.com/watch?v=lim3t6xdbXg	‪Build a Shopping App with Moltin - Ep 4 - Listing our Products‬	video:CodeWithChris	20151210
+advanced	https://www.youtube.com/watch?v=yFv3nHw0eRw	Build a Shopping App with Moltin - Ep 5 - Product Details	video:CodeWithChris	20151211
+advanced	https://www.youtube.com/watch?v=Lcy3lCQzq1w	‪Build a Shopping App with Moltin - Ep 6 - Add to Cart‬	video:CodeWithChris	20151214
+advanced	https://www.youtube.com/watch?v=g157A59d_CY	Build a Shopping App with Moltin - Ep 7 - Checkout	video:CodeWithChris	20151215
+advanced	https://www.youtube.com/watch?v=YGIyaim_5kw	‪How To Make a YouTube Video App - Ep 10 - YouTube Data API, Alamofire‬	video:CodeWithChris	20151216
+advanced	https://www.youtube.com/watch?v=7xUSH1QLHzk	‪How To Make a YouTube Video App - Ep 11 - Retrieving the Playlist Videos‬	video:CodeWithChris	20151217
+advanced	https://www.youtube.com/watch?v=VkvpwEAriu4	‪How To Make a YouTube Video App - Ep 12 - Creating the video objects‬	video:CodeWithChris	20151218
+advanced	https://www.youtube.com/watch?v=wzl_195ceFc	How To Make a YouTube Video App - Ep 13 - Displaying dynamic videos	video:CodeWithChris	20151221
+advanced	https://www.youtube.com/watch?v=zG7qgyA5Gb4	How To Play a Movie Stream using AVPlayerViewController	video:CodeWithChris:PlayVideo	20151203
+advanced	https://www.youtube.com/watch?v=N7fE93tvqqk	How To Play a Local Video File in Your App using AVPlayerViewController	video:CodeWithChris:PlayVideo	20151204
+advanced	https://www.youtube.com/watch?v=JDbEgOsWGG4	‪How To Make a YouTube Video App - Ep 01‬	video:CodeWithChris	20151118
+advanced	https://www.youtube.com/watch?v=DO_3ECSL0rc	How To Make a YouTube Video App - Ep 02 - Adding the UITableView	video:CodeWithChris	20151119
+advanced	https://www.youtube.com/watch?v=48kekFLZkXU	‪How To Make a YouTube Video App - Ep 03 - Creating the Video Data‬	video:CodeWithChris	20151120
+advanced	https://www.youtube.com/watch?v=AZxK_6OQV7c	How To Make a YouTube Video App - Ep 04 - Displaying Video Titles	video:CodeWithChris	20151124
+advanced	https://www.youtube.com/watch?v=mlzu_DXtG80	‪How To Make a YouTube Video App - Ep 05 - Video Thumbnails‬	video:CodeWithChris	20151125
+advanced	https://www.youtube.com/watch?v=nVu0naGTS_I	How To Make a YouTube Video App - Ep 06 - Titles on Thumbnails	video:CodeWithChris	20151126
+advanced	https://www.youtube.com/watch?v=ewSBggmhfrE	‪How To Make a YouTube Video App - Ep 07‬	video:CodeWithChris	20151127
+advanced	https://www.youtube.com/watch?v=MkPQEXK5lRE	How To Make a YouTube Video App - Ep 08 - Custom class detail view controller	video:CodeWithChris	20151128
+advanced	https://www.youtube.com/watch?v=kHU8sdqxmKA	How To Make a YouTube Video App - Ep 09 - Displaying the Video Detail Views	video:CodeWithChris	20151202
+advanced	https://www.youtube.com/watch?v=ojbb6nGvIi8	‪How To Make an App - Ep 1 - Tools and Materials (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=Oeb4VtuCc8c	‪How To Make an App - Ep 2 - Xcode 7 and Playgrounds (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=CYZYcEi8Ll4	‪How To Make an App - Ep 3 - Xcode 7 Tutorial (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=N9IoWM9pcOg	How To Make an App - Ep 4 - App Anatomy (Xcode 7, iOS 9)	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=wkVZuNQyJzA	‪How To Make an App - Ep 5 - Your First Swift App (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=wJVjuALsJ0g	‪How To Make an App - Ep 6 - Auto Layout in Xcode 7 (iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=hqhAY8tb1fg	‪How To Make an App - Ep 7 - Size Classes in Xcode 7 (iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=n6cbqjs0KEg	How To Make an App - Ep 8 - Completing the UI (Xcode 7, iOS 9)	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=m9xfgToMNkg	‪How To Make an App - Ep 9 - Building Blocks of Swift Programming (Swift 2, Xcode 7)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=8T7r94wjg9w	How To Make an App - Ep 10 - Swift Subclassing and UIKit (Swift 2, Xcode 7)	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=LNs25ecXnxk	How To Make an App - Ep 11 - Swift IBOutlet Properties (Xcode 7, Swift 2)	video:CodeWithChris:beginner	20151023
+advanced	https://www.youtube.com/watch?v=wxiRx77XFN8	‪How To Make an App - Ep 12 - Methods and Button Taps (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=mM-FQHIctTA	‪How To Make an App - Ep 13 - Image Asset Library in Xcode 7 (Swift 2, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=n39h7gK1Q40	How To Make an App - Ep 14 - Randomizing the cards (Xcode 7, Swift 2, iOS 9)	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=3yU9LWzw018	‪How To Make an App - Ep 15 - Introducing Arrays in Swift (Xcode 7, Swift 2)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=tkx06nlP15s	‪How To Make an App - Ep 16 - Determining a Winner with IF Statements (Xcode 7)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=vJKctN58qrU	‪How To Make an App - Ep 17 - Styling and Keeping Score (Xcode 7, Swift 2)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=6hG9U1-4jPk	‪How to Build a Simple iOS Chat App - Ep 1 - Demo of the Simple Chat App‬	ParseSDK:video	20150217
+advanced	https://www.youtube.com/watch?v=QtQgXD22AsA	‪How to Build a Simple iOS Chat App - Ep 2 - Signing up for Parse‬	ParseSDK:video	20150218
+advanced	https://www.youtube.com/watch?v=R6dWA1uSMos	‪How to Build a Simple iOS Chat App - Ep 3 - Adding the Parse Framework into a Swift Xcode Project‬	ParseSDK:video	20150223
+advanced	https://www.youtube.com/watch?v=TT9tI40MM_Q	How to Build a Simple iOS Chat App - Ep 4 - Building the User Interface in Xcode 6	ParseSDK:video	20150225
+advanced	https://www.youtube.com/watch?v=NLfttsQCKvw	How to Build a Simple iOS Chat App - Ep 5 - Hooking up the UITableView	ParseSDK:video	20150301
+advanced	https://www.youtube.com/watch?v=rIC8sc7bj20	‪How to Build a Simple iOS Chat App - Ep 6 - Building and Animating the Message Dock‬	ParseSDK:video	20150310
+advanced	https://www.youtube.com/watch?v=VpOTW21TeJQ	How to Build a Simple iOS Chat App - Ep 7 - Saving data to Parse backend	ParseSDK:video	20150311
+advanced	https://www.youtube.com/watch?v=JdIeCtL-Wmc	How to Build a Simple iOS Chat App - Ep 8 - Retrieving data from Parse backend	ParseSDK:video	20150313
+advanced	https://www.youtube.com/watch?v=JDA_IKuhsH4	SWIFT for beginners - Snake	video:BuildingBuddies:beginner	20150618
+advanced	https://www.youtube.com/watch?v=0iAvcGsbFec	‪iOS 9 Scenekit Tutorial‬	video:BuildingBuddies:SceneKit	20150906
+advanced	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App Tutorial! Part 1	video:BuildingBuddies	20141217
+advanced	http://www.youtube.com/watch?v=dM9KtxyUSsU	Swift Programming: 2048 App Tutorial! Part 2	video:BuildingBuddies	20150106
+advanced	http://www.youtube.com/watch?v=snBBeOVhuZQ	Swift Programming: 2048 App Tutorial! Part 3	video:BuildingBuddies	20150110
+advanced	http://www.youtube.com/watch?v=eCGBHuMOW44	Swift Programming: 2048 App Tutorial! Part 4	video:BuildingBuddies	20150127
+advanced	https://www.youtube.com/watch?v=H0tDN3UgRWo	Swift Programming: 2048 App Tutorial! Part 5	video:BuildingBuddies	20150214
+advanced	https://www.youtube.com/watch?v=uTBeiNpymhs	Swift Programming: 2048 App Tutorial! Part 6	video:BuildingBuddies	20150220
+advanced	https://www.youtube.com/watch?v=QTz5rqtn4kQ	Swift Programming: 2048 App Tutorial! Part 7	video:BuildingBuddies	20150304
+advanced	https://www.youtube.com/watch?v=uOi9UW5Joeo	‪Swift Programming: 2048 App Tutorial!! FINALE‬	video:BuildingBuddies	20150427
+advanced	https://www.youtube.com/watch?v=UXhfQZQ3N4c	Scenekit for Absolute Beginners	video:BuildingBuddies:SceneKit	20150311
+advanced	https://www.youtube.com/watch?v=kjJyRXk-7xg	‪Scenekit for beginners - Hit testing tutorial!!‬	video:BuildingBuddies:SceneKit	20150316
+advanced	https://www.youtube.com/watch?v=cPgsn2tDn1c	‪iOS Xcode Tutorial: Universal Storyboard‬	video:BuildingBuddies:Storyboard	20150411
