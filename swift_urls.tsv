@@ -25,7 +25,7 @@ advanced	http://java.dzone.com/articles/real-time-fluid-dynamics-swift	Real Time
 advanced	http://java.dzone.com/articles/swift-and-core-data-saving	swift-and-core-data-saving	CoreData	20141104
 advanced	http://leverich.github.io/swiftislikescala	Swift is a lot like Scala		20010101
 advanced	http://medium.com/@glenyi/cardano-triplets-in-swift-114692293795	Cardano Triplets in Swift		20140824
-advanced	http://medium.com/swift-programming/facets-of-swift-part-5-custom-operators-1080bc78ccc	Facets of Swift, Part 5: Custom Operators	SwiftLang	20141005
+advanced	http://medium.com/swift-programming/facets-of-swift-part-5-custom-operators-1080bc78ccc	Facets of Swift, Part 5: Custom Operators	SwiftLang:Operators	20141005
 advanced	http://memkite.com/blog/2014/12/15/data-parallel-programming-with-metal-and-swift-for-iphoneipad-gpu	Data-Parallel Programming with Metal and Swift for iPhone/iPad GPU	metal	20141215
 advanced	http://memkite.com/blog/2014/12/18/gpgpu-performance-of-swiftmetal-vs-accelerate-on-iphone-6-5s-ipad-air-and-ipad-mini	GPGPU Performance of Swift/Metal vs Accelerate	metal	20141218
 advanced	http://mikeash.com/pyblog/friday-qa-2014-07-18-exploring-swift-memory-layout.html	Exploring Swift Memory Layout		20140718
@@ -38,8 +38,8 @@ advanced	http://robots.thoughtbot.com/introduction-to-function-currying-in-swift
 advanced	http://robots.thoughtbot.com/using-the-dropbox-objectivec-api-in-swift	Using the Dropbox Objective-C API in Swift		20141208
 advanced	http://sketchytech.blogspot.com/2014/12/swift-quiet-affair-of-fallible.html	The quiet affair of the failable initializer and the nil coalescing operator		20141216
 advanced	http://www.cimgf.com/2014/11/05/swift-and-valueforkeypath-you-cant-keep-a-good-api-down	Swift And ValueForKeypath: You Can’t Keep A Good API Down!		20141105
-advanced	http://www.codingexplorer.com/custom-operators-swift	Custom Operators		20141209
-advanced	http://www.codingexplorer.com/swift-operator-overloading	Operator Overloading		20141013
+advanced	http://www.codingexplorer.com/custom-operators-swift	Custom Operators	Operators	20141209
+advanced	http://www.codingexplorer.com/swift-operator-overloading	Operator Overloading	Operators	20141013
 advanced	http://www.ioscreator.com/tutorials/draw-gradients-core-graphics-ios8-swift	Draw Gradients with Core Graphics in iOS8 with Swift		20141029
 advanced	http://www.iosmike.com/2014/08/unit-testing-viewcontrollers-in-swift.html	Unit Testing ViewControllers In Swift With IOS 8 And Xcode 6	testing	20141018
 advanced	http://www.jessesquires.com/swift-failable-initializers	Swift Failable Initializers		20141022
@@ -84,7 +84,7 @@ libs	http://github.com/kylef/QueryKit	A simple CoreData query language for Swift
 libs	http://github.com/lexrus/LTBouncyPlaceholder	A learning-by-doing UITextField extension	UITextfield	20010101
 libs	http://github.com/lexrus/LTMorphingLabel	Cloning the original Morphing Label of iOS 8 introduced in WWDC 2014		20010101
 libs	http://github.com/mattdonnelly/Swifter	Twitter Framework	twitter	20010101
-libs	http://github.com/mattt/Euler	Swift Custom Operators for Mathematical Notation		20010101
+libs	http://github.com/mattt/Euler	Swift Custom Operators for Mathematical Notation	Operators	20010101
 libs	http://github.com/nghialv/Net	Http Request wrapper		20010101
 libs	http://github.com/pkluz/PKHUD	Reimplementation of the Apple HUD (Volume, Ringer, Rotation,...		20010101
 libs	http://github.com/practicalswift/Pythonic.swift	Pythonic Swift		20010101
@@ -166,7 +166,7 @@ advanced	http://minutestomidnight.net/blog/2014/12/improving-swift-optional-unwr
 advanced	http://natashatherobot.com/swift-nsdecimalnumber	The Curious Case of NSDecimalNumber		20141030
 advanced	http://natashatherobot.com/swift-using-map-to-deal-with-optionals	Using Map to Deal with Optionals		20141128
 advanced	http://natashatherobot.com/xcode-6-add-image-assets-to-playground	XCode 6: How To Add Image Assets To Your Playground		20140927
-advanced	http://natecook.com/blog/2014/11/swifts-elusive-tilde-gt-operator	A Look At Swift's Elusive ~> Operator	SwiftLang	20141125
+advanced	http://natecook.com/blog/2014/11/swifts-elusive-tilde-gt-operator	A Look At Swift's Elusive ~> Operator	SwiftLang:Operators	20141125
 advanced	http://nomothetis.svbtle.com/error-handling-in-swift	Error Handling in Swift: Might and Magic	exceptions	20140629
 advanced	http://nshipster.com/apple-pay	Pay	ApplePay	20141208
 advanced	http://nshipster.com/nsundomanager	NSUndo​Manager		20141215
@@ -275,7 +275,7 @@ advanced	http://www.raywenderlich.com/84043/ios-8-visual-effects-tutorial	iOS 8 
 advanced	http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial	iOS 8 Today Extension Tutorial	extension	20140925
 advanced	http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial	Beginning Adaptive Layout Tutorial	AdaptiveLayout	20140922
 advanced	http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift	How To Use UIScrollView to Scroll and Zoom Content in Swift	uiscrollview	20141213
-advanced	http://www.raywenderlich.com/80818/operator-overloading-in-swift-tutorial	Operator Overloading in Swift Tutorial		20140919
+advanced	http://www.raywenderlich.com/80818/operator-overloading-in-swift-tutorial	Operator Overloading in Swift Tutorial	Operators	20140919
 advanced	http://www.raywenderlich.com/82599/swift-functional-programming-tutorial	Swift Functional Programming Tutorial	functional	20140918
 advanced	http://www.raywenderlich.com/82572/swift-generics-tutorial	Swift Generics Tutorial	generics	20140917
 advanced	http://www.raywenderlich.com/76735/using-nsurlprotocol-swift	Using NSURLProtocol with Swift	NSURLProtocol	20140903
@@ -345,7 +345,7 @@ advanced	http://iosdeveloperzone.com/2014/10/07/swift-standard-library-transcode
 advanced	http://iosdeveloperzone.com/2014/10/06/simplifying-autolayout-code-with-swift	Simplifying Autolayout Code with Swift	AutoLayout	20141006
 advanced	http://iosdeveloperzone.com/2014/10/03/using-commoncrypto-in-swift	Using CommonCrypto in Swift		20141003
 advanced	http://www.screaming.org/blog/2014/09/09/toy-layout-engine-3	Let's Build a Browser Engine in Swift, Part 3		20140909
-advanced	http://sketchytech.blogspot.com/2014/12/swift-failing-with-class.html	Swift: Failing with Class (failable initializer, nil coalescing operator)		20141218
+advanced	http://sketchytech.blogspot.com/2014/12/swift-failing-with-class.html	Swift: Failing with Class (failable initializer, nil coalescing operator)	Operators	20141218
 advanced	http://mookid.dk/oncode/archives/3780	Playing with UIView shadows	UIView	20140616
 advanced	http://mookid.dk/oncode/archives/3815	Swift gesture recognizer that accepts a func	gesture	20140621
 advanced	http://mookid.dk/oncode/archives/3795	How to create a draggable cookie with Swift		20140621
@@ -403,7 +403,7 @@ advanced	http://natecook.com/blog/2014/08/generic-functions-for-incompatible-typ
 advanced	http://natecook.com/blog/2014/09/introducing-swifter	Introducing Swifter		20140905
 advanced	http://natecook.com/blog/2014/09/slicing-for-speed	Slicing for Speed	Array	20140917
 advanced	http://nshipster.com/cmdevicemotion	CMDevice Motion		20141028
-advanced	http://natecook.com/blog/2014/10/ternary-operators-in-swift	Custom Ternary Operators in Swift	SwiftLang	20141029
+advanced	http://natecook.com/blog/2014/10/ternary-operators-in-swift	Custom Ternary Operators in Swift	SwiftLang:Operators	20141029
 advanced	http://medium.com/swift-programming/learn-nsurlsession-using-swift-ebd80205f87c	Learn NSURLSession using Swift Part 1 - HTTP/HTTP GET	NSURLSession:NSUrl	20141103
 advanced	http://medium.com/swift-programming/learn-nsurlsession-using-swift-part-2-background-download-863426842e21	Learn NSURLSession using Swift Part 2 — Background download	NSURLSession:NSUrl	20141104
 advanced	http://medium.com/swift-programming/learn-nsurlsession-using-swift-part-3-upload-3a5be9a69950	Learn NSURLSession using Swift Part 3— Upload	NSURLSession:NSUrl	20141106
@@ -454,7 +454,7 @@ advanced	http://realm.io/news/3d-graphics-metal-swift	An Introduction to 3D Grap
 advanced	http://flexmonkey.blogspot.com/2015/01/sound-synthesis-in-swift-revisited-with.html	Sound Synthesis in Swift Revisited with AudioKit	AudioKit	20150111
 libs	http://github.com/ArtSabintsev/Siren	Notify users when a new version of your iOS app is available		20010101
 sites	http://swiftlang.eu	SwiftLang.eu		20010101
-advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift		20141228
+advanced	http://gilesvangruisen.com/writing-a-pipeline-operator-in-swift	Writing a pipeline operator in Swift	Operators	20141228
 advanced	http://gilesvangruisen.com/all-about-table-views	All about table views	UITableView	20141105
 libs	http://github.com/davecom/SwiftGraph	SwiftGraph:  A Graph Data Structure	algorithm	20010101
 advanced	http://meghagulati.com/2015/01/04/integrating-stripe-in-swift-with-custom-view	Integrating Stripe in Swift with Custom View		20150104
@@ -472,11 +472,11 @@ advanced	http://www.ioscreator.com/tutorials/dynamic-types-tutorial-ios8-swift	D
 advanced	http://vperi.com/2014/06/06/discriminated-unions-in-swift	discriminated unions		20140606
 advanced	http://vperi.com/2014/06/08/regular-expressions-in-switch-statements	regular expressions in switch statements	regex	20140608
 advanced	http://vperi.com/2014/06/07/list-traversal-with-discriminated-unions-in-swift	list traversal with discriminated unions		20140607
-advanced	http://vperi.com/2014/06/05/function-composition-pipelining-in-swift	function composition & pipelining operators		20140605
-advanced	http://vperi.com/2014/06/05/spaceship-operator-in-swift	spaceship operator		20140605
+advanced	http://vperi.com/2014/06/05/function-composition-pipelining-in-swift	function composition & pipelining operators	Operators	20140605
+advanced	http://vperi.com/2014/06/05/spaceship-operator-in-swift	spaceship operator	Operators	20140605
 advanced	http://vperi.com/2014/06/04/slicing-arrays-in-swift	slicing arrays	Array	20140604
 advanced	http://vperi.com/2014/06/05/singleton-pattern-in-swift	singleton pattern	singleton	20140605
-advanced	http://vperi.com/2014/06/05/null-coalescing-operator-elvis-in-swift	null coalescing operator (elvis)		20140605
+advanced	http://vperi.com/2014/06/05/null-coalescing-operator-elvis-in-swift	null coalescing operator (elvis)	Operators	20140605
 advanced	http://vperi.com/2014/06/17/swift-builders	swift builders		20140617
 advanced	http://www.codingexplorer.com/create-uicolor-swift	How to Create a UIColor in Swift	color	20150115
 advanced	http://chris.eidhof.nl/posts/functional-view-controllers.html	Functional View Controllers	functional	20150113
@@ -591,7 +591,7 @@ advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	Sprite
 advanced	http://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2		20140609
 advanced	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift	subscript	20140616
 advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift	keyboard	20140627
-advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	video:json:SwiftLang	20140709
+advanced	http://www.weheartswift.com/swift-thinking	Swift Thinking – Operator Overloading & JSON Parsing	video:json:SwiftLang:Operators	20140709
 advanced	http://www.weheartswift.com/playing-strings	Playing with Strings	string	20140926
 advanced	http://medium.com/swift-programming/ios-make-an-awesome-video-background-view-objective-c-swift-318e1d71d0a2	iOS: Make an Awesome Video Background View Using UIWebView (Objective-C & Swift)		20140726
 advanced	http://waynewbishop.com/swift/stacks-queues	Stacks & Queues	algorithm	20010101
@@ -606,8 +606,8 @@ advanced	http://waynewbishop.com/swift/heaps	Heaps		20010101
 advanced	http://waynewbishop.com/swift/traversals	Traversals		20010101
 advanced	http://www.codingexplorer.com/swift-property-observers	Swift Property Observers		20140923
 advanced	http://medium.com/swift-programming/float-rating-view-in-swift-e740b6b9404d	Float Rating View in Swift	CALayer	20140921
-advanced	http://blog.mariusschulz.com/2014/09/14/playing-with-closure-expressions-and-operator-functions-in-swift	Playing with Closure Expressions and Operator Functions in Swift	functional	20140914
-advanced	http://nshipster.com/swift-comparison-protocols	Swift Comparison Protocols		20140922
+advanced	http://blog.mariusschulz.com/2014/09/14/playing-with-closure-expressions-and-operator-functions-in-swift	Playing with Closure Expressions and Operator Functions in Swift	functional:Operators	20140914
+advanced	http://nshipster.com/swift-comparison-protocols	Swift Comparison Protocols	protocol	20140922
 advanced	http://mathewsanders.com/animated-transitions-in-swift	Prototyping Animated Transitions in Swift	transitions	20140905
 advanced	http://mathewsanders.com/custom-menu-transitions-in-swift	Transitions in Swift (Part II)	transitions	20140907
 advanced	http://mathewsanders.com/interactive-transitions-in-swift	Transitions in Swift (Part III)	transitions	20140914
@@ -665,7 +665,7 @@ advanced	http://makeapppie.com/2014/10/20/swift-swift-using-attributed-strings-i
 advanced	http://makeapppie.com/2014/10/21/swift-swift-formatting-a-uipickerview	Swift Swift: Formatting a UIPickerView		20141021
 advanced	http://makeapppie.com/2014/10/23/kinderswift-episode-3-variable-assignment-in-the-xcode-playground	KinderSwift Episode 3: Variable Assignment in the Xcode Playground	video	20141023
 advanced	http://makeapppie.com/2014/10/28/swift-swift-using-uiwebviews-in-swift	Swift Swift: Using UIWebViews in Swift		20141028
-advanced	http://makeapppie.com/2014/10/31/kinderswift-4-increments-and-math-operators	KinderSwift 4: Increments and Math Operators	video	20141031
+advanced	http://makeapppie.com/2014/10/31/kinderswift-4-increments-and-math-operators	KinderSwift 4: Increments and Math Operators	video:Operators	20141031
 advanced	http://makeapppie.com/2014/11/07/swift-swift-basic-auto-layout-for-ios8	Swift Swift: Basic Auto Layout for iOS8	video:AutoLayout	20141107
 advanced	http://makeapppie.com/2014/11/07/kinderswift-5-make-me-a-double	Kinderswift 5: Make Me a Double	video	20141107
 advanced	http://makeapppie.com/2014/11/14/swift-swift-using-auto-layout-with-size-classes	Swift Swift: Using Auto Layout with Size Classes	video:AutoLayout	20141114
@@ -706,7 +706,7 @@ beginner	http://makeapppie.com/2015/02/17/swift-swift-tutorials-introducing-tabl
 advanced	http://blog.human-friendly.com/swift-1-dot-2-presentation-and-notes-swift-london-17th-feb	Swift 1.2 Presentation and Notes (Swift London 17th Feb)		20150217
 advanced	http://www.raywenderlich.com/95910/uiview-animation-swift-tutorial	UIView Animation with Swift Tutorial	animation	20150218
 advanced	http://www.andrewcbancroft.com/2015/02/18/core-data-cheat-sheet-for-swift-ios-developers	Core Data Cheat Sheet for Swift iOS Developers	CoreData	20150218
-advanced	http://developer.apple.com/swift/blog/?id=23	The as! Operator		20150218
+advanced	http://developer.apple.com/swift/blog/?id=23	The as! Operator	Operators	20150218
 advanced	http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer	How To Implement A Circular Image Loader Animation with CAShapeLayer		20150219
 advanced	http://www.codingexplorer.com/swift-set-type	Swift Set Type in Swift 1.2	Set	20150219
 advanced	http://www.appdesignvault.com/custom-segmented-control-swift-tutorial	How to Build a Custom Segmented Control in Swift	video	20150220
@@ -740,7 +740,7 @@ advanced	http://www.objc.io/snippets/20.html	Configuration Values		20150302
 libs	http://github.com/jquave/LumaJSON	A super simple JSON helper	json	20010101
 advanced	http://oleb.net/blog/2015/02/truncated-text	Truncated Text in Mobile UIs		20150227
 advanced	http://oleb.net/blog/2015/02/minus-sign	The Minus Sign		20150226
-advanced	http://www.figure.ink/blog/2015/2/28/nil-coalescing-operator	Nil Coalescing Operator		20150228
+advanced	http://www.figure.ink/blog/2015/2/28/nil-coalescing-operator	Nil Coalescing Operator	Operators	20150228
 advanced	http://www.youtube.com/watch?v=9hgfNfG7EKQ	‪AzamSharp: Learning iOS Development Part 77 (Custom CheckBox in UITableView)‬	video:AzamSharp	20150301
 advanced	http://www.codingexplorer.com/integers-and-numeric-literals-in-swift	Integers and Numeric Literals in Swift		20150228
 advanced	http://sketchytech.blogspot.com/2015/03/type-safety-in-swift-opportunities-for.html	Type Safety in Swift: Opportunities for Control		20150302
@@ -1135,7 +1135,7 @@ advanced	http://ericasadun.com/2015/06/21/swift-todays-playground-fun-is-gamepla
 advanced	http://robots.thoughtbot.com/open-sourcing-tropos	Open Sourcing Tropos, Our iOS Weather App		20150621
 advanced	http://nshipster.com/ios9	iOS 9		20150622
 advanced	http://www.ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift	Play Music with AVAudioPlayer in iOS8 with Swift	AVAudioPlayer	20150622
-advanced	http://sketchytech.blogspot.com/2015/06/functional-programming-understanding.html	Functional Programming: Understanding the Beauty of Custom Operators in Swift	functional	20150622
+advanced	http://sketchytech.blogspot.com/2015/06/functional-programming-understanding.html	Functional Programming: Understanding the Beauty of Custom Operators in Swift	functional:Operators	20150622
 advanced	http://ericasadun.com/2015/06/22/swift-new-favorite-workaround-hack	Swift: New favorite workaround hack		20150622
 advanced	http://ericasadun.com/2015/06/22/swift-dancing-the-error-mambo	Swift: Dancing the Error Mambo		20150622
 advanced	http://ericasadun.com/2015/06/22/dear-erica-how-do-i-check-for-multiple-enums-cases	Dear Erica: How do I check for multiple enums cases?	enum	20150622
@@ -1146,7 +1146,7 @@ advanced	http://natashatherobot.com/ios-using-the-wrong-dequeuereusablecellwithi
 advanced	http://peterwitham.com/swift/storyboard-references-beta-1	Xcode 7 Storyboard References (Beta 1)	storyboard	20150623
 advanced	http://ericasadun.com/2015/06/23/swift-little-things-that-still-drive-me-nuts	Swift: Little things that still drive me nuts		20150623
 advanced	http://ericasadun.com/2015/06/23/swift-developer-challenge-create-a-deck-of-cards	Swift Developer Challenge: Create a deck of cards		20150623
-advanced	http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator	Protocol extensions and the death of the pipe-forward operator	protocol	20150623
+advanced	http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator	Protocol extensions and the death of the pipe-forward operator	protocol:Operators	20150623
 advanced	http://robnapier.net/swift-is-not-functional	Swift Is Not Functional	functional	20140610
 advanced	http://sketchytech.blogspot.com/2015/06/fear-and-loathing-in-auto-layout_24.html	Fear and Loathing in Auto Layout: Content Compression Resistance Priority and Constraint Priority (Xcode 7 beta 2)	AutoLayout	20150624
 advanced	http://ericasadun.com/2015/06/24/swift-do-there-is-no-do-there-is-no-do-not-there-is-just-try	Swift: Do? There is no do. There is no do not. There is just try!		20150624
@@ -1328,7 +1328,7 @@ advanced	http://sketchytech.blogspot.com/2015/07/swift-20-throwing-vs-failing-vs
 advanced	http://www.raywenderlich.com/105437/implement-pathfinding-swift	How To Implement A* Pathfinding	algorithm	20150729
 advanced	http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift	iOS: A Beautiful Way of Styling IBOutlets		20150729
 advanced	http://ericasadun.com/2015/07/29/nils-vs-throws-in-swiftlang-part-ii	Nils vs Throws in #swiftlang Part II	exceptions	20150729
-advanced	http://swifttutorialhq.com/and-logical-operator	AND LOGICAL OPERATOR		20140626
+advanced	http://swifttutorialhq.com/and-logical-operator	AND LOGICAL OPERATOR	Operators	20140626
 advanced	http://swifttutorialhq.com/array	ARRAY	Array	20140626
 advanced	http://www.andrewcbancroft.com/2015/07/29/setting-up-carthage-for-the-terminal-timid	Setting Up Carthage for the Terminal-Timid		20150729
 advanced	http://ericasadun.com/2015/07/30/my-great-big-collection-of-conformances-and-associatedtypes-swiftlang	My great big collection of conformances and associatedTypes		20150730
@@ -1552,7 +1552,7 @@ advanced	http://swiftaday.com/post/129186540696/hex-drop	Swift A Day: Hex Drop		
 advanced	http://littlebitesofcocoa.com/80	little bites of cocoa:#80: View Controller Previews		20150911
 advanced	http://ericasadun.com/2015/09/11/split-swiftlang	Split #swiftlang	string	20150911
 advanced	http://flexmonkey.blogspot.com/2015/09/a-swift-node-based-user-interface.html	A Swift Node Based User Interface Component for iOS		20150912
-advanced	http://swifttutorialhq.com/ternary-conditional-operators	Ternary Conditional Operators	SwiftLang	20150913
+advanced	http://swifttutorialhq.com/ternary-conditional-operators	Ternary Conditional Operators	SwiftLang:Operators	20150913
 advanced	http://ericasadun.com/2015/09/13/swiftlang-challenge-alphabet-arrays	SwiftLang challenge: Alphabet arrays		20150913
 libs	http://github.com/DaveWoodCom/XCGLogger	XCGLogger - A debug log framework	logging	20010101
 libs	http://gist.github.com/chriseidhof/48243eb549481bc38d58	Reflection	SwiftLang:reflection	20010101
@@ -2143,7 +2143,7 @@ advanced	http://realm.io/news/jacob-schwartz-swift-features	F-Yeah Swift: 4 Feat
 advanced	http://www.thomashanning.com/type-casting-in-swift	Type Casting in Swift	SwiftLang	20151015
 advanced	http://littlebitesofcocoa.com/103	little bites of cocoa: #103: UIStackView in Code	UIStackView	20151014
 advanced	http://littlebitesofcocoa.com/104	little bites of cocoa: #104: Interactive Collection View Re-ordering	UICollectionView	20151015
-advanced	http://ericasadun.com/2015/10/15/wee-hack-du-jour-swift-lang-formatting-operator	Wee hack du jour #swift-lang : Formatting operator		20151015
+advanced	http://ericasadun.com/2015/10/15/wee-hack-du-jour-swift-lang-formatting-operator	Wee hack du jour #swift-lang : Formatting operator	Operators	20151015
 advanced	http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift	Optional Protocol Methods in Pure Swift	protocol	20151015
 advanced	http://roadfiresoftware.com/2015/10/how-to-parse-json-with-swift-2	How to parse JSON with Swift 2	json	20151015
 libs	http://github.com/remobjects/SwiftBaseLibrary			20010101
@@ -2762,7 +2762,7 @@ advanced	http://helpmecodeswift.com/sprite-kit/spritekit-game-from-scratch	Sprit
 advanced	http://helpmecodeswift.com/sprite-kit/spritekit-gameift-2-0-part-2	SpriteKit Game From Scratch, Swift 2.0, part 2	SpriteKit	20151124
 advanced	http://helpmecodeswift.com/sprite-kit/spritekit-game-from-scratch-swift-2-0-part-3	SpriteKit Game From Scratch, Swift 2.0, part 3	SpriteKit	20151230
 advanced	http://helpmecodeswift.com/sprite-kit/spritekit-game-from-scratch-swift-2-0-part-4	SpriteKit Game From Scratch, Swift 2.0, part 4	SpriteKit	20160107
-advanced	http://andybargh.com/2016/01/07/swift-operators	Precedence, Associativity and the Swift Operators		20160107
+advanced	http://andybargh.com/2016/01/07/swift-operators	Precedence, Associativity and the Swift Operators	Operators	20160107
 advanced	http://cpbotha.net/2016/01/07/closure-expressions-in-swift	Closure expressions in Swift	closure	20160107
 libs	http://github.com/jpedrosa/sua/blob/master/docs/ServerSocket.md		networking	20010101
 libs	http://github.com/samhann/Loader.swift	Add a facebook news feed style animation for your placeholder views		20010101
@@ -2791,7 +2791,7 @@ advanced	http://medium.com/the-traveled-ios-developers-guide/arc-swift-d323535ba
 advanced	http://ankit.im/swift/2016/01/08/exploring-swift-array-implementation	Exploring Swift Array's Implementation	Array	20160108
 advanced	http://madd-the-sane.livejournal.com/188077.html	Swift in Makefiles, my take		20160108
 libs	http://github.com/groue/GRDB.swift/wiki/Performance	GRDB Performance	database	20010101
-advanced	http://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO	Route 85: iOS Videos	video	20160101
+advanced	http://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO	Route 85: iOS Videos	video:Route85	20160101
 advanced	http://airspeedvelocity.net/2016/01/10/writing-a-generic-stable-sort	Writing A Generic Stable Sort		20160110
 advanced	http://harlanhaskins.com/2016/01/09/goto-in-swift.html	goto in Swift		20160109
 advanced	http://medium.com/@gonzalezreal/ios-cell-registration-reusing-with-swift-protocol-extensions-and-generics-c5ac4fb5b75e	iOS Cell Registration & Reusing with Swift Protocol Extensions and Generics		20151231
@@ -2799,8 +2799,8 @@ advanced	http://masilotti.com/testing-nsurlsession-input	Testing NSURLSession wi
 advanced	http://nshipster.com/new-years-2016	Reader Submissions -  New Year's 2016		20160104
 advanced	http://kelan.io/2015/the-weak-strong-dance-in-swift	The Weak/Strong Dance in Swift		20150627
 libs	http://github.com/Aufree/ESTMusicIndicator		music	20010101
-advanced	http://youtu.be/WVlNl4JDzL4	Route 85 Quick tip: More Constraint Animation Advice	animation	20160108
-advanced	http://youtu.be/ZLPg2InQ44U	Route 85 ‪Quick tip: Animating Constraints in Your iOS App‬	animation	20160108
+advanced	http://youtu.be/WVlNl4JDzL4	Route 85 Quick tip: More Constraint Animation Advice	animation:video::Route85	20160108
+advanced	http://youtu.be/ZLPg2InQ44U	Route 85 ‪Quick tip: Animating Constraints in Your iOS App‬	animation:video::Route85	20160108
 advanced	http://christiantietze.de/posts/2016/01/event-handler-closure-object	How Closures are a Better Event Handler Protocol Alternative	closure	20160111
 advanced	http://ericasadun.com/2016/01/11/toolchain-switching	Toolchain Switching	xcode	20160111
 advanced	http://ericasadun.com/2016/01/11/xcode-7-3-beta-introduces-fuzzy-code-completion	Xcode 7.3 beta introduces enhanced code completion	xcode	20160111
@@ -2927,11 +2927,11 @@ advanced	http://ericasadun.com/2016/01/15/3-simple-for-in-iteration-tricks	3 sim
 advanced	http://christiantietze.de/posts/2016/01/table-view-identifier-view-model	How to Couple UITableView Cell Identifiers and View Models	UITableViewCell	20151116
 libs	http://github.com/kciter/KCHorizontalDial	A horizontal scroll dial like Instagram		20010101
 advanced	http://www.youtube.com/user/CodeWithChris/videos	Code with Chris: All Videos	video:CodeWithChris	20010101
-advanced	http://youtu.be/CtdvDxTnd8Q	How To Use Parse (Swift, Xcode) - Ep 1 - Sign up for Parse	ParseSDK:video	20151111
-advanced	http://youtu.be/z4tACSHavlg	‪How To Use Parse (Swift, Xcode) - Ep 2 - Integrate Parse SDK with Cocoapods‬	ParseSDK:video	20151112
-advanced	http://youtu.be/W37GkM1nH6Y	‪How To Use Parse (Swift, Xcode) - Ep 3 - Save Data to Parse‬	ParseSDK:video	20151113
-advanced	http://youtu.be/XdXFd2AYpIs	‪How To Use Parse (Swift, Xcode) - Ep 4 - Retrieve Data from Parse‬	ParseSDK:video	20151114
-advanced	http://youtu.be/3xjdF0T8tjg	‪How To Use Parse (Swift, Xcode) - Ep 5 - Updating and Deleting Objects‬	ParseSDK:video	20151115
+advanced	http://youtu.be/CtdvDxTnd8Q	How To Use Parse (Swift, Xcode) - Ep 1 - Sign up for Parse	ParseSDK:video:CodeWithChris	20151111
+advanced	http://youtu.be/z4tACSHavlg	‪How To Use Parse (Swift, Xcode) - Ep 2 - Integrate Parse SDK with Cocoapods‬	ParseSDK:video:CodeWithChris	20151112
+advanced	http://youtu.be/W37GkM1nH6Y	‪How To Use Parse (Swift, Xcode) - Ep 3 - Save Data to Parse‬	ParseSDK:video:CodeWithChris	20151113
+advanced	http://youtu.be/XdXFd2AYpIs	‪How To Use Parse (Swift, Xcode) - Ep 4 - Retrieve Data from Parse‬	ParseSDK:video:CodeWithChris	20151114
+advanced	http://youtu.be/3xjdF0T8tjg	‪How To Use Parse (Swift, Xcode) - Ep 5 - Updating and Deleting Objects‬	ParseSDK:video:CodeWithChris	20151115
 advanced	https://www.youtube.com/watch?v=m_16DvzHs5g	‪How To Make a Soundboard App (Star Wars theme) - Ep 01‬	video:CodeWithChris	20150104
 advanced	https://www.youtube.com/watch?v=I0MugLFQiHo	‪How To Make a Soundboard App (Star Wars theme) - Ep 02 Xcode Project Set up‬	video:CodeWithChris	20150105
 advanced	https://www.youtube.com/watch?v=mjK6GVVaMqo	‪How To Make a Soundboard App (Star Wars theme) - Ep 03 Play Sounds‬	video:CodeWithChris	20150106
@@ -2943,19 +2943,19 @@ advanced	https://www.youtube.com/watch?v=Rqr3w8scm2E	‪SwiftyJSON Tutorial - Co
 advanced	https://www.youtube.com/watch?v=ZpK5KQdn95w	‪Use SVProgressHUD for Loading spinners, Progress and Status messages - Cocoapod install‬	video:CodeWithChris	20151229
 advanced	https://www.youtube.com/watch?v=hBVxOqFbcBk	‪SnapKit Tutorial for Autolayout Constraints‬	video:CodeWithChris:SnapKit:AutoLayout	20151230
 advanced	https://www.youtube.com/watch?v=oY-lQHJJ2zM	‪iOS Keychain Access with Locksmith Tutorial (Cocoapod Install)‬	video:CodeWithChris	20151231
-advanced	https://www.youtube.com/watch?v=Dxuy4pagxiY	Build a Shopping App with Moltin - Ep 1 - Introduction	video:CodeWithChris	20151207
-advanced	https://www.youtube.com/watch?v=L0gSi3HUo3o	‪Build a Shopping App with Moltin - Ep 2 - Setting up your store‬	video:CodeWithChris	20151208
-advanced	https://www.youtube.com/watch?v=2Ai433HaTjo	Build a Shopping App with Moltin - Ep 3 - Xcode project, Cocoapods and Moltin SDK	video:CodeWithChris	20151209
-advanced	https://www.youtube.com/watch?v=lim3t6xdbXg	‪Build a Shopping App with Moltin - Ep 4 - Listing our Products‬	video:CodeWithChris	20151210
-advanced	https://www.youtube.com/watch?v=yFv3nHw0eRw	Build a Shopping App with Moltin - Ep 5 - Product Details	video:CodeWithChris	20151211
-advanced	https://www.youtube.com/watch?v=Lcy3lCQzq1w	‪Build a Shopping App with Moltin - Ep 6 - Add to Cart‬	video:CodeWithChris	20151214
-advanced	https://www.youtube.com/watch?v=g157A59d_CY	Build a Shopping App with Moltin - Ep 7 - Checkout	video:CodeWithChris	20151215
+advanced	https://www.youtube.com/watch?v=Dxuy4pagxiY	Build a Shopping App with Moltin - Ep 1 - Introduction	video:CodeWithChris:Moltin	20151207
+advanced	https://www.youtube.com/watch?v=L0gSi3HUo3o	‪Build a Shopping App with Moltin - Ep 2 - Setting up your store‬	video:CodeWithChris:Moltin	20151208
+advanced	https://www.youtube.com/watch?v=2Ai433HaTjo	Build a Shopping App with Moltin - Ep 3 - Xcode project, Cocoapods and Moltin SDK	video:CodeWithChris:Moltin	20151209
+advanced	https://www.youtube.com/watch?v=lim3t6xdbXg	‪Build a Shopping App with Moltin - Ep 4 - Listing our Products‬	video:CodeWithChris:Moltin	20151210
+advanced	https://www.youtube.com/watch?v=yFv3nHw0eRw	Build a Shopping App with Moltin - Ep 5 - Product Details	video:CodeWithChris:Moltin	20151211
+advanced	https://www.youtube.com/watch?v=Lcy3lCQzq1w	‪Build a Shopping App with Moltin - Ep 6 - Add to Cart‬	video:CodeWithChris:Moltin	20151214
+advanced	https://www.youtube.com/watch?v=g157A59d_CY	Build a Shopping App with Moltin - Ep 7 - Checkout	video:CodeWithChris:Moltin	20151215
 advanced	https://www.youtube.com/watch?v=YGIyaim_5kw	‪How To Make a YouTube Video App - Ep 10 - YouTube Data API, Alamofire‬	video:CodeWithChris	20151216
 advanced	https://www.youtube.com/watch?v=7xUSH1QLHzk	‪How To Make a YouTube Video App - Ep 11 - Retrieving the Playlist Videos‬	video:CodeWithChris	20151217
 advanced	https://www.youtube.com/watch?v=VkvpwEAriu4	‪How To Make a YouTube Video App - Ep 12 - Creating the video objects‬	video:CodeWithChris	20151218
 advanced	https://www.youtube.com/watch?v=wzl_195ceFc	How To Make a YouTube Video App - Ep 13 - Displaying dynamic videos	video:CodeWithChris	20151221
-advanced	https://www.youtube.com/watch?v=zG7qgyA5Gb4	How To Play a Movie Stream using AVPlayerViewController	video:CodeWithChris:PlayVideo	20151203
-advanced	https://www.youtube.com/watch?v=N7fE93tvqqk	How To Play a Local Video File in Your App using AVPlayerViewController	video:CodeWithChris:PlayVideo	20151204
+advanced	https://www.youtube.com/watch?v=zG7qgyA5Gb4	How To Play a Movie Stream using AVPlayerViewController	video:CodeWithChris:PlayVideo:AVPlayerViewController	20151203
+advanced	https://www.youtube.com/watch?v=N7fE93tvqqk	How To Play a Local Video File in Your App using AVPlayerViewController	video:CodeWithChris:PlayVideo:AVPlayerViewController	20151204
 advanced	https://www.youtube.com/watch?v=JDbEgOsWGG4	‪How To Make a YouTube Video App - Ep 01‬	video:CodeWithChris	20151118
 advanced	https://www.youtube.com/watch?v=DO_3ECSL0rc	How To Make a YouTube Video App - Ep 02 - Adding the UITableView	video:CodeWithChris	20151119
 advanced	https://www.youtube.com/watch?v=48kekFLZkXU	‪How To Make a YouTube Video App - Ep 03 - Creating the Video Data‬	video:CodeWithChris	20151120
@@ -2966,11 +2966,11 @@ advanced	https://www.youtube.com/watch?v=ewSBggmhfrE	‪How To Make a YouTube Vi
 advanced	https://www.youtube.com/watch?v=MkPQEXK5lRE	How To Make a YouTube Video App - Ep 08 - Custom class detail view controller	video:CodeWithChris	20151128
 advanced	https://www.youtube.com/watch?v=kHU8sdqxmKA	How To Make a YouTube Video App - Ep 09 - Displaying the Video Detail Views	video:CodeWithChris	20151202
 advanced	https://www.youtube.com/watch?v=ojbb6nGvIi8	‪How To Make an App - Ep 1 - Tools and Materials (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
-advanced	https://www.youtube.com/watch?v=Oeb4VtuCc8c	‪How To Make an App - Ep 2 - Xcode 7 and Playgrounds (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=Oeb4VtuCc8c	‪How To Make an App - Ep 2 - Xcode 7 and Playgrounds (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner:playground	20151005
 advanced	https://www.youtube.com/watch?v=CYZYcEi8Ll4	‪How To Make an App - Ep 3 - Xcode 7 Tutorial (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
 advanced	https://www.youtube.com/watch?v=N9IoWM9pcOg	How To Make an App - Ep 4 - App Anatomy (Xcode 7, iOS 9)	video:CodeWithChris:beginner	20151005
 advanced	https://www.youtube.com/watch?v=wkVZuNQyJzA	‪How To Make an App - Ep 5 - Your First Swift App (Xcode 7, iOS 9)‬	video:CodeWithChris:beginner	20151005
-advanced	https://www.youtube.com/watch?v=wJVjuALsJ0g	‪How To Make an App - Ep 6 - Auto Layout in Xcode 7 (iOS 9)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=wJVjuALsJ0g	‪How To Make an App - Ep 6 - Auto Layout in Xcode 7 (iOS 9)‬	video:CodeWithChris:beginner:AutoLayout	20151005
 advanced	https://www.youtube.com/watch?v=hqhAY8tb1fg	‪How To Make an App - Ep 7 - Size Classes in Xcode 7 (iOS 9)‬	video:CodeWithChris:beginner	20151005
 advanced	https://www.youtube.com/watch?v=n6cbqjs0KEg	How To Make an App - Ep 8 - Completing the UI (Xcode 7, iOS 9)	video:CodeWithChris:beginner	20151005
 advanced	https://www.youtube.com/watch?v=m9xfgToMNkg	‪How To Make an App - Ep 9 - Building Blocks of Swift Programming (Swift 2, Xcode 7)‬	video:CodeWithChris:beginner	20151005
@@ -3004,13 +3004,13 @@ advanced	https://www.youtube.com/watch?v=UXhfQZQ3N4c	Scenekit for Absolute Begin
 advanced	https://www.youtube.com/watch?v=kjJyRXk-7xg	‪Scenekit for beginners - Hit testing tutorial!!‬	video:BuildingBuddies:SceneKit	20150316
 advanced	https://www.youtube.com/watch?v=cPgsn2tDn1c	‪iOS Xcode Tutorial: Universal Storyboard‬	video:BuildingBuddies:Storyboard	20150411
 advanced	https://www.youtube.com/watch?v=nre-ALSA740	‪Pinch To Zoom - UIImageView with Swift‬	UIImageView:video:VeaSoftware	20150803
-advanced	https://www.youtube.com/watch?v=tfPZ93yvAko	‪Custom Segue with Swift‬	video:VeaSoftware	20150804
-advanced	https://www.youtube.com/watch?v=kjQCgB820mM	‪Touch ID Authentication with Swift‬	video:VeaSoftware	20150809
+advanced	https://www.youtube.com/watch?v=tfPZ93yvAko	‪Custom Segue with Swift‬	video:VeaSoftware:segue	20150804
+advanced	https://www.youtube.com/watch?v=kjQCgB820mM	‪Touch ID Authentication with Swift‬	video:VeaSoftware:touchId	20150809
 advanced	https://www.youtube.com/watch?v=t9gtL0Y4DaE	‪Custom URL Schemes‬	video:VeaSoftware	20150816
 advanced	https://www.youtube.com/watch?v=sx_B5tcU0Jc	‪Universal App Orientations (iPhone Portrait Only - iPad Landscape and Portrait)‬	video:VeaSoftware	20150818
-advanced	https://www.youtube.com/watch?v=PoNHlP6gvlc	‪UIKit Dynamics - Getting Started‬	video:VeaSoftware	20150830
-advanced	https://www.youtube.com/watch?v=8RYK1CMaWmE	‪Swift Generics - Introduction‬	video:VeaSoftware	20150901
-advanced	https://www.youtube.com/watch?v=WjaRUNcccD4	‪UISplitViewController (Universal App)‬	video:VeaSoftware	20150908
+advanced	https://www.youtube.com/watch?v=PoNHlP6gvlc	‪UIKit Dynamics - Getting Started‬	video:VeaSoftware:UIKitDynamics	20150830
+advanced	https://www.youtube.com/watch?v=8RYK1CMaWmE	‪Swift Generics - Introduction‬	video:VeaSoftware:generics	20150901
+advanced	https://www.youtube.com/watch?v=WjaRUNcccD4	‪UISplitViewController (Universal App)‬	video:VeaSoftware:UISplitViewController	20150908
 advanced	https://www.youtube.com/watch?v=SYRiiRGpH3I	‪QLPreviewController Tutorial‬	video:VeaSoftware:QLPreviewController	20150929
 advanced	https://www.youtube.com/watch?v=L80iOWpayPE	‪Home Screen Quick Actions with 3D Touch‬	video:VeaSoftware:3dTouch	20151005
 advanced	https://www.youtube.com/watch?v=WJ93fXMzuP8	‪How to use the Parse SDK with Xcode 7 and iOS 9‬	video:VeaSoftware:ParseSDK	20151012
@@ -3040,11 +3040,45 @@ advanced	https://www.youtube.com/watch?v=Jpkcw0exWdY	‪Swift Tutorial: 2.0 Diff
 advanced	https://www.youtube.com/watch?v=1EXfqv1Pl-g	Swift Tutorial: 2.0 Differences 11 - Defer	video:MadApper	20151007
 advanced	https://www.youtube.com/watch?v=O83L9e7hxgk	Swift Tutorial: 2.0 Differences 12 - Option Set Type	video:MadApper	20151009
 advanced	https://www.youtube.com/watch?v=b1UX9hc_SCE	‪Swift Tutorial: 2.0 Differences 13 - Availability‬	video:MadApper	20151012
-advanced	https://www.youtube.com/watch?v=7K6TBLbs7Vs	Swift Tutorial: Protocol Oriented Programming - Introduction	video:MadApper	20151014
-advanced	https://www.youtube.com/watch?v=Fv5G1CjiOs8	‪Swift Tutorial: Protocol Oriented Programming - Protocol Inheritance‬	video:MadApper	20151016
-advanced	https://www.youtube.com/watch?v=exkaXqvbHiQ	Swift Tutorial: Protocol Oriented Programming - Protocol Extensions	video:MadApper	20151019
-advanced	https://www.youtube.com/watch?v=FIO-RCe2lkE	Swift Tutorial: Protocol Oriented Programming - Multiple Protocols	video:MadApper	20151021
-advanced	https://www.youtube.com/watch?v=_I9R4_32qaE	Swift Tutorial: Protocol Oriented Programming - Binary Operators	video:MadApper	20151023
+advanced	https://www.youtube.com/watch?v=7K6TBLbs7Vs	Swift Tutorial: Protocol Oriented Programming - Introduction	video:MadApper:protocol	20151014
+advanced	https://www.youtube.com/watch?v=Fv5G1CjiOs8	‪Swift Tutorial: Protocol Oriented Programming - Protocol Inheritance‬	video:MadApper:protocol	20151016
+advanced	https://www.youtube.com/watch?v=exkaXqvbHiQ	Swift Tutorial: Protocol Oriented Programming - Protocol Extensions	video:MadApper:protocol	20151019
+advanced	https://www.youtube.com/watch?v=FIO-RCe2lkE	Swift Tutorial: Protocol Oriented Programming - Multiple Protocols	video:MadApper:protocol	20151021
+advanced	https://www.youtube.com/watch?v=_I9R4_32qaE	Swift Tutorial: Protocol Oriented Programming - Binary Operators	video:MadApper:Operators	20151023
+advanced	https://www.youtube.com/watch?v=I-VXHK4e8bs	‪Quick Start Guide to Xcode 7! (Swift 2)‬	video:JaredDavidson	20151008
+advanced	https://www.youtube.com/watch?v=edENrmrAOB4	‪Posting a Tweet! (Swift 2 in Xcode)‬	video:JaredDavidson	20151018
+advanced	https://www.youtube.com/watch?v=Rg6GLVUnnpM	Embed Youtube Videos! (Swift 2 in Xcode)	video:JaredDavidson	20151023
+advanced	https://www.youtube.com/watch?v=bRhdFymK-eE	‪Play Local Videos! (Swift 2 in Xcode)‬	video:JaredDavidson	20151029
+advanced	https://www.youtube.com/watch?v=8KOaF5ALgEg	‪Block Websites! (Swift 2 in Xcode)‬	video:JaredDavidson	20151107
+advanced	https://www.youtube.com/watch?v=1aeQZwWx_J8	‪Using TouchID! (Swift 2 in Xcode)‬	video:JaredDavidson:TouchId	20151110
+advanced	https://www.youtube.com/watch?v=ODTNtwnk6_E	Display Twitter Timeline! (Fabric : Swift 2 in Xcode)	video:JaredDavidson	20151117
+advanced	https://www.youtube.com/watch?v=mNFXvceJ0wc	‪Make Tap War! (Swift 2 in Xcode)‬	video:JaredDavidson	20151120
+advanced	https://www.youtube.com/watch?v=D7ntzPFvMf0	‪Make Flappy Bird! (Pt. 1 : Swift 2 in Xcode : SpriteKit)‬	video:JaredDavidson:SpriteKit	20151209
+advanced	https://www.youtube.com/watch?v=RjUvEiNxWfc	‪Make Flappy Bird! (Pt. 2 : Swift 2 in Xcode)‬	video:JaredDavidson:SpriteKit	20151217
+advanced	https://www.youtube.com/watch?v=PciPoOIQgc8	‪Make Flappy Bird! (Pt. 3 : SpriteKit : Swift 2 in Xcode)‬	video:JaredDavidson:SpriteKit	20160106
+advanced	https://www.youtube.com/watch?v=Hv0rzl2sDJU	‪Make a List App Using Core Data! (Swift 2 in Xcode)‬	video:JaredDavidson:CoreData	20160116
+libs	http://github.com/lkzhao/ElasticTransition	A UIKit custom transition that simulates an elastic drag.		20010101
+libs	http://github.com/monoqlo/ExpandingMenu	ExpandingMene is menu button for iOS written in Swift		20010101
+libs	http://github.com/sudeepag/SAConfettiView	Confetti! Who doesn't like confetti		20010101
+libs	http://github.com/noppefoxwolf/FlowBarButtonItem			20010101
 advanced	https://www.youtube.com/watch?v=Ks96mDRqJQc	Mac Development Part 1 (Hello Mac)	video:AzamSharp:mac	20150428
-advanced	https://www.youtube.com/watch?v=HyrehmBLmcQ	Arrived - iBeacon Tracking	video:AzamSharp	20150511
-advanced	https://www.youtube.com/watch?v=iqzXrRRvENM	Museum Tour iBeacon Enabled Application	video:AzamSharp	20150517
+libs	http://github.com/tannernelson/hamburger-menu	An elegant UITabBarController subclass		20010101
+libs	http://github.com/tmandry/Swindler	OS X window wanagement framework	mac	20010101
+libs	http://github.com/syedhali/EZAudio-Swift	EZAudio Swift Example		20010101
+advanced	http://youtu.be/q_Y070VAP0c	'‪Feet in Both Worlds: From Objective-C to Swift' by Andy Matuschak‬		20150928
+advanced	http://github.com/jpedrosa/sua/blob/master/docs/Environment.md	Environment		20010101
+advanced	http://swiftdeveloperblog.com/pass-information-back-to-the-previous-view-controller	Pass Information Back to the Previous View Controller		20160117
+advanced	http://flexmonkey.blogspot.com/2016/01/computational-fluid-dynamics-in.html	Computational Fluid Dynamics in CoreImage with CIKernel	CoreImage:CIKernel	20160117
+advanced	http://www.knowstack.com/swift-nslayoutconstraint-constraintswithvisualformat-programmatically	Swift NSLayoutConstraint constraintsWithVisualFormat programmatically	mac:AutoLayout	20160117
+advanced	http://www.knowstack.com/swift-nslayoutconstraint-programatically-sample-code	Swift NSLayoutConstraint programatically sample code	mac:AutoLayout	20160117
+advanced	http://robots.thoughtbot.com/caching-carthage-con-circleci	Caching Carthage con CircleCI	carthage	20160118
+advanced	http://www.appcoda.com/using-xcode-targets	How to Use Xcode Targets to Manage Development and Production Builds	xcode	20160118
+advanced	http://thatthinginswift.com/guard-statement-swift	Guard Statements		20160104
+advanced	http://thatthinginswift.com/pantry-cache-struct-swift	Pantry, a light struct caching library		20151130
+advanced	http://swiftcoder.me/2015/02/24/playing-with-array-of-tuples	Playing with Array of Tuples	Array:tuple	20150224
+advanced	http://medium.com/@marmelroy/zipping-and-unzipping-files-in-your-swift-app-1b33a82b4b88	Zipping and unzipping files in your Swift app		20160117
+advanced	http://morimori.tokyo/2016/01/05/how-to-prep-a-raspberry-pi-2-for-compiling-swift	How To: Prep A Raspberry Pi 2 For Compiling Swift	Linux:RaspberryPi	20160105
+advanced	http://andybargh.com/2016/01/14/dictionaries-in-swift	Dictionaries in Swift	Dictionary	20160114
+advanced	http://medium.com/@ynzc/getting-started-with-tdd-in-swift-2fab3e07204b	Getting Started with TDD in Swift	testing:TDD	20151228
+advanced	http://mobisoftinfotech.com/tutorials/essential-swift/essential-swift-for-objective-c-programmers.html	Essential Swift for Objective-C Programmers		20010101
+libs	http://github.com/JakeLin/IBAnimatable	Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable		20010101
