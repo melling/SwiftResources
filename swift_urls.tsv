@@ -2073,7 +2073,7 @@ advanced	http://krakendev.io/blog/generating-warnings-in-xcode	How to Highlight 
 advanced	http://krakendev.io/blog/subclassing-can-suck-and-heres-why	If You're Subclassing, You're Doing It Wrong	SwiftLang	20150713
 advanced	http://krakendev.io/blog/antipatterns-singletons	Defeating the Anti-Pattern Bully ? Part 1 - Singletons	singleton	20150731
 advanced	http://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know	4 Xcode Asset Catalog Secrets You Need to Know		20150810
-advanced	http://krakendev.io/blog/be-cool-with-cifilter-animations	Be Cool with CIFilter Animations	animation	20150820
+advanced	http://krakendev.io/blog/be-cool-with-cifilter-animations	Be Cool with CIFilter Animations	animation:CIFilter	20150820
 advanced	http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real	Auto Layout Magic: Content Sizing Priorities	AutoLayout	20150915
 advanced	http://krakendev.io/blog/your-3d-touch-spirit-guide	Your 3D Touch Spirit Guide	3dTouch	20151004
 advanced	http://www.thomashanning.com/swift-2-0-defer	Swift 2.0: defer	SwiftLang	20150622
@@ -2438,6 +2438,11 @@ advanced	http://littlebitesofcocoa.com/167	little bites of cocoa: #167: Beautifu
 advanced	http://littlebitesofcocoa.com/168	little bites of cocoa: #168: Loading, Empty, & Error States with StatefulViewController		20160113
 advanced	http://littlebitesofcocoa.com/169	little bites of cocoa: #169: Automatically Continuing at Breakpoints	xcode:testing	20160114
 advanced	http://littlebitesofcocoa.com/170	little bites of cocoa: #170: Swift Tricks Revisited		20160115
+advanced	http://littlebitesofcocoa.com/171	little bites of cocoa: #171: App Launch Checklist		20160118
+advanced	http://littlebitesofcocoa.com/172	little bites of cocoa: #172: UIMenuController Basics		20160119
+advanced	http://littlebitesofcocoa.com/173	little bites of cocoa: #173: Swift Optionals - Under the Hood		20160120
+#advanced	http://littlebitesofcocoa.com/174	little bites of cocoa: 		20160121
+#advanced	http://littlebitesofcocoa.com/175	little bites of cocoa: 		20160122
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2981,15 +2986,16 @@ advanced	https://www.youtube.com/watch?v=mM-FQHIctTA	‪How To Make an App - Ep 
 advanced	https://www.youtube.com/watch?v=n39h7gK1Q40	How To Make an App - Ep 14 - Randomizing the cards (Xcode 7, Swift 2, iOS 9)	video:CodeWithChris:beginner	20151005
 advanced	https://www.youtube.com/watch?v=3yU9LWzw018	‪How To Make an App - Ep 15 - Introducing Arrays in Swift (Xcode 7, Swift 2)‬	video:CodeWithChris:beginner	20151005
 advanced	https://www.youtube.com/watch?v=tkx06nlP15s	‪How To Make an App - Ep 16 - Determining a Winner with IF Statements (Xcode 7)‬	video:CodeWithChris:beginner	20151005
+advanced	https://www.youtube.com/watch?v=L2YAoL-nnnQ	‪How To Use Parse (Swift, Xcode) - Ep 6 - Query Constraints‬	ParseSDK:video:CodeWithChris	20160119
 advanced	https://www.youtube.com/watch?v=vJKctN58qrU	‪How To Make an App - Ep 17 - Styling and Keeping Score (Xcode 7, Swift 2)‬	video:CodeWithChris:beginner	20151005
-advanced	https://www.youtube.com/watch?v=6hG9U1-4jPk	‪How to Build a Simple iOS Chat App - Ep 1 - Demo of the Simple Chat App‬	ParseSDK:video	20150217
-advanced	https://www.youtube.com/watch?v=QtQgXD22AsA	‪How to Build a Simple iOS Chat App - Ep 2 - Signing up for Parse‬	ParseSDK:video	20150218
-advanced	https://www.youtube.com/watch?v=R6dWA1uSMos	‪How to Build a Simple iOS Chat App - Ep 3 - Adding the Parse Framework into a Swift Xcode Project‬	ParseSDK:video	20150223
-advanced	https://www.youtube.com/watch?v=TT9tI40MM_Q	How to Build a Simple iOS Chat App - Ep 4 - Building the User Interface in Xcode 6	ParseSDK:video	20150225
-advanced	https://www.youtube.com/watch?v=NLfttsQCKvw	How to Build a Simple iOS Chat App - Ep 5 - Hooking up the UITableView	ParseSDK:video	20150301
-advanced	https://www.youtube.com/watch?v=rIC8sc7bj20	‪How to Build a Simple iOS Chat App - Ep 6 - Building and Animating the Message Dock‬	ParseSDK:video	20150310
-advanced	https://www.youtube.com/watch?v=VpOTW21TeJQ	How to Build a Simple iOS Chat App - Ep 7 - Saving data to Parse backend	ParseSDK:video	20150311
-advanced	https://www.youtube.com/watch?v=JdIeCtL-Wmc	How to Build a Simple iOS Chat App - Ep 8 - Retrieving data from Parse backend	ParseSDK:video	20150313
+advanced	https://www.youtube.com/watch?v=6hG9U1-4jPk	‪How to Build a Simple iOS Chat App - Ep 1 - Demo of the Simple Chat App‬	ParseSDK:video:CodeWithChris	20150217
+advanced	https://www.youtube.com/watch?v=QtQgXD22AsA	‪How to Build a Simple iOS Chat App - Ep 2 - Signing up for Parse‬	ParseSDK:video:CodeWithChris	20150218
+advanced	https://www.youtube.com/watch?v=R6dWA1uSMos	‪How to Build a Simple iOS Chat App - Ep 3 - Adding the Parse Framework into a Swift Xcode Project‬	ParseSDK:video:CodeWithChris	20150223
+advanced	https://www.youtube.com/watch?v=TT9tI40MM_Q	How to Build a Simple iOS Chat App - Ep 4 - Building the User Interface in Xcode 6	ParseSDK:video:CodeWithChris	20150225
+advanced	https://www.youtube.com/watch?v=NLfttsQCKvw	How to Build a Simple iOS Chat App - Ep 5 - Hooking up the UITableView	ParseSDK:video:CodeWithChris	20150301
+advanced	https://www.youtube.com/watch?v=rIC8sc7bj20	‪How to Build a Simple iOS Chat App - Ep 6 - Building and Animating the Message Dock‬	ParseSDK:video:CodeWithChris	20150310
+advanced	https://www.youtube.com/watch?v=VpOTW21TeJQ	How to Build a Simple iOS Chat App - Ep 7 - Saving data to Parse backend	ParseSDK:video:CodeWithChris	20150311
+advanced	https://www.youtube.com/watch?v=JdIeCtL-Wmc	How to Build a Simple iOS Chat App - Ep 8 - Retrieving data from Parse backend	ParseSDK:video:CodeWithChris	20150313
 advanced	https://www.youtube.com/watch?v=JDA_IKuhsH4	SWIFT for beginners - Snake	video:BuildingBuddies:beginner	20150618
 advanced	https://www.youtube.com/watch?v=0iAvcGsbFec	‪iOS 9 Scenekit Tutorial‬	video:BuildingBuddies:SceneKit	20150906
 advanced	http://www.youtube.com/watch?v=BCL1ZGUX_qs	Swift Programming: 2048 App Tutorial! Part 1	video:BuildingBuddies	20141217
@@ -3082,3 +3088,28 @@ advanced	http://andybargh.com/2016/01/14/dictionaries-in-swift	Dictionaries in S
 advanced	http://medium.com/@ynzc/getting-started-with-tdd-in-swift-2fab3e07204b	Getting Started with TDD in Swift	testing:TDD	20151228
 advanced	http://mobisoftinfotech.com/tutorials/essential-swift/essential-swift-for-objective-c-programmers.html	Essential Swift for Objective-C Programmers		20010101
 libs	http://github.com/JakeLin/IBAnimatable	Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable		20010101
+advanced	http://ankit.im/swift/2016/01/18/first-pure-swift-ios-app-swiflytics	Highlights from my first pure swift iOS app - Swiflytics		20160118
+advanced	http://useyourloaf.com/blog/swift-named-parameters.html	Swift Named Parameters		20160118
+advanced	http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest	Testing Delegates in Swift with XCTest	testing	20160119
+advanced	http://krakendev.io/blog/hipster-swift	Hipster Swift: Demystifying the Mysterious		20160118
+advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-watchkit-glances	watchOS 2 Tutorial: WatchKit Glances	watchkit	20160119
+advanced	http://sketchytech.blogspot.com/2016/01/swift-string-extension-to-convert.html	Swift: String Extension to Convert Floating-Point Binary to Double		20160119
+advanced	http://www.raywenderlich.com/112515/ios-metal-tutorial-swift-part-4-lighting	iOS Metal Tutorial with Swift Part 4: Lighting	metal	20160119
+advanced	http://flexmonkey.blogspot.com/2016/01/new-custom-core-image-filters-added-to.html	New Custom Core Image Filters Added to Filterpedia	CoreImage:CIFilter	20160120
+advanced	http://www.brianjcoleman.com/tutorial-testing-ssl-using-charles-proxy-on-an-ios-device	Tutorial: Testing SSL using Charles Proxy on an iOS Device 		20160119
+advanced	http://swiftcoder.me/2015/02/24/function-argument-excercise	Function Argument Excercise		20150224
+advanced	http://swiftcoder.me/2015/02/25/create-custom-delegate-and-protocol-ios-swift-objective-c/	CREATE CUSTOM DELEGATE AND PROTOCOL iOS | SWIFT & OBJECTIVE-C	protocol	20150224
+advanced	http://swiftcoder.me/2015/02/24/inout-parameter	Inout Parameter		20150224
+advanced	http://swiftcoder.me/2015/02/25/pattern-matching	Pattern Matching	PatternMatching	20150225
+advanced	http://swiftcoder.me/2015/02/26/piglatin-game	Piglatin Game		20150226
+advanced	http://swiftcoder.me/2015/09/26/decoding-base64url-encoded-data	Decoding Base64URL encoded data		20150926
+advanced	http://swiftcoder.me/2015/02/25/extensions	Extensions	extension	20150225
+advanced	http://swiftcoder.me/2015/02/24/playing-with-optionals-type	Playing with optionals type		20150224
+advanced	http://swiftcoder.me/2015/02/24/custom-generic-unwrap-function	Custom generic unwrap function		20150224
+advanced	http://ankit.im/swift/2015/12/06/developing-and-debugging-swift-packages-using-swift-package-manager	Developing and Debugging Swift Packages using Swift Package Manager	PackageManager	20151206
+advanced	http://ankit.im/swift/2015/12/12/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac	Hacking Atom to create a Swift IDE that runs on Linux and Mac	Linux:Atom	20151212
+advanced	http://ankit.im/swift/2015/12/20/generate-swift-packages-on-the-fly	Generate swift packages directory structure on the fly	PackageManager	20151220
+advanced	http://ankit.im/swift/2015/12/27/travis-for-swift-package-manager	Travis build script for swift package manager based packages	PackageManager	20151227
+advanced	http://ankit.im/swift/2016/01/02/creating-value-type-generic-stack-in-swift-with-pointers-and-copy-on-write	Creating value-type generic Stack in swift with pointers and copy-on-write feature	generics:algorithm	20160102
+advanced	http://ankit.im/swift/2016/01/20/exploring-swift-dictionary-implementation	Exploring Swift Dictionary's Implementation	Dictionary	20160120
+advanced	https://www.youtube.com/watch?v=V9JVMjsbfpo	How To Use Parse (Swift, Xcode) - Ep 7 - Query Constraints Part 2	CodeWithChris:ParseSDK:video	20160120
