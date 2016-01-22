@@ -2441,8 +2441,8 @@ advanced	http://littlebitesofcocoa.com/170	little bites of cocoa: #170: Swift Tr
 advanced	http://littlebitesofcocoa.com/171	little bites of cocoa: #171: App Launch Checklist		20160118
 advanced	http://littlebitesofcocoa.com/172	little bites of cocoa: #172: UIMenuController Basics		20160119
 advanced	http://littlebitesofcocoa.com/173	little bites of cocoa: #173: Swift Optionals - Under the Hood		20160120
-#advanced	http://littlebitesofcocoa.com/174	little bites of cocoa: 		20160121
-#advanced	http://littlebitesofcocoa.com/175	little bites of cocoa: 		20160122
+advanced	http://littlebitesofcocoa.com/174	little bites of cocoa: #174: Better Numeric Input with MMNumberKeyboard		20160121
+advanced	http://littlebitesofcocoa.com/175	little bites of cocoa: #175: More Swift Tricks		20160122
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView	20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set	20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil	20151119
@@ -2894,7 +2894,7 @@ advanced	http://www.appdesignvault.com/enable-ipad-multitasking-slide-over-split
 advanced	http://christiantietze.de/posts/2016/01/separating-state-change	Separating State from State Changes		20160115
 libs	http://github.com/Azuritul/AZDropdownMenu	A simple dropdown menu component for iOS		20010101
 libs	http://github.com/jhurt/GBPageControl	A page control for SpriteKit based games		20010101
-libs	http://github.com/metasmile/ai2app	Creating AppIcon sets from Adobe Illustrator	design:Ai	20010101
+libs	http://github.com/metasmile/ai2app	Creating AppIcon sets from Adobe Illustrator	design:Illustrator	20010101
 libs	http://github.com/pitiphong-p/PTPPlaceholderTextView	A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView		20010101
 libs	http://www.cocoacontrols.com/controls/splitflap	A simple split-flap display for your Swift applications http://cocoadocs.org/docsets/Splitflap		20010101
 advanced	http://www.codecaptain.io/ios-development/random-exc_bad_access-crash-in-swift/239	Random EXC_BAD_ACCESS crash in Swift		20151217
@@ -3113,3 +3113,17 @@ advanced	http://ankit.im/swift/2015/12/27/travis-for-swift-package-manager	Travi
 advanced	http://ankit.im/swift/2016/01/02/creating-value-type-generic-stack-in-swift-with-pointers-and-copy-on-write	Creating value-type generic Stack in swift with pointers and copy-on-write feature	generics:algorithm	20160102
 advanced	http://ankit.im/swift/2016/01/20/exploring-swift-dictionary-implementation	Exploring Swift Dictionary's Implementation	Dictionary	20160120
 advanced	https://www.youtube.com/watch?v=V9JVMjsbfpo	How To Use Parse (Swift, Xcode) - Ep 7 - Query Constraints Part 2	CodeWithChris:ParseSDK:video	20160120
+advanced	https://www.youtube.com/watch?v=yLA7ze-k3-0	‪Make Flappy Bird! (Part 4 : Swift 2 in Xcode)‬	JaredDavidson:video:SpriteKit	20160121
+advanced	https://www.youtube.com/watch?v=36sAbIsnZhg	‪How To Use Parse (Swift, Xcode) - Ep 8 - Saving Images, sounds and file data to Parse‬	CodeWithChris:ParseSDK:video	20160121
+libs	https://github.com/DenverSwiftHeads/Universal-Game-Template-tvOS-OSX-iOS	Universal SpriteKit Template for iOS, tvOS & OS/X - 3 Platforms with 1 codebase	SpriteKit:AppleTV:mac	20010101
+libs	https://github.com/mmick66/KDDragAndDropCollectionView	This is a companion to the http://karmadust.com/drag-and-drop-between-uicollectionviews/ tutorial	UICollectionView	20010101
+advanced	http://code.tutsplus.com/tutorials/how-to-create-vector-graphics-on-ios--cms-25367	How To Create Vector Graphics on iOS	UIBezierPath	20160120
+advanced	https://www.shinobicontrols.com/blog/displaying-multiple-ios-charts-with-uicollectionview-in-swift	Displaying multiple iOS charts with UICollectionView in Swift	UICollectionView:chart	20160121
+advanced	http://realm.io/news/saniul-ahmed-tvos-focus-engine-custom	tvOS Focus Engine & Custom Gestures	AppleTV:gesture	20160121
+advanced	http://www.raywenderlich.com/117609/sketch-indie-developers	Sketch Tutorial for iOS Developers	design:Sketch	20160121
+advanced	http://makeapppie.com/2016/01/21/using-enumerations-in-swift	How to Use enum and Enumerations	enum	20160121
+advanced	http://christiantietze.de/posts/2016/01/extending-from-or-to	Extending Types with a Conversion Factory: Where Should You Put It?		20160121
+advanced	http://christiantietze.de/posts/2016/01/event-declarative-state	Events as Declarative State		20160121
+advanced	http://robots.thoughtbot.com/creating-custom-xcode-templates	Creating Custom Xcode Templates	xcode	20160122
+advanced	http://christiantietze.de/posts/2016/01/reswift-level-indirection	ReSwift, Law of Demeter, and Another Level of Indirection		20160122
+advanced	http://www.iosinsight.com/create-beautiful-app-store-screenshots-with-sketch	Create Beautiful App Store Screenshots with Sketch	design:Sketch	20160119
