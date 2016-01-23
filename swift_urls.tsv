@@ -134,7 +134,9 @@ playground	http://developer.apple.com/swift/blog/downloads/Balloons.zip	Balloons
 playground	https://github.com/nettlep/learn-swift	Learn Apple's Swift programming language interactively through these playgrounds	playground		20010101
 playground	http://developer.apple.com/swift/blog/?id=13	Patterns Playground	playground		20010101
 commercial	http://www.udemy.com/courses/search/?q=swift	Udemy Swift Courses	video		20010101
-commercial	http://www.objc.io/books/fpinswift	Functional Programming in Swift (Chris Eidhof, Florian Kugler, and Wouter Swierstra)	functional:book		20010101
+commercial	http://www.objc.io/books/core-data	Core Data (Florian Kugler and Daniel Eggert)	CoreData:book	https://www.objc.io/images/books/core-data/core-data-cover-original-1603f4c3.png	20010101
+commercial	http://www.objc.io/books/advanced-swift	Advanced Swift (Chris Eidhof and Airspeed Velocity)	SwiftLang:book	https://www.objc.io/images/books/advanced-swift/advanced-swift-cover-original-6db92fe2.png	20010101
+commercial	http://www.objc.io/books/fpinswift	Functional Swift (Chris Eidhof, Florian Kugler, and Wouter Swierstra)	functional:book	https://www.objc.io/images/books/functional-swift/functional-swift-cover-original-961470e0.png	20010101
 commercial	http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials	2D iOS & tvOS Games by Tutorials	SpriteKit:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/igt1@2x.png	20150301
 commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	CoreData:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/cdt@2x.png	20150301
 commercial	http://www.raywenderlich.com/store/ios-apprentice	The iOS Apprentice	book:SwiftLang	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/ia1234@2x.png	20150301
@@ -2236,8 +2238,6 @@ advanced	http://medium.com/@buildo/ios-9-app-transport-security-aws-and-sha-2-ce
 commercial	http://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11	Swift Documentation Markup (Erica Sadun)	book		20151015
 advanced	http://natashatherobot.com/watchconnectivity-user-info	WatchConnectivity: Sharing All Data via User Info	watchkit		20151021
 advanced	http://realm.io/news/sash-zats-gameplaykit-beyond-games	GameplayKit: Beyond Games	GameplayKit:video		20151021
-commercial	http://www.objc.io/books/core-data	Core Data (Florian Kugler and Daniel Eggert)	CoreData:book		20010101
-commercial	http://www.objc.io/books/advanced-swift	Advanced Swift (Chris Eidhof and Airspeed Velocity)	SwiftLang:book		20010101
 advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-messages-midipacket-swift-reflection	Enumerate messages of a MIDIPacket using Swift reflection			20151021
 advanced	http://makeapppie.com/2015/10/21/why-your-web-view-doesnt-work-in-ios9-and-what-to-do-about-it	Why your Web View Doesn’t Work in iOS9 — and what to do about it			20151021
 advanced	http://www.ioscreator.com/tutorials/facebook-tutorial-ios8-swift	FaceBook Tutorial in iOS8 with Swift	SLComposeViewController		20140929
