@@ -32,9 +32,10 @@ class UrlRecord {
     var title: String
     var githubName: String
     var tags: String
+    var image: String
     var date: Int
     
-    init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, date: Int) {
+    init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, image: String, date: Int) {
         
         self.id = id
         self.groupNum = groupNum
@@ -43,6 +44,7 @@ class UrlRecord {
         self.title = title
         self.githubName = githubName
         self.tags = tags
+        self.image = image
         self.date = date
     }
 }
@@ -75,7 +77,7 @@ func readLines(filePath: String) -> [String] {
 }
 
 func writeGoVar(groupNum: Int, url: String, name: String,
-    source: String, githubName:String, tags: String, date: Int) {
+    source: String, githubName:String, tags: String, image: String, date: Int) {
         var allTagStr = ""
 
         let lowerTitle = name.lowercaseString
@@ -86,7 +88,7 @@ func writeGoVar(groupNum: Int, url: String, name: String,
                 allTagStr += "\"\(t)\","
             }
       }
-        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)},\(date) },")
+        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date) },")
 }
 
 func deriveSource(url: String) -> (String, String) {
@@ -128,7 +130,6 @@ for line in lines {
     if !(line.hasPrefix("#") || line.hasPrefix(" ")) {
         let aLine = line.componentsSeparatedByString("\t")
         if aLine.count > 1 {
-            //        print(" { \"\(aLine[1])  ")
             
             if let groupNum = groupNumbers[aLine[0]] {
                 let url = aLine[1]
@@ -141,11 +142,12 @@ for line in lines {
                 }
                 let title = aLine[2]
                 let tags = aLine[3]
-                var date:Int? = Int(aLine[4])
+                let image = aLine[4]
+                var date:Int? = Int(aLine[5])
                 if (date == nil) {
                     date = 20010101
                 }
-                let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, date: date!)
+                let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, image: image, date: date!)
                 database.append(rec)
                 
                 
@@ -219,7 +221,7 @@ for row in database {
         }
     }
     
-    writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags, date:row.date)
+    writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags, image:row.image, date:row.date)
 }
 print("}")
 
