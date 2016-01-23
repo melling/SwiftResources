@@ -129,16 +129,43 @@ beginner	http://www.raywenderlich.com/75919/learn-to-code-ios-apps-with-swift-tu
 beginner	http://www.raywenderlich.com/76044/learn-to-code-ios-apps-with-swift-tutorial-3	Learn to Code iOS Apps with Swift Tutorial 3: Arrays, Objects, and Classes			20141113
 beginner	http://www.raywenderlich.com/77176/learn-to-code-ios-apps-with-swift-tutorial-4	Learn To Code iOS Apps With Swift Tutorial 4: Your First App			20141113
 beginner	http://www.raywenderlich.com/78264/learn-to-code-ios-apps-with-swift-tutorial-5	Learn To Code iOS Apps With Swift Tutorial 5: Making it Beautiful			20141113
-beginner	http://www.raywenderlich.com/86167/ios-apprentice-updated-xcode-6-1	The iOS Apprentice			20141017
 beginner	http://shrikar.com/blog/2014/12/23/learn-swift-by-building-a-tipster-iphone-app	Learn Swift by Building a Tipster Iphone App			20141223
 playground	http://developer.apple.com/swift/blog/downloads/Balloons.zip	Balloons.playground	playground		20010101
 playground	https://github.com/nettlep/learn-swift	Learn Apple's Swift programming language interactively through these playgrounds	playground		20010101
 playground	http://developer.apple.com/swift/blog/?id=13	Patterns Playground	playground		20010101
 commercial	http://www.udemy.com/courses/search/?q=swift	Udemy Swift Courses	video		20010101
 commercial	http://www.objc.io/books/fpinswift	Functional Programming in Swift (Chris Eidhof, Florian Kugler, and Wouter Swierstra)	functional:book		20010101
-commercial	http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials	2D iOS & tvOS Games by Tutorials	SpriteKit:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/igt1@2x.png	20010101
-commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	CoreData:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/cdt@2x.png	20010101
-commercial	http://www.raywenderlich.com/91518/ios-apprentice-third-edition-print-version-now-available	Swift by Tutorials	book:SwiftLang		20010101
+commercial	http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials	2D iOS & tvOS Games by Tutorials	SpriteKit:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/igt1@2x.png	20150301
+commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	CoreData:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/cdt@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/ios-apprentice	The iOS Apprentice	book:SwiftLang	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/ia1234@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/tvos-apprentice	tvOS Apprentice	book:AppleTV	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/tvt@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/watchos-2-by-tutorials	watchOS 2 by Tutorials	book:WatchKit	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/w2t@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/swift-apprentice	Swift Apprentice	book:SwiftLang:beginner	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/sa@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/ios-9-by-tutorials	iOS 9 by Tutorials	book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/i9t@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/ios-animations-by-tutorials	iOS Animations	book:CoreAnimation:animation	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/iat@2x.png	20150301
+commercial	http://www.informit.com/store/learning-core-data-for-ios-with-swift-a-hands-on-guide-9780134120072	Learning Core Data for iOS with Swift: A Hands-On Guide to Building Core Data Applications	book:CoreData	http://www.informit.com/ShowCover.aspx?isbn=9780134120072&type=f	20151130
+commercial	http://www.informit.com/store/learning-swift-2-programming-9780134431598	Learning Swift 2 Programming, 2nd Edition	book:SwiftLang	http://www.informit.com/ShowCover.aspx?isbn=9780134431598&type=f	20151231
+commercial	http://www.informit.com/store/swift-developers-cookbook-includes-content-update-program-9780134395265	Swift Developer's Cookbook	book	http://www.informit.com/ShowCover.aspx?isbn=9780134395265&type=f	20151209
+commercial	http://shop.oreilly.com/product/0636920044345.do	iOS 9 Programming Fundamentals with Swift ( Matt Neuburg)	book	http://akamaicovers.oreilly.com/images/0636920044345/cat.gif	20150901
+commercial	http://shop.oreilly.com/product/0636920045946.do	Learning Swift: Building Apps for OS X and iOS	book:SwiftLang	http://akamaicovers.oreilly.com/images/0636920045946/rc_cat.gif	20150901
+commercial	http://shop.oreilly.com/product/0636920045618.do	Swift Pocket Reference, 2nd Edition (Anthony Gray)	book:SwiftLang	http://akamaicovers.oreilly.com/images/0636920045618/cat.gif	20151130
+commercial	http://shop.oreilly.com/product/9781784392505.do	Learning Swift (Andrew J Wagner)	book	http://akamaicovers.oreilly.com/images/9781784392505/cat.gif	20150601
+commercial	http://shop.oreilly.com/product/0636920034278.do	iOS 8 Programming Fundamentals with Swift	book	http://akamaicovers.oreilly.com/images/0636920034278/cat.gif	20150301
+commercial	http://shop.oreilly.com/product/9781785886034.do	Mastering Swift 2 (Jon Hoffman)	book:SwiftLang	http://akamaicovers.oreilly.com/images/9781785886034/cat.gif	20151101
+commercial	http://shop.oreilly.com/product/0636920037170.do	iOS Swift Game Development Cookbook, 2nd Edition (Jonathon Manning, Paris Buttfield-Addison)	book	http://akamaicovers.oreilly.com/images/0636920037170/cat.gif	20150501
+commercial	http://shop.oreilly.com/product/9781785282201.do	Swift High Performance (Kostiantyn Koval)	book	http://akamaicovers.oreilly.com/images/9781785282201/cat.gif	20151101
+commercial	http://shop.oreilly.com/product/9781785887611.do	Swift 2 Design Patterns (Julien Lange)	book:SwiftLang	http://akamaicovers.oreilly.com/images/9781785887611/cat.gif	20151001
+commercial	http://shop.oreilly.com/product/9781783550531.do	Game Development with Swift (Stephen Haney)	book	http://akamaicovers.oreilly.com/images/9781783550531/cat.gif	20150701
+commercial	http://shop.oreilly.com/product/9781783980765.do	Swift 2 Blueprints	book	http://akamaicovers.oreilly.com/images/9781783980765/cat.gif	20151001
+commercial	http://shop.oreilly.com/product/9781119022220.do	Swift For Dummies (Jesse Feiler)	book	http://akamaicovers.oreilly.com/images/9781119022220/cat.gif	20150101
+commercial	http://shop.oreilly.com/product/9781119009313.do	Beginning Swift Programming (Wei-Meng Lee)	book	http://akamaicovers.oreilly.com/images/9781119009313/cat.gif	20141201
+commercial	http://shop.oreilly.com/product/0636920034254.do	iOS 8 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920034254/cat.gif	20141101
+commercial	http://shop.oreilly.com/product/9781119016779.do	Professional Swift (Michael Dippery)	book	http://akamaicovers.oreilly.com/images/9781119016779/cat.gif	20150501
+commercial	http://shop.oreilly.com/product/9781784393557.do	Learning iOS 8 Game Development Using Swift (Siddharth Shekar)	book	http://akamaicovers.oreilly.com/images/9781784393557/cat.gif	20150501
+commercial	http://shop.oreilly.com/product/9781784396701.do	Swift Essentials (Alex Blewitt)	book	http://akamaicovers.oreilly.com/images/9781784396701/cat.gif	20141201
+commercial	http://shop.oreilly.com/product/9781785284700.do	Swift by Example (Giordano Scalzo)	book	http://akamaicovers.oreilly.com/images/9781785284700/cat.gif	20150601
+commercial	http://shop.oreilly.com/product/9781785288173.do	Application Development with Swift (Hossam Ghareeb)	book	http://akamaicovers.oreilly.com/images/9781785288173/cat.gif	20150801
+commercial	http://shop.oreilly.com/product/0636920044338.do	iOS 9 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920044338/cat.gif	20151201
 advanced	http://airspeedvelocity.net/2014/12/21/avoid-using-var-with-this-one-weird-trick	Avoid using var with this one weird trick			20141221
 advanced	http://allegrotech.io/swift-method-dispatching.html	Swift Method Dispatching			20141212
 advanced	http://austinzheng.com/2014/12/16/swift-enums	Enums in Swift	enum		20141216
@@ -2316,7 +2343,7 @@ advanced	http://www.mokacoding.com/blog/circle-ci-ios-testing	How to configure C
 advanced	http://christiantietze.de/posts/2015/11/unit-of-work-context	Core Data Calls Them Contexts for a Reason	CoreData		20151103
 advanced	http://www.andrewcbancroft.com/2015/11/03/creating-trust-able-unit-tests-in-swift	Creating Trust-able Unit Tests in Swift	testing		20151103
 advanced	http://www.raywenderlich.com/119959/gameplaykit-tutorial-entity-component-system-agents-goals-behaviors	GameplayKit Tutorial: Entity-Component System, Agents, Goals, and Behaviors	GameplayKit		20151103
-commercial	http://www.apress.com/9781484212349	Swift OS X Programming for Absolute Beginners	book:mac	http://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781484212349-3d.png	20150808
+commercial	http://www.apress.com/9781484212349	Swift OS X Programming for Absolute Beginners (Wallace Wang)	book:mac	http://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781484212349-3d.png	20150808
 advanced	http://makeapppie.com/2015/11/04/how-to-make-xib-based-custom-uiimagepickercontroller-cameras-in-swift	How to Make Xib-Based Custom UIImagePickerController Cameras	camera		20151104
 advanced	http://littlebitesofcocoa.com/118	little bites of cocoa:#118: Surviving Auto Layout Bugs			20151104
 advanced	http://littlebitesofcocoa.com/119	little bites of cocoa:#119: IBInspectable & IBDesignable	IBInspectable:IBDesignable:xcode		20151105
