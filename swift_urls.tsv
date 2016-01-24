@@ -147,7 +147,7 @@ commercial	http://www.raywenderlich.com/store/ios-9-by-tutorials	iOS 9 by Tutori
 commercial	http://www.raywenderlich.com/store/ios-animations-by-tutorials	iOS Animations	book:CoreAnimation:animation	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/iat@2x.png	20150301
 commercial	http://www.informit.com/store/learning-core-data-for-ios-with-swift-a-hands-on-guide-9780134120072	Learning Core Data for iOS with Swift: A Hands-On Guide to Building Core Data Applications	book:CoreData	http://www.informit.com/ShowCover.aspx?isbn=9780134120072&type=f	20151130
 commercial	http://www.informit.com/store/learning-swift-2-programming-9780134431598	Learning Swift 2 Programming, 2nd Edition	book:SwiftLang	http://www.informit.com/ShowCover.aspx?isbn=9780134431598&type=f	20151231
-commercial	http://www.informit.com/store/swift-developers-cookbook-includes-content-update-program-9780134395265	Swift Developer's Cookbook	book	http://www.informit.com/ShowCover.aspx?isbn=9780134395265&type=f	20151209
+commercial	http://www.informit.com/store/swift-developers-cookbook-includes-content-update-program-9780134395265	Swift Developer's Cookbook (Erica Sadun)	book	http://www.informit.com/ShowCover.aspx?isbn=9780134395265&type=f	20151209
 commercial	http://shop.oreilly.com/product/0636920044345.do	iOS 9 Programming Fundamentals with Swift ( Matt Neuburg)	book	http://akamaicovers.oreilly.com/images/0636920044345/cat.gif	20150901
 commercial	http://shop.oreilly.com/product/0636920045946.do	Learning Swift: Building Apps for OS X and iOS	book:SwiftLang	http://akamaicovers.oreilly.com/images/0636920045946/rc_cat.gif	20150901
 commercial	http://shop.oreilly.com/product/0636920045618.do	Swift Pocket Reference, 2nd Edition (Anthony Gray)	book:SwiftLang	http://akamaicovers.oreilly.com/images/0636920045618/cat.gif	20151130
@@ -899,7 +899,7 @@ advanced	http://ericasadun.com/2015/04/07/swift-a-little-google-playground-hack	
 advanced	http://flexmonkey.blogspot.com/2015/04/audio-visualisation-for-ios-with.html	Audio Visualisation for iOS with AudioKit & ParticleLab	AudioKit		20150408
 advanced	http://www.andrewcbancroft.com/2015/04/08/how-delegation-works-a-swift-developer-guide	How Delegation Works – A Swift Developer’s Guide			20150408
 commercial	http://itunes.apple.com/us/book/swift-swift-view-controllers/id983247343?ls=1&mt=11	Swift Swift View Controllers (Steven Lipton)	book	https://apppie.files.wordpress.com/2015/02/screenshot-2015-04-01-07-53-14.png?w=460&h=600	20010101
-commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips (Erica Sadun)	book:playground		20010101
+commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips (Erica Sadun)	book:playground	http://a3.mzstatic.com/us/r30/Publication49/v4/12/a0/9f/12a09fb0-2cbc-a83a-fcdf-b5fb66d6e09a/cover162x243.jpeg	20150406
 advanced	http://developer.apple.com/swift/blog/?id=27	Increasing Performance by Reducing Dynamic Dispatch			20150409
 advanced	http://ericasadun.com/2015/04/10/swift-var-parameters	Swift: Var parameters			20150410
 advanced	http://youtu.be/UXhfQZQ3N4c	Scenekit for Absolute Beginners	video:SceneKit		20010101
@@ -2235,7 +2235,7 @@ libs	https://github.com/AlexCatch/ACAnimatedTextField	ACAnimatedTextField is a s
 libs	https://github.com/hryk224/PCLBlurEffectAlert	Swift AlertController with UIVisualeffectview	blur		20010101
 advanced	http://littlebitesofcocoa.com/108	little bites of cocoa: #108: Error Handling			20151021
 advanced	http://medium.com/@buildo/ios-9-app-transport-security-aws-and-sha-2-certificates-the-undocumented-bit-1a42325c3745#.ysxhhr5is	iOS 9, App Transport Security, AWS and SHA-2 certificates: the undocumented bit			20151021
-commercial	http://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11	Swift Documentation Markup (Erica Sadun)	book		20151015
+commercial	http://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11	Swift Documentation Markup (Erica Sadun)	book	http://a5.mzstatic.com/us/r30/Publication6/v4/13/31/35/133135e5-429f-330d-9adb-ded93e5ae1e6/cover162x243.jpeg	20151015
 advanced	http://natashatherobot.com/watchconnectivity-user-info	WatchConnectivity: Sharing All Data via User Info	watchkit		20151021
 advanced	http://realm.io/news/sash-zats-gameplaykit-beyond-games	GameplayKit: Beyond Games	GameplayKit:video		20151021
 advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-messages-midipacket-swift-reflection	Enumerate messages of a MIDIPacket using Swift reflection			20151021
@@ -3173,3 +3173,22 @@ libs	https://github.com/Aralekk/VR_Toolkit_iOS	A sample project that provides th
 advanced	http://mlsdev.com/blog/46	Best iOS development practices of 2015			20160118
 advanced	http://telliott.io/2016/01/17/adding-swiftlint-to-an-established-project.html	Adding SwiftLint to an Established Project			20160117
 libs	https://github.com/kciter/KCFloatingActionButton	Floating Action Button for iOS			20010101
+advanced	http://ashishkakkad.com/2016/01/create-your-own-cocoapod-swift-objective-c	Create your own CocoaPod – Swift / Objective-C			20160123
+libs	https://github.com/Somnibyte/SomniAlert	A beautiful UIAlertView-like modal			20010101
+libs	https://github.com/aleclarson/hex-kit	Convert hex triplets into UIColors and CGColors			20010101
+advanced	http://flexmonkey.blogspot.com/2016/01/metal-kernel-functions-as-core-image.html	Metal Kernel Functions as Core Image Filter Engines	metal		20160124
+advanced	http://www.knowstack.com/swift-error-handling	Swift Error Handling	exceptions		20160124
+advanced	http://thatthinginswift.com/write-your-own-api-clients-swift	Write Your Own API Clients			20160123
+advanced	http://thatthinginswift.com/strings-starting-with-swift	Common String Manipulations	string		20150425
+advanced	http://thatthinginswift.com/writing-documents-directory-swift	Writing files to the documents directory	file		20150415
+advanced	http://thatthinginswift.com/switch-unwrap-shortcut	Switches and Optionals			20150323
+advanced	http://thatthinginswift.com/value-and-reference-types	Value and Reference Types			20140917
+advanced	http://thatthinginswift.com/filling-table-view-cells	Filling Table Views	UITableView		20140807
+advanced	http://thatthinginswift.com/table-data-sources	Dequeueing Table Cells	UITableView		20140730
+advanced	http://thatthinginswift.com/background-threads	Background Threads	concurrency		20140712
+advanced	http://thatthinginswift.com/json-serialization	JSON Serialization	json		20140628
+advanced	http://thatthinginswift.com/completion-handlers	Completion Handlers			20140626
+advanced	http://thatthinginswift.com/remote-notifications	Remote Notifications			20140701
+advanced	http://thatthinginswift.com/method-signatures	Method Signatures			20140707
+advanced	http://thatthinginswift.com/ibaction-and-iboutlet	IBAction and IBOutlet			20140625
+advanced	http://thatthinginswift.com/string-formatting	String Format Specifiers	string		20140624
