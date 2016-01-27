@@ -5,7 +5,7 @@ advanced	http://www.shrikar.com/blog/2014/12/28/swift-tutorial-corelocation-and-
 advanced	http://www.shrikar.com/blog/2014/12/06/ios-app-as-a-money-making-machine-using-iad-app-monetization-technique	iOS App as a Money Making Machine Using iAd App Monetization Technique			20141206
 advanced	http://www.shrikar.com/blog/2014/11/06/ios-app-development-upload-images-to-aws-s3	iOS App Development : Upload Images to AWS S3			20141106
 advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html	Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)			20141214
-advanced	http://sketchytech.blogspot.com/2014/12/swift-notes-on-relative-positioning-and.html	Notes on the relative positioning and transformation of layers and sublayers (CALayer, frame, bounds, transform, position, Xcode)			20141210
+advanced	http://sketchytech.blogspot.com/2014/12/swift-notes-on-relative-positioning-and.html	Notes on the relative positioning and transformation of layers and sublayers (CALayer, frame, bounds, transform, position, Xcode)	CALayer		20141210
 advanced	http://sketchytech.blogspot.com/2014/12/the-inspiration-of-hexagons-for-drawing.html	The Inspiration of Hexagons for Drawing in 3D			20141205
 advanced	http://2014.funswiftconf.com	2014 Functional Swift Conf	functional		20141206
 advanced	http://blog.human-friendly.com/how-i-handle-optionals-in-swift	How I Handle Optionals In Swift			20141220
@@ -76,7 +76,7 @@ advanced	http://www.weheartswift.com/introduction-scenekit-part-1	Introduction T
 advanced	http://www.weheartswift.com/introduction-scenekit-part-2	Introduction To SceneKit – Part 2	SceneKit		20141111
 advanced	http://www.weheartswift.com/introduction-scenekit-part-3	Introduction To SceneKit – Part 3	SceneKit		20141205
 advanced	http://www.youtube.com/watch?v=_ZenKrXkj74	Functional Programming in Swift	functional		20140911
-libs	https://github.com/Alamofire/Alamofire	Elegant Networking in Swift	networking		20010101
+libs	https://github.com/Alamofire/Alamofire	Elegant Networking in Swift	networking:Alamofire		20010101
 libs	https://github.com/ankurp/Dollar.swift	A functional tool-belt for Swift Language similar to Lo-Dash or Underscore in Javascript	functional		20010101
 libs	https://github.com/croath/UIImageView-BetterFace-Swift	UIImageView-BetterFace-Swift	UIImageView		20010101
 libs	https://github.com/indragiek/SwiftAutoLayout	Tiny Swift DSL for Autolayout	AutoLayout:DSL		20010101
@@ -141,7 +141,7 @@ commercial	http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials	2D 
 commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	CoreData:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/cdt@2x.png	20150301
 commercial	http://www.raywenderlich.com/store/ios-apprentice	The iOS Apprentice	book:SwiftLang	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/ia1234@2x.png	20150301
 commercial	http://www.raywenderlich.com/store/tvos-apprentice	tvOS Apprentice	book:AppleTV	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/tvt@2x.png	20150301
-commercial	http://www.raywenderlich.com/store/watchos-2-by-tutorials	watchOS 2 by Tutorials	book:WatchKit	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/w2t@2x.png	20150301
+commercial	http://www.raywenderlich.com/store/watchos-2-by-tutorials	watchOS 2 by Tutorials	book:watchkit	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/w2t@2x.png	20150301
 commercial	http://www.raywenderlich.com/store/swift-apprentice	Swift Apprentice	book:SwiftLang:beginner	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/sa@2x.png	20150301
 commercial	http://www.raywenderlich.com/store/ios-9-by-tutorials	iOS 9 by Tutorials	book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/i9t@2x.png	20150301
 commercial	http://www.raywenderlich.com/store/ios-animations-by-tutorials	iOS Animations	book:CoreAnimation:animation	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/iat@2x.png	20150301
@@ -279,8 +279,8 @@ advanced	http://www.raywenderlich.com/81953/intro-object-oriented-design-swift-p
 advanced	http://www.raywenderlich.com/78550/beginning-ios-collection-views-swift-part-1	Beginning iOS Collection Views in Swift: Part 1/2	UICollectionView		20150413
 advanced	http://www.raywenderlich.com/78551/beginning-ios-collection-views-swift-part-2	Beginning iOS Collection Views in Swift: Part 2/2	UICollectionView		20150413
 advanced	http://www.slideshare.net/giordano/a-swift-introduction-to-swift	A swift Introduction to Swift	beginner		20140612
-advanced	http://www.raywenderlich.com/85080/beginning-alamofire-tutorial	Beginning Alamofire Tutorial	networking		20150731
-advanced	http://www.raywenderlich.com/87595/intermediate-alamofire-tutorial	Intermediate Alamofire Tutorial	networking		20150731
+advanced	http://www.raywenderlich.com/85080/beginning-alamofire-tutorial	Beginning Alamofire Tutorial	networking:Alamofire		20150731
+advanced	http://www.raywenderlich.com/87595/intermediate-alamofire-tutorial	Intermediate Alamofire Tutorial	networking:Alamofire		20150731
 advanced	http://www.raywenderlich.com/77974/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-1	Making a Gesture-Driven To-Do List App Like Clear in Swift: Part 1/2	gesture		20150731
 advanced	http://www.raywenderlich.com/77975/making-a-gesture-driven-to-do-list-app-like-clear-in-swift-part-2	Making a Gesture-Driven To-Do List App Like Clear in Swift: Part 2/2	gesture		20150421
 advanced	http://www.raywenderlich.com/82706/working-with-json-in-swift-tutorial	Working with JSON in Swift Tutorial	json		20150420
@@ -520,7 +520,7 @@ advanced	http://schani.wordpress.com/2014/06/11/associated-types-considered-weir
 advanced	http://robots.thoughtbot.com/swift-sequences	Swift Sequences	Sequence		20140611
 advanced	http://robots.thoughtbot.com/input-accessorizing-uiviewcontroller	Input Accessorizing with UIViewController	UIViewController		20141126
 advanced	http://robots.thoughtbot.com/functional-swift-for-dealing-with-optional-values	Functional Swift for Dealing with Optional Values	functional		20141015
-advanced	http://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift	Parsing Embedded JSON and Arrays in Swift	json		20140929
+advanced	http://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift	Parsing Embedded JSON and Arrays in Swift	json:Array		20140929
 advanced	http://natashatherobot.com/swift-conform-to-sequence-protocol	How To Conform to the Sequence Protocol	Sequence		20140722
 advanced	http://natashatherobot.com/swift-init-with-_	Init with _			20140724
 advanced	http://natashatherobot.com/swift-array-iteration-with-index	Array Iteration with Index	Array		20140725
@@ -747,7 +747,7 @@ advanced	http://flexmonkey.blogspot.com/2015/02/swifter-swift-image-processing-w
 advanced	http://www.figure.ink/blog/2015/2/22/literal-enumerations	Literal Enumerations	enum		20150222
 advanced	http://www.ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift	Use Settings with NSUserDefaults in iOS8 with Swift			20150223
 advanced	http://blog.xebia.com/2015/02/18/try-option-or-either	Try, Option Or Either?	exceptions		20150218
-advanced	http://inessential.com/2015/02/19/looping_through_objects_in_an_array	Looping Through Objects in an Array			20150219
+advanced	http://inessential.com/2015/02/19/looping_through_objects_in_an_array	Looping Through Objects in an Array	Array		20150219
 advanced	http://ericasadun.com/2015/02/19/swift-counting-strings-part-2	Swift: Counting Strings (Part 2)	string		20150219
 advanced	http://owensd.io/2015/02/18/swift-namespaces.html	Swift Namespaces			20150218
 advanced	http://radar.oreilly.com/2015/02/swift-like-swift-code.html	Swift-Like Swift code: A brief introduction to Swift optionals.	functional		20150220
@@ -917,7 +917,7 @@ advanced	http://www.raywenderlich.com/92428/background-modes-ios-swift-tutorial	
 advanced	http://www.andrewcbancroft.com/2015/04/15/testability-tip-for-swift-developers-public-over-private	Testability Tip for Swift Developers – Public Over Private			20150415
 advanced	http://ericasadun.com/2015/04/16/swift-counting-emoji-groups	Swift: Counting emoji groups			20150416
 advanced	http://natashatherobot.com/swift-generics-box	Swift: Putting Your Generics in a Box			20150416
-advanced	http://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html	Friday Q&A 2015-04-17: Let's Build Swift.Array			20150417
+advanced	http://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html	Friday Q&A 2015-04-17: Let's Build Swift.Array	Array		20150417
 advanced	http://makeapppie.com/2015/04/17/swift-watchkit-tutorials-programming-buttons-switches-and-timers-for-apple-watch	Swift WatchKit Tutorials: Programming Buttons, Switches and Timers for Apple Watch	watchkit		20150417
 advanced	http://ericasadun.com/2015/04/17/swift-stupid-reflection-tricks-1	Swift: Stupid Reflection Tricks #1			20150417
 advanced	http://waynewbishop.com/swift/binary-search-tree-rotations	Tree Balancing			20150418
@@ -1103,7 +1103,7 @@ advanced	http://ericasadun.com/2015/06/11/swift-wrapping-up-the-day-with-my-favo
 advanced	http://sketchytech.blogspot.com/2015/06/seven-basics-of-functional-programming.html	Seven Basics of Functional Programming in Swift	functional		20150612
 advanced	http://www.raywenderlich.com/98831/parse-tutorial-getting-started-web-backends	Parse Tutorial: Getting Started with Web Backends	ParseSDK		20150612
 advanced	http://www.raywenderlich.com/108522/whats-new-in-swift-2	What’s New in Swift 2	SwiftLang		20150612
-advanced	http://peterwitham.com/swift/basics/checking-api-availability-with-swift-2-available	Checking API availability with Swift 2 #available	SwiftLang		20150612
+advanced	http://peterwitham.com/swift/basics/checking-api-availability-with-swift-2-available	Checking API availability with Swift 2 #available	ApiAvailability		20150612
 advanced	http://sketchytech.blogspot.com/2015/06/living-in-post-oop-world-protocols-rule.html	Living in a Post-OOP world: Protocol Extensions in Swift 2			20150612
 advanced	http://ericasadun.com/2015/06/12/gameplaykit-i-call-this-victory	GameplayKit: I call this victory	GameplayKit		20150612
 advanced	http://ericasadun.com/2015/06/12/swift-diffs	Swift Diffs			20150612
@@ -1296,7 +1296,7 @@ advanced	http://ericasadun.com/2015/07/12/swift-enumerations-or-how-to-annoy-tom
 advanced	http://www.ioscreator.com/tutorials/tab-bar-controller-tutorial-ios8-swift	Tab Bar Controller Tutorial in iOS8 with Swift	UITabBarController		20150713
 advanced	http://sketchytech.blogspot.com/2015/07/uiactivityviewcontroller-part-1-from-my.html	UIActivityViewController (Part 1): Tweeting and Printing in Swift			20150713
 advanced	http://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects	Unit Testing Tutorial: Mocking Objects	testing		20150713
-advanced	http://www.codingexplorer.com/api-availability-checking-in-swift-2	API Availability Checking in Swift 2			20150713
+advanced	http://www.codingexplorer.com/api-availability-checking-in-swift-2	API Availability Checking in Swift 2	ApiAvailability		20150713
 advanced	http://commandshift.co.uk/blog/2015/07/14/things-i-learnt-about-the-photos-framework	Things I learnt about the Photos framework	Photos		20150714
 advanced	http://ericasadun.com/2015/07/13/swift-updating-optionals	Swift: Updating optionals	SwiftLang		20150713
 advanced	http://peterwitham.com/xcode/quick-tip-xcode-navigator-keyboard-shortcuts	Quick Tip – Xcode Navigator Keyboard Shortcuts	xcode		20150713
@@ -1383,7 +1383,7 @@ advanced	http://littlebitesofcocoa.com/52	little bites of cocoa: #52: R.swift			
 advanced	http://littlebitesofcocoa.com/53	little bites of cocoa: #53: Signatures with Jot			20150805
 advanced	http://littlebitesofcocoa.com/54	little bites of cocoa: #54: Dynamic Type Basics	UIFont		20150806
 advanced	http://inessential.com/2015/08/01/swift_diary_6_window_controller_initia	Swift Diary #6: Window Controller Initialization			20150801
-advanced	http://inessential.com/2015/08/02/swift_diary_7_protocols_arrays_and_c	Swift Diary #7: Protocols, Arrays, and Casting	SwiftLang:protocol:array		20150802
+advanced	http://inessential.com/2015/08/02/swift_diary_7_protocols_arrays_and_c	Swift Diary #7: Protocols, Arrays, and Casting	SwiftLang:protocol:Array		20150802
 advanced	http://inessential.com/2015/08/04/swift_diary_8_forwardinvocation	Swift Diary #8: forwardInvocation			20150804
 advanced	http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html	Pimp My Code, Book 2: Replacing Loops in Swift	SwiftLang		20150803
 advanced	http://inessential.com/2015/08/05/swift_diary_9_where_im_stuck	Swift Diary #9: Where I’m Stuck			20150805
@@ -1586,7 +1586,7 @@ advanced	http://ericasadun.com/2015/09/13/swiftlang-challenge-alphabet-arrays	Sw
 libs	https://github.com/DaveWoodCom/XCGLogger	XCGLogger - A debug log framework	logging		20010101
 libs	http://gist.github.com/chriseidhof/48243eb549481bc38d58	Reflection	SwiftLang:reflection		20010101
 libs	http://gist.github.com/mikeash/0ac60ce46f40e9c825a3	SerializationExperiment.swift			20010101
-libs	https://github.com/Alamofire/AlamofireImage	AlamofireImage is an image component library for Alamofire	networking		20010101
+libs	https://github.com/Alamofire/AlamofireImage	AlamofireImage is an image component library for Alamofire	networking:Alamofire		20010101
 libs	https://github.com/alskipp/Swift-Diagram-Playgrounds	Drawing diagrams in Swift using a recursive enum data structure	enum		20010101
 libs	https://github.com/andreamazz/BubbleTransition	A custom modal transition that presents and dismiss a controller with an expanding bubble effect.	transitions		20010101
 libs	https://github.com/Anviking/Decodable	Swift 2 JSON parsing done (more) right	json		20010101
@@ -1799,7 +1799,7 @@ libs	https://github.com/sahandnayebaziz/SwiftHub	An iOS app for exploring popula
 libs	https://github.com/superlopuh/bioswift	Implementing algorithms in my Bioinformatics course	algorithm		20010101
 advanced	http://christiantietze.de/posts/2015/09/guard-unit-test	Using Guard in Unit Tests	exceptions:guard		20150922
 advanced	http://davisvigneault.com/2015/09/initialization-in-swift	Initialization in Swift	SwiftLang		20150922
-advanced	http://eliasbagley.github.io/json/api/alamofire/2015/09/25/making-network-requests-with-alamofire.html	Making Network Requests with Alamofire	networking		20150925
+advanced	http://eliasbagley.github.io/json/api/alamofire/2015/09/25/making-network-requests-with-alamofire.html	Making Network Requests with Alamofire	networking:Alamofire		20150925
 libs	https://github.com/AaronBratcher/ALBNoSQLDB	A SQLite database wrapper written in Swift that requires no SQL knowledge to use and can sync with instances of itself	database		20010101
 libs	https://github.com/aquarchitect/MyKit	Swift library that extends iOS and OS X fundamental frameworks' functionality			20010101
 libs	https://github.com/Daij-Djan/DDUtils	a VERY loose collection of individual classes and/or components for OSX/IOS that I find myself reusing 			20010101
@@ -1807,7 +1807,7 @@ libs	https://github.com/evgenyneu/SigmaSwiftStatistics	A collection of functions
 libs	https://github.com/rasmusth/BluetoothKit	Easily communicate between iOS/OSX devices using BLE			20010101
 libs	https://github.com/vermont42/GpxLocationManager	GpxLocationManager is a replacement for CLLocationManager that allows the developer to use GPS data from GPX files or CLLocation arrays for testing	testing		20010101
 advanced	http://www.mokacoding.com/blog/demistifying-swift-functor	Swift Optionals, Functional Programming, and You			20150922
-advanced	http://www.thomashanning.com/api-availability-checking-in-swift-2-0	Swift 2.0: API Availability Checking			20150921
+advanced	http://www.thomashanning.com/api-availability-checking-in-swift-2-0	Swift 2.0: API Availability Checking	ApiAvailability		20150921
 advanced	http://www.thomashanning.com/nsurl-and-nsurlcomponents	NSURL and NSURLComponents	NSUrl:NSURLComponents		20150924
 advanced	http://flexmonkey.blogspot.com/2015/09/a-first-look-at-metal-performance-on.html	A First Look at Metal Performance on the iPhone 6s	metal		20150925
 advanced	http://littlebitesofcocoa.com/90	little bites of cocoa: #90: Custom Xcode Project Templates	xcode		20150925
@@ -1864,7 +1864,7 @@ libs	https://github.com/2015HuntMJ/UISearchController	UISearchController Example
 libs	https://github.com/mnem/SwiftA9ChipSource	A Swift version of https://github.com/WDUK/A9ChipSource			20010101
 advanced	http://roadfiresoftware.com/2015/09/how-you-can-do-tdd-with-swift	How can you do TDD with Swift?	testing		20150930
 advanced	http://ericasadun.com/2015/09/30/swiftlang-challenge-oddball-casting	#SwiftLang Challenge: Oddball Casting			20150930
-advanced	http://littlebitesofcocoa.com/93	little bites of cocoa: #93: Creating a Router for Alamofire	networking		20150930
+advanced	http://littlebitesofcocoa.com/93	little bites of cocoa: #93: Creating a Router for Alamofire	networking:Alamofire		20150930
 advanced	http://ericasadun.com/2015/09/30/dear-erica-whats-iff	Dear Erica: What’s iff?			20150930
 advanced	http://oleb.net/blog/2015/09/more-pattern-matching-examples	More Pattern Matching Examples	PatternMatching		20150930
 advanced	http://vfuc.co/stackgrid	StackGrid - Taking UIStackView one step further	UIStackView		20151001
@@ -1909,7 +1909,7 @@ advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-35-coremotion	i
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-36-location-notifications	iOS8 Day-by-Day :: Day 36 :: Location Notifications			20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-37-autosizing-collection-view-cells	iOS8 Day-by-Day :: Day 37 :: Autosizing Collection View Cells	UICollectionView		20150409
 advanced	http://www.shinobicontrols.com/blog/ios8-day-by-day-day-38-handoff	iOS8 Day-by-Day :: Day 38 :: Handoff			20150409
-advanced	http://littlebitesofcocoa.com/94	little bites of cocoa: #94: Custom Alamofire Response Serializers			20151001
+advanced	http://littlebitesofcocoa.com/94	little bites of cocoa: #94: Custom Alamofire Response Serializers	Alamofire		20151001
 advanced	http://flexmonkey.blogspot.com/2015/10/rotatable-swift-protocol-extension-to.html	Rotatable: A Swift Protocol Extension to Rotate any UIView	protocol:UIView		20151001
 advanced	http://www.raywenderlich.com/115695/getting-started-with-core-data-tutorial	Getting Started with Core Data Tutorial	CoreData		20151002
 advanced	http://christiantietze.de/posts/2015/10/collapse-expand-uisplitviewcontroller	How I Now Deal with Collapsible Split View Controllers on the iPhone 6	UISplitViewController		20151002
@@ -1950,7 +1950,7 @@ advanced	http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/	The F
 advanced	http://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect	Deques, Queues, and Lists in Swift with indirect	algorithm		20150729
 advanced	http://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift	A Trie in Swift	algorithm		20150811
 advanced	http://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance	Sequence Conformance	Sequence		20150820
-advanced	http://bit.boutique/blog/2015/6/8/drag-sorting-nstableview-rows-in-swift	Drag Sorting NSTableView rows in Swift	mac		20150609
+advanced	http://bit.boutique/blog/2015/6/8/drag-sorting-nstableview-rows-in-swift	Drag Sorting NSTableView rows in Swift	NSTableView:mac		20150609
 advanced	http://blog.zats.io/2015/08/15/randoms	GKRandomDistribution, GKShuffledDistribution and the GKGaussianDistribution	GameplayKit:random		20150815
 advanced	http://bluelemonbits.com/index.php/2015/08/20/evaluate-string-width-and-return-cgfloat-swift-osx	Evaluate string width and return CGFloat (Swift, OSX)	string		20150820
 advanced	http://chris.eidhof.nl/posts/struct-semantics-in-swift.html	Struct Semantics in Swift: Implementing Copy-on-Write efficiently	SwiftLang:structs		20150830
@@ -2017,7 +2017,6 @@ advanced	http://developer.apple.com/library/ios/documentation/Xcode/Reference/xc
 libs	https://github.com/tadija/AERecord	Super awesome Core Data wrapper in Swift (for iOS and OSX)	CoreData		20010101
 libs	https://github.com/sketchytech/SwiftFiles/tree/Swift_2	Save, Load and Delete from a Swift Playground	playground		20010101
 libs	https://github.com/groue/GRDB.swift	A versatile SQLite toolkit	sqlite		20010101
-advanced	http://ios-blog.co.uk/swift-tutorials/check-api-availability-with-swift-2	Check API Availability with Swift 2			20151004
 advanced	http://www.thomashanning.com/uipopoverpresentationcontroller	UIPopoverPresentationController	popover		20151004
 advanced	http://www.raywenderlich.com/113489/core-data-tutorial-multiple-managed-object-contexts	Core Data Tutorial: Multiple Managed Object Contexts	CoreData		20151005
 advanced	http://www.andrewcbancroft.com/2015/10/05/preparing-to-test-receipt-validation-for-ios	Preparing to Test Receipt Validation for iOS	InAppPurchase		20151005
@@ -2083,7 +2082,7 @@ advanced	http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html	Adding 3
 advanced	http://useyourloaf.com/blog/using-size-classes-to-hide-stack-view-contents.html	Using Size Classes to Hide Stack View Contents	UIStackView		20150927
 advanced	http://useyourloaf.com/blog/app-transport-security.html	App Transport Security			20150914
 advanced	http://useyourloaf.com/blog/querying-url-schemes-with-canopenurl.html	Querying URL Schemes With canOpenURL			20150907
-advanced	http://useyourloaf.com/blog/checking-api-availability-with-swift.html	Checking API Availability With Swift			20150824
+advanced	http://useyourloaf.com/blog/checking-api-availability-with-swift.html	Checking API Availability With Swift	ApiAvailability		20150824
 advanced	http://www.raywenderlich.com/116608/ios-9-app-search-tutorial-introduction-to-app-search	iOS 9 App Search Tutorial: Introduction to App Search	CoreSpotlight		20151009
 advanced	http://littlebitesofcocoa.com/100	little bites of cocoa: #100: Just Getting Started			20151009
 advanced	http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework	Wrapping a C Library in a Swift Framework			20151005
@@ -2144,14 +2143,14 @@ advanced	http://www.learncoredata.com/how-to-save-files-to-disk	How to Save and 
 advanced	http://www.learncoredata.com/how-to-save-files-part-2	How to Save and Retrieve Files, Part 2	file		20150922
 advanced	http://www.learncoredata.com/nsbatchdeleterequest-in-ios-9	How to Use NSBatchDeleteRequest in iOS 9	CoreData		20150929
 advanced	http://ashishkakkad.com/2015/01/requesting-access-to-the-address-book-swift-language-ios-8	Requesting Access to the Address Book – Swift Language – iOS 8	AddressBook		20150112
-advanced	http://ashishkakkad.com/2015/02/google-place-autocomplete-view-with-swift-language-through-alamofire-networking-library	Google Place Autocomplete View With Swift Language through Alamofire networking library			20150215
+advanced	http://ashishkakkad.com/2015/02/google-place-autocomplete-view-with-swift-language-through-alamofire-networking-library	Google Place Autocomplete View With Swift Language through Alamofire networking library	Alamofire		20150215
 advanced	http://ashishkakkad.com/2015/04/work-with-unwind-segue-in-swift-language-ios-8	Work with Unwind Segue in Swift Language – iOS 8	storyboard		20150428
 advanced	http://ashishkakkad.com/2015/04/passing-data-with-unwind-segue-in-swift-language-ios-8	Passing data with Unwind Segue in Swift Language – iOS 8	storyboard		20150430
 advanced	http://ashishkakkad.com/2015/05/facebook-login-swift-language-ios-8	Facebook Login – Swift Language – iOS 8			20150530
 advanced	http://ashishkakkad.com/2015/07/realm-mobile-database-with-swift	Realm – mobile database with Swift	realm		20150718
 advanced	http://ashishkakkad.com/2015/08/how-to-work-with-ibdesignable-and-ibinspectable-in-swift-language	How to work with IBDesignable and IBInspectable in Swift Language?	IBInspectable:IBDesignable		20150808
 advanced	http://ashishkakkad.com/2015/09/create-your-own-slider-menu-drawer-in-swift-2-ios-9	Create your own Slider menu (Drawer) in Swift 2 – iOS 9	animation		20150928
-advanced	http://ashishkakkad.com/2015/10/how-to-use-alamofire-and-swiftyjson-with-swift-swift-2-ios-9-xcode-7	How to use Alamofire and SwiftyJSON with Swift? – Swift 2 – iOS 9 – Xcode 7	json		20151006
+advanced	http://ashishkakkad.com/2015/10/how-to-use-alamofire-and-swiftyjson-with-swift-swift-2-ios-9-xcode-7	How to use Alamofire and SwiftyJSON with Swift? – Swift 2 – iOS 9 – Xcode 7	json:Alamofire		20151006
 advanced	http://littlebitesofcocoa.com/102	little bites of cocoa: #102: Building a Camera (Part 2)	camera		20151013
 advanced	http://www.mokacoding.com/blog/xcodebuild-destination-options	Xcodebuild Destination Cheatsheet	xcode		20151013
 libs	http://gist.github.com/blixt/821a0748257dc8d3581f	A Swift String extension that converts a hexadecimal color to a UIColor	UIColor:color		20010101
@@ -2308,7 +2307,7 @@ advanced	http://flexmonkey.blogspot.com/2015/10/swift-hierarchical-selector-comp
 advanced	http://chamatha.com/blog/2015/10/29/all-about-sfsafariviewcontroller	SFSafariViewController, We love you :)	SFSafariViewController		20151029
 libs	https://github.com/marmelroy/phonenumberkit	A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber			20010101
 libs	https://github.com/kanaka/mal/tree/master/swift	mal - Make a Lisp			20010101
-advanced	http://omenafarmariswift.blogspot.com/2015/10/hackernewsapp-in-swift-using-alamofire.html	HackerNewsApp in Swift using Alamofire			20151028
+advanced	http://omenafarmariswift.blogspot.com/2015/10/hackernewsapp-in-swift-using-alamofire.html	HackerNewsApp in Swift using Alamofire	Alamofire		20151028
 advanced	http://www.appcoda.com/realm-database-swift	Building a ToDo App Using Realm and Swift	realm		20151028
 advanced	http://littlebitesofcocoa.com/115	little bites of cocoa:#115: Generating Thumbnails from Videos			20151030
 advanced	http://realm.io/news/soffes-swift-network-testing-dvr	DVR: Network Testing	video		20151030
@@ -2470,6 +2469,11 @@ advanced	http://littlebitesofcocoa.com/172	little bites of cocoa: #172: UIMenuCo
 advanced	http://littlebitesofcocoa.com/173	little bites of cocoa: #173: Swift Optionals - Under the Hood			20160120
 advanced	http://littlebitesofcocoa.com/174	little bites of cocoa: #174: Better Numeric Input with MMNumberKeyboard			20160121
 advanced	http://littlebitesofcocoa.com/175	little bites of cocoa: #175: More Swift Tricks			20160122
+advanced	http://littlebitesofcocoa.com/176	little bites of cocoa: #176: Beautiful Onboarding Walkthroughs with Gecco			20160125
+advanced	http://littlebitesofcocoa.com/177	little bites of cocoa: #177: Debugging Push Notifications with Knuff	testing:PushNotifications		20160126
+advanced	http://littlebitesofcocoa.com/178	little bites of cocoa: #178: Improved Internationalization with Localize-Swift	Localization		20160127
+#advanced	http://littlebitesofcocoa.com/179	little bites of cocoa: 			20160128
+#advanced	http://littlebitesofcocoa.com/180	little bites of cocoa: 			20160129
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView		20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set		20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil		20151119
@@ -2552,7 +2556,7 @@ advanced	http://www.codementor.io/swift/tutorial/ios-tip-apple-mapkit-mklocalsea
 advanced	http://www.learncoredata.com/filtering-data-with-nspredicate	Filtering Data with NSPredicate	NSPredicate		20151202
 advanced	http://www.raywenderlich.com/112811/os-x-view-controllers-tutorial	OS X View Controllers Tutorial	mac		20151202
 advanced	http://www.russbishop.net/swift-3-open-source	Swift 3 Open Source			20151203
-advanced	http://www.raywenderlich.com/118835/os-x-nstableview-tutorial	OS X NSTableView Tutorial	mac		20151203
+advanced	http://www.raywenderlich.com/118835/os-x-nstableview-tutorial	OS X NSTableView Tutorial	NSTableView:mac		20151203
 advanced	http://flexmonkey.blogspot.com/2015/12/mercurialtext-embossed-type-using.html	MercurialText: Embossed Type using SceneKit and CIShadedMaterial	SceneKit		20151203
 advanced	http://codeplease.io/2015/11/30/schedulers	Schedulers			20151130
 advanced	http://makeapppie.com/2015/12/04/how-to-use-custom-table-cells-in-a-uitableview	How to Use Custom Table Cells in a UITableView	UITableView		20151204
@@ -2655,7 +2659,7 @@ advanced	http://ericasadun.com/2015/12/21/swift-evolution-calendar-update-and-tu
 advanced	http://ios-blog.co.uk/tutorials/swift/introduction-to-swift-programming-for-beginners	Introduction to Swift Programming for beginners			20151221
 advanced	http://useyourloaf.com/blog/finding-non-localized-strings.html	Finding Non-localized Strings			20151221
 advanced	http://ios-blog.co.uk/tutorials/swift/swift-playground-tip-using-external-code-files	Swift Playground Tip – Using External Code Files	playground		20151221
-advanced	http://ios-blog.co.uk/tutorials/swift/check-api-availability-with-swift-2	Check API Availability with Swift 2			20151221
+advanced	http://ios-blog.co.uk/tutorials/swift/check-api-availability-with-swift-2	Check API Availability with Swift 2	ApiAvailability		20151221
 advanced	http://ios-blog.co.uk/tutorials/swift/using-nsuserdefaults-with-swift	Using NSUserDefaults in Swift	NSUserDefaults		20151221
 advanced	http://ios-blog.co.uk/tutorials/swift/swift-2-0-print-repeat-while	Swift 2.0: Print & Repeat-While			20151221
 advanced	http://ios-blog.co.uk/tutorials/swift/introduction-to-uistackview	Introduction to UIStackView	UIStackView		20151221
@@ -2721,7 +2725,7 @@ advanced	http://jamesonquave.com/blog/being-swifty-with-collection-view-and-tabl
 advanced	http://natashatherobot.com/how-to-download-images-asynchronously-and-make-your-uitableview-scroll-fast-in-ios	iOS: Downloading Images Asynchronously (And Making Your UITableView Scroll Fast) is HARD			20151228
 advanced	http://christiantietze.de/posts/2015/12/cocoa-outer-layer	Making Cocoa the Outermost Layer			20151229
 advanced	http://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions	Creating Custom UIViewController Transitions			20151229
-advanced	http://ericasadun.com/2015/12/29/migrating-ifs-to-guards-in-swift	Migrating `if`s to `guard`s in Swift			20151229
+advanced	http://ericasadun.com/2015/12/29/migrating-ifs-to-guards-in-swift	Migrating `if`s to `guard`s in Swift	guard		20151229
 advanced	http://natashatherobot.com/updated-protocol-oriented-mvvm-in-swift-2-0	Updated: Protocol-Oriented MVVM in Swift 2.0			20151229
 advanced	http://natashatherobot.com/swift-protocols-with-associated-types	A Swift Look at Protocols with Associated Types			20151229
 advanced	http://www.learncoredata.com/icloud-key-value-store	Setting Up and Using iCloud Key-Value Store			20151230
@@ -2749,7 +2753,7 @@ advanced	http://realm.io/news/swift-summit-jorge-izquierdo-taylor-http-server-li
 advanced	http://www.fantageek.com/blog/2015/12/18/a-dive-into-swift-2	A Dive Into Swift 2			20151218
 advanced	http://www.totem.training/swift-ios-tips-tricks-tutorials-blog/ux-chops-dim-the-lights	UI/UX Chops: Transparent View Controllers and Dim Backgrounds			20151229
 advanced	http://developer.ibm.com/swift/2015/12/15/running-swift-within-docker	Running Swift within Docker	docker:Linux		20151215
-advanced	http://medium.com/learning-swift/ios-let-s-build-a-network-abstraction-layer-6133ae60d143	iOS : Let’s Build a Network Abstraction Layer	AlamoFire:networking		20151223
+advanced	http://medium.com/learning-swift/ios-let-s-build-a-network-abstraction-layer-6133ae60d143	iOS : Let’s Build a Network Abstraction Layer	Alamofire:networking		20151223
 advanced	http://ankit.im/swift/2015/12/27/ship-c-code-with-swift-packages-using-swift-package-manager	Ship C code with swift packages using swift package manager	PackageManager		20151227
 advanced	http://youtu.be/XWoNjiSPqI8	‪Alexis Gallagher - Protocols with Associated Types‬	protocol		20151215
 advanced	http://useyourloaf.com/blog/easier-autolayout-with-stackviews.html	Easier Auto Layout With Stack Views	UIStackView		20150621
@@ -2875,7 +2879,7 @@ advanced	http://swiftdeveloperblog.com/uitextview-and-uitextviewdelegate-example
 advanced	http://swiftdeveloperblog.com/mobile-app-with-uitabbarcontroller-sliding-side-menus	Mobile App with UITabBarController + Sliding Side Menus	video		20151228
 advanced	http://swiftdeveloperblog.com/http-get-request-example-in-swift	HTTP GET Request Example in Swift			20160102
 advanced	http://swiftdeveloperblog.com/pass-information-forward-from-one-viewcontroller-to-another-in-swift	Pass Information Forward From One ViewController to Another in Swift			20160111
-advanced	http://blog.matthewcheok.com/json-and-swift	JSON and Swift			20150624
+advanced	http://blog.matthewcheok.com/json-and-swift	JSON and Swift	json		20150624
 advanced	http://blog.matthewcheok.com/working-with-urls	Working with URLs			20150707
 advanced	http://blog.matthewcheok.com/from-uikit-to-web	From UIKit to Web			20150708
 advanced	http://blog.matthewcheok.com/writing-a-lexer-in-swift	Writing a lexer in Swift			20151116
@@ -2885,7 +2889,7 @@ advanced	http://matthewfecher.com/app-developement/audiokit-io-examples-converte
 advanced	http://matthewfecher.com/app-developement/initializing-a-singleton-in-swift-1-2	Converting an Obj-C Singleton to Swift 1.2 with just one line of code	singleton		20150527
 advanced	http://matthewfecher.com/app-developement/getting-dynamic-with-key-value-observation-kvo-in-swift-1-2	Getting Dynamic with Key Value Observation (KVO) in Swift 1.2			20150604
 advanced	http://matthewfecher.com/app-developement/swift-2-0s-new-take-on-defensive-design-with-guard	Swift 2.0’s New Take on Defensive Design with “Guard”	guard		20150613
-advanced	http://matthewfecher.com/app-developement/open-source-swift-radio-station-app-released	Open Source Swift Radio Station App Released!	Audio		20150103
+advanced	http://matthewfecher.com/app-developement/open-source-swift-radio-station-app-released	Open Source Swift Radio Station App Released!	audio		20150103
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-array-of-tuples	Playing with Array of Tuples	Array:tuple		20150224
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/custom-generic-unwrap-function	Custom generic unwrap function!	generics		20150224
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-optionals-type	Playing with optionals type!			20150224
@@ -2911,7 +2915,7 @@ advanced	http://www.appcoda.com/tvos-introduction	Introduction to tvOS: Building
 advanced	http://www.appcoda.com/3d-touch-tutorial	3D Touch Introduction: Building a Digital Scale App and Quick Actions	3dTouch		20151109
 advanced	http://www.appcoda.com/expandable-table-view	How To Create an Expandable Table View in iOS	UITableView		20151116
 advanced	http://www.appcoda.com/foursquare-realm-swift	Building a Coffee Shop App with Swift, Foursquare API and Realm	realm		20151123
-advanced	http://www.appcoda.com/alamofire-beginner-guide	The Absolute Guide to Networking in Swift with Alamofire	AlamoFire:networking		20151130
+advanced	http://www.appcoda.com/alamofire-beginner-guide	The Absolute Guide to Networking in Swift with Alamofire	Alamofire:networking		20151130
 advanced	http://www.appcoda.com/ios-concurrency	iOS Concurrency: Getting Started with NSOperation and Dispatch Queues	NSOperation:concurrency		20151209
 advanced	http://www.appcoda.com/core-spotlight-framework	How To Use Core Spotlight Framework in iOS 9	CoreSpotlight		20151222
 advanced	http://www.appcoda.com/linkedin-sign-in	Integrating LinkedIn Sign In with iOS Apps Using OAuth 2.0	oauth2		20160103
@@ -2933,7 +2937,7 @@ advanced	http://www.mav3r1ck.com/arc4random	Arc4random	random		20140922
 advanced	http://www.mav3r1ck.com/epoch-converter	Epoch Converter			20141004
 advanced	http://www.mav3r1ck.com/user-location	User Location			20141011
 advanced	http://www.mav3r1ck.com/sounds-with-swift	Sounds with Swift	audio		20141026
-advanced	http://www.mav3r1ck.com/push-notifications-with-swift	Push notifications with Swift			20141122
+advanced	http://www.mav3r1ck.com/push-notifications-with-swift	Push notifications with Swift	PushNotifications		20141122
 advanced	http://www.mav3r1ck.com/swipe-gesture-recognizers	Swipe gesture recognizers	gesture		20141202
 advanced	http://www.mav3r1ck.com/uibezierpath	UIBezierPath	UIBezierPath		20150110
 advanced	http://www.mav3r1ck.com/uilongpressgesturerecognizer	LongPressGestureRecognizer			20141206
@@ -2968,7 +2972,7 @@ advanced	https://www.youtube.com/watch?v=m_16DvzHs5g	‪How To Make a Soundboard
 advanced	https://www.youtube.com/watch?v=I0MugLFQiHo	‪How To Make a Soundboard App (Star Wars theme) - Ep 02 Xcode Project Set up‬	video:CodeWithChris		20150105
 advanced	https://www.youtube.com/watch?v=mjK6GVVaMqo	‪How To Make a Soundboard App (Star Wars theme) - Ep 03 Play Sounds‬	video:CodeWithChris		20150106
 advanced	https://www.youtube.com/watch?v=lhb9pAgUyAU	‪How To Make a Soundboard App (Star Wars theme) - Ep 04 Style the App‬	video:CodeWithChris		20150107
-advanced	https://www.youtube.com/watch?v=oNKVVBN2JN0	‪CocoaPods Tutorial - How to install and setup Cocoa Pods for Xcode‬	video:CodeWithChris:CocoaPods:Xcode		20151222
+advanced	https://www.youtube.com/watch?v=oNKVVBN2JN0	‪CocoaPods Tutorial - How to install and setup Cocoa Pods for Xcode‬	video:CodeWithChris:CocoaPods:xcode		20151222
 advanced	https://www.youtube.com/watch?v=Brei27hdnF8	‪How To Use Alamofire for Networking in your Xcode project (Cocoapod install)‬	video:CodeWithChris:Alamofire		20151223
 advanced	https://www.youtube.com/watch?v=RFuRnKwMS3w	‪SDWebImage Tutorial - Display images from a URL‬	video:CodeWithChris		20151224
 advanced	https://www.youtube.com/watch?v=Rqr3w8scm2E	‪SwiftyJSON Tutorial - Cocoapod install‬	video:CodeWithChris		20151228
@@ -2982,7 +2986,7 @@ advanced	https://www.youtube.com/watch?v=lim3t6xdbXg	‪Build a Shopping App wit
 advanced	https://www.youtube.com/watch?v=yFv3nHw0eRw	Build a Shopping App with Moltin - Ep 5 - Product Details	video:CodeWithChris:Moltin		20151211
 advanced	https://www.youtube.com/watch?v=Lcy3lCQzq1w	‪Build a Shopping App with Moltin - Ep 6 - Add to Cart‬	video:CodeWithChris:Moltin		20151214
 advanced	https://www.youtube.com/watch?v=g157A59d_CY	Build a Shopping App with Moltin - Ep 7 - Checkout	video:CodeWithChris:Moltin		20151215
-advanced	https://www.youtube.com/watch?v=YGIyaim_5kw	‪How To Make a YouTube Video App - Ep 10 - YouTube Data API, Alamofire‬	video:CodeWithChris		20151216
+advanced	https://www.youtube.com/watch?v=YGIyaim_5kw	‪How To Make a YouTube Video App - Ep 10 - YouTube Data API, Alamofire‬	video:CodeWithChris:Alamofire		20151216
 advanced	https://www.youtube.com/watch?v=7xUSH1QLHzk	‪How To Make a YouTube Video App - Ep 11 - Retrieving the Playlist Videos‬	video:CodeWithChris		20151217
 advanced	https://www.youtube.com/watch?v=VkvpwEAriu4	‪How To Make a YouTube Video App - Ep 12 - Creating the video objects‬	video:CodeWithChris		20151218
 advanced	https://www.youtube.com/watch?v=wzl_195ceFc	How To Make a YouTube Video App - Ep 13 - Displaying dynamic videos	video:CodeWithChris		20151221
@@ -3066,13 +3070,13 @@ advanced	https://www.youtube.com/watch?v=0vP5OjLeAGo	‪Introduction to XCode Ba
 advanced	https://www.youtube.com/watch?v=0wJ2ivyN_7E	Swift Tutorial: 2.0 Differences 04 - Where	video:MadApper		20150921
 advanced	https://www.youtube.com/watch?v=t96UM9U8IVk	Swift Tutorial: 2.0 Differences 05 - Recursive Enums	video:MadApper		20150923
 advanced	https://www.youtube.com/watch?v=Wm0vpkY8k6o	‪Swift Tutorial: 2.0 Differences 06 - ErrorType‬	video:MadApper		20150925
-advanced	https://www.youtube.com/watch?v=o0OII_sXtmo	‪Swift Tutorial: 2.0 Differences 07 - Do Try Catch‬	video:MadApper		20150928
-advanced	https://www.youtube.com/watch?v=NxEat6ASRu4	‪Swift Tutorial: 2.0 Differences 08 - Error Handling‬	video:MadApper		20150930
-advanced	https://www.youtube.com/watch?v=_TCMzA5n16I	‪Swift Tutorial: 2.0 Differences 09 - Optional Error Handling‬	video:MadApper		20151002
-advanced	https://www.youtube.com/watch?v=Jpkcw0exWdY	‪Swift Tutorial: 2.0 Differences 10 - Guard‬	video:MadApper		20151005
+advanced	https://www.youtube.com/watch?v=o0OII_sXtmo	‪Swift Tutorial: 2.0 Differences 07 - Do Try Catch‬	video:MadApper:exceptions		20150928
+advanced	https://www.youtube.com/watch?v=NxEat6ASRu4	‪Swift Tutorial: 2.0 Differences 08 - Error Handling‬	video:MadApper:exceptions		20150930
+advanced	https://www.youtube.com/watch?v=_TCMzA5n16I	‪Swift Tutorial: 2.0 Differences 09 - Optional Error Handling‬	video:MadApper:exceptions		20151002
+advanced	https://www.youtube.com/watch?v=Jpkcw0exWdY	‪Swift Tutorial: 2.0 Differences 10 - Guard‬	video:MadApper:guard		20151005
 advanced	https://www.youtube.com/watch?v=1EXfqv1Pl-g	Swift Tutorial: 2.0 Differences 11 - Defer	video:MadApper		20151007
 advanced	https://www.youtube.com/watch?v=O83L9e7hxgk	Swift Tutorial: 2.0 Differences 12 - Option Set Type	video:MadApper		20151009
-advanced	https://www.youtube.com/watch?v=b1UX9hc_SCE	‪Swift Tutorial: 2.0 Differences 13 - Availability‬	video:MadApper		20151012
+advanced	https://www.youtube.com/watch?v=b1UX9hc_SCE	‪Swift Tutorial: 2.0 Differences 13 - Availability‬	video:MadApper:ApiAvailability		20151012
 advanced	https://www.youtube.com/watch?v=7K6TBLbs7Vs	Swift Tutorial: Protocol Oriented Programming - Introduction	video:MadApper:protocol		20151014
 advanced	https://www.youtube.com/watch?v=Fv5G1CjiOs8	‪Swift Tutorial: Protocol Oriented Programming - Protocol Inheritance‬	video:MadApper:protocol		20151016
 advanced	https://www.youtube.com/watch?v=exkaXqvbHiQ	Swift Tutorial: Protocol Oriented Programming - Protocol Extensions	video:MadApper:protocol		20151019
@@ -3106,7 +3110,7 @@ advanced	http://www.knowstack.com/swift-nslayoutconstraint-constraintswithvisual
 advanced	http://www.knowstack.com/swift-nslayoutconstraint-programatically-sample-code	Swift NSLayoutConstraint programatically sample code	mac:AutoLayout		20160117
 advanced	http://robots.thoughtbot.com/caching-carthage-con-circleci	Caching Carthage con CircleCI	carthage		20160118
 advanced	http://www.appcoda.com/using-xcode-targets	How to Use Xcode Targets to Manage Development and Production Builds	xcode		20160118
-advanced	http://thatthinginswift.com/guard-statement-swift	Guard Statements			20160104
+advanced	http://thatthinginswift.com/guard-statement-swift	Guard Statements	guard		20160104
 advanced	http://thatthinginswift.com/pantry-cache-struct-swift	Pantry, a light struct caching library			20151130
 advanced	http://swiftcoder.me/2015/02/24/playing-with-array-of-tuples	Playing with Array of Tuples	Array:tuple		20150224
 advanced	http://medium.com/@marmelroy/zipping-and-unzipping-files-in-your-swift-app-1b33a82b4b88	Zipping and unzipping files in your Swift app			20160117
@@ -3134,7 +3138,7 @@ advanced	http://swiftcoder.me/2015/02/25/extensions	Extensions	extension		201502
 advanced	http://swiftcoder.me/2015/02/24/playing-with-optionals-type	Playing with optionals type			20150224
 advanced	http://swiftcoder.me/2015/02/24/custom-generic-unwrap-function	Custom generic unwrap function			20150224
 advanced	http://ankit.im/swift/2015/12/06/developing-and-debugging-swift-packages-using-swift-package-manager	Developing and Debugging Swift Packages using Swift Package Manager	PackageManager		20151206
-advanced	http://ankit.im/swift/2015/12/12/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac	Hacking Atom to create a Swift IDE that runs on Linux and Mac	Linux:Atom		20151212
+advanced	http://ankit.im/swift/2015/12/12/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac	Hacking Atom to create a Swift IDE that runs on Linux and Mac	Linux:AtomEditor		20151212
 advanced	http://ankit.im/swift/2015/12/20/generate-swift-packages-on-the-fly	Generate swift packages directory structure on the fly	PackageManager		20151220
 advanced	http://ankit.im/swift/2015/12/27/travis-for-swift-package-manager	Travis build script for swift package manager based packages	PackageManager		20151227
 advanced	http://ankit.im/swift/2016/01/02/creating-value-type-generic-stack-in-swift-with-pointers-and-copy-on-write	Creating value-type generic Stack in swift with pointers and copy-on-write feature	generics:algorithm		20160102
@@ -3166,7 +3170,7 @@ advanced	http://bloggar.aftonbladet.se/utvecklingsbloggen/2016/01/20/protocol-ex
 advanced	http://medium.com/swift-and-ios-writing/using-a-c-library-inside-a-swift-framework-d041d7b701d9	Using a C library inside a Swift framework			20160120
 advanced	http://savvyapps.com/blog/swift-tips-for-developers	15 Tips to Become a Better Swift Developer			20160120
 libs	https://github.com/tannernelson/vapor	Elegant web framework for Swift that works on iOS, OS X, and Ubuntu	web		20010101
-advanced	http://www.bignerdranch.com/blog/hi-im-available	Hi! I'm #available!	availability		20160119
+advanced	http://www.bignerdranch.com/blog/hi-im-available	Hi! I'm #available!	ApiAvailability		20160119
 libs	https://github.com/aschuch/StatefulViewController	Placeholder views based on content, loading, error or empty states			20010101
 advanced	http://irace.me/swift-profiling	Profiling your Swift compilation times	profiling		20160118
 libs	https://github.com/Aralekk/VR_Toolkit_iOS	A sample project that provides the basics to create an interactive VR experience on iOS	VirtualReality		20010101
@@ -3203,3 +3207,32 @@ libs	https://github.com/osteslag/Changeset	Minimal edits from one collection to 
 advanced	https://youtu.be/K3CSBxX5VXA	UIPageViewController in Swift with Xcode | Create Walkthrough	UIPageViewController:video		20160121
 libs	https://github.com/davidlondono/VIPER-Generics-Generator	A generator of classes with protocols to comunicate over VIPER			20010101
 advanced	http://medium.com/martiancraft-s-syndicate/why-san-francisco-b86bd45f3273	Why San Francisco	design:typography		20160122
+advanced	http://cocoawithlove.com/blog/2016/01/25/partial-functions-part-one-avoidance.html	Partial functions in Swift, Part 1: Avoidance			20160125
+advanced	http://www.bricepollock.com/html-rending-ios-swift-dynamic-uitableviewcells	HTML Rendering in Swift with Dynamic UITableViewCells	UITableViewCells:html		20150809
+advanced	http://www.bricepollock.com/swift-snippets-a-max-function-for-optionals	Swift-Snippets: A Max Function for Optionals			20150322
+advanced	http://www.bricepollock.com/writing-a-custom-control-ios-8-swift-and-auto-layout	Writing a custom control: iOS 8, Swift and Auto Layout	AutoLayout		20141027
+advanced	http://rotlogix.com/2016/01/25/digging-into-swift-objects	Swift Reverse Engineering | Digging into Objects			20160125
+advanced	http://spin.atomicobject.com/2016/01/25/ios-memory-leak-xcode	Finding iOS Memory Leaks with Xcode’s Instruments	xcode:testing		20160125
+advanced	http://useyourloaf.com/blog/proportional-spacing-with-auto-layout.html	Proportional Spacing With Auto Layout	AutoLayout		20160124
+advanced	https://youtu.be/0aOHIYzkiEA	‪How To Use Parse (Swift, Xcode) - Ep 10 - Parse User Accounts and Management‬	ParseSDK:video:CodeWithChris		20160125
+advanced	http://www.raywenderlich.com/120442/swift-json-tutorial	Swift Tutorial: Working with JSON	json		20160126
+advanced	http://www.ios-blog.co.uk/tutorials/swift/introduction-to-guard-syntax	Introduction to guard syntax	guard		20160126
+advanced	http://www.mav3r1ck.io/icloudkeystore	iCloudKeyStore with Swift	iCloud		20160126
+advanced	http://metova.com/dev/blog/2016/01/26/guide-xcode-ui-test	A Guide to Xcode UI Test	testing		20160126
+advanced	http://www.appcoda.com/push-notification-ios	A Beginner’s Guide to Push Notifications	PushNotifications		20160126
+advanced	http://www.knowstack.com/swift-create-nstableview-programatically	Swift Create NSTableView programatically	NSTableView:mac		20160126
+advanced	https://www.youtube.com/watch?v=9gsJCrSK8UA	‪How To Use Parse (Swift, Xcode) - Ep 11 - Parse User Login and Sign Up Account‬	ParseSDK:video:CodeWithChris		20160126
+advanced	http://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d	UIStoryboard: Safer with Enums, Protocol Extensions and Generics			20160123
+advanced	http://www.knowstack.com/swift-basic-operators-2	Swift Basic Operators	Operators		20160126
+advanced	http://ericasadun.com/2016/01/26/xcode-7-3-beta-2-introduces-live-interactive-playgrounds	Xcode 7.3 Beta 2 introduces live interactive playgrounds	playground		20160126
+advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-checking-reachability	watchOS 2 Tutorial: Checking Reachability	watchkit		20160126
+advanced	http://bjmiller.me/post/91257318107/swift-immutable-arrays-are-now-immutable	Swift Immutable Arrays are now Immutable	Array		20140709
+advanced	http://bjmiller.me/post/105918520927/leaner-uiviewcontrollers	Leaner UIViewControllers			20141222
+advanced	http://bjmiller.me/post/106367636847/styswiftin24h-update	Teach Yourself Swift in 24 Hours - Update			20141227
+advanced	http://bjmiller.me/post/116692952237/updates-in-swift-12	Updates in Swift 1.2			20150417
+advanced	http://bjmiller.me/post/137624096422/on-c-style-for-loops-removed-from-swift-3	On C-Style For Loops Removed from Swift 3			20160119
+advanced	http://www.mokacoding.com/blog/async-testing-with-quick-and-nimble	Async Testing with Quick and Nimble	Quick:Nimble:testing		20160127
+libs	https://github.com/paiv/AngleGradientLayer	AngleGradientLayer with Swift Example	objc_src		20010101
+advanced	http://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them	Seven Swift Snares & How to Avoid Them			20160127
+advanced	http://developer.ibm.com/swift/2015/12/28/exploring-swift-linux	Exploring Swift on Linux	Linux		20151228
+advanced	http://developer.ibm.com/swift/2015/12/08/introduction-to-swift-tutorial-using-the-ibm-swift-sandbox/	Introduction to Swift Tutorial using the IBM Swift Sandbox	Linux		20151208
