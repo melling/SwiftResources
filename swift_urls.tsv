@@ -430,7 +430,7 @@ advanced	http://natecook.com/blog/2014/07/c-style-typedef-enums-in-swift	C-Style
 advanced	http://natecook.com/blog/2014/08/swifts-hidden-array-each-method	Swift's Hidden Array.each Method	Array		20140826
 advanced	http://natecook.com/blog/2014/08/generic-functions-for-incompatible-types	Generic Functions for Incompatible Types	generics		20140829
 advanced	http://natecook.com/blog/2014/09/introducing-swifter	Introducing Swifter			20140905
-advanced	http://natecook.com/blog/2014/09/slicing-for-speed	Slicing for Speed	Array		20140917
+advanced	http://natecook.com/blog/2014/09/slicing-for-speed	Slicing for Speed	Array:ArraySlice		20140917
 advanced	http://nshipster.com/cmdevicemotion	CMDevice Motion			20141028
 advanced	http://natecook.com/blog/2014/10/ternary-operators-in-swift	Custom Ternary Operators in Swift	SwiftLang:Operators		20141029
 advanced	http://medium.com/swift-programming/learn-nsurlsession-using-swift-ebd80205f87c	Learn NSURLSession using Swift Part 1 - HTTP/HTTP GET	NSURLSession:NSUrl		20141103
@@ -503,7 +503,7 @@ advanced	http://vperi.com/2014/06/08/regular-expressions-in-switch-statements	re
 advanced	http://vperi.com/2014/06/07/list-traversal-with-discriminated-unions-in-swift	list traversal with discriminated unions			20140607
 advanced	http://vperi.com/2014/06/05/function-composition-pipelining-in-swift	function composition & pipelining operators	Operators		20140605
 advanced	http://vperi.com/2014/06/05/spaceship-operator-in-swift	spaceship operator	Operators		20140605
-advanced	http://vperi.com/2014/06/04/slicing-arrays-in-swift	slicing arrays	Array		20140604
+advanced	http://vperi.com/2014/06/04/slicing-arrays-in-swift	slicing arrays	Array:ArraySlice		20140604
 advanced	http://vperi.com/2014/06/05/singleton-pattern-in-swift	singleton pattern	singleton		20140605
 advanced	http://vperi.com/2014/06/05/null-coalescing-operator-elvis-in-swift	null coalescing operator (elvis)	Operators		20140605
 advanced	http://vperi.com/2014/06/17/swift-builders	swift builders			20140617
@@ -2471,9 +2471,9 @@ advanced	http://littlebitesofcocoa.com/174	little bites of cocoa: #174: Better N
 advanced	http://littlebitesofcocoa.com/175	little bites of cocoa: #175: More Swift Tricks			20160122
 advanced	http://littlebitesofcocoa.com/176	little bites of cocoa: #176: Beautiful Onboarding Walkthroughs with Gecco			20160125
 advanced	http://littlebitesofcocoa.com/177	little bites of cocoa: #177: Debugging Push Notifications with Knuff	testing:PushNotifications		20160126
-advanced	http://littlebitesofcocoa.com/178	little bites of cocoa: #178: Improved Internationalization with Localize-Swift	Localization		20160127
-#advanced	http://littlebitesofcocoa.com/179	little bites of cocoa: 			20160128
-#advanced	http://littlebitesofcocoa.com/180	little bites of cocoa: 			20160129
+advanced	http://littlebitesofcocoa.com/178	little bites of cocoa: #178: Improved Internationalization with Localize-Swift	localization		20160127
+advanced	http://littlebitesofcocoa.com/179	little bites of cocoa: #179: Swift Tricks: Properties 			20160128
+advanced	http://littlebitesofcocoa.com/180	little bites of cocoa: #180: More Swift Tricks			20160129
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView		20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set		20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil		20151119
@@ -2591,7 +2591,7 @@ advanced	http://www.raywenderlich.com/117433/accessing-heart-rate-data-researchk
 advanced	http://ericasadun.com/2015/12/10/constructing-literals-in-swift-playgrounds-without-drag-and-drop	Constructing literals in Swift playgrounds without drag and drop	playground		20151210
 libs	https://github.com/krzysztofzablocki/KZLinkedConsole	Clickable links in your Xcode console, so you never wonder which class logged the message			20010101
 libs	https://github.com/MailOnline/ImageViewer	ImageViewer is a library that enables a user to visualize an image in fullscreen			20010101
-libs	https://github.com/JiriTrecak/Laurine	Localization code generator written in Swift. 			20010101
+libs	https://github.com/JiriTrecak/Laurine	Localization code generator written in Swift. 	localization		20010101
 advanced	http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift	Higher-order functions in Swift	functional		20151209
 advanced	http://blog.krzyzanowskim.com/2015/12/04/swift-package-manager-and-linux-compatible	Linux compatible Swift and Swift Package Manager	PackageManager:Linux		20151204
 advanced	http://dev.iachieved.it/iachievedit/more-swift-on-linux	More Swift on Linux	Linux		20151206
@@ -3236,3 +3236,44 @@ libs	https://github.com/paiv/AngleGradientLayer	AngleGradientLayer with Swift Ex
 advanced	http://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them	Seven Swift Snares & How to Avoid Them			20160127
 advanced	http://developer.ibm.com/swift/2015/12/28/exploring-swift-linux	Exploring Swift on Linux	Linux		20151228
 advanced	http://developer.ibm.com/swift/2015/12/08/introduction-to-swift-tutorial-using-the-ibm-swift-sandbox/	Introduction to Swift Tutorial using the IBM Swift Sandbox	Linux		20151208
+advanced	http://code.tutsplus.com/tutorials/ios-9-an-introduction-to-the-contacts-framework--cms-25599	iOS 9: An Introduction to the Contacts Framework	Contacts		20160127
+advanced	https://www.youtube.com/watch?v=4UcXdivw3sQ	How To Use Parse (Swift, Xcode) - Ep 12 - Parse Geolocation and GeoPoints	ParseSDK:video:CodeWithChris		20160127
+advanced	http://www.thomashanning.com/swift-and-objective-c-interoperability	How To Use Both Swift And Objective-C In One Project?			20160128
+advanced	https://realm.io/news/ben-sandofsky-time-for-swift	Is It Time for Swift?			20160128
+advanced	http://psgraphics.blogspot.com/2014/09/inheritance-for-swift-ray-tracer.html	Inheritance for a Swift ray tracer	raytracing		20140907
+advanced	https://hugotunius.se/2014/08/19/custom-control-structures-in-swift.html	Custom Control Structures in Swift	raytracing		20140819
+libs	https://github.com/k0nserv/SwiftTracer	A raytracer written in Swift for learning and lulz	raytracing		20010101
+libs	https://github.com/k0nserv/SwiftTracer-Core	Core rendering mechanics for SwiftTracer	raytracing		20010101
+libs	https://github.com/nuudles/CacheIsKing	A simple cache that can hold anything, including Swift items			20010101
+libs	https://github.com/Pyroh/SwiftMark	This framework offers high-level API to convert any CommonMark text to HTML, XML and soon LATEX			20010101
+libs	https://github.com/TomasLinhart/SwiftGtk	SwiftGtk is a experimental Gtk+ binding for Swift that tries to make usage of Gtk+ pleasant and 'Swifty' as much as possible	Linux		20010101
+advanced	http://andybargh.com/2016/01/28/swift-loops	Swift Loops	SwiftLang		20160128
+advanced	http://square-the-circle.com/2014/07/31/swift-drawing-101	Swift Drawing 101	mac:UIBezierPath		20140731
+advanced	https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2	iOS App Performance: Instruments & beyond	performance		20160128
+libs	https://github.com/hollance/swift-algorithm-club	Swift Algorithm Club			20010101
+libs	https://github.com/joshdholtz/swift-webframeworks-docker	Docker containers used for spinning up different Swift web frameworks	docker:Linux		20010101
+advanced	https://www.youtube.com/watch?v=fcqr4hYkbjw	‪How To Use Parse (Swift, Xcode) - Ep 13 - Parse Relational Data and Objects‬	ParseSDK:video:CodeWithChris		20160128
+advanced	http://www.cimgf.com/2016/01/28/a-modern-network-operation	A Modern Network Operation	NSOperation:concurrency		20160128
+advanced	http://ericasadun.com/2016/01/28/diving-into-the-big-world-of-api-guidelines	Diving into the big world of API Guidelines			20160128
+advanced	http://ericasadun.com/2016/01/28/the-case-of-the-missing-playground-import	The case of the missing playground import	playground		20160128
+advanced	http://christiantietze.de/posts/2016/01/comparison-block-based-api-delegate	Block-Based API vs. Delegates – a Comparison			20160129
+advanced	http://makeapppie.com/2016/01/29/how-and-why-to-use-unsigned-integers-uint	How and Why To Use Unsigned Integers (UInt)			20160129
+advanced	https://www.shinobicontrols.com/blog/apple-tv-apps-on-display	Apple TV- Apps on Display	AppleTV		20160129
+advanced	http://sketchytech.blogspot.com/2016/01/swift-nsurlsession-in-playground.html	Swift: NSURLSession in the Playground	NSURLSession:playground		20160129
+advanced	https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html	Friday Q&A 2016-01-29: Swift Struct Storage	structs		20160129
+advanced	http://katalisha.com/2016/01/22/ARC-Swift-closures-and-weak-self.html	ARC, Swift closures and weak self			20160122
+advanced	http://en.swifter.tips/kvo	KVO	kvo		20160127
+advanced	http://en.swifter.tips/value-reference	Value Type and Reference Type			20151021
+advanced	http://en.swifter.tips/string-nsstring	String or NSString			20151028
+advanced	http://en.swifter.tips/unsafe	UnsafePointer	UnsafePointer		20151104
+advanced	http://en.swifter.tips/pointer-memory	Memory of C Pointer			20151111
+advanced	http://en.swifter.tips/opaque-function-pointer	COpaquePointer and CFunctionPointer			20151118
+advanced	http://en.swifter.tips/gcd-delay-call	GCD and delayed invoking	GCD		20151125
+advanced	http://en.swifter.tips/range	Range	Range		20151202
+advanced	http://en.swifter.tips/instance-type	Get type of instance			20151209
+advanced	http://en.swifter.tips/self-anyclass	AnyClass, Meta Type and .self			20151216
+advanced	http://en.swifter.tips/use-self	Self in protocol and class method	protocol		20151223
+advanced	http://en.swifter.tips/introspection	Introspection	Introspection		20151230
+advanced	http://en.swifter.tips/type-casting	Type casting			20160106
+advanced	http://en.swifter.tips/multi-method	Dynamic Type and Multimethods			20160113
+advanced	http://en.swifter.tips/property-observer	Property Observer			20160120
