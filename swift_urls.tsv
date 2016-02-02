@@ -713,7 +713,7 @@ advanced	http://makeapppie.com/2015/01/22/swift-swift-tutorials-calculator-style
 advanced	http://makeapppie.com/2015/01/27/tab-bar-controllers-in-storyboards	Tab Bar Controllers in Storyboards	storyboard		20150127
 advanced	http://makeapppie.com/2015/02/04/swift-swift-tutorials-passing-data-in-tab-bar-controllers	Swift Swift Tutorials: Passing Data in Tab Bar Controllers			20150204
 advanced	http://flexmonkey.blogspot.com/2015/02/swift-12-lets-talk-about-sets-baby.html	Swift 1.2: Let's Talk About Sets, Baby			20150210
-advanced	http://www.scottlogic.com/blog/2015/02/11/swift-kvo-alternatives.html	Exploring KVO alternatives with Swift 			20150211
+advanced	http://www.scottlogic.com/blog/2015/02/11/swift-kvo-alternatives.html	Exploring KVO alternatives with Swift 	kvo		20150211
 advanced	http://www.raywenderlich.com/95181/whats-new-in-swift-1-2	What’s New in Swift 1.2			20150211
 advanced	http://medium.com/swift-programming/ios-swift-parse-com-part-3-sign-up-sign-in-sign-out-security-349adc94ef0e	iOS + Swift +  parse.com -  Part 3 (Sign Up, Sign In, Sign Out + Security)	ParseSDK		20150211
 advanced	http://airspeedvelocity.net/2015/02/11/changes-to-the-swift-standard-library-in-1-2-beta-1	Changes to the Swift Standard Library in 1.2 beta 1			20150211
@@ -838,7 +838,7 @@ advanced	http://www.objc.io/snippets/22.html	Typed Table View Controllers Redux	
 advanced	http://kgoddard.net/tutorial/swift/xcode/spritekit/ios/2015/03/21/spritekit-swift-part-1-creating-game-scene.html	SpriteKit and Swift Part 1: Creating the Game Scene	SpriteKit		20150321
 advanced	http://ericasadun.com/2015/03/22/swift-more-fun-with-reflection	Swift: More Fun with Reflection			20150322
 advanced	http://blog.human-friendly.com/how-swift-is-swift	How Swift is Swift?			20150322
-advanced	http://www.raywenderlich.com/87008/overlay-views-mapkit-swift-tutorial	Overlay Views with MapKit and Swift Tutorial	MapKit		20150325
+advanced	http://www.raywenderlich.com/87008/overlay-views-mapkit-swift-tutorial	MapKit Tutorial: Overlay Views	MapKit:MKPolyline:MKPolygon:MKCircle		20150325
 advanced	http://ericasadun.com/2015/03/25/swift-todays-wow-moment-adding-menus-to-playgrounds	Swift: Today’s Wow moment. Adding menus to playgrounds	playground		20150325
 advanced	http://airspeedvelocity.net/2015/03/26/protocols-and-generics-2	Protocols and Generics	protocol:generics		20150326
 advanced	http://flexmonkey.blogspot.com/2015/03/swift-metal-four-million-particles-on.html	Swift & Metal: Four Million Particles on an iPad	metal		20150326
@@ -2474,6 +2474,11 @@ advanced	http://littlebitesofcocoa.com/177	little bites of cocoa: #177: Debuggin
 advanced	http://littlebitesofcocoa.com/178	little bites of cocoa: #178: Improved Internationalization with Localize-Swift	localization		20160127
 advanced	http://littlebitesofcocoa.com/179	little bites of cocoa: #179: Swift Tricks: Properties 			20160128
 advanced	http://littlebitesofcocoa.com/180	little bites of cocoa: #180: More Swift Tricks			20160129
+advanced	http://littlebitesofcocoa.com/181	little bites of cocoa: #181: App Localization Basics	localization		20160201
+advanced	http://littlebitesofcocoa.com/182	little bites of cocoa: #182: NSNumberFormatter Basics	NSNumberFormatter		20160202
+#advanced	http://littlebitesofcocoa.com/183	little bites of cocoa: 			20160203
+#advanced	http://littlebitesofcocoa.com/184	little bites of cocoa: 			20160204
+#advanced	http://littlebitesofcocoa.com/185	little bites of cocoa: 			20160205
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView		20151119
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set		20151119
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil		20151119
@@ -2816,7 +2821,7 @@ advanced	http://ios-blog.co.uk/tutorials/swift/contacts-framework-p2	Swift 2 Con
 advanced	http://useyourloaf.com/blog/using-nullable-to-annotate-objective-c.html	Using Nullable to Annotate Objective-C Code			20160110
 advanced	http://flexmonkey.blogspot.com/2016/01/creating-slide-show-app-with-core-image.html	Creating a Slide Show App with Core Image Transitions	CoreImage		20160110
 advanced	http://www.splinter.com.au/2015/06/21/swift-keychain-wrapper	Swift Keychain wrapper	Keychain		20150620
-advanced	http://www.splinter.com.au/2015/07/23/swift-kvo-alternative	Swift KVO alternative			20150622
+advanced	http://www.splinter.com.au/2015/07/23/swift-kvo-alternative	Swift KVO alternative	kvo		20150622
 advanced	http://www.splinter.com.au/2015/09/13/dont-be-slack	Don't be slack			20150912
 advanced	http://www.splinter.com.au/2015/09/24/swift-image-cache	Swift Image Cache			20150923
 advanced	http://www.splinter.com.au/2015/10/27/swift-education-screencasts	Swift Education Screencasts	video		20151026
@@ -2887,7 +2892,7 @@ advanced	http://blog.matthewcheok.com/a-better-nsnotificationcenter	A better NSN
 advanced	http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2	Writing a parser in Swift (II)			20151127
 advanced	http://matthewfecher.com/app-developement/audiokit-io-examples-converted-to-swift	AudioKit Examples Converted to Swift	audio:AudioKit		20150527
 advanced	http://matthewfecher.com/app-developement/initializing-a-singleton-in-swift-1-2	Converting an Obj-C Singleton to Swift 1.2 with just one line of code	singleton		20150527
-advanced	http://matthewfecher.com/app-developement/getting-dynamic-with-key-value-observation-kvo-in-swift-1-2	Getting Dynamic with Key Value Observation (KVO) in Swift 1.2			20150604
+advanced	http://matthewfecher.com/app-developement/getting-dynamic-with-key-value-observation-kvo-in-swift-1-2	Getting Dynamic with Key Value Observation (KVO) in Swift 1.2	kvo		20150604
 advanced	http://matthewfecher.com/app-developement/swift-2-0s-new-take-on-defensive-design-with-guard	Swift 2.0’s New Take on Defensive Design with “Guard”	guard		20150613
 advanced	http://matthewfecher.com/app-developement/open-source-swift-radio-station-app-released	Open Source Swift Radio Station App Released!	audio		20150103
 advanced	http://ios8programminginswift.wordpress.com/2015/02/24/playing-with-array-of-tuples	Playing with Array of Tuples	Array:tuple		20150224
@@ -3277,3 +3282,38 @@ advanced	http://en.swifter.tips/introspection	Introspection	Introspection		20151
 advanced	http://en.swifter.tips/type-casting	Type casting			20160106
 advanced	http://en.swifter.tips/multi-method	Dynamic Type and Multimethods			20160113
 advanced	http://en.swifter.tips/property-observer	Property Observer			20160120
+advanced	http://web.stanford.edu/class/cs193p/cgi-bin/drupal	CS 193P iPhone Application Development			20010101
+advanced	http://code.tutsplus.com/tutorials/how-to-create-custom-view-controller-transitions-and-animations--cms-25716	How to Create Custom View Controller Transitions and Animations	transitions		20160129
+advanced	http://ericasadun.com/2016/01/29/the-great-var-vs-let-war-of-2016-armistice	The Great var-vs-let War of 2016 Armistice			20160129
+advanced	http://www.knowstack.com/swift-string-and-character	Swift String and Character	string		20160129
+advanced	http://www.knowstack.com/swift-collection-type-array	Swift Collection Type Array	Array		20160129
+advanced	http://flexmonkey.blogspot.com/2016/01/playing-with-interpolation-functions-in.html	Playing with Interpolation Functions in Swift			20160129
+advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-downloading-files	watchOS 2 Tutorial: Downloading Files	watchkit		20160129
+advanced	http://www.ios-blog.co.uk/tutorials/objective-c/objective-c-using-nstimer	Using NSTimer	NSTimer		20160129
+advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-hello-world	watchOS 2: Hello World Tutorial	watchkit		20160129
+advanced	http://christiantietze.de/posts/2016/01/helper-functions	Use and Misuse of Helper Functions			20160130
+advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-8-12-correction-and-future	How To Build An App Without Interface Builder – Part 8 1/2: Correction and Future			20160130
+advanced	http://www.ios-blog.co.uk/tutorials/swift/core-data-p1	Swift 2 Core Data Tutorial – Part 1	CoreData		20160131
+advanced	https://swift.org/blog/swift-api-transformation	It's Coming: the Great Swift API Transformation			20160129
+libs	https://github.com/CosmicMind/Material	A beautiful graphics framework for Material Design in Swift. http://cosmicmind.io			20010101
+advanced	http://www.knowstack.com/generating-a-pdf-document-in-swift	Generating a PDF Document in Swift			20160131
+advanced	http://oleb.net/blog/2016/01/icu-text-transforms	ICU Text Transforms in Cocoa			20160131
+advanced	https://www.bignerdranch.com/blog/introducing-freddy-an-open-source-framework-for-parsing-json-in-swift	Introducing Freddy, an Open-Source Framework for Parsing JSON in Swift	json		20160131
+advanced	http://swiftandpainless.com/how-to-bild-an-app-without-interface-builder-part-9-improvements	How To Build An App Without Interface Builder – Part 9: Improvements			20160131
+advanced	http://masilotti.com/testing-nsurlsession-async	Testing NSURLSession with Swift, Part 2: Flattening Asynchronous Tests	NSURLSession:testing		20160201
+advanced	http://useyourloaf.com/blog/adapting-images-for-size-classes.html	Adapting Images for Size Classes	AdaptiveLayout		20160201
+advanced	http://cocoawithlove.com/blog/2016/02/02/partial-functions-part-two-catching-precondition-failures.html	Partial functions in Swift, Part 2: Catching precondition failures			20160202
+advanced	http://christiantietze.de/posts/2016/02/partial-function	Always Write Functions to Cope with all Possible Parameter Values			20160201
+advanced	http://sketchytech.blogspot.com/2016/02/resurrecting-commoncrypto-in-swift-for.html	Resurrecting CommonCrypto in Swift for hashing, encrypting and obfuscating (iOS 9.2.1, Swift 2.1, Xcode 7.2)			20160201
+advanced	http://ericasadun.com/2016/02/01/the-swift-project-rolls-out-continuous-integration	The Swift project rolls out continuous integration			20160201
+advanced	http://www.appcoda.com/firebase	Introduction to Firebase: Building a Simple Social App in Swift	Firebase		20160202
+advanced	http://www.jontolof.com/cocoa/using-xcconfig-files-for-you-xcode-project	Using xcconfig files for your XCode Project	xcconfig		20141019
+advanced	https://www.skilled.io/wendylu/exploring-apple-pay-with-swift	Exploring Apple Pay with Swift	ApplePay:video		20160131
+advanced	https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30	Elmification of Swift: Implementing the Elm architecture in Swift			20160126
+libs	https://github.com/MLSDev/TRON	Lightweight network abstraction layer, written on top of Alamofire and SwiftyJSON	networking		20010101
+libs	https://github.com/momentumworks/swift-elm	An investigation into the implementation of the Elm Architecture			20010101
+libs	https://github.com/bignerdranch/Freddy	A reusable framework for parsing JSON	json		20010101
+libs	https://github.com/joalbright/Gameboard	Gameboards built in a playground	playground		20010101
+libs	https://github.com/CosmicMind/Graph	An elegant data-driven framework for CoreData			20010101
+advanced	https://medium.com/magnetis-backstage/your-first-ios-game-fda99504c3e4	Your first iOS game	SpriteKit		20160201
+advanced	http://www.codingvelocity.com/2016/01/30/swift-configuration.html	Swifty Configuration for iOS			20160130
