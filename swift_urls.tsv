@@ -2476,7 +2476,7 @@ advanced	http://littlebitesofcocoa.com/179	little bites of cocoa: #179: Swift Tr
 advanced	http://littlebitesofcocoa.com/180	little bites of cocoa: #180: More Swift Tricks			20160129
 advanced	http://littlebitesofcocoa.com/181	little bites of cocoa: #181: App Localization Basics	localization		20160201
 advanced	http://littlebitesofcocoa.com/182	little bites of cocoa: #182: NSNumberFormatter Basics	NSNumberFormatter		20160202
-#advanced	http://littlebitesofcocoa.com/183	little bites of cocoa: 			20160203
+advanced	http://littlebitesofcocoa.com/183	little bites of cocoa: #183: Importing/Exporting .xliff Translation Files	localization		20160203
 #advanced	http://littlebitesofcocoa.com/184	little bites of cocoa: 			20160204
 #advanced	http://littlebitesofcocoa.com/185	little bites of cocoa: 			20160205
 advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView		20151119
@@ -3317,3 +3317,8 @@ libs	https://github.com/joalbright/Gameboard	Gameboards built in a playground	pl
 libs	https://github.com/CosmicMind/Graph	An elegant data-driven framework for CoreData			20010101
 advanced	https://medium.com/magnetis-backstage/your-first-ios-game-fda99504c3e4	Your first iOS game	SpriteKit		20160201
 advanced	http://www.codingvelocity.com/2016/01/30/swift-configuration.html	Swifty Configuration for iOS			20160130
+advanced	http://ericasadun.com/2016/02/02/se-0005-the-one-swift-evolution-proposal-youll-want-to-know-about	SE-0005 The one Swift Evolution proposal you’ll want to know about			20160202
+advanced	http://www.knowstack.com/swift-nscombobox-datasource-sample-code	Swift NSCombobox DataSource Sample Code	mac		20160202
+advanced	https://medium.com/swift-programming/swift-cgrect-cgsize-cgpoint-5f4196da9cf8	Swift: CGRect, CGSize & CGPoint	CGRect:CGSize:CGPoint		20160202
+advanced	https://robots.thoughtbot.com/building-ios-interfaces-views	Building iOS Interfaces: Views			20160203
+advanced	https://medium.com/swift-programming/protocol-oriented-programming-a3e192f6e8f2	Protocol Oriented Programming	protocol		20160203
