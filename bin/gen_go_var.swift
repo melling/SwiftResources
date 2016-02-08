@@ -34,8 +34,10 @@ class UrlRecord {
     var tags: String
     var image: String
     var date: Int
-    
-    init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, image: String, date: Int) {
+    var isPaywall: Int
+    var recType: Int
+
+    init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, image: String, date: Int, isPaywall: Int, recType: Int) {
         
         self.id = id
         self.groupNum = groupNum
@@ -46,6 +48,8 @@ class UrlRecord {
         self.tags = tags
         self.image = image
         self.date = date
+        self.isPaywall = isPaywall
+        self.recType = recType
     }
 }
 
@@ -77,7 +81,9 @@ func readLines(filePath: String) -> [String] {
 }
 
 func writeGoVar(groupNum: Int, url: String, name: String,
-    source: String, githubName:String, tags: String, image: String, date: Int) {
+    source: String, githubName:String, 
+    tags: String, image: String, date: Int,
+     isPaywall: Int, recType: Int) {
         var allTagStr = ""
 
         let lowerTitle = name.lowercaseString
@@ -88,7 +94,7 @@ func writeGoVar(groupNum: Int, url: String, name: String,
                 allTagStr += "\"\(t)\","
             }
       }
-        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date) },")
+        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date), \(isPaywall), \(recType)  },")
 }
 
 func deriveSource(url: String) -> (String, String) {
@@ -110,12 +116,12 @@ func deriveSource(url: String) -> (String, String) {
         
         source = F[0].stringByReplacingOccurrencesOfString("www.", withString: "", options: NSStringCompareOptions.LiteralSearch, range: nil) //  source =~ s/www[.]//;
     } else {
-        source = url;
+        source = url
         //    source =~ s/http:\/\///;
         //    my @F = split(/\//, url);
         
         //    # my @F = split(source,'/');
-        source = F[0];
+        source = F[0]
     }
     return (source, githubName)
 }
@@ -147,7 +153,19 @@ for line in lines {
                 if (date == nil) {
                     date = 20010101
                 }
-                let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, image: image, date: date!)
+
+                var isPaywall:Int? = Int(aLine[6])
+
+                if (isPaywall == nil) {
+                    isPaywall = 0
+                }
+
+                var recType:Int? = Int(aLine[7])
+
+                if (recType == nil) {
+                    recType = 0
+                }
+                let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, image: image, date: date!, isPaywall: isPaywall!, recType: recType!)
                 database.append(rec)
                 
                 
@@ -221,7 +239,9 @@ for row in database {
         }
     }
     
-    writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags, image:row.image, date:row.date)
+    writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags,
+     image:row.image, date:row.date,
+      isPaywall:row.isPaywall, recType: row.recType)
 }
 print("}")
 
