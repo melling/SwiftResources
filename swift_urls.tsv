@@ -1719,7 +1719,7 @@ advanced	http://fe9lix.github.io/PennyPincher	PennyPincher			20010101	0	0
 advanced	http://littlebitesofcocoa.com/81	little bites of cocoa: #81: RateLimit			20150914	0	0
 advanced	http://littlebitesofcocoa.com/82	little bites of cocoa: #82: Keyboard Notifications			20150915	0	0
 advanced	http://www.ioscreator.com/tutorials/stack-view-tutorial	Stack View Tutorial	UIStackView		20150914	0	0
-advanced	http://www.raywenderlich.com/109706/firebase-tutorial-getting-started	Firebase Tutorial: Getting Started			20150914	0	0
+advanced	http://www.raywenderlich.com/109706/firebase-tutorial-getting-started	Firebase Tutorial: Getting Started	Firebase		20150914	0	0
 advanced	http://www.raywenderlich.com/109330/carthage-tutorial-getting-started	Carthage Tutorial: Getting Started			20150915	0	0
 advanced	http://www.raywenderlich.com/109888/google-maps-ios-sdk-tutorial	Google Maps iOS SDK Tutorial: Getting Started	map		20150915	0	0
 advanced	http://nshint.io/blog/2015/09/14/logging-excessive-blocks-on-the-main-thread	Logging Excessive Blocks on the Main Thread	logging		20150913	0	0
@@ -2482,9 +2482,11 @@ advanced	http://littlebitesofcocoa.com/185	little bites of cocoa: #185: Pluraliz
 advanced	http://littlebitesofcocoa.com/186	little bites of cocoa: #186: Focus Engine Basics on tvOS	AppleTV		20160208	0	0
 advanced	http://littlebitesofcocoa.com/187	little bites of cocoa: #187: Picking Contacts with EPContactsPicker			20160209	0	0
 advanced	http://littlebitesofcocoa.com/188	little bites of cocoa: #188: Adding a Top Shelf Extension to a tvOS App	AppleTV		20160210	0	0
-#advanced	http://littlebitesofcocoa.com/189	little bites of cocoa:			20160211	0	0
-#advanced	http://littlebitesofcocoa.com/190	little bites of cocoa:			20160212	0	0
-advanced	http://peterwitham.com/swift/basics/uistackview	UI StackView Basics	UIStackView		20151119	0	0
+advanced	http://littlebitesofcocoa.com/189	little bites of cocoa: #189: Interacting with C Variables & Pointers in Swift					
+advanced	http://littlebitesofcocoa.com/190	little bites of cocoa: #190: Converting Units with Scale			20160212	0	0
+advanced	http://littlebitesofcocoa.com/191	little bites of cocoa: #191: Taming Gesture Recognizers & Control Events with Tactile			20160215	0	0
+advanced	http://littlebitesofcocoa.com/192	little bites of cocoa: #192: Being a Good Low Power Mode Citizen			20160216	0	0
+advanced	http://littlebitesofcocoa.com/193	little bites of cocoa: #193: UIView Transition Basics			20160217	0	0
 advanced	http://ericasadun.com/2015/11/19/fact-sets-are-the-jan-brady-of-swift-collections	Fact: Sets are the Jan Brady of Swift Collections	Set		20151119	0	0
 advanced	http://www.russbishop.net/uitouchtypestylus	UITouchType.Stylus	Stylus:Pencil		20151119	0	0
 advanced	http://christiantietze.de/posts/2015/11/app-login-state-enum-objects	Switching iOS App Login Methods by Creating Your Own Simple Login Module			20151120	0	0
@@ -2841,7 +2843,7 @@ advanced	http://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO
 advanced	http://airspeedvelocity.net/2016/01/10/writing-a-generic-stable-sort	Writing A Generic Stable Sort			20160110	0	0
 advanced	http://harlanhaskins.com/2016/01/09/goto-in-swift.html	goto in Swift			20160109	0	0
 advanced	http://medium.com/@gonzalezreal/ios-cell-registration-reusing-with-swift-protocol-extensions-and-generics-c5ac4fb5b75e	iOS Cell Registration & Reusing with Swift Protocol Extensions and Generics			20151231	0	0
-advanced	http://masilotti.com/testing-nsurlsession-input	Testing NSURLSession with Swift, Part 1: Mocking Classes You Don't Own			20160111	0	0
+advanced	http://masilotti.com/testing-nsurlsession-input	Testing NSURLSession with Swift, Part 1: Mocking Classes You Don't Own	NSURLSession		20160111	0	0
 advanced	http://nshipster.com/new-years-2016	Reader Submissions -  New Year's 2016			20160104	0	0
 advanced	http://kelan.io/2015/the-weak-strong-dance-in-swift	The Weak/Strong Dance in Swift			20150627	0	0
 libs	https://github.com/Aufree/ESTMusicIndicator		music		20010101	0	0
@@ -3074,7 +3076,7 @@ advanced	https://www.youtube.com/watch?v=e2qHv0qlC_g	‪Swift SpriteKit Tutorial
 advanced	https://www.youtube.com/watch?v=yVARqZ0wUlg	‪Swift SpriteKit Tutorial Part 4(Revised): The Bad Guys Collide‬	video:SkipWilson:SpriteKit		20141106	0	0
 advanced	https://www.youtube.com/watch?v=1fEmwKzR00s	‪Swift SpriteKit Tutorial Part 5(Revised): Emitting Particles‬	video:SkipWilson:SpriteKit		20141106	0	0
 advanced	https://www.youtube.com/watch?v=HrJuWyDmYlU	‪Swift SpriteKit Tutorial Part 6(Revised): Timers and Resets‬	video:SkipWilson:SpriteKit		20141106	0	0
-advanced	https://www.youtube.com/watch?v=lJS4YWUT8Hk	‪Intro to Info.plists for Everyone in Swift‬	video:SkipWilson		20150226	0	0
+advanced	https://www.youtube.com/watch?v=lJS4YWUT8Hk	‪Intro to Info.plists for Everyone in Swift‬	video:SkipWilson:plist		20150226	0	0
 advanced	https://www.youtube.com/watch?v=97DaTiZhkjA	‪Swift for Absolute Beginners Part 5‬	video:SkipWilson		20150328	0	0
 advanced	https://www.youtube.com/watch?v=0vP5OjLeAGo	‪Introduction to XCode Basics Tutorial‬	video:SkipWilson		20151119	0	0
 advanced	https://www.youtube.com/watch?v=0wJ2ivyN_7E	Swift Tutorial: 2.0 Differences 04 - Where	video:MadApper		20150921	0	0
@@ -3349,14 +3351,14 @@ advanced	https://github.com/uraimo/Awesome-Swift-Playgrounds	Awesome Swift Playg
 advanced	http://khanlou.com/2016/02/many-controllers	Many Controllers Make Light Work			20160204	0	0
 libs	https://github.com/subdigital/nsscreencast	Sample code shown in NSScreencast episodes			20010101	0	0
 libs	https://github.com/thanegill/RxOptional				20010101	0	0
-advanced	http://sketchytech.blogspot.com/2016/02/swift-from-html-to-nsattributedtext-and.html	Swift: From HTML to NSAttributedText and Back Again (iOS 9.2.1, Xcode 7.2)			20160207	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/swift-from-html-to-nsattributedtext-and.html	Swift: From HTML to NSAttributedText and Back Again (iOS 9.2.1, Xcode 7.2)	NSAttributedString		20160207	0	0
 advanced	http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/	Asynchronous error handling			20160206	0	0
 advanced	http://candycode.io/self-sizing-uitextview-in-a-uitableview-using-auto-layout-like-reminders-app/	Self-sizing UITextView in a UITableView using Auto Layout (like Reminders.app)	UITextView		20160207	0	0
 advanced	http://www.thomashanning.com/uiactivityindicatorview	UIActivityIndicatorView	UIActivityIndicatorView		20160208	0	0
 advanced	http://www.ioscreator.com/tutorials/multiple-outlets-tutorial	Multiple Outlets Tutorial			20160208	0	0
 advanced	https://realm.io/news/cocoaheads-florian-kugler-pragmatic-core-data	Pragmatic Core Data	CoreData:video		20160208	0	0
 advanced	http://www.raywenderlich.com/126035/video-tutorial-beginning-ios-animation-part-6-intermediate-non-auto-layout-animations	Video Tutorial: Beginning iOS Animation Part 6: Intermediate Non Auto Layout Animations	animation		20160208	1	0
-advanced	https://developer.apple.com/swift/blog/?id=35	Interactive Playgrounds	playground 		20160208	0	0
+advanced	https://developer.apple.com/swift/blog/?id=35	Interactive Playgrounds	playground		20160208	0	0
 advanced	http://useyourloaf.com/blog/swift-documentation-quick-guide	Swift Documentation Quick Guide			20160208	0	0
 advanced	http://christiantietze.de/posts/2016/02/closure-helpers-lazy-properties	Inline Blocks as Result-Producing Helpers			20160208	0	0
 advanced	http://www.youtube.com/watch?v=Som6ceRnM-c	Core Data Lightweight Migration Tutorial in Swift - Xcode 7.2 iOS 9.2	CoreData:video		20160208	0	0
@@ -3371,3 +3373,59 @@ advanced	http://www.raywenderlich.com/126167/video-tutorial-beginning-ios-animat
 advanced	http://www.mokacoding.com/blog/ruby-for-ios-developers-bundler	Ruby for iOS Developers - Managing Ruby Tools with Bundler			20160210	0	0
 advanced	http://code.tutsplus.com/articles/free-course-how-to-use-swift-on-linux--cms-25909	Free Course: How to Use Swift on Linux	Linux		20160210	0	0
 advanced	http://code.tutsplus.com/tutorials/ios-9-additions-to-scenekit--cms-25896	iOS 9: Additions to SceneKit	SceneKit		20160210	0	0
+advanced	http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors	Asynchronous error handling			20160206	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/fear-and-loathing-in-autolayout.html	Fear and Loathing in Auto Layout: Animating Auto Layout Constraints in Swift (Xcode 7.2, iOS 9.2.1)	AutoLayout		20160210	0	0
+advanced	https://www.shinobicontrols.com/blog/displaying-stock-prices-and-data-in-an-ios-app	Displaying stock prices and data in an iOS App	chart		20160210	0	0
+advanced	https://realm.io/news/michele-titolo-swift-protocols-promised-land	Swift Protocols and the Promised Land	protocol:video		20160211	0	0
+advanced	http://www.raywenderlich.com/126098/top-5-parse-alternatives	Top 5 Parse Alternatives	ParseSDK		20160211	0	0
+advanced	http://makeapppie.com/2016/02/11/how-to-use-property-lists-plist-in-swift	How to Use Property Lists (.plist) in Swift	plist		20160211	0	0
+advanced	http://christiantietze.de/posts/2016/02/publish-subscribe	Publish and Subscribe - Decoupling Deep View Hierarchies from Event Handlers			20160211	0	0
+advanced	https://metova.com/dev/blog/2016/02/11/concurrency-in-ios	Concurrency in iOS	concurrency		20160211	0	0
+advanced	http://www.knowstack.com/nsimage-namedstring-sample-code	NSImage (named:String) Sample Code	mac		20160211	0	0
+advanced	http://www.knowstack.com/swift-nsdatepicker-sample-code-2-using-beginsheet	Swift NSDatePicker Sample Code 2 Using beginSheet	mac		20160211	0	0
+advanced	http://www.raywenderlich.com/126367/video-tutorial-beginning-ios-animation-part-9-intermediate-view-controller-transitions	Video Tutorial: Beginning iOS Animation Part 9: Intermediate View Controller Transitions	animation		20160211	1	0
+advanced	https://medium.com/swift-programming/build-an-appstore-rating-tool-in-swift-3b88a6111541	Build An AppStore Rating Tool			20160211	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/create-a-safari-content-blocker	How to Create a Safari Content Blocker Extension			20160211	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/swift-download-file-using-nsurlsession.html	Swift: Download a file using NSURLSession	NSURLSession		20160212	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/swift-upload-images-using-nsurlsession.html	Swift: Upload images using NSURLSession (NSInputStream)	NSURLSession		20160212	0	0
+advanced	http://www.raywenderlich.com/122148/firebase-tutorial-real-time-chat	Firebase Tutorial: Real-time Chat	Firebase		20160212	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/send-xcode-project-to-bitbucket.html	Send an Xcode project to Bitbucket			20160212	0	0
+advanced	http://andybargh.com/2016/02/11/break-and-continue	Swift’s Break and Continue Statements			20160211	0	0
+advanced	https://swift.org/blog/swift-benchmark-suite	Swift Benchmark Suite now Available			20160208	0	0
+advanced	http://ericasadun.com/2016/02/12/pterodactyls-and-thylacines-whats-evolvin-over-in-swift/	Pterodactyls and thylacines: What’s evolvin’ over in Swift			20160212	0	0
+advanced	https://realm.io/news/unidirectional-data-flow-in-swift	Building a Unidirectional Data Flow app with Realm	realm:video		20160212	0	0
+advanced	http://www.youtube.com/watch?v=n7IgNLYgUoI	Shimmer Loading Indicator Tutorial in Swift - Xcode 7.2 iOS 9.2	video		20160210	0	0
+advanced	https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160208/009422.html	[swift-evolution] What about garbage collection?			20160208	0	0
+advanced	https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844	A Protocol-Oriented State Machine for Layout Constraints	protocol		20160208	0	0
+advanced	https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f	What every iOS Developer should be doing with Instruments	profiling		20160208	0	0
+libs	https://github.com/Ramotion/reel-search	RAMReel is a controller that allows you to choose options from a list http://ramotion.com			20010101	0	0
+libs	https://github.com/s4cha/Stevia	Elegant view layout for iOS	AutoLayout		20010101	0	0
+libs	https://github.com/lucianomarisi/JSONUtilities	Easily load JSON objects and decode them into structs or classes	json		20010101	0	0
+advanced	https://www.uraimo.com/2016/02/05/Dealing-With-Bit-Sets-In-Swift	Dealing with Bit Sets in Swift			20160205	0	0
+advanced	https://www.uraimo.com/2016/02/09/a-short-swift-gyb-tutorial	A Short Swift GYB Tutorial			20160209	0	0
+advanced	https://www.uraimo.com/2016/02/02/recap-of-swift-porting-efforts	A Recap of the Swift Porting Efforts #1			20160201	0	0
+advanced	https://www.uraimo.com/2016/02/10/swift-available-on-armv6-raspberry-1-zero	Swift available for all the ARMv6 RaspberryPi (1,Zero)	RaspberryPi:Linux		20160209	0	0
+libs	https://github.com/Zewo/Venice	CSP for Swift 2.2 on Linux	Linux:concurrency		20010101	0	0
+libs	https://github.com/elliottminns/blackfish	 fast HTTP web server based on Node.js and Express written in Swift			20010101	0	0
+advanced	http://swanros.com/how-i-deal-with-json-in-swift	How I deal with JSON in Swift	json		20160211	0	0
+libs	https://github.com/eonist/Element	UI framework for OSX	mac		20010101	0	0
+libs	https://github.com/neonichu/ThisCouldBeUsButYouPlaying	CocoaPods plugin and CLI for generating Swift Playgrounds.			20010101	0	0
+libs	https://github.com/FlexMonkey/ValentinesSwift	You love Swift & Swift loves you	CAShapeLayer:playground		20160212	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/swift-going-round-in-semicircles-with.html	Swift: Going Round in Semicircles with UIBezierPath	UIBezierPath		20160213	0	0
+advanced	http://christiantietze.de/posts/2016/02/stateful-button-flow/	Information Flow and Stateful Buttons			20160215	0	0
+advanced	http://sketchytech.blogspot.com/2016/02/adding-dictionary-operands-to-swift.html	Adding Dictionary operands to Swift	Dictionary		20160215	0	0
+advanced	https://www.andrewcbancroft.com/2016/02/15/fundamentals-of-callbacks-for-swift-developers/	Fundamentals of Callbacks for Swift Developers			20160215	0	0
+libs	https://github.com/uraimo/SwiftyGPIO	A Swift library to interact with Linux GPIOs, turn on your leds and more	Linux:RaspberryPi		20160215	0	0
+advanced	http://www.cocoawithlove.com/blog/2016/02/16/use_it_or_lose_it_why_safe_c_is_sometimes_unsafe_swift.html	Use it or lose it: why safe C is sometimes unsafe Swift			20160216	0	0
+advanced	http://www.raywenderlich.com/126250/tvml-tutorial-using-tvml-templates	tvOS Tutorial: Using TVML Templates	AppleTV		20160216	0	0
+advanced	https://www.natashatherobot.com/peek-pop-view-inside-tableviewcell	iOS 9: How to Peek & Pop A Specific View Inside a UITableViewCell			20160213	0	0
+libs	https://github.com/czechboy0/Redbird	Pure-Swift implementation of a Redis client from the original protocol spec. OS X + Linux compatible			20160216	0	0
+libs	https://github.com/xmartlabs/XLPagerTabStrip	Android PagerTabStrip for iOS.			20160216	0	0
+libs	https://github.com/onmyway133/Scale	Unit converter in Swift			20160216	0	0
+advanced	https://www.invasivecode.com/weblog/AVFoundation-Swift-capture-video	Capture Video with AVFoundation and Swift	AVFoundation		20160216	0	0
+advanced	http://www.codingexplorer.com/watch-connectivity-swift-application-context	Watch Connectivity in Swift — Application Context	WatchKit		20160216	0	0
+advanced	http://blog.strv.com/tvos-weathervane	Developing a tvOS app - Weathervane	AppleTV		20160215	0	0
+advanced	http://engineering.postmates.com/Introducing-PMJSON	Introducing PMJSON, a Swift library for JSON encoding/decoding	json		20160212	0	0
+advanced	http://www.mokacoding.com/blog/why-hitting-the-network-is-bad-for-your-tests	Why hitting the network is bad for your test, and what to do about it	testing		20160215	0	0
+advanced	http://www.youtube.com/watch?v=TK6ojOulx80	How To Use Firebase (Swift, Xcode) - Ep 1 - Integrate Firebase SDK	fire base:video		20160215	0	0
+advanced	http://www.youtube.com/watch?v=TziN1O2x7pM	Game Center Leaderboards! (Swift 2 in Xcode)	GameCenter:video		20160215	0	0
