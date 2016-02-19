@@ -3429,3 +3429,28 @@ advanced	http://engineering.postmates.com/Introducing-PMJSON	Introducing PMJSON,
 advanced	http://www.mokacoding.com/blog/why-hitting-the-network-is-bad-for-your-tests	Why hitting the network is bad for your test, and what to do about it	testing		20160215	0	0
 advanced	http://www.youtube.com/watch?v=TK6ojOulx80	How To Use Firebase (Swift, Xcode) - Ep 1 - Integrate Firebase SDK	fire base:video		20160215	0	0
 advanced	http://www.youtube.com/watch?v=TziN1O2x7pM	Game Center Leaderboards! (Swift 2 in Xcode)	GameCenter:video		20160215	0	0
+advanced	http://www.thedroidsonroids.com/blog/ios/whats-new-in-swift-2-2/	What’s new in Swift 2.2?			20160216	0	0
+advanced	https://medium.com/the-sup-app/bare-metal-working-with-metal-and-the-simulator-70e085e3a45	Bare Metal: Working with Metal and the Simulator	metal		20160216	0	0
+advanced	http://googletesting.blogspot.ca/2016/02/earlgrey-ios-functional-ui-testing.html	EarlGrey - iOS Functional UI Testing Framework	testing		20160217	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/detecting-low-power-mode	Detecting low Power Mode in Swift			20160217	0	0
+advanced	http://www.raywenderlich.com/126300/on-demand-resources-in-tvos-tutorial	On-Demand Resources in tvOS Tutorial	AppleTV		20160217	0	0
+advanced	http://www.thomashanning.com/how-to-show-and-hide-a-date-picker-from-a-table-view-cell	How To Show And Hide A Date Picker From A Table View Cell			20160217	0	0
+advanced	http://christiantietze.de/posts/2016/02/mock-replace-adapter	How do You Really Mock Objects You Don't Own? You Replace Them with Adapters			20160218	0	0
+advanced	https://realm.io/news/slug-jesse-squires-swifty-view-controller-presenters	Swifty View Controller Presenters	video		20160218	0	0
+advanced	http://www.raywenderlich.com/126326/tvos-top-shelf-tutorial-static-and-interactive	tvOS Top Shelf Tutorial: Static and Interactive	AppleTV		20160218	0	0
+libs	https://github.com/fortyfox/DZImageView	Image View with content mode animations		https://camo.githubusercontent.com/e93f280f1e9a66e5a17ea0a5df0d5b86cb35b45c/68747470733a2f2f692e696d6775722e636f6d2f7451644831304e2e676966	20151208	0	0
+libs	https://github.com/SvenTiigi/STLocationRequest	An elegant and simple 3D Flyover Location Request Screen		https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/master/Preview/STLocationRequest.gif	20151211	0	0
+libs	https://github.com/gordoneliel/LinearProgressBar	Simple progress bar for iOS		https://github.com/gordoneliel/LinearProgressBar/blob/develop/Promotional_images/Hero3.png	201600109	0	0
+advanced	http://holko.pl/2016/02/16/enhancing-uiviews	Enhancing UIViews Using Extensions			20160216	0	0
+libs	https://github.com/delba/Tactile	The Swift way to add UIGestureRecognizer and to react to UIControlEvents			20160216	0	0
+libs	https://github.com/marmelroy/FileBrowser	Finder-style iOS file browser written in Swift			20160216	0	0
+libs	https://github.com/spotify/SPTDataLoader	The HTTP library used by the Spotify iOS client			20160216	0	0
+libs	https://github.com/Ramotion/circle-menu	CircleMenu is a simple, elegant menu with a circular layout. http://ramotion.com			20160216	0	0
+libs	https://github.com/allenwong/30DaysofSwift	30 Days of Swift			20160216	0	0
+libs	https://github.com/dustturtle/RealReachability	We need to observe the REAL reachability of network			20160216	0	0
+advanced	http://www.youtube.com/watch?v=zAO3M7nnZIA	How To Use Firebase (Swift, Xcode) - Ep 2 - Saving and Retrieving Data Quickstart	firebase:video		20160218	0	0
+advanced	https://medium.com/swift-programming/swift-closures-everyday-gems-part-1-of-2-c1a50c08a458	Swift Closures — Everyday Gems Part 1 of 2	closures		20160218	0	0
+libs	https://github.com/jmfieldman/Mortar	A compact but full-featured Auto Layout DSL for Swift			20160218		0
+libs	https://github.com/edekhayser/KBKit	Classes to extend UIKit navigation using key commands			20160118	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/set-location-of-simulator-when-requesting-users-location/	Quick Tip: Set Location of Simulator when Requesting Users Location	CoreLocation		20160119	0	0
+advanced	http://andybargh.com/2016/02/17/switch-statement-in-swift	The Switch Statement in Swift			20160119	0	0
