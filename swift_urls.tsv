@@ -2489,8 +2489,11 @@ advanced	http://littlebitesofcocoa.com/192	little bites of cocoa: #192: Being a 
 advanced	http://littlebitesofcocoa.com/193	little bites of cocoa: #193: UIView Transition Basics			20160217	0	0
 advanced	http://littlebitesofcocoa.com/194	little bites of cocoa: #194: Synthesizing Speech with AVSpeechUtterance			20160218	0	0
 advanced	http://littlebitesofcocoa.com/195	little bites of cocoa #195: Mastering UIColor with Hue	UIColor:color		20160219	0	0
-commercial	http://itunes.apple.com/us/book/id1060733718	Practical Auto Layout for Xcode 7 (Steven Lipton)	book	https://apppie.files.wordpress.com/2015/06/practical-autolayout-cover-31.jpg?w=600&h=960	20151120	0	0
-advanced	http://realm.io/news/tim-oliver-year-of-realm	A Year of Using Realm in iComics			20151120	0	0
+advanced	http://littlebitesofcocoa.com/196	little bites of cocoa: #196: Apple Pay Basics			20160222	0	0
+advanced	http://littlebitesofcocoa.com/197	little bites of cocoa: 97: When UIViews Suddenly Disappear	testing		20160223	0	0
+advanced	http://littlebitesofcocoa.com/198	little bites of cocoa: #198: Parsing & Rendering SVGs with SwiftSVG			20160224	0	0
+advanced	http://littlebitesofcocoa.com/199	little bites of cocoa: #199: Beautiful Location Prompts with STLocationRequest			20160225	0	0
+advanced	http://littlebitesofcocoa.com/200	little bites of cocoa: #200: Synthesized Initializers in Swift 			20160226	0	0
 advanced	http://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html	Friday Q&A 2015-11-20: Covariance and Contravariance			20151120	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/pencilscale-using-apple-pencil-with.html	PencilScale - Using an Apple Pencil with an iPad Pro as an Electronic Scale	Pencil		20151120	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/a-look-at-agents-goals-behaviours-in.html	A Look at Agents, Goals & Behaviours in GameplayKit			20151121	0	0
@@ -3452,3 +3455,51 @@ libs	https://github.com/jmfieldman/Mortar	A compact but full-featured Auto Layou
 libs	https://github.com/edekhayser/KBKit	Classes to extend UIKit navigation using key commands			20160118	0	0
 advanced	http://www.ios-blog.co.uk/tutorials/set-location-of-simulator-when-requesting-users-location/	Quick Tip: Set Location of Simulator when Requesting Users Location	CoreLocation		20160119	0	0
 advanced	http://andybargh.com/2016/02/17/switch-statement-in-swift	The Switch Statement in Swift			20160119	0	0
+advanced	https://www.weheartswift.com/adding-lots-of-functions	Adding lots of functions			20160219	0	0
+advanced	http://makeapppie.com/2016/02/19/how-to-use-watch-timers-and-nstimers-in-watchos2-and-swift	How to Use Watch Timers and NSTimers in WatchOS2 and Swift	WatchKit		20160219	0	0
+advanced	https://labs.ribot.co.uk/sharing-functionality-across-tvos-and-ios-228c76b03a06	Sharing functionality across tvOS and iOS	AppleTV		20160216	0	0
+advanced	http://www.raywenderlich.com/126373/video-tutorial-beginning-ios-animation-part-10-troubleshooting-animations-gone-wrong	Video Tutorial: Beginning iOS Animation Part 10: Troubleshooting Animations Gone Wrong	animation		20160219	1	0
+advanced	http://www.raywenderlich.com/126377/video-tutorial-beginning-ios-animation-part-11-conclusion	Video Tutorial: Beginning iOS Animation Part 11: Conclusion	animation		20160219	1	0
+advanced	http://www.robpercival.co.uk/parse-server-on-heroku	Setting Up Parse Server On Heroku For iOS			20160220	0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-3-231f82cbb781	Architecture Patterns in iOS: Part 3			20160220	0	0
+advanced	http://www.appcoda.com/socket-io-chat-app	Swift Tutorial: Building an iOS Chat App Using Socket.IO			20160221	0	0
+advanced	https://medium.com/@flarup/designing-for-the-apple-tv-5992c3aab1e4	Designing for the Apple TV	AppleTV:design		Split laps timer with RxSwift and RxCocoa	Split laps timer with RxSwift and RxCocoa	Split laps timer with RxSwift and RxCocoa
+libs	https://github.com/necolt/swifton	A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X	WebFramework		20160219	0	0
+libs	https://github.com/tannernelson/fluent	Simple ActiveRecord implementation for Swift	orm		20160219	0	0
+libs	https://github.com/limejelly/Backlight-for-XCode	Backlight	xcode:xcode-plugin		20160219	0	0
+advanced	http://www.raywenderlich.com/126864/ios-app-extensions-series-introduction	iOS App Extensions: Series Introduction			20160222	0	0
+advanced	http://www.raywenderlich.com/118361/wtf-is-nuke	WTF is… Nuke?			20160222	0	0
+advanced	http://useyourloaf.com/blog/pain-free-constraints-with-layout-anchors	Pain Free Constraints with Layout Anchors	AutoLayout:LayoutAnchors		20160222	0	0
+advanced	https://www.andrewcbancroft.com/2016/02/22/fade-views-inout-with-fadeable-a-swift-protocol-extension	Fade Views In/Out with Fadeable – A Swift Protocol Extension	protocol		20160222	0	0
+advanced	http://www.raywenderlich.com/126923/video-tutorial-ios-app-extensions-part-1-photo-extensions-getting-started	Video Tutorial: iOS App Extensions Part 1: Photo Extensions: Getting Started			20160222	1	0
+advanced	http://ericasadun.com/2016/02/22/a-little-monday-regex-indexed-dictionaries	A little Monday: regex-indexed dictionaries			20160222	0	0
+advanced	http://code.tutsplus.com/tutorials/how-to-use-swift-on-linux--cms-25934	How to Use Swift on Linux	Linux		20160222	0	0
+advanced	http://ericasadun.com/2016/02/22/beta-4-zut-alors-whats-new-in-swift	Beta 4: Zut alors! What’s new in Swift			20160222	0	0
+advanced	http://www.mokacoding.com/blog/ohhttpstubs	Getting Started With OHHTTPStubs			20160223	0	0
+advanced	http://flexmonkey.blogspot.com/2016/02/properly-typed-selectors-in-xcode-73.html	Properly Typed Selectors in Xcode 7.3 beta 4			20160223	0	0
+advanced	https://realm.io/news/sally-shepard-developing-for-apple-tv	Developing Apps for Apple TV	AppleTV:video		20160223	0	0
+advanced	http://ericasadun.com/2016/02/23/three-rejected-swift-proposals	Three rejected Swift proposals			20160223	0	0
+advanced	http://www.mokacoding.com/blog/update-all-xcode-plugins-for-latest-version	How to update all plug-ins for the latest version of Xcode and Xcode-beta	xcode:Xcode-plugin		20160224	0	0
+advanced	http://christiantietze.de/posts/2016/02/rethrows	rethrows in Swift			20160224	0	0
+advanced	http://www.russbishop.net/xcode-7-3-b4-swift-2-2	Xcode 7.3 b4, Swift 2.2			20160224	0	0
+advanced	http://www.raywenderlich.com/127103/video-tutorial-ios-app-extensions-part-2-photo-extensions-saving-data-2	Video Tutorial: iOS App Extensions Part 2: Photo Extensions: Saving Data			20160224	1	0
+libs	https://github.com/ruslanskorb/RSKGrowingTextView	RSKGrowingTextView			20160224	0	0
+advanced	https://developer.apple.com/videos/techtalks-apple-tv/	Apple TV Tech Talks Videos	AppleTV:video		20160225	0	0
+advanced	http://andybargh.com/2016/02/25/pattern-matching-in-swift	Pattern Matching in Swift	PatternMatching		20160225	0	0
+advanced	http://christiantietze.de/posts/2016/02/ignore-local-notifications	Ignoring UILocalNotifications When the App is Running			20160225	0	0
+advanced	http://www.raywenderlich.com/127112/video-tutorial-ios-app-extensions-part-3-photo-extensions-loading-data-2	Video Tutorial: iOS App Extensions Part 3: Photo Extensions: Loading Data			20160225	1	0
+libs	https://github.com/Ben-G/Validated	A Swift μ-Library for Somewhat Dependent Types			20160225	0	0
+advanced	http://blog.benjamin-encz.de/validated-a-swift-m-library-for-somewhat-dependent-types/	Validated: A Swift μ-Library for Somewhat Dependent Types			20160225	0	0
+advanced	https://medium.com/swift-programming/swift-closures-everyday-gems-part-2-of-2-8607157b11c5	Swift Closures — Everyday Gems Part 2 of 2	closures		20160225	0	0
+advanced	http://christiantietze.de/posts/2016/02/import-module-parts	Import Parts of a Module			20160226	0	0
+advanced	http://rx-marin.com/post/rxswift-rxcocoa-sample-split-laps-timer	Split laps timer with RxSwift and RxCocoa			20160216	0	0
+advanced	http://rx-marin.com/post/rxswift-rxcocoa-timer-app-useWithLatest-bindings	Split laps timer with RxSwift and RxCocoa			20160226	0	0
+advanced	https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7	Hello Server Side Swift			20160216	0	0
+advanced	https://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager	3 Steps to marry Xcode with Swift Package Manager	PackageManager		20160216	0	0
+libs	https://github.com/IBM-Swift/Kitura	Web framework and HTTP server for Swift			20160216	0	0
+libs	https://github.com/Velhotes/Vinyl	Vinyl is a simple, yet flexible library used for replaying HTTP requests while unit testing			20160216	0	0
+libs	https://github.com/ricardopereira/QuickActions	Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts)			20160216	0	0
+advanced	http://www.thedotpost.com/conference/dotswift-2016	Talks & articles from dotSwift 2016			20160216	0	0
+advanced	https://developer.ibm.com/swift/2016/02/22/building-end-end-cloud-apps-using-swift-kitura	Build End-to-End Cloud Apps using Swift with Kitura			20160222	0	0
+libs	https://github.com/armadsen/ORSSerialPort	Serial port library for Objective-C and Swift OS X apps			20160226	0	0
+libs	https://github.com/kylef/swiftenv	Swift Version Manager			20160226	0	0
