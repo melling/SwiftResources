@@ -2494,9 +2494,12 @@ advanced	http://littlebitesofcocoa.com/197	little bites of cocoa: 97: When UIVie
 advanced	http://littlebitesofcocoa.com/198	little bites of cocoa: #198: Parsing & Rendering SVGs with SwiftSVG			20160224	0	0
 advanced	http://littlebitesofcocoa.com/199	little bites of cocoa: #199: Beautiful Location Prompts with STLocationRequest			20160225	0	0
 advanced	http://littlebitesofcocoa.com/200	little bites of cocoa: #200: Synthesized Initializers in Swift 			20160226	0	0
-advanced	http://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html	Friday Q&A 2015-11-20: Covariance and Contravariance			20151120	0	0
-advanced	http://flexmonkey.blogspot.com/2015/11/pencilscale-using-apple-pencil-with.html	PencilScale - Using an Apple Pencil with an iPad Pro as an Electronic Scale	Pencil		20151120	0	0
-advanced	http://flexmonkey.blogspot.com/2015/11/a-look-at-agents-goals-behaviours-in.html	A Look at Agents, Goals & Behaviours in GameplayKit			20151121	0	0
+advanced	http://littlebitesofcocoa.com/201	little bites of cocoa:  How to File a Bug with Apple			20160229	0	0
+advanced	http://littlebitesofcocoa.com/202	little bites of cocoa: #202: Better Bug Reporting with QuickRadar & OpenRadar			20160301	0	0
+advanced	http://littlebitesofcocoa.com/203	little bites of cocoa: #203: Simplifying Common String Operations with SwiftString			20160302	0	0
+advanced	http://littlebitesofcocoa.com/204	little bites of cocoa: #204: Swift Designated Initializer Basic			20160303	0	0
+advanced	http://littlebitesofcocoa.com/205	little bites of cocoa: #205: Swift guard Basics	guard		20160304	0	0
+advanced	http://flexmonkey.blogspot.com/2015/11/a-look-at-agents-goals-behaviours-in.html	little bites of cocoa: #205: Swift guard Basics			20151121	0	0
 advanced	http://realm.io/news/josh-adams-gpx-location-manager	GPX Data in the Simulator	CoreLocation:video		20151121	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/pencilcontroller-using-apple-pencil-as.html	PencilController - Using Apple Pencil as a 3D Controller for Image Editing	Pencil		20151121	0	0
 advanced	http://medium.com/swift-programming/swift-sequences-ce22d76f120c	Swift Sequences	Sequence		20151122	0	0
@@ -3503,3 +3506,50 @@ advanced	http://www.thedotpost.com/conference/dotswift-2016	Talks & articles fro
 advanced	https://developer.ibm.com/swift/2016/02/22/building-end-end-cloud-apps-using-swift-kitura	Build End-to-End Cloud Apps using Swift with Kitura			20160222	0	0
 libs	https://github.com/armadsen/ORSSerialPort	Serial port library for Objective-C and Swift OS X apps			20160226	0	0
 libs	https://github.com/kylef/swiftenv	Swift Version Manager			20160226	0	0
+advanced	https://medium.com/@devlucky/dotswift-2016-highlights-part-1-c5deab80166f	dotSwift 2016 Highlights, part 1			20160228	0	0
+advanced	http://christiantietze.de/posts/2016/02/featherweight-router	Featherweight Router			20160227	0	0
+advanced	http://ashishkakkad.com/2016/02/use-of-blocks-closures-or-completionhandlers-with-function-in-swift-ios	Use of Blocks(Closures) or Completion Handlers with Function in Swift – iOS			20160227	0	0
+advanced	http://www.knowstack.com/swift-nsdateformatter	Swift NSDateFormatter	NSDateFormatter:date		20160228	0	0
+advanced	http://alisoftware.github.io/swift/2016/02/28/being-lazy	Being Lazy			20160228	0	0
+advanced	http://blog.davidungar.net/2016/02/29/understanding-swifts-abstract-types-swift-2-2-above	Understanding Swift’s Abstract Types (Swift 2.2 & above)			20160228	0	0
+advanced	http://www.appcoda.com/unit-testing-swift	Unit Testing in Xcode 7 with Swift	testing		20160229	0	0
+advanced	http://blog.jaredsinclair.com/post/116436789850/follow-these-guidelines-and-never-struggle-with	Follow These Guidelines and Never Struggle with Xcode Code Signing Again			20150414	0	0
+libs	https://github.com/thoughtbot/Markoff	A light-weight Markdown (CommonMark) previewer for OSX.			20160229	0	0
+advanced	https://robots.thoughtbot.com/markoff-free-markdown-previewer	Markoff: A Free Markdown Previewer for OS X			20160229	0	0
+advanced	http://www.ioscreator.com/tutorials/draw-route-mapkit-tutorial	Draw Route with MapKit Tutorial	MapKit		20160229	0	0
+advanced	https://realm.io/news/mbltdev-phillip-connaughton-runkeeper	Runkeeper: Location Services Struggles	video		20160229	0	0
+libs	https://github.com/mchoe/SwiftSVG	A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView	svg		20160229	0	0
+libs	https://github.com/plu/parallel_ios_tests	Run iOS tests on multiple simulators in parallel at the same time	testing		20160229	0	0
+libs	https://github.com/kylef/Curassow-example-helloworld	Example Swift web application that can be deployed to Heroku	web		20160229	0	0
+libs	https://github.com/recruit-mp/ABKit	AB testing framework for iOS			20160229	0	0
+advanced	http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift	Going Swift and Beyond	video		20160229	0	0
+advanced	http://useyourloaf.com/blog/goodbye-spacer-views-hello-layout-guides	Goodbye Spacer Views Hello Layout Guides	AutoLayout:UILayoutGuide		20160229	0	0
+advanced	http://ankit.im/swift/2016/02/29/swift-abstract-syntax-tree	Swift Abstract Syntax Tree			20160229	0	0
+advanced	http://ericasadun.com/2016/02/29/getting-ready-for-swift-to-stop-breaking-code	Getting ready for Swift to stop breaking code			20160229	0	0
+advanced	http://www.raywenderlich.com/127459/video-tutorial-ios-app-extensions-part-5-today-extensions-getting-started-2	Video Tutorial: iOS App Extensions Part 5: Today Extensions: Getting Started			20160229	1	0
+advanced	http://www.cocoawithlove.com/blog/2016/02/28/stack-traces-in-swift.html	Tracking tasks with stack traces in Swift			20160228	0	0
+advanced	https://realm.io/news/frp-ios-guide	The Guide to FRP on iOS			20160301	0	0
+advanced	http://www.raywenderlich.com/121540/alamofire-tutorial-getting-started	Alamofire Tutorial: Getting Started			20160301	0	0
+libs	https://github.com/lorentey/BTree	Fast ordered collections for Swift using in-memory B-trees			20160301	0	0
+advanced	https://www.hackingwithswift.com/swift2-2	What's new in Swift 2.2			20160301	0	0
+advanced	http://helpmecodeswift.com/animation/creating-a-custom-loading-animation-with-paintcode-and-swift	Creating a custom loading animation with PaintCode and Swift	PaintCode		20160301	0	0
+advanced	http://www.mokacoding.com/blog/using-swift-protocols-to-improve-testability	Using Swift protocols to abstract third party dependencies and improve testability			20160301	0	0
+advanced	http://ericasadun.com/2016/03/01/beta-5-embedding-video-in-playgrounds	Beta 5: Embedding video in playgrounds	playgrounds		20160301	0	0
+advanced	http://www.raywenderlich.com/127464/video-tutorial-ios-app-extensions-part-6-today-extensions-layout-2	Video Tutorial: iOS App Extensions Part 6: Today Extensions: Layout			20160301	1	0
+advanced	https://medium.com/@tdonnelly/open-sourcing-the-storehouse-animation-engine-7af754f21ffb	Open sourcing the Storehouse animation engine	animation		20160301	0	0
+advanced	http://sketchytech.blogspot.com/2016/03/swift-giving-context-to-cgcontext-part-i.html	Swift: Giving context to CGContext (Part I)			20160302	0	0
+advanced	http://www.raywenderlich.com/127469/video-tutorial-ios-app-extensions-part-7-today-extensions-core-data-2	Video Tutorial: iOS App Extensions Part 7: Today Extensions: Core Data			20160302	1	0
+advanced	http://cocoadevcentral.com/d/swift_kitura/	Swift + Kitura on DigitalOcean			20160302	0	0
+advanced	https://robots.thoughtbot.com/building-ios-interfaces-custom-button	Building iOS Interfaces: A Custom Button	UIButton		20160303	0	0
+libs	https://github.com/nakajijapan/Shari	Shari is the alternative to the library of UIPickerView			20160303	0	0
+libs	https://github.com/FelipeCardoso89/UILoadControl	Add a PushToLoad control to any UIScrollView			20160303	0	0
+advanced	http://www.youtube.com/watch?v=pHBLAWI4c1w	Firebase Login Tutorial in Swift - Xcode 7.2 iOS 9.2	firebase:video		20160302	0	0
+advanced	http://peterwitham.com/swift/basics/guard	How-To use Guard in Swift	guard		20160303	0	0
+advanced	https://realm.io/news/slug-keith-smiley-embrace-immutability	Embrace Immutability	video		20160303	0	0
+advanced	http://www.raywenderlich.com/123579/sqlite-tutorial-swift	SQLite Tutorial: Getting Started	sqlite		20160303	0	0
+advanced	https://www.raywenderlich.com/127474/video-tutorial-ios-app-extensions-part-8-today-extensions-updating	Video Tutorial: iOS App Extensions Part 8: Today Extensions: Updating			20160303	1	0
+libs	https://github.com/athiercelin/Localizations	OS X app that manages localizations of Xcode projects			20160303	0	0
+advanced	http://swiftandpainless.com/testing-push-onto-the-navigation-stack	Testing Push Onto The Navigation Stack			20160303	0	0
+advanced	https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html	Friday Q&A 2016-03-04: Swift Asserts			20160304	0	0
+libs	https://github.com/mattt/Surge	A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation	Accelerate		20160304	0	0
+libs	https://github.com/crossroadlabs/Express	wift Express is a simple, yet unopinionated web application server			20160304	0	0
