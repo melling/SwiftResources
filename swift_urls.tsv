@@ -3553,3 +3553,7 @@ advanced	http://swiftandpainless.com/testing-push-onto-the-navigation-stack	Test
 advanced	https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html	Friday Q&A 2016-03-04: Swift Asserts			20160304	0	0
 libs	https://github.com/mattt/Surge	A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation	Accelerate		20160304	0	0
 libs	https://github.com/crossroadlabs/Express	wift Express is a simple, yet unopinionated web application server			20160304	0	0
+advanced	http://makeapppie.com/2016/02/26/how-to-use-nsuserdefaults-in-swift	How to Use NSUserDefaults in Swift.			20160226	0	0
+advanced	http://ericasadun.com/2016/02/26/non-linear-loops	Non-linear loops			20160226	0	0
+advanced	http://www.raywenderlich.com/127120/video-tutorial-ios-app-extensions-part-4-photo-extensions-shared-settings-2	Video Tutorial: iOS App Extensions Part 4: Photo Extensions: Shared Settings			20160226	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/swift-timer-tutorial-create-a-counter-timer-application-using-nstimer	Swift Timer Tutorial using NSTimer()			20160226	0	0
