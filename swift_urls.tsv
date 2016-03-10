@@ -2502,7 +2502,7 @@ advanced	http://littlebitesofcocoa.com/205	little bites of cocoa: #205: Swift gu
 advanced	http://littlebitesofcocoa.com/206	little bites of cocoa: #206: UITableView Cookbook	UITableView		20160307	0	0
 advanced	http://littlebitesofcocoa.com/207	little bites of cocoa: #207: Annotating Swift with MARKs, TODO's and FIXME's			20160308	0	0
 advanced	http://littlebitesofcocoa.com/208	little bites of cocoa: #208: Living with Xcode by Clearing Derived Data			20160309	0	0
-advanced	http://littlebitesofcocoa.com/209	little bites of cocoa: #209: Swift Enums Cookbook			20160310	0	0
+advanced	http://littlebitesofcocoa.com/209	little bites of cocoa: #209: Swift Enums Cookbook	enum		20160310	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/pencilcontroller-using-apple-pencil-as.html	PencilController - Using Apple Pencil as a 3D Controller for Image Editing	Pencil		20151121	0	0
 advanced	http://medium.com/swift-programming/swift-sequences-ce22d76f120c	Swift Sequences	Sequence		20151122	0	0
 advanced	http://candycode.io/how-to-correctly-set-up-uilabels-with-auto-layout-on-ios	How to correctly set up UILabels with Auto Layout on iOS	UILabel		20151122	0	0
@@ -3615,7 +3615,7 @@ advanced	http://www.thomashanning.com/avoiding-c-style-for-loops/	Swift: Avoidin
 advanced	http://christiantietze.de/posts/2016/03/fixture-unit-test/	How to Create Fixture Files for Unit Tests	testing		20160309	0	0
 advanced	https://swiftyos.wordpress.com/2016/03/10/animated-hamburger-dropdown-menu-nkdropdownmenu/	Animated Hamburger Dropdown Menu – NKDropdownMenu			20160309	0	0
 advanced	https://realm.io/news/slug-aure-prochazka-fun-fast-audio-swift/	Fun and Fast Audio with Swift	audio		20160310	0	0
-advanced	https://www.raywenderlich.com/122139/uiscrollview-tutorial	UIScrollView Tutorial: Getting Started			20160310	0	0
+advanced	https://www.raywenderlich.com/122139/uiscrollview-tutorial	UIScrollView Tutorial: Getting Started	UIScrollView		20160310	0	0
 advanced	http://ericasadun.com/2016/03/10/the-push-pin-principle/	The push-pin principle			20160310	0	0
 advanced	http://ericasadun.com/2016/03/10/first-labels-day-2/	First Labels: Day 2			20160310	0	0
-advanced	https://www.raywenderlich.com/128023/video-tutorial-beginning-watchos-part-5-context-menus-actions	Video Tutorial: Beginning watchOS Part 5: Context Menus & Actions			20160310	0	0
+advanced	https://www.raywenderlich.com/128023/video-tutorial-beginning-watchos-part-5-context-menus-actions	Video Tutorial: Beginning watchOS Part 5: Context Menus & Actions	WatchKit		20160310	0	0
