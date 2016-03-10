@@ -2499,8 +2499,10 @@ advanced	http://littlebitesofcocoa.com/202	little bites of cocoa: #202: Better B
 advanced	http://littlebitesofcocoa.com/203	little bites of cocoa: #203: Simplifying Common String Operations with SwiftString			20160302	0	0
 advanced	http://littlebitesofcocoa.com/204	little bites of cocoa: #204: Swift Designated Initializer Basic			20160303	0	0
 advanced	http://littlebitesofcocoa.com/205	little bites of cocoa: #205: Swift guard Basics	guard		20160304	0	0
-advanced	http://flexmonkey.blogspot.com/2015/11/a-look-at-agents-goals-behaviours-in.html	little bites of cocoa: #205: Swift guard Basics			20151121	0	0
-advanced	http://realm.io/news/josh-adams-gpx-location-manager	GPX Data in the Simulator	CoreLocation:video		20151121	0	0
+advanced	http://littlebitesofcocoa.com/206	little bites of cocoa: #206: UITableView Cookbook	UITableView		20160307	0	0
+advanced	http://littlebitesofcocoa.com/207	little bites of cocoa: #207: Annotating Swift with MARKs, TODO's and FIXME's			20160308	0	0
+advanced	http://littlebitesofcocoa.com/208	little bites of cocoa: #208: Living with Xcode by Clearing Derived Data			20160309	0	0
+advanced	http://littlebitesofcocoa.com/209	little bites of cocoa: #209: Swift Enums Cookbook			20160310	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/pencilcontroller-using-apple-pencil-as.html	PencilController - Using Apple Pencil as a 3D Controller for Image Editing	Pencil		20151121	0	0
 advanced	http://medium.com/swift-programming/swift-sequences-ce22d76f120c	Swift Sequences	Sequence		20151122	0	0
 advanced	http://candycode.io/how-to-correctly-set-up-uilabels-with-auto-layout-on-ios	How to correctly set up UILabels with Auto Layout on iOS	UILabel		20151122	0	0
@@ -3557,3 +3559,63 @@ advanced	http://makeapppie.com/2016/02/26/how-to-use-nsuserdefaults-in-swift	How
 advanced	http://ericasadun.com/2016/02/26/non-linear-loops	Non-linear loops			20160226	0	0
 advanced	http://www.raywenderlich.com/127120/video-tutorial-ios-app-extensions-part-4-photo-extensions-shared-settings-2	Video Tutorial: iOS App Extensions Part 4: Photo Extensions: Shared Settings			20160226	0	0
 advanced	http://www.ios-blog.co.uk/tutorials/swift/swift-timer-tutorial-create-a-counter-timer-application-using-nstimer	Swift Timer Tutorial using NSTimer()			20160226	0	0
+advanced	http://makeapppie.com/2016/03/04/using-watchos2-navigation-in-swift	Using WatchOS2 Navigation in Swift	WatchKit		20160304	0	0
+advanced	http://ericasadun.com/2016/03/03/swift-evolution-acceptances-the-big-three	Swift Evolution acceptances: The big three			20160303	0	0
+advanced	http://sketchytech.blogspot.com/2016/03/swift-array-and-arrayslice-xcode-72.html	Swift: Array and ArraySlice (Xcode 7.2)	Array:ArraySlice		20160304	0	0
+advanced	https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html	How to Build and Design iOS Video Chat Apps Using Swift			20160304	0	0
+libs	https://github.com/devxoul/URLNavigator	Elegant URL Routing for Swift			20160304	0	0
+libs	https://github.com/ipraba/EPShapes	Design shapes in Interface Builder			20160304	0	0
+libs	https://github.com/matthewpalmer/Charter	A Swift mailing list client for iPhone and iPad			20160304	0	0
+advanced	https://www.raywenderlich.com/127479/video-tutorial-ios-app-extensions-part-9-today-extensions-openurl-2	Video Tutorial: iOS App Extensions Part 9: Today Extensions: OpenURL			20160304	1	0
+advanced	http://masilotti.com/ui-testing-stub-network-data	UI Testing with Stubbed Network Data			20160304	0	0
+libs	https://github.com/petrosDemetrakopoulos/PSDCell	A custom cell with blured background			20160304	0	0
+advanced	https://medium.com/swift-programming/understanding-collection-types-in-swift-part-1-8262f4f95880	Swift Collections — Part 1 (Arrays and Sets)	Array:Set		20160305	0	0
+libs	https://github.com/xmartlabs/XLActionController	Fully customizable and extensible action sheet controller written in Swift 2			20160305	0	0
+libs	https://github.com/hyperoslo/Whisper	Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside http://hyper.no			20160305	0	0
+libs	https://github.com/sudeepag/SACountingLabel	A custom animated counting UILabel			20160305	0	0
+advanced	http://swiftdeveloperblog.com/ios-localization-add-international-language-support-to-your-swift-app	iOS Localization: Add International Language Support To Your Swift App	localization		20160307	0	0
+libs	https://github.com/ziligy/JGSettingsManager	An easy-to-use settings manager to define, access, and store NSUserDefaults the Swift way			20160306	0	0
+libs	https://github.com/istyle-inc/LoadMoreTableViewController	LoadMoreTableViewController is a TableViewController that helps you to show some data like fetched from a web API successively.		https://github.com/istyle-inc/LoadMoreTableViewController/blob/master/screen.gif	20160306	0	0
+libs	https://github.com/tomvanzummeren/TZStackView	UIStackView replica for iOS 7.x and iOS 8.x	UIStackView		20150901	0	0
+advanced	http://aymenworks.fr/2015/08/24/filtering-array-and-dictionary-in-swift	filter			20150824	0	0
+advanced	http://aymenworks.fr/2016/02/11/swift-the-range-operator	The ~= operator in Swift			20160211	0	0
+libs	https://github.com/storehouse/Advance	A powerful animation framework for iOS			20160307	0	0
+libs	https://github.com/inamiy/TryParsec	Monadic Parser Combinator for try! Swift http://www.tryswiftconf.com/	functional		20160307	0	0
+advanced	https://realm.io/news/marius-rackwitz-challenges-building-swift-framework	Challenges Building a Swift 	video		20160307	0	0
+advanced	https://www.raywenderlich.com/127993/video-tutorial-beginning-watchos-series-introduction	Video Tutorial: Beginning watchOS: Series Introduction			20160307	0	0
+advanced	https://www.raywenderlich.com/127999/video-tutorial-beginning-watchos-part-1-layout	Video Tutorial: Beginning watchOS Part 1: Layout I			20160307	1	0
+libs	https://github.com/crossroadlabs/Markdown	Swift markdown library			20160307	0	0
+advanced	http://sketchytech.blogspot.com/2016/03/swift-sticking-together-with.html	ing togetherness with Zip2Sequence (Xcode 7.			20160307	0	0
+advanced	http://useyourloaf.com/blog/styling-buttons-using-the-asset-catalog/	Styling buttons using the Asset Catalog			20160307	0	0
+advanced	https://www.raywenderlich.com/128004/video-tutorial-beginning-watchos-part-2-layout-ii	Video Tutorial: Beginning watchOS Part 2: Layout 			20160307	1	0
+advanced	http://flexmonkey.blogspot.com/2016/03/core-image-for-swift-advanced-image.html	Core Image for Swift: Advanced Image Processing for iOS	CoreImage		20160307	0	0
+advanced	http://christiantietze.de/posts/2016/02/lens-data-interface	Creating a Lens for an Object to Provide a New Public Interface			20160308	0	0
+advanced	https://www.raywenderlich.com/119881/enums-structs-and-classes-in-swift	Getting to Know Enums, Structs and Classes in Swift			20160308	0	0
+advanced	https://www.raywenderlich.com/128011/video-tutorial-beginning-watchos-part-3-tables	Video Tutorial: Beginning watchOS Part 3: Tables	WatchKit		20160308	1	0
+advanced	http://www.youtube.com/watch?v=wrg3QQAe4-c	Getting Started with tvOS! (Swift 2 in Xcode)	AppleTV		20160308	0	0
+libs	https://github.com/muukii/NextGrowingTextView	The next in the generations of 'growing textviews' optimized for iOS 7 and above			20160308	0	0
+libs	https://github.com/ruslanskorb/RSKPlaceholderTextView	A light-weight UITextView subclass that adds support for placeholder			20160308	0	0
+libs	https://github.com/macfeteria/JKNotificationPanel	Simple, Customizable notification panel			20160308	0	0
+libs	https://github.com/sag333ar/SRKControls	A Custom control which turns UITextfield to item-picker & date-picker.			20160308	0	0
+libs	https://github.com/thanhcuong1990/swift-disk-status	Get the available iOS device memory using Swift			20160308	0	0
+libs	https://github.com/rad182/RADInfoBannerView	Simple and Customizable Dropdown banner below Navigation Bar			20160308	0	0
+libs	https://github.com/samuelbeek/SwiftCountryPicker	CountryPicker in Swift that uses Emoji for flags.			20160308	0	0
+libs	https://github.com/fancymax/AutoCompleteTextField	AutoCompleteTextField for OS X(Swift)	mac		20160308	0	0
+advanced	http://ericasadun.com/2016/03/08/swift-queue-fun	Swift Queue fun			20160308	0	0
+advanced	http://ericasadun.com/2016/03/08/swift-evolution-a-handful-of-things	Swift Evolution: a handful of things			20160308	0	0
+advanced	http://ericasadun.com/2016/03/08/generic-typealiases-are-a-thing	Generic Typealiases are a thing			20160308	0	0
+advanced	http://ashishkakkad.com/2016/03/how-to-create-a-wrapper-for-alamofire-and-swiftyjson-swift-ios/	How to create a wrapper for Alamofire and SwiftyJSON?	json		20160309	0	0
+advanced	https://www.raywenderlich.com/128016/video-tutorial-beginning-watchos-part-4-table-rows	Video Tutorial: Beginning watchOS Part 4: Table Rows			20160309	1	0
+libs	https://github.com/ykyouhei/KYNavigationProgress	Simple extension of UINavigationController to display progress on the UINavigationBar			20160309	0	0
+libs	https://github.com/DanisFabric/Infinity	A simple way to make UIScrollView support PullToRefresh & InfinityScroll			20160309	0	0
+libs	https://github.com/mikaoj/EnigmaKit	Enigma encryption in Swift			20160309	0	0
+advanced	http://ericasadun.com/2016/03/09/swift-first-labels-bring-em-back/	Swift First Labels: Bring ’em back			20160309	0	0
+advanced	https://www.uraimo.com/2016/03/10/swift-3-available-on-armv6-raspberry-1-zero/	Swift 3.0 now available for all the ARMv6 RaspberryPi (1,Zero)	RaspberryPi:Linux		20160309	0	0
+advanced	http://www.thomashanning.com/avoiding-c-style-for-loops/	Swift: Avoiding C-Style For-Loops			20160309	0	0
+advanced	http://christiantietze.de/posts/2016/03/fixture-unit-test/	How to Create Fixture Files for Unit Tests	testing		20160309	0	0
+advanced	https://swiftyos.wordpress.com/2016/03/10/animated-hamburger-dropdown-menu-nkdropdownmenu/	Animated Hamburger Dropdown Menu – NKDropdownMenu			20160309	0	0
+advanced	https://realm.io/news/slug-aure-prochazka-fun-fast-audio-swift/	Fun and Fast Audio with Swift	audio		20160310	0	0
+advanced	https://www.raywenderlich.com/122139/uiscrollview-tutorial	UIScrollView Tutorial: Getting Started			20160310	0	0
+advanced	http://ericasadun.com/2016/03/10/the-push-pin-principle/	The push-pin principle			20160310	0	0
+advanced	http://ericasadun.com/2016/03/10/first-labels-day-2/	First Labels: Day 2			20160310	0	0
+advanced	https://www.raywenderlich.com/128023/video-tutorial-beginning-watchos-part-5-context-menus-actions	Video Tutorial: Beginning watchOS Part 5: Context Menus & Actions			20160310	0	0
