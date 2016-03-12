@@ -169,7 +169,9 @@ commercial	http://shop.oreilly.com/product/9781785284700.do	Swift by Example (Gi
 commercial	http://shop.oreilly.com/product/9781785288173.do	Application Development with Swift (Hossam Ghareeb)	book	http://akamaicovers.oreilly.com/images/9781785288173/cat.gif	20150801	0	0
 commercial	http://shop.oreilly.com/product/0636920044338.do	iOS 9 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920044338/cat.gif	20151201	0	0
 commercial	https://gumroad.com/l/proswift	Pro Swift	book	https://static-2.gumroad.com/res/gumroad/1196435742118/asset_previews/c55465d9cbab472eb1a7b52c0f4a731c/retina/New_20Pro_20Swift_20Book_20Gumroad.png	20160411		
-commercial	https://pragprog.com/book/mzswift/core-data-in-swift	Core Data in Swift: Data Storage and Management for iOS and OS X	book	https://imagery.pragprog.com/products/464/mzswift_xlargebeta.jpg?1452016065	20160515		
+commercial	https://pragprog.com/book/mzswift/core-data-in-swift	Core Data in Swift: Data Storage and Management for iOS and OS X	book:CoreData	https://imagery.pragprog.com/products/464/mzswift_xlargebeta.jpg?1452016065	20160515		
+commercial	https://itunes.apple.com/us/book/practical-auto-layout-for/id1060733718?mt=13	Practical Auto Layout for Xcode 7 (Steven Lipton)	book:AutoLayout	http://a5.mzstatic.com/us/r30/Publication69/v4/37/72/ed/3772edb6-a599-75b9-021f-170e6178a804/cover225x225.jpeg	20151130		
+commercial	https://itunes.apple.com/de/book/core-image-for-swift/id1073029980?l=en&mt=13	Core Image for Swift: Advanced Image Processing for iOS (Simon J Gladman)	book:CoreImage	http://a3.mzstatic.com/eu/r30/Publication49/v4/5c/12/6e/5c126eba-d08d-afdc-e28f-5854e40d1974/cover225x225.jpeg	20160226		
 advanced	http://airspeedvelocity.net/2014/12/21/avoid-using-var-with-this-one-weird-trick	Avoid using var with this one weird trick			20141221	0	0
 advanced	http://allegrotech.io/swift-method-dispatching.html	Swift Method Dispatching			20141212	0	0
 advanced	http://austinzheng.com/2014/12/16/swift-enums	Enums in Swift	enum		20141216	0	0
