@@ -3581,12 +3581,12 @@ advanced	http://aymenworks.fr/2016/02/11/swift-the-range-operator	The ~= operato
 libs	https://github.com/storehouse/Advance	A powerful animation framework for iOS			20160307	0	0
 libs	https://github.com/inamiy/TryParsec	Monadic Parser Combinator for try! Swift http://www.tryswiftconf.com/	functional		20160307	0	0
 advanced	https://realm.io/news/marius-rackwitz-challenges-building-swift-framework	Challenges Building a Swift 	video		20160307	0	0
-advanced	https://www.raywenderlich.com/127993/video-tutorial-beginning-watchos-series-introduction	Video Tutorial: Beginning watchOS: Series Introduction			20160307	0	0
-advanced	https://www.raywenderlich.com/127999/video-tutorial-beginning-watchos-part-1-layout	Video Tutorial: Beginning watchOS Part 1: Layout I			20160307	1	0
-libs	https://github.com/crossroadlabs/Markdown	Swift markdown library			20160307	0	0
-advanced	http://sketchytech.blogspot.com/2016/03/swift-sticking-together-with.html	ing togetherness with Zip2Sequence (Xcode 7.			20160307	0	0
+advanced	https://www.raywenderlich.com/127993/video-tutorial-beginning-watchos-series-introduction	Video Tutorial: Beginning watchOS: Series Introduction	WatchKit		20160307	0	0
+advanced	https://www.raywenderlich.com/127999/video-tutorial-beginning-watchos-part-1-layout	Video Tutorial: Beginning watchOS Part 1: Layout I	WatchKit		20160307	1	0
+libs	https://github.com/crossroadlabs/Markdown	Swift markdown library	markdown		20160307	0	0
+advanced	http://sketchytech.blogspot.com/2016/03/swift-sticking-together-with.html	Swift: Sorting togetherness with Zip2Sequence (Xcode 7.2)			20160307	0	0
 advanced	http://useyourloaf.com/blog/styling-buttons-using-the-asset-catalog/	Styling buttons using the Asset Catalog			20160307	0	0
-advanced	https://www.raywenderlich.com/128004/video-tutorial-beginning-watchos-part-2-layout-ii	Video Tutorial: Beginning watchOS Part 2: Layout 			20160307	1	0
+advanced	https://www.raywenderlich.com/128004/video-tutorial-beginning-watchos-part-2-layout-ii	Video Tutorial: Beginning watchOS Part 2: Layout 	WatchKit		20160307	1	0
 advanced	http://flexmonkey.blogspot.com/2016/03/core-image-for-swift-advanced-image.html	Core Image for Swift: Advanced Image Processing for iOS	CoreImage		20160307	0	0
 advanced	http://christiantietze.de/posts/2016/02/lens-data-interface	Creating a Lens for an Object to Provide a New Public Interface			20160308	0	0
 advanced	https://www.raywenderlich.com/119881/enums-structs-and-classes-in-swift	Getting to Know Enums, Structs and Classes in Swift			20160308	0	0
@@ -3598,16 +3598,16 @@ libs	https://github.com/macfeteria/JKNotificationPanel	Simple, Customizable noti
 libs	https://github.com/sag333ar/SRKControls	A Custom control which turns UITextfield to item-picker & date-picker.			20160308	0	0
 libs	https://github.com/thanhcuong1990/swift-disk-status	Get the available iOS device memory using Swift			20160308	0	0
 libs	https://github.com/rad182/RADInfoBannerView	Simple and Customizable Dropdown banner below Navigation Bar			20160308	0	0
-libs	https://github.com/samuelbeek/SwiftCountryPicker	CountryPicker in Swift that uses Emoji for flags.			20160308	0	0
+libs	https://github.com/samuelbeek/SwiftCountryPicker	CountryPicker in Swift that uses Emoji for flags.	emoji		20160308	0	0
 libs	https://github.com/fancymax/AutoCompleteTextField	AutoCompleteTextField for OS X(Swift)	mac		20160308	0	0
-advanced	http://ericasadun.com/2016/03/08/swift-queue-fun	Swift Queue fun			20160308	0	0
+advanced	http://ericasadun.com/2016/03/08/swift-queue-fun	Swift Queue fun	queue		20160308	0	0
 advanced	http://ericasadun.com/2016/03/08/swift-evolution-a-handful-of-things	Swift Evolution: a handful of things			20160308	0	0
-advanced	http://ericasadun.com/2016/03/08/generic-typealiases-are-a-thing	Generic Typealiases are a thing			20160308	0	0
+advanced	http://ericasadun.com/2016/03/08/generic-typealiases-are-a-thing	Generic Typealiases are a thing	typealias		20160308	0	0
 advanced	http://ashishkakkad.com/2016/03/how-to-create-a-wrapper-for-alamofire-and-swiftyjson-swift-ios/	How to create a wrapper for Alamofire and SwiftyJSON?	json		20160309	0	0
-advanced	https://www.raywenderlich.com/128016/video-tutorial-beginning-watchos-part-4-table-rows	Video Tutorial: Beginning watchOS Part 4: Table Rows			20160309	1	0
+advanced	https://www.raywenderlich.com/128016/video-tutorial-beginning-watchos-part-4-table-rows	Video Tutorial: Beginning watchOS Part 4: Table Rows	WatchKit		20160309	1	0
 libs	https://github.com/ykyouhei/KYNavigationProgress	Simple extension of UINavigationController to display progress on the UINavigationBar			20160309	0	0
-libs	https://github.com/DanisFabric/Infinity	A simple way to make UIScrollView support PullToRefresh & InfinityScroll			20160309	0	0
-libs	https://github.com/mikaoj/EnigmaKit	Enigma encryption in Swift			20160309	0	0
+libs	https://github.com/DanisFabric/Infinity	A simple way to make UIScrollView support PullToRefresh & InfinityScroll	UIScrollView		20160309	0	0
+libs	https://github.com/mikaoj/EnigmaKit	Enigma encryption in Swift	encryption		20160309	0	0
 advanced	http://ericasadun.com/2016/03/09/swift-first-labels-bring-em-back/	Swift First Labels: Bring ’em back			20160309	0	0
 advanced	https://www.uraimo.com/2016/03/10/swift-3-available-on-armv6-raspberry-1-zero/	Swift 3.0 now available for all the ARMv6 RaspberryPi (1,Zero)	RaspberryPi:Linux		20160309	0	0
 advanced	http://www.thomashanning.com/avoiding-c-style-for-loops/	Swift: Avoiding C-Style For-Loops			20160309	0	0
@@ -3630,8 +3630,8 @@ advanced	http://www.toptal.com/swift/swift-is-it-ready-for-prime-time	Learning S
 advanced	http://www.youtube.com/watch?v=yupIw9FXUso	Table View Cell to Multiple Views! (Swift 2 in Xcode)	UITableViewCell:video		20160310	0	0
 advanced	https://www.uraimo.com/2016/03/11/recap-of-swift-porting-efforts-2/	A Recap of the Swift Porting Efforts #2	Linux		20160310	0	0
 advanced	http://sketchytech.blogspot.com/2016/03/swift-uibezierpath-for-inscribed-and.html	Swift: UIBezierPath for inscribed and circumscribed circles (Xcode 7.2.1)	UIBezierPath		20160311	0	0
-advanced	https://www.raywenderlich.com/128028/video-tutorial-beginning-watchos-part-6-navigation-contexts	Video Tutorial: Beginning watchOS Part 6: Navigation & Contexts			20160311	1	0
-advanced	http://ankit.im/swift/2016/03/11/swift-package-manager-super-updates/	Swift Package Manager Super Updates			20160311	0	0
-advanced	https://www.raywenderlich.com/128033/video-tutorial-beginning-watchos-part-7-modals-pages	Video Tutorial: Beginning watchOS Part 7: Modals & Pages			20160311	1	0
+advanced	https://www.raywenderlich.com/128028/video-tutorial-beginning-watchos-part-6-navigation-contexts	Video Tutorial: Beginning watchOS Part 6: Navigation & Contexts	WatchKit		20160311	1	0
+advanced	http://ankit.im/swift/2016/03/11/swift-package-manager-super-updates/	Swift Package Manager Super Updates	PackageManager		20160311	0	0
+advanced	https://www.raywenderlich.com/128033/video-tutorial-beginning-watchos-part-7-modals-pages	Video Tutorial: Beginning watchOS Part 7: Modals & Pages	WatchKit		20160311	1	0
 advanced	http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html	Gathering system information in Swift with sysctl			20160307	0	0
 advanced	http://christiantietze.de/posts/2016/03/custom-enumerated-sequence/	Creating a Cheap Protocol-Oriented Copy of SequenceType (with a Twist!)			20160312	0	0
