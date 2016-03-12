@@ -164,10 +164,12 @@ commercial	http://shop.oreilly.com/product/9781119009313.do	Beginning Swift Prog
 commercial	http://shop.oreilly.com/product/0636920034254.do	iOS 8 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920034254/cat.gif	20141101	0	0
 commercial	http://shop.oreilly.com/product/9781119016779.do	Professional Swift (Michael Dippery)	book	http://akamaicovers.oreilly.com/images/9781119016779/cat.gif	20150501	0	0
 commercial	http://shop.oreilly.com/product/9781784393557.do	Learning iOS 8 Game Development Using Swift (Siddharth Shekar)	book	http://akamaicovers.oreilly.com/images/9781784393557/cat.gif	20150501	0	0
-commercial	http://shop.oreilly.com/product/9781784396701.do	Swift Essentials (Alex Blewitt)	book	http://akamaicovers.oreilly.com/images/9781784396701/cat.gif	20141201	0	0
+commercial	https://www.packtpub.com/application-development/swift-essentials-second-edition	Swift Essentials – Second Edition (Alex Blewitt)	book	https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/8878OS_5085_Swift%20Essentials%20Second%20Edition.jpg	20160110	0	0
 commercial	http://shop.oreilly.com/product/9781785284700.do	Swift by Example (Giordano Scalzo)	book	http://akamaicovers.oreilly.com/images/9781785284700/cat.gif	20150601	0	0
 commercial	http://shop.oreilly.com/product/9781785288173.do	Application Development with Swift (Hossam Ghareeb)	book	http://akamaicovers.oreilly.com/images/9781785288173/cat.gif	20150801	0	0
 commercial	http://shop.oreilly.com/product/0636920044338.do	iOS 9 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920044338/cat.gif	20151201	0	0
+commercial	https://gumroad.com/l/proswift	Pro Swift	book	https://static-2.gumroad.com/res/gumroad/1196435742118/asset_previews/c55465d9cbab472eb1a7b52c0f4a731c/retina/New_20Pro_20Swift_20Book_20Gumroad.png	20160411		
+commercial	https://pragprog.com/book/mzswift/core-data-in-swift	Core Data in Swift: Data Storage and Management for iOS and OS X	book	https://imagery.pragprog.com/products/464/mzswift_xlargebeta.jpg?1452016065	20160515		
 advanced	http://airspeedvelocity.net/2014/12/21/avoid-using-var-with-this-one-weird-trick	Avoid using var with this one weird trick			20141221	0	0
 advanced	http://allegrotech.io/swift-method-dispatching.html	Swift Method Dispatching			20141212	0	0
 advanced	http://austinzheng.com/2014/12/16/swift-enums	Enums in Swift	enum		20141216	0	0
@@ -3578,18 +3580,18 @@ libs	https://github.com/istyle-inc/LoadMoreTableViewController	LoadMoreTableView
 libs	https://github.com/tomvanzummeren/TZStackView	UIStackView replica for iOS 7.x and iOS 8.x	UIStackView		20150901	0	0
 advanced	http://aymenworks.fr/2015/08/24/filtering-array-and-dictionary-in-swift	filter			20150824	0	0
 advanced	http://aymenworks.fr/2016/02/11/swift-the-range-operator	The ~= operator in Swift			20160211	0	0
-libs	https://github.com/storehouse/Advance	A powerful animation framework for iOS			20160307	0	0
+libs	https://github.com/storehouse/Advance	A powerful animation framework for iOS	animation		20160307	0	0
 libs	https://github.com/inamiy/TryParsec	Monadic Parser Combinator for try! Swift http://www.tryswiftconf.com/	functional		20160307	0	0
 advanced	https://realm.io/news/marius-rackwitz-challenges-building-swift-framework	Challenges Building a Swift 	video		20160307	0	0
 advanced	https://www.raywenderlich.com/127993/video-tutorial-beginning-watchos-series-introduction	Video Tutorial: Beginning watchOS: Series Introduction	WatchKit		20160307	0	0
 advanced	https://www.raywenderlich.com/127999/video-tutorial-beginning-watchos-part-1-layout	Video Tutorial: Beginning watchOS Part 1: Layout I	WatchKit		20160307	1	0
 libs	https://github.com/crossroadlabs/Markdown	Swift markdown library	markdown		20160307	0	0
 advanced	http://sketchytech.blogspot.com/2016/03/swift-sticking-together-with.html	Swift: Sorting togetherness with Zip2Sequence (Xcode 7.2)			20160307	0	0
-advanced	http://useyourloaf.com/blog/styling-buttons-using-the-asset-catalog/	Styling buttons using the Asset Catalog			20160307	0	0
+advanced	http://useyourloaf.com/blog/styling-buttons-using-the-asset-catalog/	Styling buttons using the Asset Catalog	UIButton		20160307	0	0
 advanced	https://www.raywenderlich.com/128004/video-tutorial-beginning-watchos-part-2-layout-ii	Video Tutorial: Beginning watchOS Part 2: Layout 	WatchKit		20160307	1	0
 advanced	http://flexmonkey.blogspot.com/2016/03/core-image-for-swift-advanced-image.html	Core Image for Swift: Advanced Image Processing for iOS	CoreImage		20160307	0	0
 advanced	http://christiantietze.de/posts/2016/02/lens-data-interface	Creating a Lens for an Object to Provide a New Public Interface			20160308	0	0
-advanced	https://www.raywenderlich.com/119881/enums-structs-and-classes-in-swift	Getting to Know Enums, Structs and Classes in Swift			20160308	0	0
+advanced	https://www.raywenderlich.com/119881/enums-structs-and-classes-in-swift	Getting to Know Enums, Structs and Classes in Swift	enum		20160308	0	0
 advanced	https://www.raywenderlich.com/128011/video-tutorial-beginning-watchos-part-3-tables	Video Tutorial: Beginning watchOS Part 3: Tables	WatchKit		20160308	1	0
 advanced	http://www.youtube.com/watch?v=wrg3QQAe4-c	Getting Started with tvOS! (Swift 2 in Xcode)	AppleTV		20160308	0	0
 libs	https://github.com/muukii/NextGrowingTextView	The next in the generations of 'growing textviews' optimized for iOS 7 and above			20160308	0	0
