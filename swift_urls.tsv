@@ -2503,8 +2503,7 @@ advanced	http://littlebitesofcocoa.com/206	little bites of cocoa: #206: UITableV
 advanced	http://littlebitesofcocoa.com/207	little bites of cocoa: #207: Annotating Swift with MARKs, TODO's and FIXME's			20160308	0	0
 advanced	http://littlebitesofcocoa.com/208	little bites of cocoa: #208: Living with Xcode by Clearing Derived Data			20160309	0	0
 advanced	http://littlebitesofcocoa.com/209	little bites of cocoa: #209: Swift Enums Cookbook	enum		20160310	0	0
-advanced	http://flexmonkey.blogspot.com/2015/11/pencilcontroller-using-apple-pencil-as.html	PencilController - Using Apple Pencil as a 3D Controller for Image Editing	Pencil		20151121	0	0
-advanced	http://medium.com/swift-programming/swift-sequences-ce22d76f120c	Swift Sequences	Sequence		20151122	0	0
+advanced	http://littlebitesofcocoa.com/210	little bites of cocoa: #210: Adding Keyboard Navigation to UIKit with KBKit			20160311	0	0
 advanced	http://candycode.io/how-to-correctly-set-up-uilabels-with-auto-layout-on-ios	How to correctly set up UILabels with Auto Layout on iOS	UILabel		20151122	0	0
 advanced	http://ericasadun.com/2015/11/22/deducing-your-playground-device	Deducing your playground “device”			20151122	0	0
 advanced	http://ericasadun.com/2015/11/22/a-stroll-through-a-swift-oddity-argument-ordering	A stroll through a Swift oddity: argument ordering			20151122	0	0
@@ -3619,3 +3618,20 @@ advanced	https://www.raywenderlich.com/122139/uiscrollview-tutorial	UIScrollView
 advanced	http://ericasadun.com/2016/03/10/the-push-pin-principle/	The push-pin principle			20160310	0	0
 advanced	http://ericasadun.com/2016/03/10/first-labels-day-2/	First Labels: Day 2			20160310	0	0
 advanced	https://www.raywenderlich.com/128023/video-tutorial-beginning-watchos-part-5-context-menus-actions	Video Tutorial: Beginning watchOS Part 5: Context Menus & Actions	WatchKit		20160310	0	0
+advanced	https://medium.com/swift-programming/swift-tuple-328aecff50e7	Swift: Tuple	tuple		20160310	0	0
+advanced	http://irace.me/lifecycle-behaviors	View controller lifecycle behaviors			20160309	0	0
+advanced	http://cjwirth.com/2016/03/07/using-xcode-and-spm-together	Using Xcode and Swift Package Manager Together	PackageManager		20160307	0	0
+advanced	http://cjwirth.com/2015/04/15/debugging-https-traffic/	Debugging your iOS App's HTTP(S) Traffic	testing		20150415	0	0
+advanced	http://cjwirth.com/2015/05/13/why-realm/	Why We Went With Realm	realm		20150512	0	0
+advanced	http://cjwirth.com/2015/09/23/navigation-controller-transitions/	Keeping Swipe Back with UINavigationController Transitions			20150923	0	0
+advanced	http://cjwirth.com/2016/01/20/swift-protocol-extension-weirdness/	Swift Protocol Extension Weirdness			20160120	0	0
+advanced	http://cjwirth.com/2016/02/09/value-types/	Value Types in Swift			20160208	0	0
+advanced	http://www.toptal.com/swift/swift-is-it-ready-for-prime-time	Learning Swift Programming: Is it Ready for Prime			20150101	0	0
+advanced	http://www.youtube.com/watch?v=yupIw9FXUso	Table View Cell to Multiple Views! (Swift 2 in Xcode)	UITableViewCell:video		20160310	0	0
+advanced	https://www.uraimo.com/2016/03/11/recap-of-swift-porting-efforts-2/	A Recap of the Swift Porting Efforts #2	Linux		20160310	0	0
+advanced	http://sketchytech.blogspot.com/2016/03/swift-uibezierpath-for-inscribed-and.html	Swift: UIBezierPath for inscribed and circumscribed circles (Xcode 7.2.1)	UIBezierPath		20160311	0	0
+advanced	https://www.raywenderlich.com/128028/video-tutorial-beginning-watchos-part-6-navigation-contexts	Video Tutorial: Beginning watchOS Part 6: Navigation & Contexts			20160311	1	0
+advanced	http://ankit.im/swift/2016/03/11/swift-package-manager-super-updates/	Swift Package Manager Super Updates			20160311	0	0
+advanced	https://www.raywenderlich.com/128033/video-tutorial-beginning-watchos-part-7-modals-pages	Video Tutorial: Beginning watchOS Part 7: Modals & Pages			20160311	1	0
+advanced	http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html	Gathering system information in Swift with sysctl			20160307	0	0
+advanced	http://christiantietze.de/posts/2016/03/custom-enumerated-sequence/	Creating a Cheap Protocol-Oriented Copy of SequenceType (with a Twist!)			20160312	0	0
