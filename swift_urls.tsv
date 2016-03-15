@@ -3630,7 +3630,7 @@ advanced	http://cjwirth.com/2015/05/13/why-realm/	Why We Went With Realm	realm		
 advanced	http://cjwirth.com/2015/09/23/navigation-controller-transitions/	Keeping Swipe Back with UINavigationController Transitions			20150923	0	0
 advanced	http://cjwirth.com/2016/01/20/swift-protocol-extension-weirdness/	Swift Protocol Extension Weirdness			20160120	0	0
 advanced	http://cjwirth.com/2016/02/09/value-types/	Value Types in Swift			20160208	0	0
-advanced	http://www.toptal.com/swift/swift-is-it-ready-for-prime-time	Learning Swift Programming: Is it Ready for Prime			20150101	0	0
+advanced	http://www.toptal.com/swift/swift-is-it-ready-for-prime-time	Learning Swift Programming: Is it Ready for Prime Time			20150101	0	0
 advanced	http://www.youtube.com/watch?v=yupIw9FXUso	Table View Cell to Multiple Views! (Swift 2 in Xcode)	UITableViewCell:video		20160310	0	0
 advanced	https://www.uraimo.com/2016/03/11/recap-of-swift-porting-efforts-2/	A Recap of the Swift Porting Efforts #2	Linux		20160310	0	0
 advanced	http://sketchytech.blogspot.com/2016/03/swift-uibezierpath-for-inscribed-and.html	Swift: UIBezierPath for inscribed and circumscribed circles (Xcode 7.2.1)	UIBezierPath		20160311	0	0
@@ -3638,4 +3638,22 @@ advanced	https://www.raywenderlich.com/128028/video-tutorial-beginning-watchos-p
 advanced	http://ankit.im/swift/2016/03/11/swift-package-manager-super-updates/	Swift Package Manager Super Updates	PackageManager		20160311	0	0
 advanced	https://www.raywenderlich.com/128033/video-tutorial-beginning-watchos-part-7-modals-pages	Video Tutorial: Beginning watchOS Part 7: Modals & Pages	WatchKit		20160311	1	0
 advanced	http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html	Gathering system information in Swift with sysctl			20160307	0	0
-advanced	http://christiantietze.de/posts/2016/03/custom-enumerated-sequence/	Creating a Cheap Protocol-Oriented Copy of SequenceType (with a Twist!)			20160312	0	0
+advanced	http://christiantietze.de/posts/2016/03/custom-enumerated-sequence/	Creating a Cheap Protocol-Oriented Copy of SequenceType (with a Twist!)	protocol		20160312	0	0
+advanced	https://medium.com/swift-programming/understanding-collection-types-in-swift-part-2-622ded4b2713	Understanding Collection Types in Swift Part 2			20160313	0	0
+libs	https://github.com/fruitcoder/ReplaceAnimation	Implementation of Zee Young's Dribbble animation	animation		20160313	0	0
+advanced	http://commandshift.co.uk/blog/2016/03/13/better-snapshots/	Better snapshots			20160313	0	0
+advanced	http://www.thinkandbuild.it/creating-custom-walkthroughs-for-your-apps/	Creating custom walkthroughs for your apps			20160312	0	0
+advanced	http://christiantietze.de/posts/2016/03/controller-behavior-extension/	Extend View Controllers with Behavior Objects Right from Within Interface Builder			20160313	0	0
+advanced	https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/	Introduction to Protocol-Oriented MVVM	protocol		20160313	0	0
+advanced	http://useyourloaf.com/blog/scrolling-stack-views/	Scrolling Stack Views	UIStackView		20160314	0	0
+libs	https://github.com/PerfectFreeze/PFColorHash	Generate color based on the given string	color		20160314	0	0
+advanced	https://github.com/ushisantoasobu/Yashin	Simple Rader Chart	chart		20160314	0	0
+libs	https://github.com/Ramotion/navigation-stack	NavigationStack is a stack-modeled navigation controller			20160314	0	0
+libs	https://github.com/macoscope/GrandCentralBoard	Hang a TV in your open space or team room to show everyone what's up and get them up to speed			20160314	0	0
+libs	https://github.com/cockscomb/UTIKit	UTIKit is an UTI (Uniform Type Identifier) wrapper			20160314	0	0
+advanced	http://makeapppie.com/2016/03/14/using-settings-bundles-with-swift/	Using Settings Bundles with Swift			20160314	0	0
+advanced	https://www.weheartswift.com/pi-day-rainbow-hex-grid/	π day: rainbow hex grid			20160314	0	0
+advanced	http://ericasadun.com/2016/03/14/safely-invoking-removeatindex/	Safely invoking removeAtIndex			20160314	0	0
+advanced	http://ericasadun.com/2016/03/14/the-current-art-of-build-configuration-tests/	The current art of Build Configuration Tests			20160314	0	0
+advanced	http://ericasadun.com/2016/03/14/swift-standard-library-rationales/	Swift Standard Library Rationales			20160314	0	0
+advanced	http://www.garyrudolph.com/2016/03/swift-enum-with-custom-rawvalue.html	Swift Enum with a Custom rawValue	enum		20160312	0	0
