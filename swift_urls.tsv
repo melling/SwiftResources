@@ -170,6 +170,7 @@ commercial	http://shop.oreilly.com/product/9781785288173.do	Application Developm
 commercial	http://shop.oreilly.com/product/0636920044338.do	iOS 9 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920044338/cat.gif	20151201	0	0
 commercial	https://gumroad.com/l/proswift	Pro Swift	book	https://static-2.gumroad.com/res/gumroad/1196435742118/asset_previews/c55465d9cbab472eb1a7b52c0f4a731c/retina/New_20Pro_20Swift_20Book_20Gumroad.png	20160411		
 commercial	https://pragprog.com/book/mzswift/core-data-in-swift	Core Data in Swift: Data Storage and Management for iOS and OS X	book:CoreData	https://imagery.pragprog.com/products/464/mzswift_xlargebeta.jpg?1452016065	20160515		
+commercial	https://pragprog.com/book/adios3/ios-9-sdk-development	iOS 9 SDK Development	book	https://imagery.pragprog.com/products/467/adios3.jpg?1438799440	20160316		
 commercial	https://itunes.apple.com/us/book/practical-auto-layout-for/id1060733718?mt=13	Practical Auto Layout for Xcode 7 (Steven Lipton)	book:AutoLayout	http://a5.mzstatic.com/us/r30/Publication69/v4/37/72/ed/3772edb6-a599-75b9-021f-170e6178a804/cover225x225.jpeg	20151130		
 commercial	https://itunes.apple.com/de/book/core-image-for-swift/id1073029980?l=en&mt=13	Core Image for Swift: Advanced Image Processing for iOS (Simon J Gladman)	book:CoreImage	http://a3.mzstatic.com/eu/r30/Publication49/v4/5c/12/6e/5c126eba-d08d-afdc-e28f-5854e40d1974/cover225x225.jpeg	20160226		
 advanced	http://airspeedvelocity.net/2014/12/21/avoid-using-var-with-this-one-weird-trick	Avoid using var with this one weird trick			20141221	0	0
@@ -2295,7 +2296,7 @@ advanced	http://appventure.me/2015/08/25/optional-throw-swift	Optional throw via
 advanced	http://appventure.me/2015/06/17/swift-method-overloading-by-protocol	Generic method overloading by protocol in Swift			20150617	0	0
 advanced	http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures	Using try / catch in Swift with asynchronous closures			20150619	0	0
 advanced	http://www.raywenderlich.com/116714/swift-tutorial-introducing-structures	Swift Tutorial: Introducing Structures	beginner:structs		20151027	0	0
-advanced	http://littlebitesofcocoa.com/112	little bites of cocoa: #112: Layout Guides & Anchors	AutoLayout		20151027	0	0
+advanced	http://littlebitesofcocoa.com/112	little bites of cocoa: #112: Layout Guides & Anchors	AutoLayout:LayoutGuides:LayoutAnchors		20151027	0	0
 advanced	http://littlebitesofcocoa.com/113	little bites of cocoa: #113: Profiling Core Animation	CoreAnimation:profiling		20151028	0	0
 advanced	http://www.mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift	Fixing Bugs Driven By Tests in Swift	testing		20151028	0	0
 advanced	http://makeapppie.com/2015/10/28/why-stack-views-are-your-best-friend-if-you-hate-auto-layout	Why Stack Views Are Your Best Friend If You Hate Auto Layout	UIStackView		20151028	0	0
@@ -2486,7 +2487,7 @@ advanced	http://littlebitesofcocoa.com/185	little bites of cocoa: #185: Pluraliz
 advanced	http://littlebitesofcocoa.com/186	little bites of cocoa: #186: Focus Engine Basics on tvOS	AppleTV		20160208	0	0
 advanced	http://littlebitesofcocoa.com/187	little bites of cocoa: #187: Picking Contacts with EPContactsPicker			20160209	0	0
 advanced	http://littlebitesofcocoa.com/188	little bites of cocoa: #188: Adding a Top Shelf Extension to a tvOS App	AppleTV		20160210	0	0
-advanced	http://littlebitesofcocoa.com/189	little bites of cocoa: #189: Interacting with C Variables & Pointers in Swift					
+advanced	http://littlebitesofcocoa.com/189	little bites of cocoa: #189: Interacting with C Variables & Pointers in Swift			20160211	0	0
 advanced	http://littlebitesofcocoa.com/190	little bites of cocoa: #190: Converting Units with Scale			20160212	0	0
 advanced	http://littlebitesofcocoa.com/191	little bites of cocoa: #191: Taming Gesture Recognizers & Control Events with Tactile			20160215	0	0
 advanced	http://littlebitesofcocoa.com/192	little bites of cocoa: #192: Being a Good Low Power Mode Citizen			20160216	0	0
@@ -2508,8 +2509,9 @@ advanced	http://littlebitesofcocoa.com/207	little bites of cocoa: #207: Annotati
 advanced	http://littlebitesofcocoa.com/208	little bites of cocoa: #208: Living with Xcode by Clearing Derived Data			20160309	0	0
 advanced	http://littlebitesofcocoa.com/209	little bites of cocoa: #209: Swift Enums Cookbook	enum		20160310	0	0
 advanced	http://littlebitesofcocoa.com/210	little bites of cocoa: #210: Adding Keyboard Navigation to UIKit with KBKit			20160311	0	0
-advanced	http://candycode.io/how-to-correctly-set-up-uilabels-with-auto-layout-on-ios	How to correctly set up UILabels with Auto Layout on iOS	UILabel		20151122	0	0
-advanced	http://ericasadun.com/2015/11/22/deducing-your-playground-device	Deducing your playground “device”			20151122	0	0
+advanced	http://littlebitesofcocoa.com/211	little bites of cocoa: #211: Rounding Corners with UIRectCorner and UIBezierPath			20160314	0	0
+advanced	http://littlebitesofcocoa.com/212	little bites of cocoa: #212: Elegant Volume Changes with SubtleVolume	audio		20160315	0	0
+advanced	http://littlebitesofcocoa.com/213	little bites of cocoa: #213: Supporting Peek & Pop on Older Devices with PeekPop			20160316	0	0
 advanced	http://ericasadun.com/2015/11/22/a-stroll-through-a-swift-oddity-argument-ordering	A stroll through a Swift oddity: argument ordering			20151122	0	0
 advanced	http://www.figure.ink/blog/2015/11/22/asynchrony-and-the-main-thread-part-2	Asynchronicity and the Main Thread: Part 2			20151122	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/pencilsynth-apple-pencil-controlled.html	PencilSynth - An Apple Pencil Controlled Synthesiser			20151123	0	0
@@ -3528,7 +3530,7 @@ libs	https://github.com/plu/parallel_ios_tests	Run iOS tests on multiple simulat
 libs	https://github.com/kylef/Curassow-example-helloworld	Example Swift web application that can be deployed to Heroku	web		20160229	0	0
 libs	https://github.com/recruit-mp/ABKit	AB testing framework for iOS			20160229	0	0
 advanced	http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift	Going Swift and Beyond	video		20160229	0	0
-advanced	http://useyourloaf.com/blog/goodbye-spacer-views-hello-layout-guides	Goodbye Spacer Views Hello Layout Guides	AutoLayout:UILayoutGuide		20160229	0	0
+advanced	http://useyourloaf.com/blog/goodbye-spacer-views-hello-layout-guides	Goodbye Spacer Views Hello Layout Guides	AutoLayout:UILayoutGuide:LayoutGuide		20160229	0	0
 advanced	http://ankit.im/swift/2016/02/29/swift-abstract-syntax-tree	Swift Abstract Syntax Tree			20160229	0	0
 advanced	http://ericasadun.com/2016/02/29/getting-ready-for-swift-to-stop-breaking-code	Getting ready for Swift to stop breaking code			20160229	0	0
 advanced	http://www.raywenderlich.com/127459/video-tutorial-ios-app-extensions-part-5-today-extensions-getting-started-2	Video Tutorial: iOS App Extensions Part 5: Today Extensions: Getting Started			20160229	1	0
@@ -3657,3 +3659,16 @@ advanced	http://ericasadun.com/2016/03/14/safely-invoking-removeatindex/	Safely 
 advanced	http://ericasadun.com/2016/03/14/the-current-art-of-build-configuration-tests/	The current art of Build Configuration Tests			20160314	0	0
 advanced	http://ericasadun.com/2016/03/14/swift-standard-library-rationales/	Swift Standard Library Rationales			20160314	0	0
 advanced	http://www.garyrudolph.com/2016/03/swift-enum-with-custom-rawvalue.html	Swift Enum with a Custom rawValue	enum		20160312	0	0
+advanced	http://cjwirth.com/2016/03/14/easier-enums/	Easier Enums with Private Types			20160314	0	0
+advanced	http://metova.com/blog/dev/how-to-use-swiftgen/	How to Use SwiftGen to Generate an Enum From Your Asset Catalog			20160315	0	0
+advanced	http://ericasadun.com/2016/03/15/swift-my-attempt-code-vs-try-and-try/	Swift: My `attempt` code vs try? and try!			20160315	0	0
+advanced	https://medium.com/swift-programming/dotswift-2016-highlights-part-2-f2dc0f091106	dotSwift 2016 Highlights, part 2			20160315	0	0
+advanced	https://www.raywenderlich.com/128523/video-tutorial-beginning-watchos-part-10-glances	Video Tutorial: Beginning watchOS Part 10: Glances	WatchKit		20160315	1	0
+advanced	https://www.raywenderlich.com/128528/video-tutorial-beginning-watchos-part-11-conclusion	Video Tutorial: Beginning watchOS Part 11: Conclusion	WatchKit		20160315	1	0
+advanced	http://ericasadun.com/2016/03/15/afternoon-whoa-swifts-guard-case/	Afternoon Whoa: Swift’s guard case =	guard		20160315	0	0
+advanced	http://flexmonkey.blogspot.com/2016/03/creating-bulging-eyes-purikura-effect.html	Creating a Bulging Eyes Purikura Effect with Core Image	CoreImage		20160315	0	0
+advanced	http://christiantietze.de/posts/2016/03/switch-nsmenuitem-main-menu/	ow I Toggle or Switch 2 NSMenuItems from the Main Menu	mac		20160316	0	0
+advanced	https://www.raywenderlich.com/128573/video-tutorial-advanced-watchos-series-introduction	Video Tutorial: Advanced watchOS: Series Introduction	WatchKit		20160316	0	0
+advanced	https://www.raywenderlich.com/128579/video-tutorial-advanced-watchos-part-1-layout	Video Tutorial: Advanced watchOS Part 1: Layout	WatchKit		20160316	0	0
+libs	https://github.com/smahajan28/SMSwipeableTabView	Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout)			20160316	0	0
+libs	https://github.com/suzuki-0000/AnimatablePlayButton	Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation			20160316	0	0
