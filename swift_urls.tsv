@@ -141,7 +141,7 @@ commercial	http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials	2D 
 commercial	http://www.raywenderlich.com/87276/core-data-tutorials-updated-xcode-6-1	Core Data by Tutorials	CoreData:book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/cdt@2x.png	20150301	0	0
 commercial	http://www.raywenderlich.com/store/ios-apprentice	The iOS Apprentice	book:SwiftLang	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/ia1234@2x.png	20150301	0	0
 commercial	http://www.raywenderlich.com/store/tvos-apprentice	tvOS Apprentice	book:AppleTV	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/tvt@2x.png	20150301	0	0
-commercial	http://www.raywenderlich.com/store/watchos-2-by-tutorials	watchOS 2 by Tutorials	book:watchkit	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/w2t@2x.png	20150301	0	0
+commercial	http://www.raywenderlich.com/store/watchos-2-by-tutorials	watchOS 2 by Tutorials	book:WatchKit	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/w2t@2x.png	20150301	0	0
 commercial	http://www.raywenderlich.com/store/swift-apprentice	Swift Apprentice	book:SwiftLang:beginner	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/sa@2x.png	20150301	0	0
 commercial	http://www.raywenderlich.com/store/ios-9-by-tutorials	iOS 9 by Tutorials	book	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/i9t@2x.png	20150301	0	0
 commercial	http://www.raywenderlich.com/store/ios-animations-by-tutorials	iOS Animations	book:CoreAnimation:animation	http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/iat@2x.png	20150301	0	0
@@ -851,7 +851,7 @@ advanced	http://speakerdeck.com/flexmonkey/ios-gpu-programming-with-swift-and-me
 advanced	http://ericasadun.com/2015/03/26/swift-playground-document-design-points	Swift: Playground document design points	playground		20150326	0	0
 advanced	http://www.andrewcbancroft.com/2015/03/26/what-is-delegation-a-swift-developers-guide	What is Delegation? – A Swift Developer’s Guide			20150326	0	0
 advanced	http://vluxe.io/animation-jazz.html	Animation Jazz	animation		20150325	0	0
-advanced	http://www.codingexplorer.com/share-data-in-your-swift-watchkit-apps-with-app-groups	Share Data in your Swift WatchKit Apps with App Groups	watchkit		20150330	0	0
+advanced	http://www.codingexplorer.com/share-data-in-your-swift-watchkit-apps-with-app-groups	Share Data in your Swift WatchKit Apps with App Groups	WatchKit		20150330	0	0
 advanced	http://www.knowstack.com/swift-extensions	Swift Extensions			20150330	0	0
 advanced	http://ericasadun.com/2015/03/30/swift-tuplized-if-lets	Swift: Tuplized If-Lets	tuple		20150330	0	0
 advanced	http://www.ioscreator.com/tutorials/live-rendering-tutorial-ios-8-swift	Live Rendering Tutorial in iOS 8 with Swift			20150331	0	0
@@ -923,7 +923,7 @@ advanced	http://www.andrewcbancroft.com/2015/04/15/testability-tip-for-swift-dev
 advanced	http://ericasadun.com/2015/04/16/swift-counting-emoji-groups	Swift: Counting emoji groups			20150416	0	0
 advanced	http://natashatherobot.com/swift-generics-box	Swift: Putting Your Generics in a Box			20150416	0	0
 advanced	http://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html	Friday Q&A 2015-04-17: Let's Build Swift.Array	Array		20150417	0	0
-advanced	http://makeapppie.com/2015/04/17/swift-watchkit-tutorials-programming-buttons-switches-and-timers-for-apple-watch	Swift WatchKit Tutorials: Programming Buttons, Switches and Timers for Apple Watch	watchkit		20150417	0	0
+advanced	http://makeapppie.com/2015/04/17/swift-watchkit-tutorials-programming-buttons-switches-and-timers-for-apple-watch	Swift WatchKit Tutorials: Programming Buttons, Switches and Timers for Apple Watch	WatchKit		20150417	0	0
 advanced	http://ericasadun.com/2015/04/17/swift-stupid-reflection-tricks-1	Swift: Stupid Reflection Tricks #1			20150417	0	0
 advanced	http://waynewbishop.com/swift/binary-search-tree-rotations	Tree Balancing			20150418	0	0
 advanced	http://medium.com/the-traveled-ios-developers-guide/swift-s-set-a7eb4f450f6c	Swift + Set			20150418	0	0
@@ -932,7 +932,7 @@ advanced	http://www.extelligentcocoa.org/the-meta-syntax-of-optionals	The meta-s
 advanced	http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews	Fun With Scrollviews	uiscrollview		20150419	0	0
 advanced	http://www.knowstack.com/converting-array-of-dictionary-to-tree-org-structure	Converting Array of Dictionary to Tree, Org Structure	Array:Tree		20150419	0	0
 advanced	http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging	Reveal Tutorial: Live View Debugging			20150420	0	0
-advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	watchkit:NSTimer		20150420	0	0
+advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	WatchKit:NSTimer		20150420	0	0
 advanced	http://ericasadun.com/2015/04/21/swift-occams-code-razor	Swift: Occam’s Code Razor			20150421	0	0
 advanced	http://www.swift-studies.com/blog/2014/6/10/enumerating-enums-in-swift	Enumerating enums in Swift	enum		20140610	0	0
 advanced	http://youtu.be/qQhMkoxSV64	AzamSharp: ‪Learning iOS Development Part 80 (Live Rendering iOS 8)‬	video:AzamSharp		20150417	0	0
@@ -946,7 +946,7 @@ advanced	http://ericasadun.com/2015/04/23/swift-convert-a-sequence-to-an-array	S
 advanced	http://www.russbishop.net/swift-nested-closure-captures	Swift Nested Closure Captures			20150423	0	0
 advanced	http://makeapppie.com/2015/04/24/swift-swift-using-nstimer-to-make-a-timer-or-alarm	Swift Swift: Using NSTimer to Make a Timer or Alarm	NSTimer		20150424	0	0
 advanced	http://www.andrewcbancroft.com/2015/04/24/clarifying-swift-access-control-hint-swift-isnt-c-sharp	Clarifying Swift Access Control (Hint: Swift Isn’t C#)			20150424	0	0
-advanced	http://www.codingexplorer.com/watchkit-and-ios-app-messaging-with-openparentapplication	Watchkit and iOS App Messaging with openParentApplication	watchkit		20150424	0	0
+advanced	http://www.codingexplorer.com/watchkit-and-ios-app-messaging-with-openparentapplication	Watchkit and iOS App Messaging with openParentApplication	WatchKit		20150424	0	0
 advanced	http://developer.apple.com/swift/blog/?id=28	Memory Safety: Ensuring Values are Defined Before Use			20150424	0	0
 advanced	http://ericasadun.com/2015/04/24/swift-that-permutation-generator-thing	Swift: That Permutation Generator thing	random		20150424	0	0
 advanced	http://jamesonquave.com/blog/functional-programming-in-swift	Functional Programming in Swift	functional		20150425	0	0
@@ -956,7 +956,7 @@ advanced	http://www.codingexplorer.com/choosing-images-with-uiimagepickercontrol
 advanced	http://www.codingexplorer.com/pattern-matching-in-swift	Pattern Matching in Swift	PatternMatching		20150429	0	0
 advanced	http://ericasadun.com/2015/04/29/swift-oh-so-thats-what-membershipcontainer-was	Swift: Oh, so that’s what MembershipContainer was			20150429	0	0
 advanced	http://flexmonkey.blogspot.com/2015/04/wheeltone-music-from-friction-gears-in.html	WheelTone: Music from Friction Gears in Swift & AudioKit	AudioKit		20150429	0	0
-advanced	http://makeapppie.com/2015/04/26/swift-watchkit-programming-sliders-on-the-apple-watch	Swift WatchKit: Programming  Sliders on the Apple Watch	watchkit		20150426	0	0
+advanced	http://makeapppie.com/2015/04/26/swift-watchkit-programming-sliders-on-the-apple-watch	Swift WatchKit: Programming  Sliders on the Apple Watch	WatchKit		20150426	0	0
 advanced	http://medium.com/swift-programming/how-to-create-uibuttons-with-fontawesome-icons-25f4cd1511bb	How to create UIButtons with FontAwesome icons	button:UIFont		20150429	0	0
 advanced	http://code.tutsplus.com/tutorials/create-a-text-to-speech-app-with-swift--cms-22229	Create a Text to Speech App With Swift	speech		20141107	0	0
 advanced	http://www.ralfebert.de/tutorials/ios-swift-multipeer-connectivity	iOS & Swift Tutorial: Multipeer Connectivity	Multipeer		20150428	0	0
@@ -987,12 +987,12 @@ advanced	http://flexmonkey.blogspot.com/2015/05/a-test-driven-custom-swift-zip-f
 advanced	http://sketchytech.blogspot.com/2015/05/adventures-in-pdf-swift-and-pdfkit.html	Adventures in PDF: Swift and PDFKit			20150511	0	0
 advanced	http://www.objc.io/issue-24	Objc.io: #24 Audio	AudioKit		20150511	0	0
 advanced	http://commandshift.co.uk/blog/2015/05/11/swift-generics	Swift Generics	generics		20150511	0	0
-advanced	http://natashatherobot.com/watchkit-check-device-screen-size-in-code	WatchKit: How to Check Device Screen Size in Code	watchkit		20150511	0	0
+advanced	http://natashatherobot.com/watchkit-check-device-screen-size-in-code	WatchKit: How to Check Device Screen Size in Code	WatchKit		20150511	0	0
 advanced	http://ericasadun.com/2015/05/11/swift-vs-void	Swift: () -> () vs () -> Void	SwiftLang		20150511	0	0
 advanced	http://www.raywenderlich.com/94649/sprite-kit-kids-swift	Sprite Kit for Kids with Swift	SpriteKit		20150512	0	0
-advanced	http://makeapppie.com/2015/05/12/swift-watchkit-using-images-on-an-apple-watchpart-2-code	Swift WatchKit: Using Images on an Apple Watch(Part 2: Code)	watchkit		20150512	0	0
+advanced	http://makeapppie.com/2015/05/12/swift-watchkit-using-images-on-an-apple-watchpart-2-code	Swift WatchKit: Using Images on an Apple Watch(Part 2: Code)	WatchKit		20150512	0	0
 advanced	http://nshipster.com/xcplayground	XCPlayground	playground		20150511	0	0
-advanced	http://natashatherobot.com/watchkit-text-over-animating-image	WatchKit: How to Place Text Over An (Animating) Image	watchkit		20150512	0	0
+advanced	http://natashatherobot.com/watchkit-text-over-animating-image	WatchKit: How to Place Text Over An (Animating) Image	WatchKit		20150512	0	0
 advanced	http://ericasadun.com/2015/05/12/swift-enumerating-collections	Swift: Enumerating Collections			20150512	0	0
 advanced	http://peterwitham.com/swift/intermediate/basic-file-reading-and-writing-in-ios-8	Basic File Reading and Writing Using Swift in iOS 8	file		20150513	0	0
 advanced	http://ericasadun.com/2015/05/14/swift-curry-take-out-with-a-side-of-image-processing	Swift: Curry take-out with a side of Image Processing	functional:currying		20150514	0	0
@@ -1012,7 +1012,7 @@ advanced	http://medium.com/@vlafiser/how-to-implement-mixpanel-into-your-swift-a
 advanced	http://shrikar.com/7-min-workout-app-in-swift-for-ios8	7 min workout app in Swift			20150504	0	0
 advanced	http://shrikar.com/uitableview-delegate-and-datasource-in-swift	UITableView Delegate and Datasource in Swift	UITableView		20150504	0	0
 libs	https://github.com/haaakon/SingleLineShakeAnimation	SingleLineShakeAnimation	animation		20010101	0	0
-advanced	http://madebymany.com/blog/getting-started-with-swift-and-watchkit	Getting started with Swift and WatchKit	watchkit		20150501	0	0
+advanced	http://madebymany.com/blog/getting-started-with-swift-and-watchkit	Getting started with Swift and WatchKit	WatchKit		20150501	0	0
 advanced	http://flexmonkey.blogspot.com/2015/05/animated-layout-for-swift-with-shinpuru.html	Animated Layout for Swift with Shinpuru			20150517	0	0
 advanced	http://www.raywenderlich.com/100281/paintcode-for-designers-getting-started	PaintCode Tutorial for Designers: Getting Started			20150518	0	0
 advanced	http://ericasadun.com/2015/05/18/swift-alternative-lintage	Swift: Alternative Lintage			20150518	0	0
@@ -1215,7 +1215,7 @@ advanced	http://littlebitesofcocoa.com/16	little bites of cocoa: #16: UIStackVie
 advanced	http://littlebitesofcocoa.com/17	little bites of cocoa: #17: UIKeyCommand			20150616	0	0
 advanced	http://littlebitesofcocoa.com/19	little bites of cocoa: #19: Protocol Extensions			20150618	0	0
 advanced	http://littlebitesofcocoa.com/20	little bites of cocoa: #20: ReplayKit	ReplayKit		20150619	0	0
-advanced	http://littlebitesofcocoa.com/21	little bites of cocoa: #21: CLKTextProvider	watchkit		20150622	0	0
+advanced	http://littlebitesofcocoa.com/21	little bites of cocoa: #21: CLKTextProvider	WatchKit		20150622	0	0
 advanced	http://littlebitesofcocoa.com/22	little bites of cocoa: #22: Pattern Matching in Swift	PatternMatching		20150623	0	0
 advanced	http://littlebitesofcocoa.com/23	little bites of cocoa: #23: CoreSpotlight	CoreSpotlight		20150624	0	0
 advanced	http://littlebitesofcocoa.com/24	little bites of cocoa: #24: Contacts & Contacts UI	Contacts		20150625	0	0
@@ -1224,7 +1224,7 @@ advanced	http://littlebitesofcocoa.com/1	little bites of cocoa: #1: UIViewContro
 advanced	http://littlebitesofcocoa.com/2	little bites of cocoa: #2: Chainable Methods			20150519	0	0
 advanced	http://littlebitesofcocoa.com/3	little bites of cocoa: #3: Timepiece			20150520	0	0
 advanced	http://littlebitesofcocoa.com/4	little bites of cocoa: #4: Singletons	singleton		20150521	0	0
-advanced	http://littlebitesofcocoa.com/5	little bites of cocoa: #5: Watch Screenshot Magic	watchkit		20150522	0	0
+advanced	http://littlebitesofcocoa.com/5	little bites of cocoa: #5: Watch Screenshot Magic	WatchKit		20150522	0	0
 advanced	http://flexmonkey.blogspot.com/2015/06/a-first-look-at-metal-performance.html	A First Look at Metal Performance Shaders in iOS 9	metal		20150628	0	0
 advanced	http://realm.io/news/sam-soffes-building-functional-apps	Building Functional Apps	functional		20150627	0	0
 libs	https://github.com/Imperiopolis/Swiftly	Swiftly generate autolayout constraints.	AutoLayout		20010101	0	0
@@ -1333,7 +1333,7 @@ advanced	http://peterwitham.com/swift/intermediate/creating-and-using-ios-protot
 advanced	http://oleb.net/blog/2015/07/swift-type-system	Swift’s Type System			20150721	0	0
 advanced	http://peterwitham.com/xcode/xcode-plugin-xalign	Xcode Plugin – XAlign – Format Code Easily	xcode:plugin		20150721	0	0
 advanced	http://makeapppie.com/2015/07/21/a-swift-guide-to-working-with-classes-part-1	A Swift Guide to Working with Classes (Part 1)	SwiftLang		20150721	0	0
-advanced	http://makeapppie.com/2015/07/22/swift-watchkit-making-scrollviews-and-static-tableviews	Swift Watchkit: Making ScrollViews and Static TableViews	watchkit		20150722	0	0
+advanced	http://makeapppie.com/2015/07/22/swift-watchkit-making-scrollviews-and-static-tableviews	Swift Watchkit: Making ScrollViews and Static TableViews	WatchKit		20150722	0	0
 advanced	http://peterwitham.com/xcode/xcode-plugin-adjustfontsize	Xcode Plugin – AdjustFontSize	xcode:plugin		20150722	0	0
 advanced	http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift	A persistent tree using indirect enums in Swift	enum		20150722	0	0
 advanced	http://airspeedvelocity.net/2015/07/23/changes-to-the-swift-standard-library-in-2-0-betas-2-5	Changes to the Swift standard library in 2.0 betas 2..<5			20150723	0	0
@@ -1371,7 +1371,7 @@ advanced	http://ericasadun.com/2015/07/31/ask-erica-how-do-enums-synthesize-erro
 advanced	http://ericasadun.com/2015/08/01/where-do-those-generic-phrases-come-from-swiftlang	Where do those generic phrases come from? #swiftlang			20150801	0	0
 advanced	http://natashatherobot.com/ios-testing-view-controllers-swift	iOS: The One Weird Trick For Testing View Controllers	testing		20150802	0	0
 advanced	http://airspeedvelocity.net/2015/08/03/arrays-linked-lists-and-performance	Arrays, Linked Lists and Performance	Array		20150803	0	0
-advanced	http://makeapppie.com/2015/08/03/swift-watchkit-how-to-add-simple-dynamic-tables-to-apple-watch	Swift Watchkit: How to Add Simple Dynamic Tables to Apple Watch	watchkit		20150803	0	0
+advanced	http://makeapppie.com/2015/08/03/swift-watchkit-how-to-add-simple-dynamic-tables-to-apple-watch	Swift Watchkit: How to Add Simple Dynamic Tables to Apple Watch	WatchKit		20150803	0	0
 advanced	http://robnapier.net/erasure	A Little Respect for AnySequence	Sequence		20150804	0	0
 advanced	http://littlebitesofcocoa.com/41	little bites of cocoa: #41: CMPedometer			20150720	0	0
 advanced	http://littlebitesofcocoa.com/42	little bites of cocoa: #42: HealthKit Basics	HealthKit		20150721	0	0
@@ -1419,7 +1419,7 @@ advanced	http://www.weheartswift.com/binary-search-applications	Binary Search an
 advanced	http://peterwitham.com/xcode/quickly-change-ios-start-up-view-controller-in-xcode	Quickly Change iOS Start Up View Controller in Xcode	xcode		20150812	0	0
 advanced	http://developer.apple.com/swift/blog/?id=31	Swift-er SDK			20150812	0	0
 advanced	http://www.raywenderlich.com/105641/change-app-icon-build-time	How To Change Your App Icon at Build Time			20150813	0	0
-advanced	http://makeapppie.com/2015/08/14/swift-watchkit-selecting-deleting-and-adding-rows-in-an-apple-watch-table/	Swift WatchKit: Selecting, Deleting and Adding Rows in an Apple Watch Table	watchkit		20150814	0	0
+advanced	http://makeapppie.com/2015/08/14/swift-watchkit-selecting-deleting-and-adding-rows-in-an-apple-watch-table/	Swift WatchKit: Selecting, Deleting and Adding Rows in an Apple Watch Table	WatchKit		20150814	0	0
 advanced	http://www.mikeash.com/pyblog/friday-qa-2015-08-14-an-xcode-plugin-for-unsmoothed-text.html	Friday Q&A 2015-08-14: An Xcode Plugin for Unsmoothed Text	xcode:plugin		20150814	0	0
 advanced	http://ericasadun.com/2015/08/14/the-curious-case-of-the-self-in-the-night-swiftlang	The curious case of the self in the night: #swiftlang	SwiftLang		20150814	0	0
 advanced	http://ericasadun.com/2015/08/14/because-remy	Because Remy	json		20150814	0	0
@@ -1442,7 +1442,7 @@ advanced	http://littlebitesofcocoa.com/67	little bites of cocoa: #67: CloudKit A
 advanced	http://littlebitesofcocoa.com/68	little bites of cocoa: #68: Time Profiler Basics	instruments:profiling		20150826	0	0
 advanced	http://www.russbishop.net/type-self	Type & Self	SwiftLang		20150819	0	0
 advanced	http://www.raywenderlich.com/107439/uicollectionview-custom-layout-tutorial-pinterest	UICollectionView Custom Layout Tutorial: Pinterest	UICollectionView		20150820	0	0
-advanced	http://makeapppie.com/2015/08/20/swift-watchkit-headers-footers-and-more-multiple-row-types-in-apple-watch-tables	Swift Watchkit: Headers Footers and More — Multiple Row Types in Apple Watch Tables	watchkit		20150820	0	0
+advanced	http://makeapppie.com/2015/08/20/swift-watchkit-headers-footers-and-more-multiple-row-types-in-apple-watch-tables	Swift Watchkit: Headers Footers and More — Multiple Row Types in Apple Watch Tables	WatchKit		20150820	0	0
 advanced	http://flexmonkey.blogspot.com/2015/08/coremotion-controlled-3d-sketching-on.html	CoreMotion Controlled 3D Sketching on an iPhone with Swift	CoreMotion		20150821	0	0
 advanced	http://www.raywenderlich.com/107687/uicollectionview-custom-layout-tutorial-spinning-wheel	UICollectionView Custom Layout Tutorial: A Spinning Wheel	UICollectionView		20150821	0	0
 advanced	http://sketchytech.blogspot.com/2015/08/from-binary-to-decimal-values-in-swift.html	From binary to decimal values in Swift			20150821	0	0
@@ -1457,7 +1457,7 @@ advanced	http://www.raywenderlich.com/110982/swift-interview-questions-answers	S
 advanced	http://ericasadun.com/2015/08/25/naming-errors-swiftlang	Naming Errors #swiftlang	exceptions		20150825	0	0
 advanced	http://www.andrewcbancroft.com/2015/08/25/sharing-a-core-data-model-with-a-swift-framework	Sharing a Core Data Model with a Swift Framework	CoreData		20150826	0	0
 advanced	http://natashatherobot.com/swift-2-0-try	Swift 2.0: Let’s try?	exceptions		20150826	0	0
-advanced	http://makeapppie.com/2015/08/26/swift-watchkit-selecting-with-multiple-rows-in-apple-watch	Swift WatchKit: Selecting With Multiple Rows in Apple Watch	watchkit		20150826	0	0
+advanced	http://makeapppie.com/2015/08/26/swift-watchkit-selecting-with-multiple-rows-in-apple-watch	Swift WatchKit: Selecting With Multiple Rows in Apple Watch	WatchKit		20150826	0	0
 advanced	http://ericasadun.com/2015/08/26/how-to-join-and-extend-in-beta-6-swiftlang	How to Join and Extend in Beta 6 #swiftlang	Array		20150826	0	0
 advanced	http://ericasadun.com/2015/08/26/beta-6-playgrounds-swiftlang	Beta 6 Playgrounds #swiftlang	playground		20150826	0	0
 advanced	http://realm.io/news/sash-zats-swift-swizzling	EXC_BAD_ACCESS - Swizzling With Swift			20150826	0	0
@@ -1598,7 +1598,7 @@ libs	https://github.com/Anviking/Decodable	Swift 2 JSON parsing done (more) righ
 libs	https://github.com/benzguo/MusicKit	A framework for composing and transforming music	music:audio		20010101	0	0
 libs	https://github.com/CezaryKopacz/CKWaveCollectionViewTransition	Cool wave like transition between two or more UICollectionView	UICollectionView:transitions		20010101	0	0
 libs	https://github.com/chriseidhof/LiterateSwiftGUI	LiterateSwift is a (GUI) tool to edit your literate swift files.			20010101	0	0
-libs	https://github.com/coolioxlr/watchOS-2-heartrate	watchOS 2.0 healthkit, heartrate streaming, start workout session	watchkit		20010101	0	0
+libs	https://github.com/coolioxlr/watchOS-2-heartrate	watchOS 2.0 healthkit, heartrate streaming, start workout session	WatchKit		20010101	0	0
 libs	https://github.com/corin8823/Popover	Popover is a balloon library like Facebook app	popover		20010101	0	0
 libs	https://github.com/czechboy0/XcodeServerSDK	Access Xcode Server API with native Swift objects	xcode		20010101	0	0
 libs	https://github.com/dasdom/Tomate	This is in the App Store as Fojusi			20010101	0	0
@@ -1629,7 +1629,7 @@ libs	https://github.com/nakajijapan/PhotoSlider	PhotoSlider can a simple photo s
 libs	https://github.com/naoty/Timepiece	Intuitive NSDate extensions	dates		20010101	0	0
 libs	https://github.com/neonichu/cato	Swift scripts made easy with automatic dependency and Swift version management			20010101	0	0
 libs	https://github.com/netguru/ResponseDetective	Sherlock Holmes of the networking layer			20010101	0	0
-libs	https://github.com/NilStack/NKWatchActivityIndicator	An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2	watchkit		20010101	0	0
+libs	https://github.com/NilStack/NKWatchActivityIndicator	An activity indicator library for Apple Watch and a sample to push the limit of animation in watchOS 2	WatchKit		20010101	0	0
 libs	https://github.com/ninjaprox/NVActivityIndicatorView	Collection of nice loading animations	animation		20010101	0	0
 libs	https://github.com/nixzhu/Proposer	Make permission request easier			20010101	0	0
 libs	https://github.com/okmr-d/DOFavoriteButton	Cute Animated Button	animation:button		20010101	0	0
@@ -1640,7 +1640,7 @@ libs	https://github.com/PhamBaTho/BTNavigationDropdownMenu	The elegant dropdown 
 libs	https://github.com/poolqf/FillableLoaders	Completely customizable progress based loaders drawn using custom CGPaths			20010101	0	0
 libs	https://github.com/Produkt/RubberBandEffect	Recreating Apple’s rubber band effect	animation		20010101	0	0
 libs	https://github.com/raulriera/TextFieldEffects	Custom UITextFields effects inspired by Codrops	animation		20010101	0	0
-libs	https://github.com/shu223/watchOS-2-Sampler	Code examples for new features of watchOS 2	watchkit		20010101	0	0
+libs	https://github.com/shu223/watchOS-2-Sampler	Code examples for new features of watchOS 2	WatchKit		20010101	0	0
 libs	https://github.com/skywinder/GaugeKit	Kit for building custom gauges + easy reproducible Apple's style ring gauges			20010101	0	0
 libs	https://github.com/tasanobu/Kamagari	Simple UIAlertController builder class	UIAlertController		20010101	0	0
 libs	https://github.com/teodorpatras/EasyTipView	A tooltip view			20010101	0	0
@@ -1665,7 +1665,7 @@ advanced	http://blog.xebia.com/2015/07/21/parallax-image-scrolling-using-storybo
 advanced	http://ijoshsmith.com/2015/04/29/creating-ascii-art-in-functional-swift	Creating ASCII art in functional Swift	functional		20150429	0	0
 advanced	http://jasdev.me/ios-interactive-notifications	A Tour of iOS Interactive Notifications			20150905	0	0
 advanced	http://krakendev.io/blog/the-right-way-to-write-a-singleton	The Right Way To Write a Singleton	singleton		20150721	0	0
-advanced	http://macoscope.com/blog/the-not-so-complicated-complications	The Not-So-Complicated Complications	watchkit		20150623	0	0
+advanced	http://macoscope.com/blog/the-not-so-complicated-complications	The Not-So-Complicated Complications	WatchKit		20150623	0	0
 advanced	http://medium.com/@valentinkalchev/how-to-pause-and-resume-a-sequence-of-mutating-swift-structs-using-dispatch-semaphore-fc98eca55c0	How to pause and resume a sequence of mutating Swift structs using dispatch semaphore?	structs		20150825	0	0
 advanced	http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering	UICollectionViews Now Have Easy Reordering	UICollectionView		20150716	0	0
 advanced	http://radex.io/swift/nsuserdefaults/static	Statically-typed NSUserDefaults	NSUserDefaults		20150831	0	0
@@ -1770,9 +1770,9 @@ libs	https://github.com/williamFalcon/Bolt_Swift	Library for the missing bolts i
 advanced	http://www.raywenderlich.com/115253/swift-2-tutorial-a-quick-start	Swift 2 Tutorial: A Quick Start	SwiftLang		20150921	0	0
 advanced	http://www.raywenderlich.com/115279/swift-2-tutorial-part-2-a-simple-ios-app	Swift 2 Tutorial Part 2: A Simple iOS App	SwiftLang		20150921	0	0
 advanced	http://www.raywenderlich.com/115300/swift-2-tutorial-part-3-tuples-protocols-delegates-and-table-views	Swift 2 Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views	SwiftLang		20150921	0	0
-advanced	http://natashatherobot.com/watchos-2-hello-world	WatchOS 2: Hello, World	watchkit		20150921	0	0
-advanced	http://natashatherobot.com/watchconnectivity-introduction-say-goodbye-to-the-spinner	WatchConnectivity Introduction: Say Goodbye To The Spinner	watchkit		20150921	0	0
-advanced	http://natashatherobot.com/watchconnectivity-say-hello-to-wcsession	WatchConnectivity: Say Hello to WCSession	watchkit		20150921	0	0
+advanced	http://natashatherobot.com/watchos-2-hello-world	WatchOS 2: Hello, World	WatchKit		20150921	0	0
+advanced	http://natashatherobot.com/watchconnectivity-introduction-say-goodbye-to-the-spinner	WatchConnectivity Introduction: Say Goodbye To The Spinner	WatchKit		20150921	0	0
+advanced	http://natashatherobot.com/watchconnectivity-say-hello-to-wcsession	WatchConnectivity: Say Hello to WCSession	WatchKit		20150921	0	0
 advanced	http://littlebitesofcocoa.com/86	little bites of cocoa: #86: Decodable			20150921	0	0
 advanced	http://littlebitesofcocoa.com/87	little bites of cocoa: #87: CIDetector Basics	CIDetector		20150922	0	0
 advanced	http://littlebitesofcocoa.com/88	little bites of cocoa: #88: Dynamic Shortcut Items			20150923	0	0
@@ -1791,7 +1791,7 @@ advanced	http://www.ioscreator.com/tutorials/index-app-content-core-spotlight-tu
 advanced	http://www.russbishop.net/swift-2-1	Swift 2.1	SwiftLang		20150923	0	0
 advanced	http://nshint.io/blog/2015/09/23/uitraitcollection-trick	UITraitCollection Trick	UITraitCollection		20150923	0	0
 advanced	http://www.shinobicontrols.com/blog/ios9-day-by-day-day12-gameplay-kit-behaviors	iOS9 Day-by-Day :: Day 12 :: Gameplay Kit – Behaviors and Goals	GameplayKit		20150924	0	0
-advanced	http://natashatherobot.com/watchconnectivity-application-context	WatchConnectivity: Sharing The Latest Data via Application Context	watchkit		20150924	0	0
+advanced	http://natashatherobot.com/watchconnectivity-application-context	WatchConnectivity: Sharing The Latest Data via Application Context	WatchKit		20150924	0	0
 advanced	http://www.raywenderlich.com/93276/implementing-tesseract-ocr-ios	Tesseract OCR Tutorial	ocr		20150423	0	0
 libs	https://github.com/sabiland/TrippyBackgrounds	Easy way to create random-trippy background images			20010101	0	0
 libs	https://github.com/Zewo/SwiftGo	Pure Swift/C library that provides Go's concurrency features in Swift 2	concurrency		20010101	0	0
@@ -1845,7 +1845,7 @@ advanced	http://www.imaginarycloud.com/blog/ios-9-search-api-apples-trojan-horse
 libs	https://github.com/warrenm/slug-swift-metal	Demo of the Metal graphics framework	metal		20010101	0	0
 advanced	http://www.objc.io/issues/18-games/metal	Metal	metal		20141101	0	0
 advanced	http://austinzheng.com/2015/09/23/pmatch-control-flow	Swift 2: Control Flow Pattern Matching Examples	PatternMatching		20150923	0	0
-advanced	http://zyafa.me/blog/watchos-2-and-embedded-frameworks	watchOS 2 and embedded frameworks	watchkit		20150912	0	0
+advanced	http://zyafa.me/blog/watchos-2-and-embedded-frameworks	watchOS 2 and embedded frameworks	WatchKit		20150912	0	0
 advanced	http://pewpewthespells.com/blog/using_xcode_targets.html	Using Xcode Targets	xcode		20150901	0	0
 libs	https://github.com/minsOne/MOJailBrokenDector	It is converted swift language from JailBrokenDector project			20010101	0	0
 libs	https://github.com/daisuke0131/ViewMonitor	ViewMonitor can measure View positions with accuracy			20010101	0	0
@@ -1859,7 +1859,7 @@ advanced	http://swiftyos.wordpress.com/2015/08/14/animated-dropdown-option-menu-
 advanced	http://swiftyos.wordpress.com/2015/08/08/snubbble-make-dribbble-client-in-swift-part-1	Snubbble – Make Dribbble Client in Swift – Part 1			20150808	0	0
 advanced	http://swiftyos.wordpress.com/2015/08/02/animated-loading-indicator-swift-bafluidview	Animated Loading Indicator – BAFluidView	animation		20150802	0	0
 advanced	http://swiftyos.wordpress.com/2015/08/01/animated-wave-transition-collectionview-ckwavecollectionviewtransition	Animated Wave Transition in CollectionView – CKWaveCollectionViewTransition	transitions		20150801	0	0
-advanced	http://swiftyos.wordpress.com/2015/07/17/password-lock-watchkit-apple-watch-app	Password Lock WatchKit App	watchkit		20150717	0	0
+advanced	http://swiftyos.wordpress.com/2015/07/17/password-lock-watchkit-apple-watch-app	Password Lock WatchKit App	WatchKit		20150717	0	0
 beginner	http://swiftyos.wordpress.com/2015/07/17/hello-world-first-swift-ios-app	Hello World – First Swift iOS App	beginner		20150717	0	0
 advanced	http://blog.xmartlabs.com/2015/09/29/Introducing-Eureka-iOS-form-library-written-in-pure-Swift	Introducing Eureka! - Elegant iOS forms in Pure Swift 2			20150929	0	0
 advanced	http://www.ioscreator.com/tutorials/disable-apple-transport-security-tutorial	Disable Apple Transport Security Tutorial	networking		20150930	0	0
@@ -1980,7 +1980,7 @@ advanced	http://swiftandpainless.com/nscoding-and-swift-structs	NSCoding And Swi
 advanced	http://theswiftdev.com/2015/08/05/swift-init-patterns	Swift init patterns	SwiftLang		20150805	0	0
 advanced	http://whichline.wordpress.com/2015/07/13/os-x-screensaver-swift-2-part-1	Writing OS X Screensaver in Swift 2.0	mac		20150805	0	0
 advanced	http://www.jessesquires.com/swift-enumerations-and-equatable	Swift enumerations and equatable	enum		20150726	0	0
-advanced	http://www.sitepoint.com/watch-singleton-patterns-in-swift	Watch: Singleton Patterns	watchkit:singleton		20150820	0	0
+advanced	http://www.sitepoint.com/watch-singleton-patterns-in-swift	Watch: Singleton Patterns	WatchKit:singleton		20150820	0	0
 advanced	http://www.stringcode.co.uk/rendering-version-number-into-beta-app-icon-using-swift-script	 Rendering version number into beta app icon using swift script			20150828	0	0
 advanced	http://flexmonkey.blogspot.com/2015/10/deeppressgesturerecognizer-3d-touch.html	DeepPressGestureRecognizer - A 3D Touch Custom Gesture Recogniser	3dTouch		20151003	0	0
 advanced	http://robnapier.net/rncryptor-v4	RNCryptor V4	encryption		20151004	0	0
@@ -2182,7 +2182,7 @@ advanced	http://roadfiresoftware.com/2015/10/how-to-parse-json-with-swift-2	How 
 libs	https://github.com/remobjects/SwiftBaseLibrary				20010101	0	0
 advanced	http://www.youtube.com/watch?v=z4tA_fMj0kE	‪London Swift - Do Try Catch in Swift 2.x‬	exceptions:video		20151007	0	0
 advanced	http://christiantietze.de/posts/2015/10/value-object-variety	Achieve More with a Variety of Value Objects			20151016	0	0
-advanced	http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started	watchOS 2 Tutorial Part 1: Getting Started	watchkit		20151016	0	0
+advanced	http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started	watchOS 2 Tutorial Part 1: Getting Started	WatchKit		20151016	0	0
 advanced	http://www.youtube.com/watch?v=dxi6I28O2ng	‪iOS Apps & Swift Basics: SplitViewControllers on the iPhone and iPad‬	UISplitViewController:video		20151013	0	0
 advanced	http://design.featherless.software/access-framework-internals-from-a-swift-playground	How to access framework internals from a Swift Playground	playground		20151009	0	0
 libs	https://github.com/Abizern/xcode-snippets	Xcode Snippets for Swift 2, based on those by Mattt at https://github.com/Xcode-Snippets/Objective-C	xcode:xcode-snippets		20010101	0	0
@@ -2218,20 +2218,20 @@ advanced	http://rancorsoft.com/ios9-swift-extensions	Getting around iOS9 CoreBlu
 advanced	http://www.mokacoding.com/blog/xcode-7-ui-testing	Xcode 7 UI testing, a first look	testing		20150616	0	0
 libs	https://github.com/erica/swiftslowly/tree/master/Playground%20Secrets%20and%20Power%20Tips	Playground Secrets and Power Tips for Swift 2.0 (from Erica Sadun book)	playground		20010101	0	0
 advanced	http://www.thomashanning.com/five-myths-about-swift	Five Myths About Swift			20151019	0	0
-advanced	http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables	watchOS 2 Tutorial Part 2: Tables	watchkit		20151019	0	0
+advanced	http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables	watchOS 2 Tutorial Part 2: Tables	WatchKit		20151019	0	0
 advanced	http://softwaredesign.jeffverkoeyen.com/midi-messages-swift-enum	MIDI messages as a Swift associated enum			20151017	0	0
 advanced	http://littlebitesofcocoa.com/106	little bites of cocoa: #106: EasyAnimation	animation		20151019	0	0
 advanced	http://useyourloaf.com/blog/creating-scaled-images-with-pdf-vectors.html	Creating Scaled Images With PDF Vectors			20151019	0	0
 advanced	http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang	Sets vs Dictionaries smackdown in #swiftlang	Dictionary:Set		20151019	0	0
 advanced	http://flexmonkey.blogspot.com/2015/10/3d-touch-in-swift-retrospective.html	3D Touch in Swift: A Retrospective	3dTouch		20151020	0	0
 advanced	http://christiantietze.de/posts/2015/10/cocoapods-custom-build-configuration	Make Custom Debug Build Configurations Play Nicely With CocoaPods	CocoaPods		20151020	0	0
-advanced	http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation	watchOS 2 Tutorial Part 3: Animation	watchkit		20151020	0	0
+advanced	http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation	watchOS 2 Tutorial Part 3: Animation	WatchKit		20151020	0	0
 libs	https://github.com/diwu/LeetCode-Solutions-in-Swift	Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1			20010101	0	0
 advanced	http://www.youtube.com/playlist?list=PLCVAxgiX-15w7XukWR3mIvpNg8-uxQIYj	Swifty Ninja Jr is an introduction to programming course, where you'll learn the basics of programming	video		20150925	0	0
 advanced	http://www.shinobicontrols.com/blog/3d-touch-and-the-enterprise-part1	3D Touch & The Enterprise: Data is a layered thing	3dTouch		20151020	0	0
 advanced	http://www.learncoredata.com/nsfetchedresultscontroller-swift	Using NSFetchedResultsController to Display Data	CoreData		20151020	0	0
 advanced	http://littlebitesofcocoa.com/107	little bites of cocoa: #107: Audio Recording Basics	audio		20151020	0	0
-advanced	http://www.raywenderlich.com/117329/watchos-2-tutorial-part-4-watch-connectivity	watchOS 2 Tutorial Part 4: Watch Connectivity	watchkit		20151020	0	0
+advanced	http://www.raywenderlich.com/117329/watchos-2-tutorial-part-4-watch-connectivity	watchOS 2 Tutorial Part 4: Watch Connectivity	WatchKit		20151020	0	0
 advanced	http://appventure.me/2015/10/17/advanced-practical-enum-examples	Advanced & Practical Enum usage	enum		20151017	0	0
 libs	https://github.com/vandadnp/iOS-9-Swift-Programming-Cookbook	Contains all example codes for O'Reilly's iOS 9 Swift Programming Cookbook (https://goo.gl/yqsWgY)			20010101	0	0
 libs	https://github.com/nickoneill/PermissionScope	Intelligent iOS permissions UI and unified API			20010101	0	0
@@ -2240,7 +2240,7 @@ libs	https://github.com/hryk224/PCLBlurEffectAlert	Swift AlertController with UI
 advanced	http://littlebitesofcocoa.com/108	little bites of cocoa: #108: Error Handling			20151021	0	0
 advanced	http://medium.com/@buildo/ios-9-app-transport-security-aws-and-sha-2-certificates-the-undocumented-bit-1a42325c3745#.ysxhhr5is	iOS 9, App Transport Security, AWS and SHA-2 certificates: the undocumented bit			20151021	0	0
 commercial	http://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11	Swift Documentation Markup (Erica Sadun)	book	http://a5.mzstatic.com/us/r30/Publication6/v4/13/31/35/133135e5-429f-330d-9adb-ded93e5ae1e6/cover162x243.jpeg	20151015	0	0
-advanced	http://natashatherobot.com/watchconnectivity-user-info	WatchConnectivity: Sharing All Data via User Info	watchkit		20151021	0	0
+advanced	http://natashatherobot.com/watchconnectivity-user-info	WatchConnectivity: Sharing All Data via User Info	WatchKit		20151021	0	0
 advanced	http://realm.io/news/sash-zats-gameplaykit-beyond-games	GameplayKit: Beyond Games	GameplayKit:video		20151021	0	0
 advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-messages-midipacket-swift-reflection	Enumerate messages of a MIDIPacket using Swift reflection			20151021	0	0
 advanced	http://makeapppie.com/2015/10/21/why-your-web-view-doesnt-work-in-ios9-and-what-to-do-about-it	Why your Web View Doesn’t Work in iOS9 — and what to do about it			20151021	0	0
@@ -2605,7 +2605,7 @@ advanced	http://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-
 advanced	http://appventure.me/2015/12/08/swift-ubuntu-x11-window-app	Swift Package Manager: Create and Use a X11 package on Linux	Linux		20151208	0	0
 advanced	http://useyourloaf.com/blog/how-to-dereference-an-unsafe-mutable-pointer-in-swift.html	How to Dereference an Unsafe Mutable Pointer in Swift			20151207	0	0
 advanced	http://www.shinobicontrols.com/blog/3d-touch-and-the-enterprise-part-3	3D Touch & The Enterprise: Examples for a new UI Paradigm			20151208	0	0
-advanced	http://www.codingexplorer.com/watchos-2-hello-world-app-in-swift	watchOS 2 Hello World App in Swift	watchkit		20151208	0	0
+advanced	http://www.codingexplorer.com/watchos-2-hello-world-app-in-swift	watchOS 2 Hello World App in Swift	WatchKit		20151208	0	0
 advanced	http://swiftandpainless.com/minimal-distance-to-two-views-in-auto-layout	Minimal Distance To Two Views In Auto Layout	AutoLayout		20151208	0	0
 advanced	http://www.raywenderlich.com/122189/introduction-to-open-source-swift-on-linux	Introduction to Open Source Swift on Linux	Linux		20151208	0	0
 advanced	http://flexmonkey.blogspot.com/2015/12/scribe-handwriting-recognition.html	Scribe: A Handwriting Recognition Component for iOS			20151208	0	0
@@ -2641,7 +2641,7 @@ advanced	http://kostiakoval.github.io/posts/exclude-folders---new-feature-in-swi
 advanced	http://realm.io/news/danny-keogan-swift-cryptography	CommonCrypto in Swift	encryption		20151214	0	0
 advanced	http://useyourloaf.com/blog/swift-string-cheat-sheet.html	Swift String Cheat Sheet	string		20151214	0	0
 advanced	http://sketchytech.blogspot.com/2014/07/swift-join-and-split-explained.html	Swift: join() and split() explained	string:split:join		20140728	0	0
-advanced	http://realm.io/news/gotocph-wei-meng-lee-killer-apple-watch-apps	Developing Killer Apple Watch Apps	watchkit		20151215	0	0
+advanced	http://realm.io/news/gotocph-wei-meng-lee-killer-apple-watch-apps	Developing Killer Apple Watch Apps	WatchKit		20151215	0	0
 advanced	http://radex.io/swift/guard	When (not) to use guard	guard		20151215	0	0
 advanced	http://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself	Swift Type Constrained Extensions: Express Yourself			20151214	0	0
 advanced	http://www.learncoredata.com/saving-data-in-a-tvos-app	Saving Data in a tvOS App	AppleTV		20151216	0	0
@@ -2733,10 +2733,10 @@ advanced	http://www.thomashanning.com/public-properties-with-private-setters	Swi
 advanced	http://ericasadun.com/2015/12/24/more-linux-y-stuff	More Linux-y Stuff	Linux		20151224	0	0
 advanced	http://www.mikeash.com/pyblog/friday-qa-2015-12-25-swifty-targetaction.html	Friday Q&A 2015-12-25: Swifty Target/Action			20151225	0	0
 advanced	http://ios-blog.co.uk/tutorials/swift/introduction-to-guard-syntax	Introduction to guard syntax	guard		20151225	0	0
-advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-checking-reachability	watchOS 2 Tutorial: Checking Reachability	watchkit		20151225	0	0
+advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-checking-reachability	watchOS 2 Tutorial: Checking Reachability	WatchKit		20151225	0	0
 advanced	http://ashishkakkad.com/2015/12/use-of-constant-define-in-swift-language-ios	Use of constant (#define) in Swift Language – iOS			20151226	0	0
 advanced	http://flexmonkey.blogspot.com/2015/12/cartooneyes-compositing-cartoon-eyes.html	CartoonEyes: Compositing Cartoon Eyes over Face from Front Camera in Swift	camera		20151226	0	0
-advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-hello-world	watchOS 2: Hello World Tutorial	watchkit		20151227	0	0
+advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-hello-world	watchOS 2: Hello World Tutorial	WatchKit		20151227	0	0
 advanced	http://ericasadun.com/2015/12/27/holiday-strings	Holiday Strings			20151227	0	0
 advanced	http://ericasadun.com/2015/12/27/creating-a-swift-package-on-github-not-as-easy-as-i-thought	Creating a Swift Package on github: Not as easy as I thought			20151227	0	0
 advanced	http://ericasadun.com/2015/12/27/clarity-and-optional-mapping-looking-for-opinions	Clarity and Optional mapping: looking for opinions			20151227	0	0
@@ -3146,7 +3146,7 @@ advanced	http://ankit.im/swift/2016/01/18/first-pure-swift-ios-app-swiflytics	Hi
 advanced	http://useyourloaf.com/blog/swift-named-parameters.html	Swift Named Parameters			20160118	0	0
 advanced	http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest	Testing Delegates in Swift with XCTest	testing		20160119	0	0
 advanced	http://krakendev.io/blog/hipster-swift	Hipster Swift: Demystifying the Mysterious			20160118	0	0
-advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-watchkit-glances	watchOS 2 Tutorial: WatchKit Glances	watchkit		20160119	0	0
+advanced	http://ios-blog.co.uk/tutorials/swift/watchos-2-watchkit-glances	watchOS 2 Tutorial: WatchKit Glances	WatchKit		20160119	0	0
 advanced	http://sketchytech.blogspot.com/2016/01/swift-string-extension-to-convert.html	Swift: String Extension to Convert Floating-Point Binary to Double			20160119	0	0
 advanced	http://www.raywenderlich.com/112515/ios-metal-tutorial-swift-part-4-lighting	iOS Metal Tutorial with Swift Part 4: Lighting	metal		20160119	0	0
 advanced	http://flexmonkey.blogspot.com/2016/01/new-custom-core-image-filters-added-to.html	New Custom Core Image Filters Added to Filterpedia	CoreImage:CIFilter		20160120	0	0
@@ -3248,7 +3248,7 @@ advanced	https://www.youtube.com/watch?v=9gsJCrSK8UA	‪How To Use Parse (Swift,
 advanced	http://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d	UIStoryboard: Safer with Enums, Protocol Extensions and Generics			20160123	0	0
 advanced	http://www.knowstack.com/swift-basic-operators-2	Swift Basic Operators	Operators		20160126	0	0
 advanced	http://ericasadun.com/2016/01/26/xcode-7-3-beta-2-introduces-live-interactive-playgrounds	Xcode 7.3 Beta 2 introduces live interactive playgrounds	playground		20160126	0	0
-advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-checking-reachability	watchOS 2 Tutorial: Checking Reachability	watchkit		20160126	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-checking-reachability	watchOS 2 Tutorial: Checking Reachability	WatchKit		20160126	0	0
 advanced	http://bjmiller.me/post/91257318107/swift-immutable-arrays-are-now-immutable	Swift Immutable Arrays are now Immutable	Array		20140709	0	0
 advanced	http://bjmiller.me/post/105918520927/leaner-uiviewcontrollers	Leaner UIViewControllers			20141222	0	0
 advanced	http://bjmiller.me/post/106367636847/styswiftin24h-update	Teach Yourself Swift in 24 Hours - Update			20141227	0	0
@@ -3306,9 +3306,9 @@ advanced	http://ericasadun.com/2016/01/29/the-great-var-vs-let-war-of-2016-armis
 advanced	http://www.knowstack.com/swift-string-and-character	Swift String and Character	string		20160129	0	0
 advanced	http://www.knowstack.com/swift-collection-type-array	Swift Collection Type Array	Array		20160129	0	0
 advanced	http://flexmonkey.blogspot.com/2016/01/playing-with-interpolation-functions-in.html	Playing with Interpolation Functions in Swift			20160129	0	0
-advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-downloading-files	watchOS 2 Tutorial: Downloading Files	watchkit		20160129	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-downloading-files	watchOS 2 Tutorial: Downloading Files	WatchKit		20160129	0	0
 advanced	http://www.ios-blog.co.uk/tutorials/objective-c/objective-c-using-nstimer	Using NSTimer	NSTimer		20160129	0	0
-advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-hello-world	watchOS 2: Hello World Tutorial	watchkit		20160129	0	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/watchos-2-hello-world	watchOS 2: Hello World Tutorial	WatchKit		20160129	0	0
 advanced	http://christiantietze.de/posts/2016/01/helper-functions	Use and Misuse of Helper Functions			20160130	0	0
 advanced	http://swiftandpainless.com/how-to-build-an-app-without-interface-builder-part-8-12-correction-and-future	How To Build An App Without Interface Builder – Part 8 1/2: Correction and Future			20160130	0	0
 advanced	http://www.ios-blog.co.uk/tutorials/swift/core-data-p1	Swift 2 Core Data Tutorial – Part 1	CoreData		20160131	0	0
@@ -3347,7 +3347,7 @@ advanced	http://ankit.im/swift/2016/02/04/the-self-hosted-swift-package-manager	
 advanced	http://www.thomashanning.com/a-simple-nsblockoperation-example	A Simple NSBlockOperation Example	NSBlockOperation		20160204	0	0
 advanced	http://www.ios-blog.co.uk/tutorials/swift/display-ads-in-your-application-with-google-admob	Swift Tutorial: Display Ads in your Application with Google AdMob.			20160204	0	0
 advanced	http://christiantietze.de/posts/2016/02/symmetry	Symmetry			20160204	0	0
-advanced	http://makeapppie.com/2016/02/04/how-to-make-your-first-watchos2-app	How To Make Your First WatchOS2 App	watchkit		20160204	0	0
+advanced	http://makeapppie.com/2016/02/04/how-to-make-your-first-watchos2-app	How To Make Your First WatchOS2 App	WatchKit		20160204	0	0
 advanced	https://realm.io/news/realm-objc-swift-0.98.0	Realm Objective-C & Swift 0.98	realm		20160204	0	0
 advanced	https://realm.io/news/seth-law-swift-security	Swift-ly Secure	video		20160204	0	0
 advanced	https://github.com/hyperoslo/Hue	Hue is the all-in-one coloring utility that you'll ever need	color		20010101	0	0
@@ -3646,7 +3646,7 @@ libs	https://github.com/fruitcoder/ReplaceAnimation	Implementation of Zee Young'
 advanced	http://commandshift.co.uk/blog/2016/03/13/better-snapshots/	Better snapshots			20160313	0	0
 advanced	http://www.thinkandbuild.it/creating-custom-walkthroughs-for-your-apps/	Creating custom walkthroughs for your apps			20160312	0	0
 advanced	http://christiantietze.de/posts/2016/03/controller-behavior-extension/	Extend View Controllers with Behavior Objects Right from Within Interface Builder			20160313	0	0
-advanced	https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/	Introduction to Protocol-Oriented MVVM	protocol		20160313	0	0
+advanced	https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/	Introduction to Protocol-Oriented MVVM	protocol:mvvm		20160313	0	0
 advanced	http://useyourloaf.com/blog/scrolling-stack-views/	Scrolling Stack Views	UIStackView		20160314	0	0
 libs	https://github.com/PerfectFreeze/PFColorHash	Generate color based on the given string	color		20160314	0	0
 advanced	https://github.com/ushisantoasobu/Yashin	Simple Rader Chart	chart		20160314	0	0
@@ -3667,8 +3667,19 @@ advanced	https://www.raywenderlich.com/128523/video-tutorial-beginning-watchos-p
 advanced	https://www.raywenderlich.com/128528/video-tutorial-beginning-watchos-part-11-conclusion	Video Tutorial: Beginning watchOS Part 11: Conclusion	WatchKit		20160315	1	0
 advanced	http://ericasadun.com/2016/03/15/afternoon-whoa-swifts-guard-case/	Afternoon Whoa: Swift’s guard case =	guard		20160315	0	0
 advanced	http://flexmonkey.blogspot.com/2016/03/creating-bulging-eyes-purikura-effect.html	Creating a Bulging Eyes Purikura Effect with Core Image	CoreImage		20160315	0	0
-advanced	http://christiantietze.de/posts/2016/03/switch-nsmenuitem-main-menu/	ow I Toggle or Switch 2 NSMenuItems from the Main Menu	mac		20160316	0	0
+advanced	http://christiantietze.de/posts/2016/03/switch-nsmenuitem-main-menu/	How I Toggle or Switch 2 NSMenuItems from the Main Menu	mac		20160316	0	0
 advanced	https://www.raywenderlich.com/128573/video-tutorial-advanced-watchos-series-introduction	Video Tutorial: Advanced watchOS: Series Introduction	WatchKit		20160316	0	0
 advanced	https://www.raywenderlich.com/128579/video-tutorial-advanced-watchos-part-1-layout	Video Tutorial: Advanced watchOS Part 1: Layout	WatchKit		20160316	0	0
 libs	https://github.com/smahajan28/SMSwipeableTabView	Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout)			20160316	0	0
 libs	https://github.com/suzuki-0000/AnimatablePlayButton	Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation			20160316	0	0
+advanced	http://ericasadun.com/2016/03/16/behind-the-scenes-swift-core-team-design-discussion-315/	Behind the scenes: Swift core team design discussion 3/15			20160316	0	0
+advanced	http://peterwitham.com/development-notes/design-ios-layouts-using-ipad-pro/	How I design iOS layouts using my iPad Pro.	design		20160317	0	0
+advanced	https://www.codementor.io/swift/tutorial/enumerations-mappings-to-other-enumerations	Enumerations and mappings to other enumerations	enum		20160317	0	0
+advanced	https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/	Conquering Your Fear of Adopting Swift			20160317	0	0
+advanced	https://www.raywenderlich.com/123862/push-notifications-tutorial	Push Notifications Tutorial: Getting Started	PushNotification		20160317	0	0
+advanced	http://ericasadun.com/2016/03/17/ask-erica-why-cant-i-initialize-my-uint/	Ask Erica: Why can’t I initialize my UInt?			20160317	0	0
+advanced	http://ericasadun.com/2016/03/17/should-i-be-using-a-generator-or-not/	Should I be using a generator or not?	generator		20160317	0	0
+advanced	https://www.raywenderlich.com/128705/video-tutorial-advanced-watchos-part-3-pickers-text-entry	Video Tutorial: Advanced watchOS Part 3: Pickers & Text Entry	WatchKit		20160317	1	0
+advanced	http://www.codingexplorer.com/creating-and-modifying-nsurl-in-swift/	Creating and Modifying an NSURL in your Swift App	NSURL		20160317	0	0
+libs	https://github.com/Wolg/awesome-swift	Awesome Swift			20160317	0	0
+advanced	https://medium.com/swift-programming/swift-caveats-for-structs-as-data-models-8299d84b49dc	Swift: Caveats for Structs as data models	struct		20160317	0	0
