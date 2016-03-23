@@ -176,7 +176,7 @@ for line in lines {
             //            print("Error: Not enough values on line: \(line)")
         }
     }
-    i++
+    i += 1
 }
 
 func printTagsArray() {

@@ -3683,3 +3683,35 @@ advanced	https://www.raywenderlich.com/128705/video-tutorial-advanced-watchos-pa
 advanced	http://www.codingexplorer.com/creating-and-modifying-nsurl-in-swift/	Creating and Modifying an NSURL in your Swift App	NSURL		20160317	0	0
 libs	https://github.com/Wolg/awesome-swift	Awesome Swift			20160317	0	0
 advanced	https://medium.com/swift-programming/swift-caveats-for-structs-as-data-models-8299d84b49dc	Swift: Caveats for Structs as data models	struct		20160317	0	0
+advanced	https://realm.io/news/announcing-realm-cocoa-converter/	Introducing Realm Cocoa Converter	realm		20160318	0	0
+advanced	https://www.raywenderlich.com/128795/video-tutorial-advanced-watchos-part-4-watch-connectivity	Video Tutorial: Advanced watchOS Part 4: Watch Connectivity I	WatchKit		20160318	1	0
+advanced	http://christiantietze.de/posts/2016/03/viper-case-study/	VIPER by Experience: How to Set Up an iOS Project			20160318	0	0
+advanced	https://www.andrewcbancroft.com/2016/03/18/swift-functions-as-types/	Swift Functions as Types			20160318	0	0
+advanced	https://www.raywenderlich.com/128852/video-tutorial-advanced-watchos-part-5-watch-connectivity-ii	Video Tutorial: Advanced watchOS Part 5: Watch Connectivity II	WatchKit		20160318	1	0
+advanced	http://www.ios-blog.co.uk/tutorials/swift/grand-central-dispatch-and-background-processing-in-swift/	Introduction to Grand Central Dispatch in Swift	concurrency		20160318	0	0
+advanced	http://christiantietze.de/posts/2016/03/blocks-perform-cleanup/	Blocks: Useful to Perform Actions In Context			20160319	0	0
+advanced	https://medium.com/swift-programming/when-your-swift-code-breaks-the-compiler-d2639e1b2bc8	When your Swift code breaks the compiler			20160319	0	0
+advanced	http://www.mav3r1ck.io/the-difference-between-array-and-linkedlist/	The difference between Arrays and LinkedLists			20160320	0	0
+advanced	https://medium.com/swift-programming/understanding-collections-types-in-swift-part-3-making-your-own-classes-collections-aabbf186b801	Understanding Collections Types in Swift — Part			20160320	0	0
+libs	https://github.com/insidegui/GRStatusBar	Safari-like status bar for OS X apps	mac		20160320	0	0
+libs	https://github.com/SwiftKitz/Appz	Launch external apps, and deeplink, with ease using Swift			20160320	0	0
+libs	https://github.com/SwiftStudies/Duration	A simple Swift package for measuring and reporting the time taken for operations			20160320	0	0
+libs	https://github.com/ytakzk/Fusuma	Instagram-like photo browser and a camera feature with a few lines of code in Swift			20160320	0	0
+advanced	http://makeapppie.com/2016/03/21/tables-and-scroll-views-in-watchos2/	Tables and Scroll Views in WatchOS2	WatchKit		20160321	0	0
+advanced	https://swift.org/blog/swift-2-2-released/	Swift 2.2 Released!			20160321	0	0
+advanced	https://realm.io/news/tryswift-jesse-squires-contributing-open-source-swift/	Contributing to Open Source Swift			20160321	0	0
+advanced	http://christiantietze.de/posts/2016/03/block-event-handler-subclass/	Translate Optional Delegate Protocol Methods to Swift Block-based Event Handlers Using Nested Objects			20160321	0	0
+advanced	http://oleb.net/blog/2016/03/advanced-swift/	Advanced Swift			20160321	0	0
+advanced	http://ericasadun.com/2016/03/21/swift-2-2-released-xcode-updated-to-7-3/	Swift 2.2 released. Xcode updated to 7.3			20160321	0	0
+advanced	https://www.raywenderlich.com/128892/video-tutorial-advanced-watchos-part-6-notifications	Video Tutorial: Advanced watchOS Part 6: Notifications			20160321	1	0
+advanced	http://ericasadun.com/2016/03/21/watching-paint-dry/	Watching paint dry			20160321	0	0
+advanced	http://ericasadun.com/2016/03/21/sign-of-the-times/	Sign of the times			20160321	0	0
+advanced	http://www.appcoda.com/healthkit-introduction/	Building a Fitness App Using HealthKit to Track Walking Distance	HealthKit		20160321	0	0
+advanced	https://www.raywenderlich.com/128668/scene-kit-tutorial-with-swift-part-1	Scene Kit Tutorial with Swift Part 1: Getting Started	SceneKit		20160322	0	0
+advanced	https://www.raywenderlich.com/128681/scene-kit-tutorial-swift-part-2-nodes	Scene Kit Tutorial with Swift Part 2: Nodes	SceneKit		20160322	0	0
+advanced	https://www.raywenderlich.com/129185/video-tutorial-advanced-watchos-part-7-complications	Video Tutorial: Advanced watchOS Part 7: Complications I	WatchKit		20160322	1	0
+advanced	http://ericasadun.com/2016/03/22/the-great-evil-of-co-linear-closure-declarations/	The great evil of co-linear closure declarations			20160322	0	0
+advanced	http://www.youtube.com/watch?v=77mxwUX_F_w	CocoaPods - Xcode 7.3 iOS 9.3	video		20160322	0	0
+advanced	http://www.youtube.com/watch?v=TPVKV4DXggs	Add Animations to Your App! (Canvas : Swift 2 in Xcode)			20160322	0	0
+advanced	https://www.raywenderlich.com/128711/scene-kit-tutorial-swift-part-3-physics	Scene Kit Tutorial with Swift Part 3: Physics	SceneKit		20160323	0	0
+advanced	http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html	Errors: unexpected, composite, non-pure, external.			20160317	0	0
