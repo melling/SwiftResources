@@ -4,7 +4,7 @@ advanced	http://www.ioscreator.com/tutorials/custom-collection-view-cell-tutoria
 advanced	http://www.shrikar.com/blog/2014/12/28/swift-tutorial-corelocation-and-region-monitoring-in-ios-8	CoreLocation and Region Monitoring in iOS 8	CoreLocation		20141228	0	0
 advanced	http://www.shrikar.com/blog/2014/12/06/ios-app-as-a-money-making-machine-using-iad-app-monetization-technique	iOS App as a Money Making Machine Using iAd App Monetization Technique			20141206	0	0
 advanced	http://www.shrikar.com/blog/2014/11/06/ios-app-development-upload-images-to-aws-s3	iOS App Development : Upload Images to AWS S3			20141106	0	0
-advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html	Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)			20141214	0	0
+#advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html	Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)	UITextView		20141214	0	0
 advanced	http://sketchytech.blogspot.com/2014/12/swift-notes-on-relative-positioning-and.html	Notes on the relative positioning and transformation of layers and sublayers (CALayer, frame, bounds, transform, position, Xcode)	CALayer		20141210	0	0
 advanced	http://sketchytech.blogspot.com/2014/12/the-inspiration-of-hexagons-for-drawing.html	The Inspiration of Hexagons for Drawing in 3D			20141205	0	0
 advanced	http://2014.funswiftconf.com	2014 Functional Swift Conf	functional		20141206	0	0
@@ -222,7 +222,7 @@ advanced	http://sketchytech.blogspot.com/2014/10/bytes-for-beginners-xor-encrypt
 advanced	http://sketchytech.blogspot.com/2014/11/swift-drawing-regular-polygons-with.html?m=1	Drawing Regular Polygons with CGPath, CGContext, UIBezierPath and CAShapeLayer	UIBezierPath		20141105	0	0
 advanced	http://sketchytech.blogspot.com/2014/11/swift-stars-in-our-paths-cgpath.html?m=1	Stars in our paths (Regular Polygons, CGPath, UIBezierPath, Playgrounds, iOS, Xcode)	UIBezierPath		20141113	0	0
 advanced	http://sketchytech.blogspot.com/2014/12/a-swift-perambulation-through-world-of.html?m=1	A Swift Perambulation through the World of CATransform3D: Translation, Rotation and Scaling (CALayer, iOS, Xcode)			20141201	0	0
-advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html?m=1	Swift: Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)			20141214	0	0
+advanced	http://sketchytech.blogspot.com/2014/12/swift-lets-talk-about-text-uilabel.html?m=1	Swift: Let's talk about text (UILabel, CATextLayer, UIView, CoreText, UITextView, UIWebView)	UITextView		20141214	0	0
 advanced	http://sketchytech.blogspot.com/2014/12/the-power-of-hexagons-cube-in-spin-with.html?m=1	The Power of Hexagons: Cube in a Spin			20141205	0	0
 advanced	http://swiftcast.tv/articles/getting-started-with-touch-id-in-swift	Touch ID in Swift	TouchId		20140927	0	0
 advanced	http://swiftcast.tv/articles/the-design-of-types	The Design of Types			20141119	0	0
@@ -2905,7 +2905,7 @@ advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-examp
 advanced	http://swiftdeveloperblog.com/sign-in-with-google-account-example-in-swift	Sign-in with Google Account Example in Swift	video		20150819	0	0
 advanced	http://swiftdeveloperblog.com/play-music-mp3-file-example-in-swift	Play music MP3 file example in Swift	video		20150821	0	0
 advanced	http://swiftdeveloperblog.com/uidatepicker-example-in-swift	UIDatePicker example in Swift	video		20150830	0	0
-advanced	http://swiftdeveloperblog.com/uitextview-and-uitextviewdelegate-example-in-swift	UITextView and UITextViewDelegate example in Swift	video		20150907	0	0
+advanced	http://swiftdeveloperblog.com/uitextview-and-uitextviewdelegate-example-in-swift	UITextView and UITextViewDelegate example in Swift	video:UITextView		20150907	0	0
 advanced	http://swiftdeveloperblog.com/mobile-app-with-uitabbarcontroller-sliding-side-menus	Mobile App with UITabBarController + Sliding Side Menus	video		20151228	0	0
 advanced	http://swiftdeveloperblog.com/http-get-request-example-in-swift	HTTP GET Request Example in Swift			20160102	0	0
 advanced	http://swiftdeveloperblog.com/pass-information-forward-from-one-viewcontroller-to-another-in-swift	Pass Information Forward From One ViewController to Another in Swift			20160111	0	0
@@ -2956,7 +2956,7 @@ advanced	http://christiantietze.de/posts/2016/01/separating-state-change	Separat
 libs	https://github.com/Azuritul/AZDropdownMenu	A simple dropdown menu component for iOS			20010101	0	0
 libs	https://github.com/jhurt/GBPageControl	A page control for SpriteKit based games			20010101	0	0
 libs	https://github.com/metasmile/ai2app	Creating AppIcon sets from Adobe Illustrator	design:Illustrator		20010101	0	0
-libs	https://github.com/pitiphong-p/PTPPlaceholderTextView	A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView			20010101	0	0
+libs	https://github.com/pitiphong-p/PTPPlaceholderTextView	A simple naive implementation of UITextView subclass to support placeholder text rendering in UITextView	UITextView		20010101	0	0
 libs	http://www.cocoacontrols.com/controls/splitflap	A simple split-flap display for your Swift applications http://cocoadocs.org/docsets/Splitflap			20010101	0	0
 advanced	http://www.codecaptain.io/ios-development/random-exc_bad_access-crash-in-swift/239	Random EXC_BAD_ACCESS crash in Swift			20151217	0	0
 advanced	http://dev.iachieved.it/iachievedit/trapping-signals-with-swift-on-linux	Trapping Signals with Swift on Linux	Linux		20160111	0	0
@@ -3606,7 +3606,7 @@ advanced	https://www.raywenderlich.com/119881/enums-structs-and-classes-in-swift
 advanced	https://www.raywenderlich.com/128011/video-tutorial-beginning-watchos-part-3-tables	Video Tutorial: Beginning watchOS Part 3: Tables	WatchKit		20160308	1	0
 advanced	http://www.youtube.com/watch?v=wrg3QQAe4-c	Getting Started with tvOS! (Swift 2 in Xcode)	AppleTV		20160308	0	0
 libs	https://github.com/muukii/NextGrowingTextView	The next in the generations of 'growing textviews' optimized for iOS 7 and above			20160308	0	0
-libs	https://github.com/ruslanskorb/RSKPlaceholderTextView	A light-weight UITextView subclass that adds support for placeholder			20160308	0	0
+libs	https://github.com/ruslanskorb/RSKPlaceholderTextView	A light-weight UITextView subclass that adds support for placeholder	UITextView		20160308	0	0
 libs	https://github.com/macfeteria/JKNotificationPanel	Simple, Customizable notification panel			20160308	0	0
 libs	https://github.com/sag333ar/SRKControls	A Custom control which turns UITextfield to item-picker & date-picker.			20160308	0	0
 libs	https://github.com/thanhcuong1990/swift-disk-status	Get the available iOS device memory using Swift			20160308	0	0
@@ -3737,16 +3737,16 @@ advanced	http://ericasadun.com/2016/03/24/immutable-setters/	Immutable setters		
 advanced	http://ericasadun.com/2016/03/24/exhaustive-safe-non-optional-dictionary-lookups/	Exhaustive, safe, non-optional Dictionary lookups	Dictionary		20160324	0	0
 advanced	http://ericasadun.com/2016/03/24/playground-secrets-3rd-edition/	Playground Secrets 3rd Edition	playground		20160324	0	0
 advanced	http://www.swift-studies.com/blog/2016/3/23/quickly-dealing-with-swift-30s-removal-of-and-c-style-for-loops	Get ready for Swift 3.0 -Remove of ++ -- and C style for loops across a project			20160324	0	0
-advanced	http://www.iosinsight.com/uitextview-placeholder-text-swift/	UITextView Placeholder Text in Swift (IBDesignable in IB)			20160322	0	0
-advanced	http://andybargh.com/unicode/	An Introduction to Unicode			20160324	0	0
+advanced	http://www.iosinsight.com/uitextview-placeholder-text-swift/	UITextView Placeholder Text in Swift (IBDesignable in IB)	UITextView		20160322	0	0
+advanced	http://andybargh.com/unicode/	An Introduction to Unicode	unicode		20160324	0	0
 advanced	https://pspdfkit.com/blog/2016/surprises-with-swift-extensions/	Surprises with Swift Extensions			20160324	0	0
 advanced	http://christiantietze.de/posts/2016/03/pass-view-controller-data/	5 Heuristics for ''I have a complicated nested view controller setup. How do I handle passing data?''			20160324	0	0
 advanced	http://ericasadun.com/2016/03/25/swift-colon-care-high-fiber-usage/	Swift Colon Care: High Fiber usage			20160324	0	0
-advanced	https://www.raywenderlich.com/129336/video-tutorial-advanced-watchos-part-10-localization	Video Tutorial: Advanced watchOS Part 10: Localization			20160324	1	0
-advanced	https://www.raywenderlich.com/129341/video-tutorial-advanced-watchos-part-11-conclusion	Video Tutorial: Advanced watchOS Part 11: Conclusion			20160324	1	0
-libs	https://github.com/Swiftrien/SwifterSockets	A collection of socket utilities in Swift for OS-X and iOS			20160324	0	0
+advanced	https://www.raywenderlich.com/129336/video-tutorial-advanced-watchos-part-10-localization	Video Tutorial: Advanced watchOS Part 10: Localization	WatchKit		20160324	1	0
+advanced	https://www.raywenderlich.com/129341/video-tutorial-advanced-watchos-part-11-conclusion	Video Tutorial: Advanced watchOS Part 11: Conclusion	WatchKit		20160324	1	0
+libs	https://github.com/Swiftrien/SwifterSockets	A collection of socket utilities in Swift for OS-X and iOS	socket		20160324	0	0
 libs	https://github.com/soffes/Countdown	Mac screensaver for counting down to a date	mac		20160324	0	0
 libs	https://github.com/wenghengcong/Coderpursue	Github client for iOS in Swift			20160324	0	0
-libs	https://github.com/viWiD/Evergreen	Most natural Swift logging			20160324	0	0
+libs	https://github.com/viWiD/Evergreen	Most natural Swift logging	logging		20160324	0	0
 advanced	http://ankit.im/swift/2016/03/26/improving-system-modules-support-in-swiftpm/	Improving system modules support in swiftpm	PackageManager		20160326	0	0
 advanced	https://swiftyos.wordpress.com/2016/03/26/facebooks-paper-app-like-menucontroller-swiftappmenucontroller/	Facebook’s Paper App like MenuController – SwiftAppMenuController			20160326	0	0
