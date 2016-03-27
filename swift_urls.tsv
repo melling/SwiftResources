@@ -2512,6 +2512,13 @@ advanced	http://littlebitesofcocoa.com/210	little bites of cocoa: #210: Adding K
 advanced	http://littlebitesofcocoa.com/211	little bites of cocoa: #211: Rounding Corners with UIRectCorner and UIBezierPath			20160314	0	0
 advanced	http://littlebitesofcocoa.com/212	little bites of cocoa: #212: Elegant Volume Changes with SubtleVolume	audio		20160315	0	0
 advanced	http://littlebitesofcocoa.com/213	little bites of cocoa: #213: Supporting Peek & Pop on Older Devices with PeekPop			20160316	0	0
+advanced	http://littlebitesofcocoa.com/214	little bites of cocoa: #214: Adding Smart App Banners to an App’s Website			20160317	0	0
+advanced	http://littlebitesofcocoa.com/215	little bites of cocoa: #215: Collecting Photos with Fusuma			20160318	0	0
+#advanced	http://littlebitesofcocoa.com/216	little bites of cocoa: NEVER CREATED			20160319	0	0
+advanced	http://littlebitesofcocoa.com/217	little bites of cocoa: #217: Growing Height Text Views with NextGrowingTextView			20160321	0	0
+advanced	http://littlebitesofcocoa.com/218	little bites of cocoa: #218: High Performance Animated GIFs with Gifu			20160322	0	0
+advanced	http://littlebitesofcocoa.com/219	little bites of cocoa: #219: Simpler In-App Purchases with SwiftyStoreKit			20160323	0	0
+advanced	http://littlebitesofcocoa.com/220	little bites of cocoa: #220: Asking for Access in Style with Permission			20160324	0	0
 advanced	http://ericasadun.com/2015/11/22/a-stroll-through-a-swift-oddity-argument-ordering	A stroll through a Swift oddity: argument ordering			20151122	0	0
 advanced	http://www.figure.ink/blog/2015/11/22/asynchrony-and-the-main-thread-part-2	Asynchronicity and the Main Thread: Part 2			20151122	0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/pencilsynth-apple-pencil-controlled.html	PencilSynth - An Apple Pencil Controlled Synthesiser			20151123	0	0
@@ -3715,3 +3722,31 @@ advanced	http://www.youtube.com/watch?v=77mxwUX_F_w	CocoaPods - Xcode 7.3 iOS 9.
 advanced	http://www.youtube.com/watch?v=TPVKV4DXggs	Add Animations to Your App! (Canvas : Swift 2 in Xcode)			20160322	0	0
 advanced	https://www.raywenderlich.com/128711/scene-kit-tutorial-swift-part-3-physics	Scene Kit Tutorial with Swift Part 3: Physics	SceneKit		20160323	0	0
 advanced	http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html	Errors: unexpected, composite, non-pure, external.			20160317	0	0
+advanced	http://cjwirth.com/2016/03/26/xcode-7-3-crashing/	Xcode 7.3 Crashes With Non-ObjC Properties in Classes			20160326	0	0
+advanced	http://blog.jtribe.com.au/how-to-write-an-endless-uiscrollview-swift/	How to write an endless UIScrollView in Swift 2	UIScrollView		20160324	0	0
+advanced	http://peterwitham.com/swift/basics/quick-tip-swift-map/	Quick Tip – Swift Map	map		20160324	0	0
+advanced	http://christiantietze.de/posts/2016/03/selector-sugar/	Swift Selector Syntax Sugar			20160324	0	0
+advanced	https://realm.io/news/tryswift-rachel-bobbins-design-everyday-swift/	Design of Everyday Swift	video		20160324	0	0
+advanced	https://www.raywenderlich.com/128745/scene-kit-tutorial-swift-part-5-particle-systems	Scene Kit Tutorial with Swift Part 5: Particle Systems	SceneKit		20160324	0	0
+advanced	http://flexmonkey.blogspot.com/2016/03/creating-selective-hsl-adjustment.html	Creating a Selective HSL Adjustment Filter in Core Image	CoreImage		20160324	0	0
+advanced	https://www.raywenderlich.com/129324/video-tutorial-advanced-watchos-part-8-complications-ii	Video Tutorial: Advanced watchOS Part 8: Complications II	WatchKit		20160324	1	0
+advanced	https://www.raywenderlich.com/129331/video-tutorial-advanced-watchos-part-9-accessibility	Video Tutorial: Advanced watchOS Part 9: Accessibility	WatchKit		20160324	1	0
+advanced	http://scottberrevoets.com/2016/03/21/outlets-strong-or-weak/	Outlets: Strong! Or Weak?			20160321	0	0
+advanced	http://ericasadun.com/2016/03/24/swift-evolution-news/	Swift Evolution News			20160324	0	0
+advanced	http://ericasadun.com/2016/03/24/immutable-setters/	Immutable setters			20160324	0	0
+advanced	http://ericasadun.com/2016/03/24/exhaustive-safe-non-optional-dictionary-lookups/	Exhaustive, safe, non-optional Dictionary lookups	Dictionary		20160324	0	0
+advanced	http://ericasadun.com/2016/03/24/playground-secrets-3rd-edition/	Playground Secrets 3rd Edition	playground		20160324	0	0
+advanced	http://www.swift-studies.com/blog/2016/3/23/quickly-dealing-with-swift-30s-removal-of-and-c-style-for-loops	Get ready for Swift 3.0 -Remove of ++ -- and C style for loops across a project			20160324	0	0
+advanced	http://www.iosinsight.com/uitextview-placeholder-text-swift/	UITextView Placeholder Text in Swift (IBDesignable in IB)			20160322	0	0
+advanced	http://andybargh.com/unicode/	An Introduction to Unicode			20160324	0	0
+advanced	https://pspdfkit.com/blog/2016/surprises-with-swift-extensions/	Surprises with Swift Extensions			20160324	0	0
+advanced	http://christiantietze.de/posts/2016/03/pass-view-controller-data/	5 Heuristics for ''I have a complicated nested view controller setup. How do I handle passing data?''			20160324	0	0
+advanced	http://ericasadun.com/2016/03/25/swift-colon-care-high-fiber-usage/	Swift Colon Care: High Fiber usage			20160324	0	0
+advanced	https://www.raywenderlich.com/129336/video-tutorial-advanced-watchos-part-10-localization	Video Tutorial: Advanced watchOS Part 10: Localization			20160324	1	0
+advanced	https://www.raywenderlich.com/129341/video-tutorial-advanced-watchos-part-11-conclusion	Video Tutorial: Advanced watchOS Part 11: Conclusion			20160324	1	0
+libs	https://github.com/Swiftrien/SwifterSockets	A collection of socket utilities in Swift for OS-X and iOS			20160324	0	0
+libs	https://github.com/soffes/Countdown	Mac screensaver for counting down to a date	mac		20160324	0	0
+libs	https://github.com/wenghengcong/Coderpursue	Github client for iOS in Swift			20160324	0	0
+libs	https://github.com/viWiD/Evergreen	Most natural Swift logging			20160324	0	0
+advanced	http://ankit.im/swift/2016/03/26/improving-system-modules-support-in-swiftpm/	Improving system modules support in swiftpm	PackageManager		20160326	0	0
+advanced	https://swiftyos.wordpress.com/2016/03/26/facebooks-paper-app-like-menucontroller-swiftappmenucontroller/	Facebook’s Paper App like MenuController – SwiftAppMenuController			20160326	0	0
