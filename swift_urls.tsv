@@ -315,7 +315,7 @@ advanced	http://www.raywenderlich.com/82572/swift-generics-tutorial	Swift Generi
 advanced	http://www.raywenderlich.com/76735/using-nsurlprotocol-swift	Using NSURLProtocol with Swift	NSURLProtocol		20140903	0	0
 advanced	http://www.raywenderlich.com/76433/how-to-make-a-custom-control-swift	How To Make a Custom Control in Swift			20141218	0	0
 advanced	http://www.raywenderlich.com/76718/card-game-mechanics-sprite-kit-swift	Card Game Mechanics in Sprite Kit with Swift	SpriteKit		20140826	0	0
-advanced	http://www.raywenderlich.com/76519/add-table-view-search-swift	How to Add Table View Search in Swift	UITableView		20140820	0	0
+advanced	http://www.raywenderlich.com/76519/add-table-view-search-swift	How to Add Table View Search in Swift	UITableView:UISearchController:UISearchBar:ScopeBar		20140820	0	0
 advanced	http://www.raywenderlich.com/71872/how-to-make-game-music-for-beginners	How to Make Game Music for Beginners	objc:audio		20140813	0	0
 advanced	http://www.raywenderlich.com/76285/beginning-core-image-swift	Beginning Core Image in Swift	CoreImage		20140813	0	0
 advanced	http://www.raywenderlich.com/76200/basic-uiview-animation-swift-tutorial	Basic UIView Animation with Swift Tutorial			20141214	0	0
@@ -676,7 +676,7 @@ advanced	http://robots.thoughtbot.com/asynchronous-nsprogress	NSProgress with As
 advanced	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-1-of-3-f50842aa95a	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 1 of 3)	ParseSDK		20150206	0	0
 advanced	http://medium.com/swift-programming/ios-swift-parse-com-tutorial-set-up-xcode-project-part-2-of-3-31a17d1c6581	iOS Swift + Parse.com / Tutorial  -  set up Xcode project (Part 2 of 3)	ParseSDK		20150206	0	0
 advanced	http://shrikar.com/blog/2015/02/08/core-data-swift-tutorial	Core Data Swift Tutorial			20150208	0	0
-advanced	http://www.ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift	Add Search to Table View Tutorial in iOS8 with Swift			20150209	0	0
+advanced	http://www.ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift	Add Search to Table View Tutorial in iOS8 with Swift	UITableView:UISearchController:UISearchBar		20150209	0	0
 advanced	http://ashfurrow.com/blog/protocols-and-swift	Protocols and Swift	protocol		20150201	0	0
 advanced	http://www.mikeash.com/pyblog/friday-qa-2015-02-06-locks-thread-safety-and-swift.html	Friday Q&A 2015-02-06: Locks, Thread Safety, and Swift			20150206	0	0
 advanced	http://medium.com/hacking-ios/memory-management-in-swift-principles-prevention-and-cures-31116ae0834f	Memory management in Swift  -  Principles, Prevention and Cures			20150130	0	0
@@ -3750,3 +3750,25 @@ libs	https://github.com/wenghengcong/Coderpursue	Github client for iOS in Swift	
 libs	https://github.com/viWiD/Evergreen	Most natural Swift logging	logging		20160324	0	0
 advanced	http://ankit.im/swift/2016/03/26/improving-system-modules-support-in-swiftpm/	Improving system modules support in swiftpm	PackageManager		20160326	0	0
 advanced	https://swiftyos.wordpress.com/2016/03/26/facebooks-paper-app-like-menucontroller-swiftappmenucontroller/	Facebook’s Paper App like MenuController – SwiftAppMenuController			20160326	0	0
+libs	https://github.com/igormatyushkin014/Sensitive	Fresh look at work with gestures in Swift	gesture		20160327	0	0
+libs	https://github.com/enricenrich/EECellSwipeGestureRecognizer	Clean and easy way to implement swipe actions to UITableViewCell			20160327	0	0
+advanced	http://alisoftware.github.io/swift/2016/03/27/pattern-matching-1/	Pattern Matching, Part 1: switch, enums & where clauses	PatternMatching		20160326	0	0
+advanced	http://www.mav3r1ck.io/find-the-average-numbers-in-an-array/	Find the average numbers in an array	Array		20160327	0	0
+advanced	http://www.thomashanning.com/nstimer-repeat/	NSTimer – Repeat	NSTimer		20160328	0	0
+libs	https://github.com/bizz84/SwiftyStoreKit	Lightweight In App Purchases Swift framework for iOS 8.0+ and OSX 9.0+			20160328	0	0
+libs	https://github.com/tasanobu/TypedDefaults	TypedDefaults is a utility library to type-safely use NSUserDefaults			20160328	0	0
+libs	https://github.com/me-abhinav/NumberMorphView	A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.			20160328	0	0
+libs	https://github.com/skyfe79/SwiftImageProcessing	This project demonstrates how to do pixel operations in swift	CoreImage		20160328	0	0
+advanced	https://www.raywenderlich.com/129660/beginning-audio-avfoundation-series-introduction	Beginning Audio with AVFoundation: Series Introduction	audio		20160328	0	0
+advanced	https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/	Creating a Swift Library	video		20160328	0	0
+advanced	http://useyourloaf.com/blog/adapting-auto-layout-without-interface-builder/	Adapting Auto Layout Without Interface Builder	AutoLayout		20160328	0	0
+libs	https://github.com/ElvishJerricco/Nifty	Nifty is a library of asynchronous utilities for everyday programmers	concurrency		20160327	0	0
+advanced	https://medium.com/swift-programming/creating-a-money-type-in-swift-3b060fb762ed	Creating a Money Type in Swift			20160328	0	0
+advanced	https://www.raywenderlich.com/129661/beginning-audio-avfoundation-part-1-recording-playback	Beginning Audio with AVFoundation Part 1: Recording & Playback			20160328	0	0
+libs	https://github.com/yabuzaki/YBAlertController	YBAlertController is a Swift library that provide a tidy action sheet and alert			20160328	0	0
+libs	https://github.com/robipresotto/imageColors	Get the colours that matter			20160328	0	0
+libs	https://github.com/shuhrat10/STRatingControl	STRatingControl is a UI control that represent the star rating control. STRatingControl allows you to select a rating starting from 0 to any number of stars you want. You can use default star image or specify your custom images.			20160328	0	0
+advanced	http://www.bensnider.com/getting-started-with-openwhisk-server-side-swift.html	Getting Started with OpenWhisk Server Side Swift	OpenWhisk		20160326	0	0
+advanced	http://ericasadun.com/2016/03/28/boolean-multiplicity-and-swift/	Boolean multiplicity and Swift			20160328	0	0
+advanced	http://www.appcoda.com/operator-overloading-swift/	An Introduction to Operator Overloading in Swift			20160329	0	0
+advanced	http://swiftandpainless.com/the-best-table-view-controller-mar-2016-edition/	The best table view controller (Mar 2016 edition)	UITableView:UISearchBar:UISearchBarDelegate		20160328	0	0
