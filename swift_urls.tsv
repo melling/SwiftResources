@@ -3780,3 +3780,9 @@ advanced	http://ericasadun.com/2016/03/29/swift-documentation-markup-update/	Swi
 libs	https://github.com/mortenjust/cleartext-mac	A text editor that only allows the top 1000 most common words in English			20160329	0	0
 libs	https://github.com/szk-atmosphere/URLEmbeddedView	URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol			20160329	0	0
 advanced	http://www.cocoawithlove.com/blog/2016/03/27/on-delete.html	Breaking Swift with reference counted structs	structs		20160327	0	0
+advanced	http://ashishkakkad.com/2016/03/swift-2-2-warnings-and-its-solutions-xcode-7-3/	Swift 2.2 Warnings and It’s Solutions – Xcode 7.3			20160330	0	0
+advanced	http://alisoftware.github.io/swift/2016/03/30/pattern-matching-2/	Pattern Matching, Part 2: tuples, ranges & types	PatternMatching		20160330	0	0
+advanced	http://ericasadun.com/2016/03/30/swift-style-inferring-floating-point/	Swift Style: Inferring Floating Point			20160330	0	0
+advanced	http://candycode.io/how-can-intrinsic-content-size-help-make-my-layouts-cleaner/	How can intrinsic content size help make my layouts cleaner?			20160330	0	0
+advanced	http://flexmonkey.blogspot.com/2016/03/core-image-for-swift-v12-released.html	Core Image for Swift v1.2 Released!	CoreImage		20160330	0	0
+advanced	https://www.raywenderlich.com/129971/beginning-audio-avfoundation-part-2-controlling-audio	Beginning Audio with AVFoundation Part 2: Controlling Audio	audio		20160330	1	0
