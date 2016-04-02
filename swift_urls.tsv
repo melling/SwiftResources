@@ -560,7 +560,7 @@ advanced	http://www.shrikar.com/blog/2015/01/17/ios-swift-tutorial-uipageviewcon
 advanced	http://www.shrikar.com/blog/2015/01/17/uitableview-and-uitableviewcell-customization-in-swift	UITableView and UITableViewCell Customization in Swift	UITableView		20150117	0	0
 advanced	http://www.shrikar.com/blog/2015/01/24/implementing-barcode-scanning-in-ios8-with-swift	AVFoundation : Implementing Barcode Scanning in iOS8 With Swift			20150124	0	0
 advanced	http://developer.apple.com/swift/blog/?id=20	Redefining Everything with the Swift REPL	repl		20150123	0	0
-advanced	http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial	NSRegularExpression in Swift Tutorial			20150121	0	0
+advanced	http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial	NSRegularExpression in Swift Tutorial	regex		20150121	0	0
 advanced	http://codeplease.io/monads	Monads	functional:monad		20150118	0	0
 advanced	http://optshiftk.com/2015/01/choosing-the-best-expression/	Choosing the Best Expression			20150111	0	0
 libs	https://github.com/SwiftyJSON/SwiftyJSON	SwiftyJSON	json		20010101	0	0
@@ -3781,8 +3781,29 @@ libs	https://github.com/mortenjust/cleartext-mac	A text editor that only allows 
 libs	https://github.com/szk-atmosphere/URLEmbeddedView	URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol			20160329	0	0
 advanced	http://www.cocoawithlove.com/blog/2016/03/27/on-delete.html	Breaking Swift with reference counted structs	structs		20160327	0	0
 advanced	http://ashishkakkad.com/2016/03/swift-2-2-warnings-and-its-solutions-xcode-7-3/	Swift 2.2 Warnings and It’s Solutions – Xcode 7.3			20160330	0	0
-advanced	http://alisoftware.github.io/swift/2016/03/30/pattern-matching-2/	Pattern Matching, Part 2: tuples, ranges & types	PatternMatching		20160330	0	0
+advanced	http://alisoftware.github.io/swift/2016/03/30/pattern-matching-2/	Pattern Matching, Part 2: tuples, ranges & types	PatternMatching:tuple		20160330	0	0
 advanced	http://ericasadun.com/2016/03/30/swift-style-inferring-floating-point/	Swift Style: Inferring Floating Point			20160330	0	0
-advanced	http://candycode.io/how-can-intrinsic-content-size-help-make-my-layouts-cleaner/	How can intrinsic content size help make my layouts cleaner?			20160330	0	0
+advanced	http://candycode.io/how-can-intrinsic-content-size-help-make-my-layouts-cleaner/	How can intrinsic content size help make my layouts cleaner?	AutoLayout		20160330	0	0
 advanced	http://flexmonkey.blogspot.com/2016/03/core-image-for-swift-v12-released.html	Core Image for Swift v1.2 Released!	CoreImage		20160330	0	0
 advanced	https://www.raywenderlich.com/129971/beginning-audio-avfoundation-part-2-controlling-audio	Beginning Audio with AVFoundation Part 2: Controlling Audio	audio		20160330	1	0
+advanced	http://christiantietze.de/posts/2016/03/currying-instance-methods/	Currying and Treating Instance Methods as Curried Functions	functional		20160331	0	0
+advanced	https://realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/	Exploring MVC-N in Swift			20160331	0	0
+advanced	https://www.raywenderlich.com/122144/in-app-purchase-tutorial	In-App Purchase Tutorial: Getting Started	InAppPurchase		20160331	0	0
+advanced	http://ericasadun.com/2016/03/31/swift-style-are-you-a-4-denter/	Swift Style: Are you a 4-denter?			20160331	0	0
+advanced	http://ericasadun.com/2016/03/31/se-0054-implicitly-unwrapped-optionals-probably-go-away/	SE-0054: Implicitly Unwrapped Optionals probably go away			20160331	0	0
+advanced	https://www.raywenderlich.com/129986/beginning-audio-avfoundation-part-3-audio-effects	Beginning Audio with AVFoundation Part 3: Audio Effects	audio		20160331	1	0
+advanced	http://flexmonkey.blogspot.com/2016/04/creating-custom-variable-blur-filter-in.html	Creating a Custom Variable Blur Filter in Core Image	CoreImage		20160401	0	0
+advanced	http://macoscope.com/blog/storyboards-and-their-better-alternatives/	Storyboards and Their (Better) Alternatives	storyboards		20160329	0	0
+libs	https://github.com/hyperoslo/Cache	Nothing but Cache			20160329	0	0
+advanced	https://swifting.io/blog/2016/03/29/11-swiftlint/	#11 SwiftLint			20160329	0	0
+advanced	http://christiantietze.de/posts/2016/04/refactoring-deprecated/	Use Xcode Deprecation Warnings to Refactor			20160401	0	0
+advanced	https://www.raywenderlich.com/130236/video-tutorial-beginning-audio-avfoundation-part-4-speech-synthesis	Video Tutorial: Beginning Audio with AVFoundation Part 4: Speech Synthesis	audio		20160401	1	0
+advanced	https://www.raywenderlich.com/130244/video-tutorial-beginning-audio-avfoundation-part-5-conclusion	Video Tutorial: Beginning Audio with AVFoundation Part 5: Conclusion	audio		20160401	1	0
+advanced	http://swiftiostutorials.com/tutorial-creating-custom-layouts-uicollectionview/	TUTORIAL: Creating custom layouts for UICollectionView	UICollectionView		20150228	0	0
+libs	https://github.com/mkoehnke/WKZombie	WKZombie is a Swift library for iOS/OSX to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser.			20160401	0	0
+libs	https://github.com/czechboy0/Socks	Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.	socket		20160401	0	0
+libs	https://github.com/SimonFairbairn/SwiftyMarkdown	Converts Markdown files and strings into NSAttributedString	NSAttributedString		20160401	0	0
+libs	https://github.com/nst/BitmapCanvas	Bitmap offscreen drawing in Swift for OS X			20160401	0	0
+libs	https://github.com/logkit/logkit	An efficient logging library for OS X, iOS, watchOS, and tvOS			20160401	0	0
+libs	https://github.com/suzuki-0000/SKPhotoBrowser	Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers			20160401	0	0
+libs	https://github.com/Kalvin126/BatteryNotifier	OS X tool that warns you if your iOS devices needs a charge			20160401	0	0
