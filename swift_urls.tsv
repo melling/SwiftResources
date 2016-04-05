@@ -167,11 +167,11 @@ commercial	https://www.packtpub.com/application-development/swift-essentials-sec
 commercial	http://shop.oreilly.com/product/9781785284700.do	Swift by Example (Giordano Scalzo)	book	http://akamaicovers.oreilly.com/images/9781785284700/cat.gif	20150601	0	0
 commercial	http://shop.oreilly.com/product/9781785288173.do	Application Development with Swift (Hossam Ghareeb)	book	http://akamaicovers.oreilly.com/images/9781785288173/cat.gif	20150801	0	0
 commercial	http://shop.oreilly.com/product/0636920044338.do	iOS 9 Swift Programming Cookbook (Vandad Nahavandipoor)	book	http://akamaicovers.oreilly.com/images/0636920044338/cat.gif	20151201	0	0
-commercial	https://gumroad.com/l/proswift	Pro Swift	book	https://static-2.gumroad.com/res/gumroad/1196435742118/asset_previews/c55465d9cbab472eb1a7b52c0f4a731c/retina/New_20Pro_20Swift_20Book_20Gumroad.png	20160411		
-commercial	https://pragprog.com/book/mzswift/core-data-in-swift	Core Data in Swift: Data Storage and Management for iOS and OS X	book:CoreData	https://imagery.pragprog.com/products/464/mzswift_xlargebeta.jpg?1452016065	20160515		
-commercial	https://pragprog.com/book/adios3/ios-9-sdk-development	iOS 9 SDK Development	book	https://imagery.pragprog.com/products/467/adios3.jpg?1438799440	20160316		
-commercial	https://itunes.apple.com/us/book/practical-auto-layout-for/id1060733718?mt=13	Practical Auto Layout for Xcode 7 (Steven Lipton)	book:AutoLayout	http://a5.mzstatic.com/us/r30/Publication69/v4/37/72/ed/3772edb6-a599-75b9-021f-170e6178a804/cover225x225.jpeg	20151130		
-commercial	https://itunes.apple.com/de/book/core-image-for-swift/id1073029980?l=en&mt=13	Core Image for Swift: Advanced Image Processing for iOS (Simon J Gladman)	book:CoreImage	http://a3.mzstatic.com/eu/r30/Publication49/v4/5c/12/6e/5c126eba-d08d-afdc-e28f-5854e40d1974/cover225x225.jpeg	20160226		
+commercial	https://gumroad.com/l/proswift	Pro Swift	book	https://static-2.gumroad.com/res/gumroad/1196435742118/asset_previews/c55465d9cbab472eb1a7b52c0f4a731c/retina/New_20Pro_20Swift_20Book_20Gumroad.png	20160411	0	0
+commercial	https://pragprog.com/book/mzswift/core-data-in-swift	Core Data in Swift: Data Storage and Management for iOS and OS X	book:CoreData	https://imagery.pragprog.com/products/464/mzswift_xlargebeta.jpg?1452016065	20160515	0	0
+commercial	https://pragprog.com/book/adios3/ios-9-sdk-development	iOS 9 SDK Development	book	https://imagery.pragprog.com/products/467/adios3.jpg?1438799440	20160316	0	0
+commercial	https://itunes.apple.com/us/book/practical-auto-layout-for/id1060733718?mt=13	Practical Auto Layout for Xcode 7 (Steven Lipton)	book:AutoLayout	http://a5.mzstatic.com/us/r30/Publication69/v4/37/72/ed/3772edb6-a599-75b9-021f-170e6178a804/cover225x225.jpeg	20151130	0	0
+commercial	https://itunes.apple.com/de/book/core-image-for-swift/id1073029980?l=en&mt=13	Core Image for Swift: Advanced Image Processing for iOS (Simon J Gladman)	book:CoreImage	http://a3.mzstatic.com/eu/r30/Publication49/v4/5c/12/6e/5c126eba-d08d-afdc-e28f-5854e40d1974/cover225x225.jpeg	20160226	0	0
 advanced	http://airspeedvelocity.net/2014/12/21/avoid-using-var-with-this-one-weird-trick	Avoid using var with this one weird trick			20141221	0	0
 advanced	http://allegrotech.io/swift-method-dispatching.html	Swift Method Dispatching			20141212	0	0
 advanced	http://austinzheng.com/2014/12/16/swift-enums	Enums in Swift	enum		20141216	0	0
@@ -690,7 +690,7 @@ advanced	http://makeapppie.com/2014/10/02/swift-swift-using-color-and-uicolor-in
 advanced	http://makeapppie.com/2014/10/08/swift-swift-using-uicolor-in-swift-part-2-making-a-color-palette-with-hsb	Swift Swift: Using UIColor in Swift Part 2: Making a Color Palette with HSB	color		20141008	0	0
 advanced	http://makeapppie.com/2014/09/22/swift-swift-using-dates-and-the-uidatepicker-in-swift	Swift Swift: Using Dates and the UIDatePicker in Swift	UIDatePicker:date		20140922	0	0
 advanced	http://makeapppie.com/2014/09/18/swift-swift-implementing-picker-views	Swift Swift: Implementing Picker Views			20140918	0	0
-advanced	http://makeapppie.com/2014/09/15/swift-swift-programmatic-navigation-view-controllers-in-swift	Swift Swift: Programmatic Navigation View Controllers in Swift			20140915	0	0
+advanced	http://makeapppie.com/2014/09/15/swift-swift-programmatic-navigation-view-controllers-in-swift	Swift Swift: Programmatic Navigation View Controllers in Swift	UINavigationControllerDelegate		20140915	0	0
 advanced	http://makeapppie.com/2014/09/09/swift-swift-using-tab-bar-controllers-in-swift	Swift Swift: Using Tab Bar Controllers in Swift	UITabBarController		20140909	0	0
 advanced	http://makeapppie.com/2014/10/14/kinderswift-tutorials-for-swift-episode-1-intro-and-downloading-xcode	KinderSwift Tutorials for Swift Episode 1: Intro and Downloading Xcode	video		20141014	0	0
 advanced	http://makeapppie.com/2014/10/16/kinderswift-episode-2-write-the-hello-pizza-app-in-swift	KinderSwift Episode 2: Write the “Hello Pizza!!” App in Swift	video		20141016	0	0
@@ -3712,7 +3712,7 @@ advanced	https://realm.io/news/tryswift-jesse-squires-contributing-open-source-s
 advanced	http://christiantietze.de/posts/2016/03/block-event-handler-subclass/	Translate Optional Delegate Protocol Methods to Swift Block-based Event Handlers Using Nested Objects			20160321	0	0
 advanced	http://oleb.net/blog/2016/03/advanced-swift/	Advanced Swift			20160321	0	0
 advanced	http://ericasadun.com/2016/03/21/swift-2-2-released-xcode-updated-to-7-3/	Swift 2.2 released. Xcode updated to 7.3			20160321	0	0
-advanced	https://www.raywenderlich.com/128892/video-tutorial-advanced-watchos-part-6-notifications	Video Tutorial: Advanced watchOS Part 6: Notifications			20160321	1	0
+advanced	https://www.raywenderlich.com/128892/video-tutorial-advanced-watchos-part-6-notifications	Video Tutorial: Advanced watchOS Part 6: Notifications	WatchKit		20160321	1	0
 advanced	http://ericasadun.com/2016/03/21/watching-paint-dry/	Watching paint dry			20160321	0	0
 advanced	http://ericasadun.com/2016/03/21/sign-of-the-times/	Sign of the times			20160321	0	0
 advanced	http://www.appcoda.com/healthkit-introduction/	Building a Fitness App Using HealthKit to Track Walking Distance	HealthKit		20160321	0	0
@@ -3822,3 +3822,12 @@ advanced	http://flexmonkey.blogspot.com/2016/04/a-look-at-perspective-transform.
 advanced	https://realm.io/news/tryswift-jp-simard-practical-cross-platform-swift/	Practical Cross-Platform Swift	video		20160404	0	0
 advanced	https://www.raywenderlich.com/130452/video-tutorial-beginning-video-avfoundation-series-introduction	Video Tutorial: Beginning Video with AVFoundation: Series Introduction	AVFoundation:VideoCode:video		20160404	0	0
 advanced	https://www.raywenderlich.com/130476/video-tutorial-beginning-video-avfoundation-part-1-video-playback	Video Tutorial: Beginning Video with AVFoundation Part 1: Video Playback	AVFoundation:VideoCode:video		20160404	1	0
+advanced	https://www.weheartswift.com/remove-storyboard-from-project/	How to remove storyboards from your project	NoStoryboards		20141103	0	0
+advanced	http://stackoverflow.com/questions/24046898/how-do-i-create-a-new-swift-project-without-using-storyboards	How do I create a new Swift project without using Storyboards?	NoStoryboards		20140604	0	0
+advanced	http://suslovjb.wordpress.com/2014/06/09/create-application-without-storyboard-in-swift-language-ios8/	Create application without storyboard in Swift	NoStoryboards		20140609	0	0
+advanced	https://www.andrewcbancroft.com/2015/06/02/access-sub-controllers-from-a-uinavigationcontroller-in-swift	Access Sub-Controllers from a UINavigationController in Swift	UINavigationControllerDelegate		20150602	0	0
+advanced	http://ericasadun.com/2016/04/04/try-hard-with-a-vengeance/	Try hard with a vengeance			20160404	0	0
+advanced	http://ashishkakkad.com/2016/04/use-of-operator-overloading-with-swift/	Use of Operator Overloading with Swift	CustomOperators		20160405	0	0
+advanced	http://www.russbishop.net/bridges-of-siracusa-county	Bridges of Siracusa County			20160404	0	0
+advanced	http://useyourloaf.com/blog/stretching-redrawing-and-positioning-with-contentmode/	Stretching, Redrawing and Positioning with contentMode			20160404	0	0
+advanced	http://makeapppie.com/2016/04/04/the-complete-table-tutorial-for-watchos2/	The Complete Table Tutorial for WatchOS2	WatchKit		20160404	0	0
