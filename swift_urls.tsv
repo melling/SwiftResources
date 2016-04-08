@@ -3831,3 +3831,25 @@ advanced	http://ashishkakkad.com/2016/04/use-of-operator-overloading-with-swift/
 advanced	http://www.russbishop.net/bridges-of-siracusa-county	Bridges of Siracusa County			20160404	0	0
 advanced	http://useyourloaf.com/blog/stretching-redrawing-and-positioning-with-contentmode/	Stretching, Redrawing and Positioning with contentMode			20160404	0	0
 advanced	http://makeapppie.com/2016/04/04/the-complete-table-tutorial-for-watchos2/	The Complete Table Tutorial for WatchOS2	WatchKit		20160404	0	0
+advanced	http://ericasadun.com/2016/04/05/dear-erica-can-i-build-a-throwing-operator/	Dear Erica: Can I build a throwing operator			20160405	0	0
+advanced	http://ericasadun.com/2016/04/05/multicellular-swift-evolution-in-action/	Multicellular Swift: evolution in action			20160405	0	0
+advanced	https://www.raywenderlich.com/130670/video-tutorial-beginning-video-avfoundation-part-2-capturing-media-images	Video Tutorial: Beginning Video with AVFoundation Part 2: Capturing Media: Images	AVFoundation:VideoCode:video		20160405	1	0
+advanced	https://medium.com/swift-programming/swift-prettify-your-print-statements-pt-1-64832bb7fafa	Swift: Prettify your print statements Pt. 1			20160405	0	0
+advanced	http://ankit.im/swift/2016/04/06/compiling-and-interpolating-C-using-swift-package-manager/	Compiling and interpolating C using the Swift Package Manager	PackageManager		20160406	0	0
+advanced	https://www.raywenderlich.com/130675/video-tutorial-beginning-video-avfoundation-part-3-capturing-media-video	Video Tutorial: Beginning Video with AVFoundation Part 3: Capturing Media: Video	AVFoundation:VideoCode:video		20160406	1	0
+advanced	http://www.raizlabs.com/dev/2016/04/uistackview/	UIStackView Demystified	UIStackView		20160405	0	0
+libs	https://github.com/szk-atmosphere/MartyJunior	You can change tab contents with swipe gesture on middle of UITableView			20160405	0	0
+libs	https://github.com/jibeex/CDFlipView/tree/master	A view that takes a set of images, make transition from one to another by using flipping effects	animation		20160405	0	0
+advanced	http://ericasadun.com/2016/04/06/folding-generic-argument-lists/	Folding generic argument lists			20160407	0	0
+advanced	http://ericasadun.com/2016/04/06/the-canonical-guide-to-range-operators/	The canonical guide to range operators			20160407	0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/new-custom-core-image-filters.html	New Custom Core Image Filters	CoreImage		20160407	0	0
+advanced	https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/	Understand Monads with this One Weird Trick	functional:monad		20160407	0	0
+advanced	https://www.raywenderlich.com/124075/javascriptcore-tutorial	JavaScriptCore Tutorial for iOS: Getting Started	javascript		20160407	0	0
+advanced	http://ericasadun.com/2016/04/07/unbounded-ranges/	Unbounded ranges			20160407	0	0
+advanced	http://ericasadun.com/2016/04/07/converting-loops/	Converting loops			20160407	0	0
+advanced	https://www.raywenderlich.com/130680/video-tutorial-beginning-video-avfoundation-part-4-merging-media	Video Tutorial: Beginning Video with AVFoundation Part 4: Merging Media	AVFoundation:VideoCode:video		20160407	1	0
+libs	https://github.com/prolificinteractive/Caishen	A Payment Card UI & Validator for iOS			20160407	0	0
+libs	https://github.com/Skyscanner/SkyFloatingLabelTextField	A beautiful and flexible text field control implementation of 'Float Label Pattern'. Written in Swift. As used in the Skyscanner TravelPro iOS app.			20160407	0	0
+advanced	http://artsy.github.io/blog/2016/04/06/Testing-Schemes/	Using Xcode's Schemes to run a subset of your tests	testing		20160406	0	0
+advanced	http://rx-marin.com/post/rxswift-state-with-scan/	Implementing state with scan in RxSwift	RxSwift		20160404	0	0
+advanced	https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know/	Swift And C: Everything You Need to Know			20160406	0	0
