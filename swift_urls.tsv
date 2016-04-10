@@ -400,10 +400,10 @@ advanced	http://www.ioscreator.com/tutorials/mapkit-tutorial-swift-ios8	MapKit T
 advanced	http://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift	Calculator Tutorial in iOS8 with Swift			20140630	0	0
 advanced	http://www.ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift	TableView Tutorial in iOS8 with Swift	UITableView		20140623	0	0
 advanced	http://www.ioscreator.com/tutorials/display-date-date-picker-ios8-swift	Displaying Date with Date Picker in iOS8 with Swift			20140814	0	0
-advanced	http://www.ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift	Segmented Control Tutorial in iOS8 with Swift			20140815	0	0
+advanced	http://www.ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift	Segmented Control Tutorial in iOS8 with Swift	UISegmentedControl		20140815	0	0
 advanced	http://www.ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift	Display an Alert View in iOS8 with Swift			20140625	0	0
 advanced	http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift	Webview Tutorial in iOS8 with Swift			20140709	0	0
-advanced	http://www.ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift	UISwitch Tutorial in iOS8 with Swift			20140721	0	0
+advanced	http://www.ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift	UISwitch Tutorial in iOS8 with Swift	UISwitch		20140721	0	0
 advanced	http://natashatherobot.com/unit-test-optionals-swift	How To Unit Test With Optionals In Swift	testing		20141225	0	0
 advanced	http://commandshift.co.uk/blog/2014/12/28/nice-web-services-swift-edition	Nice Web Services, Swift Edition			20141228	0	0
 advanced	http://airspeedvelocity.net/2014/09/24/which-function-does-swift-call-part-2-single-arguments	Which function does Swift call? Part 2: Single_Arguments			20140924	0	0
@@ -584,7 +584,7 @@ libs	https://github.com/lidori/fallingLetters	Falling Letters Swift Animation	an
 libs	https://github.com/hamin/FayeSwift	Swift Client Library for the Faye Pub-Sub messaging server			20010101	0	0
 beginner	http://www.firebase.com/blog/2015-01-23-video-walkthrough-swift-fundamentals.html?video	A Video Walkthrough of Swift Fundamentals	video		20150123	0	0
 sites	https://github.com/matteocrippa/awesome-swift	Awesome Swift			20010101	0	0
-advanced	http://flexmonkey.blogspot.com/2015/01/functional-vs-imperative-creating.html	Functional vs Imperative: Creating a Multiline UISegmentedControl in Swift	functional		20150127	0	0
+advanced	http://flexmonkey.blogspot.com/2015/01/functional-vs-imperative-creating.html	Functional vs Imperative: Creating a Multiline UISegmentedControl in Swift	functional:UISegmentedControl		20150127	0	0
 advanced	http://blog.segiddins.me/2015/01/25/dynamic-casting-in-swift	Dynamic Casting in Swift			20150125	0	0
 advanced	http://prolificinteractive.com/blog/2015/01/26/tutorial-introduction-touchid-swift	Use Touch ID in Your Swift App	TouchId		20150126	0	0
 advanced	http://austinzheng.com/2015/01/24/swift-seq	Sequences and Generators	functional:Sequence		20150124	0	0
@@ -742,7 +742,7 @@ advanced	http://www.andrewcbancroft.com/2015/02/18/core-data-cheat-sheet-for-swi
 advanced	http://developer.apple.com/swift/blog/?id=23	The as! Operator	Operators		20150218	0	0
 advanced	http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer	How To Implement A Circular Image Loader Animation with CAShapeLayer			20150219	0	0
 advanced	http://www.codingexplorer.com/swift-set-type	Swift Set Type in Swift 1.2	Set		20150219	0	0
-advanced	http://www.appdesignvault.com/custom-segmented-control-swift-tutorial	How to Build a Custom Segmented Control in Swift	video		20150220	0	0
+advanced	http://www.appdesignvault.com/custom-segmented-control-swift-tutorial	How to Build a Custom Segmented Control in Swift	video:UISegmentedControl		20150220	0	0
 advanced	http://www.raywenderlich.com/96062/custom-view-controller-presentation-transitions-swift	Custom View Controller Presentation Transitions with Swift	transitions		20150220	0	0
 advanced	http://five.agency/solving-the-binding-problem-with-swift	Solving the binding problem with Swift			20150218	0	0
 advanced	http://five.agency/how-to-create-an-interactive-blur-effect-in-ios8	How to create an interactive blur effect in iOS8			20141028	0	0
@@ -1611,7 +1611,7 @@ libs	https://github.com/FutureKit/FutureKit	http://futurekit.org			20010101	0	0
 libs	https://github.com/gavinbunney/Toucan	Fabulous Image Processing	image		20010101	0	0
 libs	https://github.com/gmertk/BusyNavigationBar	A UINavigationBar extension to show loading effects	UINavigationBar		20010101	0	0
 libs	https://github.com/gmertk/ParkedTextField	A text field with a constant text/placeholder			20010101	0	0
-libs	https://github.com/gontovnik/DGRunkeeperSwitch	Runkeeper design switch control (two part segment control)			20010101	0	0
+libs	https://github.com/gontovnik/DGRunkeeperSwitch	Runkeeper design switch control (two part segment control)	UISegmentedControl		20010101	0	0
 libs	https://github.com/honghaoz/Ji	Ji (戟) is an XML/HTML parser	html:xml		20010101	0	0
 libs	https://github.com/hyperoslo/Presentation	Presentation helps you to make tutorials, release notes and animated pages			20010101	0	0
 libs	https://github.com/i-schuetz/SwiftCharts	Easy to use and highly customizable charts library for iOS	chart		20010101	0	0
@@ -2523,12 +2523,11 @@ advanced	http://littlebitesofcocoa.com/222	little bites of cocoa: #222: Beautifu
 advanced	http://littlebitesofcocoa.com/223	little bites of cocoa: #223: Standard Setup			20160330	0	0
 advanced	http://littlebitesofcocoa.com/224	little bites of cocoa: #224: Standard Architecture			20160331	0	0
 advanced	http://littlebitesofcocoa.com/225	little bites of cocoa: #225: Downloading dSYMs with Fastlane	fastlane		20160401	0	0
-advanced	http://flexmonkey.blogspot.com/2015/11/pencilsynth-apple-pencil-controlled.html	PencilSynth - An Apple Pencil Controlled Synthesiser			20151123	0	0
-advanced	http://christiantietze.de/posts/2015/11/error-handling-attempt	How to Handle Errors When You're Not Interested in the Details	exceptions		20151123	0	0
-advanced	http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used	Where 'where' may be used?			20151113	0	0
-advanced	http://blog.alltheflow.com/lightweight-reactive-coding-with-swift-and-vincerp	Lightweight reactive coding with Swift & VinceRP			20151117	0	0
-advanced	http://merowing.info/2015/11/tips-for-interface-builder	Tips for Interface Builder	InterfaceBuilder:UIFont		20151113	0	0
-advanced	https://github.com/gmertk/SwiftAlgorithmsClassroom	A classroom where you can learn/teach common algorithms and data structures	algorithm		20151122	0	0
+advanced	http://littlebitesofcocoa.com/226	little bites of cocoa: #226: BetterSegmentedControl	UISegmentedControl		20160404	0	0
+advanced	http://littlebitesofcocoa.com/227	little bites of cocoa: #227: Convert Markdown to NSAttributedStrings with SwiftyMarkdown			20160405	0	0
+advanced	http://littlebitesofcocoa.com/228	little bites of cocoa: #228: Standard Setup - Authentication with Moya			20160406	0	0
+advanced	http://littlebitesofcocoa.com/229	little bites of cocoa: #229: Dependency or Not to Be?			20160407	0	0
+advanced	http://littlebitesofcocoa.com/230	little bites of cocoa: #230: More Fun with fastlane Actions	fastlane		20160408	0	0
 advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	Split Views and Unexpected Keyboards	keyboard		20151122	0	0
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video		20151123	0	0
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode		20151123	0	0
@@ -2902,8 +2901,8 @@ advanced	http://ericasadun.com/2016/01/13/a-few-thoughts-on-swift-symbologygist	
 advanced	http://www.thomashanning.com/network-link-conditioner	Network Link Conditioner	testing		20160114	0	0
 advanced	http://www.raywenderlich.com/110458/nsurlsession-tutorial-getting-started	NSURLSession Tutorial: Getting Started	NSURLSession		20160114	0	0
 advanced	http://realm.io/news/benji-encz-unidirectional-data-flow-swift	Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers	video		20160114	0	0
-advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-example-in-swift-part-1	UISegmentedControl with UITableView example in Swift. Part 1	video		20150816	0	0
-advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-example-in-swift-part-2	UISegmentedControl with UITableView example in Swift. Part 2	video		20150816	0	0
+advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-example-in-swift-part-1	UISegmentedControl with UITableView example in Swift. Part 1	video:UISegmentedControl		20150816	0	0
+advanced	http://swiftdeveloperblog.com/uisegmentedcontrol-with-uitableview-example-in-swift-part-2	UISegmentedControl with UITableView example in Swift. Part 2	video:UISegmentedControl		20150816	0	0
 advanced	http://swiftdeveloperblog.com/sign-in-with-google-account-example-in-swift	Sign-in with Google Account Example in Swift	video		20150819	0	0
 advanced	http://swiftdeveloperblog.com/play-music-mp3-file-example-in-swift	Play music MP3 file example in Swift	video		20150821	0	0
 advanced	http://swiftdeveloperblog.com/uidatepicker-example-in-swift	UIDatePicker example in Swift	video		20150830	0	0
@@ -3818,7 +3817,7 @@ advanced	https://www.skilled.io/kristinathai/how-to-build-a-compelling-watch-app
 advanced	https://stanfy.com/blog/login-user-automatically-sfsafariviewcontroller-ios-9/	How to Login User Automatically Into The App With SFSafariViewController on iOS 9	SFSafariViewController		20160329	0	0
 advanced	https://grokswift.com/router/	Using a Router to Organize Your Alamofire API Calls	Alamofire		20160401	0	0
 libs	https://github.com/liuzhiyi1992/ZYThumbnailTableView	a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy			20160404	0	0
-advanced	http://flexmonkey.blogspot.com/2016/04/a-look-at-perspective-transform.html	A Look at Perspective Transform & Correction with Core Image	CoreImage		20160404	0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/a-look-at-perspective-transform.html	A Look at Perspective Transform & Correction with Core Image	CoreImage:CIFilter:CIDetector:CIPerspectiveCorrection:CIPerspectiveTransform:CISourceAtopCompositing		20160404	0	0
 advanced	https://realm.io/news/tryswift-jp-simard-practical-cross-platform-swift/	Practical Cross-Platform Swift	video		20160404	0	0
 advanced	https://www.raywenderlich.com/130452/video-tutorial-beginning-video-avfoundation-series-introduction	Video Tutorial: Beginning Video with AVFoundation: Series Introduction	AVFoundation:VideoCode:video		20160404	0	0
 advanced	https://www.raywenderlich.com/130476/video-tutorial-beginning-video-avfoundation-part-1-video-playback	Video Tutorial: Beginning Video with AVFoundation Part 1: Video Playback	AVFoundation:VideoCode:video		20160404	1	0
@@ -3829,7 +3828,7 @@ advanced	https://www.andrewcbancroft.com/2015/06/02/access-sub-controllers-from-
 advanced	http://ericasadun.com/2016/04/04/try-hard-with-a-vengeance/	Try hard with a vengeance			20160404	0	0
 advanced	http://ashishkakkad.com/2016/04/use-of-operator-overloading-with-swift/	Use of Operator Overloading with Swift	CustomOperators		20160405	0	0
 advanced	http://www.russbishop.net/bridges-of-siracusa-county	Bridges of Siracusa County			20160404	0	0
-advanced	http://useyourloaf.com/blog/stretching-redrawing-and-positioning-with-contentmode/	Stretching, Redrawing and Positioning with contentMode			20160404	0	0
+advanced	http://useyourloaf.com/blog/stretching-redrawing-and-positioning-with-contentmode/	Stretching, Redrawing and Positioning with contentMode	UIView:contentMode		20160404	0	0
 advanced	http://makeapppie.com/2016/04/04/the-complete-table-tutorial-for-watchos2/	The Complete Table Tutorial for WatchOS2	WatchKit		20160404	0	0
 advanced	http://ericasadun.com/2016/04/05/dear-erica-can-i-build-a-throwing-operator/	Dear Erica: Can I build a throwing operator			20160405	0	0
 advanced	http://ericasadun.com/2016/04/05/multicellular-swift-evolution-in-action/	Multicellular Swift: evolution in action			20160405	0	0
@@ -3853,3 +3852,12 @@ libs	https://github.com/Skyscanner/SkyFloatingLabelTextField	A beautiful and fle
 advanced	http://artsy.github.io/blog/2016/04/06/Testing-Schemes/	Using Xcode's Schemes to run a subset of your tests	testing		20160406	0	0
 advanced	http://rx-marin.com/post/rxswift-state-with-scan/	Implementing state with scan in RxSwift	RxSwift		20160404	0	0
 advanced	https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know/	Swift And C: Everything You Need to Know			20160406	0	0
+advanced	http://swiftandpainless.com/feedback-to-the-best-table-view-controller/	Feedback to “The best table view controller”	UITableView		20160408	0	0
+advanced	http://ericasadun.com/2016/04/08/preparing-for-3-0-api-pruning/	Preparing for 3.0 API Pruning			20160408	0	0
+advanced	https://www.raywenderlich.com/130685/video-tutorial-beginning-video-avfoundation-part-5-overlays-animation	Video Tutorial: Beginning Video with AVFoundation Part 5: Overlays And Animation	AVFoundation:VideoCode:video		20160408	1	0
+advanced	https://www.raywenderlich.com/130690/video-tutorial-beginning-video-avfoundation-part-6-conclusion	Video Tutorial: Beginning Video with AVFoundation Part 6: Conclusion	AVFoundation:VideoCode:video		20160408	1	0
+advanced	http://christiantietze.de/posts/2016/04/clean-swift-transformation/	Refactoring to Clean Value Transformations in Swift			20160409	0	0
+advanced	http://ankit.im/swift/2016/04/09/TSA-randomizer-app-in-swift-in-4-minutes/	Creating the $1.4 million TSA Randomizer app in under 4 minutes using swift			20160409	0	0
+libs	https://github.com/shaps80/InkKit	Drawing and Geometry made easy for iOS			20160409	0	0
+libs	https://github.com/jessesquires/PresenterKit	Swifty view controller presentation for iOS			20160409	0	0
+advanced	http://mathewsanders.com/making-master	Making Master			20160409	0	0
