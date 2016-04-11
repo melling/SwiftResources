@@ -3861,3 +3861,15 @@ advanced	http://ankit.im/swift/2016/04/09/TSA-randomizer-app-in-swift-in-4-minut
 libs	https://github.com/shaps80/InkKit	Drawing and Geometry made easy for iOS			20160409	0	0
 libs	https://github.com/jessesquires/PresenterKit	Swifty view controller presentation for iOS			20160409	0	0
 advanced	http://mathewsanders.com/making-master	Making Master			20160409	0	0
+advanced	http://swiftandpainless.com/selector-and-the-responder-chain/	#selector() and the responder chain			20160410	0	0
+advanced	https://medium.com/capital-one-developers/improved-protocol-oriented-programming-with-untyped-type-aliases-part-1-625484ca1f9d#.fi6pu2ixz	Improved Protocol-Oriented Programming with Untyped Type Aliases (part 1)	protocol		20160321	0	0
+advanced	http://kostiakoval.github.io/posts/swift-enums-the-not-so-good-parts	Swift enums - the not so good parts	enum		20160407	0	0
+libs	https://github.com/ibm-wearables-sdk-for-mobile/ibm-wearables-swift-sdk	iOS Framework and examples for developing apps that utilize Wearable Devices. It handles connectivity, data interpretation and gesture recognition.			20160321	0	0
+libs	https://github.com/soffes/RateLimit	Simple utility for only executing code every so often			20160321	0	0
+advanced	http://www.infoq.com/presentations/swift-server	The Case for Bringing Swift to the Server			20160407	0	0
+advanced	https://stanfy.com/blog/migrating-from-objective-c-to-swift/	Migrating From Objective-C to Swift	SwiftMigration		20160405	0	0
+advanced	https://youtu.be/YfFQXuFHSf8	#1 Core Data: Hello Core Data	AzamSharp:video:CoreData		20160410	0	0
+advanced	http://www.thomashanning.com/building-a-simple-ios-calculator-app-part-1/	Building A Simple iOS Calculator App – Part 1			20160410	0	0
+advanced	https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/	Real World Mocking in Swift			20160411	0	0
+advanced	https://www.raywenderlich.com/131134/video-tutorial-intermediate-ios-animations-series-introduction	Video Tutorial: Intermediate iOS Animations: Series Introduction	animation:video		20160411	0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/creating-procedural-normal-maps-for.html	Creating Procedural Normal Maps for SceneKit	SceneKit		20160411	0	0
