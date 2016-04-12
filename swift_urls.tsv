@@ -80,7 +80,7 @@ libs	https://github.com/ankurp/Dollar.swift	A functional tool-belt for Swift Lan
 libs	https://github.com/croath/UIImageView-BetterFace-Swift	UIImageView-BetterFace-Swift	UIImageView		20010101	0	0
 libs	https://github.com/indragiek/SwiftAutoLayout	Tiny Swift DSL for Autolayout	AutoLayout:DSL		20010101	0	0
 libs	https://github.com/kylef/QueryKit	A simple CoreData query language for Swift	CoreData		20010101	0	0
-libs	https://github.com/lexrus/LTBouncyPlaceholder	A learning-by-doing UITextField extension	UITextfield		20010101	0	0
+libs	https://github.com/lexrus/LTBouncyPlaceholder	A learning-by-doing UITextField extension	UITextField		20010101	0	0
 libs	https://github.com/lexrus/LTMorphingLabel	Cloning the original Morphing Label of iOS 8 introduced in WWDC 2014			20010101	0	0
 libs	https://github.com/mattdonnelly/Swifter	Twitter Framework	twitter		20010101	0	0
 libs	https://github.com/mattt/Euler	Swift Custom Operators for Mathematical Notation	CustomOperators		20010101	0	0
@@ -180,7 +180,7 @@ advanced	http://blog.matthewcheok.com/design-teardown-stretchy-headers	Design Te
 advanced	http://blog.sudeium.com/2014/12/10/swift-performance-too-slow-for-production	Swift Performance: Too Slow for Production			20141210	0	0
 advanced	http://blog.swiftcast.tv/the-swift-programming-language-solutions-to-experiments	The Swift Programming Language Solutions to Experiments			20140602	0	0
 advanced	http://blog.teamtreehouse.com/understanding-optionals-swift	Understanding Optionals			20140617	0	0
-advanced	http://code.tutsplus.com/tutorials/swift-from-scratch-collections-and-tuples--cms-22832	Swift from Scratch: Collections and Tuples	tuples		20141219	0	0
+advanced	http://code.tutsplus.com/tutorials/swift-from-scratch-collections-and-tuples--cms-22832	Swift from Scratch: Collections and Tuples	tuple		20141219	0	0
 advanced	http://code.tutsplus.com/tutorials/swift-from-scratch-variables-and-constants--cms-22828	Swift from Scratch: Variables and Constants			20141212	0	0
 advanced	http://designcode.io/swift-design	Design with Swift			20010101	0	0
 advanced	http://devmonologue.com/ios/swift/for-in-statements-indexes-swift	for-in Statements Indexes Swift			20140701	0	0
@@ -307,7 +307,7 @@ advanced	http://www.raywenderlich.com/77092/text-kit-tutorial-swift	Text Kit Tut
 advanced	http://www.raywenderlich.com/84043/ios-8-visual-effects-tutorial	iOS 8 Visual Effects Tutorial			20140929	0	0
 advanced	http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial	iOS 8 Today Extension Tutorial	extension		20140925	0	0
 advanced	http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial	Beginning Adaptive Layout Tutorial	AdaptiveLayout		20140922	0	0
-advanced	http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift	How To Use UIScrollView to Scroll and Zoom Content in Swift	uiscrollview		20141213	0	0
+advanced	http://www.raywenderlich.com/76436/use-uiscrollview-scroll-zoom-content-swift	How To Use UIScrollView to Scroll and Zoom Content in Swift	UIScrollView		20141213	0	0
 advanced	http://www.raywenderlich.com/80818/operator-overloading-in-swift-tutorial	Operator Overloading in Swift Tutorial	CustomOperators		20140919	0	0
 advanced	http://www.raywenderlich.com/82599/swift-functional-programming-tutorial	Swift Functional Programming Tutorial	functional		20140918	0	0
 advanced	http://www.raywenderlich.com/82572/swift-generics-tutorial	Swift Generics Tutorial	generics		20140917	0	0
@@ -327,7 +327,7 @@ advanced	http://www.raywenderlich.com/75545/video-tutorial-introduction-swift-pa
 advanced	http://www.raywenderlich.com/75578/video-tutorial-introduction-swift-part-5-control-flow	Video Tutorial: Introduction to Swift Part 5: Control Flow	video		20140901	0	0
 advanced	http://www.raywenderlich.com/76260/video-tutorial-introduction-swift-part-6-functions	Video Tutorial: Introduction to Swift Part 6: Functions	video		20140901	0	0
 advanced	http://www.raywenderlich.com/77048/video-tutorial-introduction-to-swift-part-7-classes	Video Tutorial: Introduction to Swift Part 7: Classes	video		20140901	0	0
-advanced	http://www.raywenderlich.com/77878/video-tutorial-introduction-swift-part-8-tuples	Video Tutorial: Introduction to Swift Part 8: Tuples	video:tuples		20140901	0	0
+advanced	http://www.raywenderlich.com/77878/video-tutorial-introduction-swift-part-8-tuples	Video Tutorial: Introduction to Swift Part 8: Tuples	video:tuple		20140901	0	0
 advanced	http://www.raywenderlich.com/75289/swift-tutorial-part-3-tuples-protocols-delegates-table-views	Swift Tutorial Part 3: Tuples, Protocols, Delegates, and Table Views	tuple:protocol		20150921	0	0
 advanced	http://www.raywenderlich.com/79850/collection-data-structures-swift	Collection Data Structures In Swift	algorithm		20150421	0	0
 advanced	http://www.raywenderlich.com/82832/video-tutorial-ios-animations-introduction	Video Tutorial: iOS Animation with Swift: Introduction	beginner		20140917	0	0
@@ -552,10 +552,10 @@ advanced	http://www.knowstack.com/swift-concurrency-nsoperation-nsoperationqueue
 advanced	http://www.ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift	Screen Edge Pan Gesture Tutorial in iOS8 with Swift	gesture		20150119	0	0
 advanced	http://www.ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift	Add Event to Calendar Tutorial in iOS8 with Swift			20150120	0	0
 advanced	http://www.ioscreator.com/tutorials/take-photo-tutorial-ios8-swift	Take Photo Tutorial in iOS8 with Swift	Photos		20150121	0	0
-advanced	http://www.ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift	Scroll View Tutorial in iOS8 with Swift	uiscrollview		20150122	0	0
+advanced	http://www.ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift	Scroll View Tutorial in iOS8 with Swift	UIScrollView		20150122	0	0
 advanced	http://peterwitham.com/swift/intermediate/uipickerview-getting-started	UIPickerView – Getting Started			20150122	0	0
 advanced	http://www.russbishop.net/swift-capture-lists	Swift Quickie: Capture Lists	functional		20150119	0	0
-advanced	http://www.shrikar.com/blog/2015/01/17/ios-swift-tutorial-uipageviewcontroller-as-user-onboarding-tool	iOS Swift Tutorial: UIPageViewController as User Onboarding Tool	UIPageViewControllers		20150117	0	0
+advanced	http://www.shrikar.com/blog/2015/01/17/ios-swift-tutorial-uipageviewcontroller-as-user-onboarding-tool	iOS Swift Tutorial: UIPageViewController as User Onboarding Tool	UIPageViewController		20150117	0	0
 advanced	http://www.shrikar.com/blog/2015/01/17/uitableview-and-uitableviewcell-customization-in-swift	UITableView and UITableViewCell Customization in Swift	UITableView		20150117	0	0
 advanced	http://www.shrikar.com/blog/2015/01/24/implementing-barcode-scanning-in-ios8-with-swift	AVFoundation : Implementing Barcode Scanning in iOS8 With Swift	AVFoundation		20150124	0	0
 advanced	http://developer.apple.com/swift/blog/?id=20	Redefining Everything with the Swift REPL	repl		20150123	0	0
@@ -928,7 +928,7 @@ advanced	http://waynewbishop.com/swift/binary-search-tree-rotations	Tree Balanci
 advanced	http://medium.com/the-traveled-ios-developers-guide/swift-s-set-a7eb4f450f6c	Swift + Set			20150418	0	0
 advanced	http://flexmonkey.blogspot.com/2015/04/snapswift-open-source-popup-menu.html	SnapSwift: Open Source Popup Menu / Numeric Slider for iOS			20150419	0	0
 advanced	http://www.extelligentcocoa.org/the-meta-syntax-of-optionals	The meta-syntax of optionals			20150419	0	0
-advanced	http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews	Fun With Scrollviews	uiscrollview		20150419	0	0
+advanced	http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews	Fun With Scrollviews	UIScrollView		20150419	0	0
 advanced	http://www.knowstack.com/converting-array-of-dictionary-to-tree-org-structure	Converting Array of Dictionary to Tree, Org Structure	Array:Tree		20150419	0	0
 advanced	http://www.raywenderlich.com/97174/reveal-tutorial-live-view-debugging	Reveal Tutorial: Live View Debugging			20150420	0	0
 advanced	http://makeapppie.com/2015/04/20/swift-watchkit-tutorial-coding-timers-and-nstimer-on-apple-watch	Swift WatchKit Tutorial: Coding Timers and NSTimer on Apple Watch	WatchKit:NSTimer		20150420	0	0
@@ -2455,7 +2455,7 @@ advanced	http://littlebitesofcocoa.com/154	little bites of cocoa: #154: Return o
 advanced	http://littlebitesofcocoa.com/155	little bites of cocoa: #155: Generating Beautiful Screenshots with frameit			20151225	0	0
 advanced	http://littlebitesofcocoa.com/156	little bites of cocoa: #156: Caching with AwesomeCache			20151228	0	0
 advanced	http://littlebitesofcocoa.com/157	little bites of cocoa: #157			20151229	0	0
-advanced	http://littlebitesofcocoa.com/158	little bites of cocoa: #158: Better UIPageViewControllers with Pages	UIPageViewControllers		20151230	0	0
+advanced	http://littlebitesofcocoa.com/158	little bites of cocoa: #158: Better UIPageViewControllers with Pages	UIPageViewController		20151230	0	0
 advanced	http://littlebitesofcocoa.com/159	little bites of cocoa: #159: Swift Shortcuts			20151231	0	0
 advanced	http://littlebitesofcocoa.com/160	little bites of cocoa: #160: In-App Notifications with Whisper	InAppPurchase		20160101	0	0
 advanced	http://littlebitesofcocoa.com/161	little bites of cocoa: #161: UITableView vs. UICollectionView	UITableView:UICollectionView		20160104	0	0
@@ -2537,7 +2537,7 @@ advanced	http://realm.io/news/gotocph-rackwitz-therox-learnings-from-cocoapods	L
 advanced	http://budiirawan.com/ios-play-sound-swift	iOS: How to Play Sound in Swift	audio:AVAudioPlayer		20150603	0	0
 libs	https://github.com/amornn/MetalTut	Basic metal 3d	metal		20010101	0	0
 libs	https://github.com/collinhundley/Swift-AI	Highly optimized Artificial Intelligence and Machine Learning library	MachineLearning		20010101	0	0
-libs	https://github.com/goktugyil/EZSwipeController	UIPageViewController like Snapchat/Tinder/iOS Main Pages	UIPageViewControllers		20010101	0	0
+libs	https://github.com/goktugyil/EZSwipeController	UIPageViewController like Snapchat/Tinder/iOS Main Pages	UIPageViewController		20010101	0	0
 libs	https://github.com/moorecode/CalendarTile	Simple Calendar tile that can display month, day of month and time of day. Intended use is for event reminders	date		20010101	0	0
 libs	https://github.com/theddnc/iPromise	A Promise represents a proxy for a value not necessarily known when the promise is created			20010101	0	0
 libs	https://github.com/thellimist/EZAlertController	Easy Swift UIAlertController	UIAlertController		20010101	0	0
@@ -2794,7 +2794,7 @@ advanced	http://useyourloaf.com/blog/how-to-percent-encode-a-url-string.html	How
 advanced	http://christiantietze.de/posts/2016/01/google-app-indexing	Get Your App Indexed by Google			20160104	0	0
 advanced	http://ericasadun.com/2016/01/04/sorting-and-sharing-playground-pages	Sorting and sharing playground pages	playground		20160104	0	0
 advanced	https://github.com/DianQK/TransitionTreasury	Easier way to push your viewController	UIViewController		20010101	0	0
-advanced	http://youtu.be/-BeQeKVbNJQ	How To Limit Characters in a UITextField w/ Character Counter	video:UITextfield		20151230	0	0
+advanced	http://youtu.be/-BeQeKVbNJQ	How To Limit Characters in a UITextField w/ Character Counter	video:UITextField		20151230	0	0
 advanced	http://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963	App Development: Teaching Swift	video		20151230	0	0
 advanced	http://ericasadun.com/2016/01/04/and-then-there-was-none-when-to-nil-and-when-to-not	And then there was .None: when to nil and when to not			20160104	0	0
 advanced	http://www.raywenderlich.com/121834/apple-pencil-tutorial	Apple Pencil Tutorial: Getting Started	Pencil		20160105	0	0
@@ -3239,7 +3239,7 @@ advanced	https://youtu.be/K3CSBxX5VXA	UIPageViewController in Swift with Xcode |
 libs	https://github.com/davidlondono/VIPER-Generics-Generator	A generator of classes with protocols to comunicate over VIPER			20010101	0	0
 advanced	http://medium.com/martiancraft-s-syndicate/why-san-francisco-b86bd45f3273	Why San Francisco	design:typography		20160122	0	0
 advanced	http://cocoawithlove.com/blog/2016/01/25/partial-functions-part-one-avoidance.html	Partial functions in Swift, Part 1: Avoidance			20160125	0	0
-advanced	http://www.bricepollock.com/html-rending-ios-swift-dynamic-uitableviewcells	HTML Rendering in Swift with Dynamic UITableViewCells	UITableViewCells:html		20150809	0	0
+advanced	http://www.bricepollock.com/html-rending-ios-swift-dynamic-uitableviewcells	HTML Rendering in Swift with Dynamic UITableViewCells	UITableViewCell:html		20150809	0	0
 advanced	http://www.bricepollock.com/swift-snippets-a-max-function-for-optionals	Swift-Snippets: A Max Function for Optionals			20150322	0	0
 advanced	http://www.bricepollock.com/writing-a-custom-control-ios-8-swift-and-auto-layout	Writing a custom control: iOS 8, Swift and Auto Layout	AutoLayout		20141027	0	0
 advanced	http://rotlogix.com/2016/01/25/digging-into-swift-objects	Swift Reverse Engineering | Digging into Objects			20160125	0	0
@@ -3609,7 +3609,7 @@ advanced	http://www.youtube.com/watch?v=wrg3QQAe4-c	Getting Started with tvOS! (
 libs	https://github.com/muukii/NextGrowingTextView	The next in the generations of 'growing textviews' optimized for iOS 7 and above			20160308	0	0
 libs	https://github.com/ruslanskorb/RSKPlaceholderTextView	A light-weight UITextView subclass that adds support for placeholder	UITextView		20160308	0	0
 libs	https://github.com/macfeteria/JKNotificationPanel	Simple, Customizable notification panel			20160308	0	0
-libs	https://github.com/sag333ar/SRKControls	A Custom control which turns UITextfield to item-picker & date-picker.			20160308	0	0
+libs	https://github.com/sag333ar/SRKControls	A Custom control which turns UITextfield to item-picker & date-picker.	UITextField		20160308	0	0
 libs	https://github.com/thanhcuong1990/swift-disk-status	Get the available iOS device memory using Swift			20160308	0	0
 libs	https://github.com/rad182/RADInfoBannerView	Simple and Customizable Dropdown banner below Navigation Bar			20160308	0	0
 libs	https://github.com/samuelbeek/SwiftCountryPicker	CountryPicker in Swift that uses Emoji for flags.	emoji		20160308	0	0
@@ -3873,3 +3873,26 @@ advanced	http://www.thomashanning.com/building-a-simple-ios-calculator-app-part-
 advanced	https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/	Real World Mocking in Swift			20160411	0	0
 advanced	https://www.raywenderlich.com/131134/video-tutorial-intermediate-ios-animations-series-introduction	Video Tutorial: Intermediate iOS Animations: Series Introduction	animation:video		20160411	0	0
 advanced	http://flexmonkey.blogspot.com/2016/04/creating-procedural-normal-maps-for.html	Creating Procedural Normal Maps for SceneKit	SceneKit		20160411	0	0
+advanced	http://www.terrestrial.io/blog/easy-ios-storyboard-localization	Easy iOS Storyboard Localization	localization		20160411	0	0
+advanced	https://www.raywenderlich.com/131141/video-tutorial-intermediate-ios-animations-part-1-basic-layer-animations	Video Tutorial: Intermediate iOS Animations Part 1: Basic Layer Animations	animation:video		20160411	1	0
+libs	https://github.com/alexpls/APSwiftHelpers	Swift helper functions			20160411	0	0
+advanced	https://ashfurrow.com/blog/putting-a-uicollectionview-in-a-uitableviewcell-in-swift/	Putting a UICollectionView in a UITableViewCell in Swift	UICollectionView:UITableViewCell		20151103	0	0
+advanced	http://commandshift.co.uk/blog/2016/04/11/understanding-split-view-controller/	Understanding UISplitViewController	UISplitViewController		20160410	0	0
+advanced	http://useyourloaf.com/blog/natural-text-alignment-for-rtl-languages/	Natural Text Alignment for RTL Languages			20160411	0	0
+advanced	http://christiantietze.de/posts/2016/04/edit-nstableview-header-cell/	How to Edit NSTableView Headers with a Double-Click	mac		20160411	0	0
+advanced	http://ericasadun.com/2016/04/11/why-doesnt-numericalarithmetictype-exist-in-swift/	Why doesn’t `NumericalArithmeticType` exist in Swift?			20160411	0	0
+advanced	http://www.russbishop.net/type-erasure	Type Erasure			20160411	0	0
+advanced	https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1	Swift Tutorial: Initialization In Depth, Part 1/2			20160411	0	0
+libs	https://github.com/JeromeTan1997/LocationPicker	A ready for use and fully customizable location picker for your app			20160411	0	0
+advanced	http://ericasadun.com/2016/04/11/auto-defaulting-objc-arguments/	Auto-defaulting ObjC Arguments			20160411	0	0
+advanced	http://www.appcoda.com/quick-look-framework/	Using Quick Look Framework for Previewing Documents			20160412	0	0
+advanced	http://christiantietze.de/posts/2016/04/guard-power/	The Power of Guard	guard		20160412	0	0
+libs	https://github.com/TomLinthwaite/SKTilemap	An addition to Apples Sprite Kit framework for iOS which allows for the creation of tilemaps either programmatically or from a .tmx file	SpriteKit		20160412	0	0
+advanced	http://blog.jtribe.com.au/writing-custom-animations-on-ios-part-iii/	Writing Custom Animations on iOS | Part III	animation:UIViewControllerContextTransitioning		20160412	0	0
+advanced	http://blog.jtribe.com.au/custom-animations-transitions/	Writing Custom Animations on iOS	animation:UIViewControllerAnimatedTransitioning:UINavigationControllerDelegate:UIPercentDrivenInteractiveTransition		20160311	0	0
+advanced	http://blog.jtribe.com.au/writing-custom-animations-on-ios-part-ii/	Writing Custom Animations on iOS | Part II	animation:CATransform3DRotate:CATransform3DScale		20160314	0	0
+advanced	http://blog.jtribe.com.au/how-to-write-an-endless-uiscrollview-in-swift-2-part-2/	How to write an endless UIScrollView in Swift 2 | Part II: UIPageViewController	UIScrollView:UIPageViewController		20160328	0	0
+advanced	http://blog.jtribe.com.au/none-nil-swift-is-awesome/	Swifticle - .None, nil, and why Swift is awesome.			20160323	0	0
+advanced	http://blog.jtribe.com.au/rxswift-for-beginners/	RxSwift for Beginners: Part 1	RxSwift		20160229	0	0
+advanced	http://blog.jtribe.com.au/how-to-create-a-uiscrollview-with-auto-layout-and-storyboards-w-swift-2-0-part-2-dynamic-views/	How to create a UIScrollView with Auto Layout and Storyboards w/ Swift 2.0 | Part 2: Dynamic Views	UIScrollView		20150924	0	0
+advanced	http://blog.jtribe.com.au/how-to-create-a-uiscrollview-with-auto-layout-and-storyboards-w-swift-2-0-part-1-static-views/	How to create a UIScrollView with Auto Layout and Storyboards w/ Swift 2.0 | Part 1: Static Views	UIScrollView		20150904	0	0
