@@ -682,7 +682,7 @@ advanced	http://medium.com/hacking-ios/memory-management-in-swift-principles-pre
 advanced	http://flexmonkey.blogspot.com/2015/02/launching-parametrised-swift.html	Launching Parametrised Swift Applications from Links with Custom URL Schemes			20150209	0	0
 advanced	http://www.codingexplorer.com/segue-uitableviewcell-taps-swift	Segue from UITableViewCell Taps in Swift	UITableView		20150209	0	0
 advanced	http://medium.com/swift-programming/swift-typealias-to-the-rescue-b1027fc571e3	Swift typealias to the rescue			20150209	0	0
-advanced	http://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part-1	Modern Core Graphics with Swift: Part 1	CoreGraphics		20150210	0	0
+advanced	http://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part-1	Modern Core Graphics with Swift: Part 1	CoreGraphics:UIBezierPath:BezierArc		20150210	0	0
 advanced	http://owensd.io/2015/02/09/swift-1.2-performance.html	Swift v1.2 Performance			20150210	0	0
 advanced	http://nshipster.com/swift-1.2	Swift 1.2			20150209	0	0
 advanced	http://medium.com/ios-os-x-development/restkit-tutorial-how-to-fetch-data-from-an-api-into-core-data-9326af750e10	RESTKit Tutorial: how to fetch data from a RESTful API into Core Data	CoreData		20150203	0	0
@@ -722,8 +722,8 @@ advanced	http://www.raywenderlich.com/95181/whats-new-in-swift-1-2	What’s New 
 advanced	http://medium.com/swift-programming/ios-swift-parse-com-part-3-sign-up-sign-in-sign-out-security-349adc94ef0e	iOS + Swift +  parse.com -  Part 3 (Sign Up, Sign In, Sign Out + Security)	ParseSDK		20150211	0	0
 advanced	http://airspeedvelocity.net/2015/02/11/changes-to-the-swift-standard-library-in-1-2-beta-1	Changes to the Swift Standard Library in 1.2 beta 1			20150211	0	0
 advanced	http://www.codingexplorer.com/multiple-optional-bindings-swift-1-2	Multiple Optional Bindings in Swift 1.2			20150211	0	0
-advanced	http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2	Modern Core Graphics with Swift: Part 2: Gradients and Contexts			20150211	0	0
-advanced	http://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3	Modern Core Graphics with Swift: Part 3: Patterns and Playgrounds			20150212	0	0
+advanced	http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2	Modern Core Graphics with Swift: Part 2: Gradients and Contexts	CoreGraphics:UIBezierPath:transitionFromView:CGContextDrawLinearGradient:addClip		20150211	0	0
+advanced	http://www.raywenderlich.com/90695/modern-core-graphics-with-swift-part-3	Modern Core Graphics with Swift: Part 3: Patterns and Playgrounds	CoreGraphics:UIBezierPath:UIGraphicsGetImageFromCurrentImageContext:CGContextDrawLinearGradient:CGAffineTransformMakeScale:CGAffineTransformTranslate:CGContextSetShadowWithColor:CGContextBeginTransparencyLayer		20150212	0	0
 advanced	http://gilesvangruisen.com/uicollectionviewflowlayout-animation-timing	UICollectionViewFlowLayout animation timing			20150211	0	0
 advanced	http://www.andrewcbancroft.com/2015/02/12/custom-uitableviewcell-text-input-swift	Custom UITableViewCell for Text Input in Swift	UITableView		20150212	0	0
 advanced	http://medium.com/swift-programming/how-to-display-parse-com-images-in-a-table-view-ios-swift-parse-com-f73dd68adb5e	How to display parse.com images in a table view. iOS, Swift, Parse.com	UITableView:ParseSDK		20150213	0	0
@@ -1833,8 +1833,8 @@ advanced	http://ericasadun.com/2015/09/28/swift-identities	Tracking Swift Identi
 advanced	http://www.raywenderlich.com/113686/ios-animation-tutorial-introduction-easy-animation	iOS Animation Tutorial: Introduction to Easy Animation	animation		20150929	0	0
 libs	https://github.com/shu223/iOS-9-Sampler	Code examples for the new features of iOS 9.			20010101	0	0
 advanced	http://artsy.github.io/blog/2015/09/24/mvvm-in-swift	MVVM in Swift	mvvm		20150927	0	0
-beginner	http://nsscreencast.com/episodes/187-swift-2-basics	Swift 2 Basics	SwiftLang:video:beginner		20150917	0	0
-beginner	http://nsscreencast.com/episodes/189-swift-2-functions-and-extensions	Swift 2 Functions and Extensions	SwiftLang:video:beginner		20151001	0	0
+#beginner	http://nsscreencast.com/episodes/187-swift-2-basics	Swift 2 Basics	SwiftLang:video:beginner		20150917	0	0
+#beginner	http://nsscreencast.com/episodes/189-swift-2-functions-and-extensions	Swift 2 Functions and Extensions	SwiftLang:video:beginner		20151001	0	0
 advanced	http://medium.com/the-traveled-ios-developers-guide/tuples-pattern-matching-1f4ae9817112	Tuples + Pattern Matching	tuple:PatternMatching		20150620	0	0
 libs	https://github.com/DreamingInBinary/GenericDatasource	A Swift implementation of a generic datasource that you can use for table views.			20010101	0	0
 libs	https://github.com/mamaral/Neon	A powerful Swift programmatic UI layout framework.			20010101	0	0
@@ -3896,3 +3896,63 @@ advanced	http://blog.jtribe.com.au/none-nil-swift-is-awesome/	Swifticle - .None,
 advanced	http://blog.jtribe.com.au/rxswift-for-beginners/	RxSwift for Beginners: Part 1	RxSwift		20160229	0	0
 advanced	http://blog.jtribe.com.au/how-to-create-a-uiscrollview-with-auto-layout-and-storyboards-w-swift-2-0-part-2-dynamic-views/	How to create a UIScrollView with Auto Layout and Storyboards w/ Swift 2.0 | Part 2: Dynamic Views	UIScrollView		20150924	0	0
 advanced	http://blog.jtribe.com.au/how-to-create-a-uiscrollview-with-auto-layout-and-storyboards-w-swift-2-0-part-1-static-views/	How to create a UIScrollView with Auto Layout and Storyboards w/ Swift 2.0 | Part 1: Static Views	UIScrollView		20150904	0	0
+advanced	https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2	Swift Tutorial: Initialization In Depth, Part 2/2			20160412	0	0
+advanced	http://blog.udacity.com/2016/04/getting-ready-for-swift-3-0.html	Getting ready for Swift 3.0			20160412	0	0
+advanced	http://nsscreencast.com/episodes/170-testing-with-quick	Episode #170: Testing with Quick	video		20150521	1	0
+advanced	http://nsscreencast.com/episodes/171-nsdatecomponents	Episode #171: NSDateComponents	video		20150529	1	0
+advanced	http://nsscreencast.com/episodes/172-magic-move	Episode #172: Magic Move	video		20150604	1	0
+advanced	http://nsscreencast.com/episodes/173-interactive-magic-move	Episode #173: Interactive Magic Move	video		20150611	1	0
+advanced	http://nsscreencast.com/episodes/174-local-notifications	Episode #174: Local Notifications	video		20150618	1	0
+advanced	http://nsscreencast.com/episodes/175-nsoperation-basics	Episode #175: NSOperation Basics	video		20150626	1	0
+advanced	http://nsscreencast.com/episodes/176-asynchronous-operations	Episode #176: Asynchronous Operations	video		20150703	1	0
+advanced	http://nsscreencast.com/episodes/177-nsoperation-dependencies	Episode #177: NSOperation Dependencies	video		20150709	1	0
+advanced	http://nsscreencast.com/episodes/178-getting-started-with-carthage	Episode #178: Getting Started with Carthage	video		20150723	1	0
+advanced	http://nsscreencast.com/episodes/179-carthage-for-library-authors	Episode #179: Carthage for Library Authors	video		20150727	1	0
+advanced	http://nsscreencast.com/episodes/180-advanced-nsoperations	Episode #180: Advanced NSOperations	video		20150730	1	0
+advanced	http://nsscreencast.com/episodes/181-cgimagesource	Episode #181: CGImageSource	video		20150806	1	0
+advanced	http://nsscreencast.com/episodes/182-screen-savers-part-1	Episode #182: Screen Savers - Part 1	video		20150813	1	0
+advanced	http://nsscreencast.com/episodes/183-screen-savers-part-2	Episode #183: Screen Savers Part 2	video		20150820	1	0
+advanced	http://nsscreencast.com/episodes/184-dznemptydataset	Episode #184: DZNEmptyDataSet	video		20150827	1	0
+advanced	http://nsscreencast.com/episodes/185-self-sizing-cells-and-dynamic-type	Episode #185: Self Sizing Cells and Dynamic Type	video		20150904	1	0
+advanced	http://nsscreencast.com/episodes/186-uistackview	Episode #186: UIStackView	video		20150917	1	0
+advanced	http://nsscreencast.com/episodes/187-swift-2-basics	Episode #187: Swift 2 Basics	video		20150917	0	0
+advanced	http://nsscreencast.com/episodes/188-app-transport-security	Episode #188: App Transport Security	video		20150924	1	0
+advanced	http://nsscreencast.com/episodes/189-swift-2-functions-and-extensions	Episode #189: Swift 2 Functions and Extensions	video		20151001	0	0
+advanced	http://nsscreencast.com/episodes/190-custom-url-protocols	Episode #190: Custom URL Protocols	video		20151001	1	0
+advanced	http://nsscreencast.com/episodes/191-swift-2-optionals	Episode #191: Swift 2 Optionals	video		20151008	1	0
+advanced	http://nsscreencast.com/episodes/192-handoff	Episode #192: Handoff	video		20151008	1	0
+advanced	http://nsscreencast.com/episodes/193-in-app-search	Episode #193: In App Search	video		20151015	1	0
+advanced	http://nsscreencast.com/episodes/194-modeling-api-endpoints	Episode #194: Modeling API Endpoints	video		20151029	1	0
+advanced	http://nsscreencast.com/episodes/195-intro-to-apple-tv	Episode #195: Intro to Apple TV	video		20151105	1	0
+advanced	http://nsscreencast.com/episodes/196-careplicatorlayer	Episode #196: CAReplicatorLayer	video		20151106	1	0
+advanced	http://nsscreencast.com/episodes/197-mastering-tv-focus	Episode #197: Mastering TV Focus	video		20151116	1	0
+advanced	http://nsscreencast.com/episodes/198-nsstv-part-1-project-setup	Episode #198: NSSTV Part 1 Project Setup	video		20151119	1	0
+advanced	http://nsscreencast.com/episodes/199-nsstv-part-2-icons-and-artwork	Episode #199: NSSTV Part 2 - Icons and Artwork	video		20151203	1	0
+advanced	http://nsscreencast.com/episodes/200-building-a-watchkit-app	Episode #200: Building a WatchKit App	WatchKit:video		20151218	1	0
+advanced	http://nsscreencast.com/episodes/201-building-a-watchkit-glance	Episode #201: Building a WatchKit Glance	WatchKit:video		20151218	1	0
+advanced	http://nsscreencast.com/episodes/202-building-a-watchkit-complication	Episode #202: Building a WatchKit Complication	WatchKit:video		20160104	1	0
+advanced	http://nsscreencast.com/episodes/203-json-api-client	Episode #203: JSON API Client	json:video		20160107	1	0
+advanced	http://nsscreencast.com/episodes/204-json-api-client-part-2	Episode #204: JSON API Client - Part 2	json:video		20160114	1	0
+advanced	http://nsscreencast.com/episodes/205-tableview-customization	Episode #205: TableView Customization	UITableView:video		20160122	1	0
+advanced	http://nsscreencast.com/episodes/206-more-tableview-customization	Episode #206: More TableView Customization	UITableView:video		20160128	1	0
+advanced	http://nsscreencast.com/episodes/207-intro-to-text-kit	Episode #207: Intro to Text Kit	TextKit:video		20160211	1	0
+advanced	http://nsscreencast.com/episodes/208-syntax-highlighting-with-textkit	Episode #208: Syntax Highlighting with TextKit	TextKit:video		20160218	1	0
+advanced	http://nsscreencast.com/episodes/209-cool-text-effects	Episode #209: Cool Text Effects	TextKit:video		20160219	1	0
+advanced	http://nsscreencast.com/episodes/210-cool-text-effects-part-2	Episode #210: Cool Text Effects - Part 2	TextKit:video		20160225	1	0
+advanced	http://nsscreencast.com/episodes/211-indenting-text-with-text-kit	Episode #211: Indenting Text with Text Kit	TextKit:video		20160303	1	0
+advanced	http://nsscreencast.com/episodes/212-fastlane	Episode #212: Fastlane	fastlane:video		20160310	1	0
+advanced	http://nsscreencast.com/episodes/213-icon-badging-with-fastlane	Episode #213: Icon Badging with Fastlane	fastlane:video		20160328	1	0
+advanced	http://nsscreencast.com/episodes/214-swift-on-linux	Episode #214: Swift on Linux	Linux:video		20160328	1	0
+advanced	http://nsscreencast.com/episodes/215-custom-dragging-with-uicollectionview	Episode #215: Custom Dragging with UICollectionView	UICollectionView:video		20160401	1	0
+advanced	http://nsscreencast.com/episodes/216-swift-web-frameworks	Episode #216: Swift Web Frameworks	web:video		20160407	1	0
+advanced	http://ericasadun.com/2016/04/12/proposal-spotlight-se-0045-add-scan-takewhile-dropwhile-and-iterate-to-the-stdlib/	Proposal Spotlight: SE-0045 Add scan, takeWhile, dropWhile, and iterate to the stdlib			20160412	0	0
+advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models			20160412	1	0
+advanced	http://peterwitham.com/swift/intermediate/swift-error-throwing-catching/	Swift Error Throwing and Catching	exceptions		20160412	0	0
+advanced	http://metova.com/blog/dev/problem-implicitly-unwrapped-optionals/	The Problem with Implicitly Unwrapped Optionals			20160412	0	0
+advanced	http://inessential.com/2016/04/12/high-level_events	High-Level Events			20160412	0	0
+advanced	http://ericasadun.com/2016/04/12/sensible-cocoa-and-cocoa-touch-defaults/	Sensible Cocoa and Cocoa Touch Defaults			20160412	0	0
+advanced	http://ericasadun.com/2016/04/13/stop-the-madness-and-fix-the-swift-api-guidelines/	Stop the Madness and fix the Swift API guidelines			20160413	0	0
+advanced	https://www.raywenderlich.com/131522/video-tutorial-intermediate-ios-animations-part-3-animation-timing	Video Tutorial: Intermediate iOS Animations Part 3: Animation Timing			20160413	0	0
+advanced	http://www.thomashanning.com/nil-coalescing-operator/	Swift: The Nil Coalescing Operator			20160413	0	0
+advanced	https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/	Blending Cultures			20160414	0	0
+					20160414	0	0
