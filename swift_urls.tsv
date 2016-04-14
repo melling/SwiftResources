@@ -3946,13 +3946,12 @@ advanced	http://nsscreencast.com/episodes/214-swift-on-linux	Episode #214: Swift
 advanced	http://nsscreencast.com/episodes/215-custom-dragging-with-uicollectionview	Episode #215: Custom Dragging with UICollectionView	UICollectionView:video		20160401	1	0
 advanced	http://nsscreencast.com/episodes/216-swift-web-frameworks	Episode #216: Swift Web Frameworks	web:video		20160407	1	0
 advanced	http://ericasadun.com/2016/04/12/proposal-spotlight-se-0045-add-scan-takewhile-dropwhile-and-iterate-to-the-stdlib/	Proposal Spotlight: SE-0045 Add scan, takeWhile, dropWhile, and iterate to the stdlib			20160412	0	0
-advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models			20160412	1	0
+advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models	video:animation		20160412	1	0
 advanced	http://peterwitham.com/swift/intermediate/swift-error-throwing-catching/	Swift Error Throwing and Catching	exceptions		20160412	0	0
 advanced	http://metova.com/blog/dev/problem-implicitly-unwrapped-optionals/	The Problem with Implicitly Unwrapped Optionals			20160412	0	0
 advanced	http://inessential.com/2016/04/12/high-level_events	High-Level Events			20160412	0	0
 advanced	http://ericasadun.com/2016/04/12/sensible-cocoa-and-cocoa-touch-defaults/	Sensible Cocoa and Cocoa Touch Defaults			20160412	0	0
 advanced	http://ericasadun.com/2016/04/13/stop-the-madness-and-fix-the-swift-api-guidelines/	Stop the Madness and fix the Swift API guidelines			20160413	0	0
-advanced	https://www.raywenderlich.com/131522/video-tutorial-intermediate-ios-animations-part-3-animation-timing	Video Tutorial: Intermediate iOS Animations Part 3: Animation Timing			20160413	0	0
+advanced	https://www.raywenderlich.com/131522/video-tutorial-intermediate-ios-animations-part-3-animation-timing	Video Tutorial: Intermediate iOS Animations Part 3: Animation Timing	video:animation		20160413	0	0
 advanced	http://www.thomashanning.com/nil-coalescing-operator/	Swift: The Nil Coalescing Operator			20160413	0	0
-advanced	https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/	Blending Cultures			20160414	0	0
-					20160414	0	0
+advanced	https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/	Blending Cultures	video		20160414	0	0
