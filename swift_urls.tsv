@@ -3952,6 +3952,28 @@ advanced	http://metova.com/blog/dev/problem-implicitly-unwrapped-optionals/	The 
 advanced	http://inessential.com/2016/04/12/high-level_events	High-Level Events			20160412	0	0
 advanced	http://ericasadun.com/2016/04/12/sensible-cocoa-and-cocoa-touch-defaults/	Sensible Cocoa and Cocoa Touch Defaults			20160412	0	0
 advanced	http://ericasadun.com/2016/04/13/stop-the-madness-and-fix-the-swift-api-guidelines/	Stop the Madness and fix the Swift API guidelines			20160413	0	0
-advanced	https://www.raywenderlich.com/131522/video-tutorial-intermediate-ios-animations-part-3-animation-timing	Video Tutorial: Intermediate iOS Animations Part 3: Animation Timing	video:animation		20160413	0	0
+advanced	https://www.raywenderlich.com/131522/video-tutorial-intermediate-ios-animations-part-3-animation-timing	Video Tutorial: Intermediate iOS Animations Part 3: Animation Timing	video:animation		20160413	1	0
 advanced	http://www.thomashanning.com/nil-coalescing-operator/	Swift: The Nil Coalescing Operator			20160413	0	0
 advanced	https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/	Blending Cultures	video		20160414	0	0
+advanced	https://youtu.be/iafSFDlr7g4	Create a Carousel! (iCarousel : Swift 2 in Xcode)	video		20160413	0	0
+advanced	http://appventure.me/2016/04/14/force-optionals-in-guard-or-let-optional-binding/	Force optionals in multi-unwrapped ''guard let'' or ''if let''	guard		20160413	0	0
+advanced	http://www.raizlabs.com/dev/2016/04/swift-mistakes-ive-made/	Swift Mistakes I’ve Made – Learning Swift Best Practices			20160412	0	0
+advanced	https://medium.com/swift-programming/swift-pretty-in-print-pt-2-640cea920653	Swift: Pretty in print() Pt. 2			20160414	0	0
+advanced	http://ericasadun.com/2016/04/14/building-os-x-drag-and-drop-playgrounds/	Building OS X Drag and Drop Playgrounds	playground		20160414	0	0
+advanced	https://www.andrewcbancroft.com/2016/04/14/adding-buttons-to-the-navigation-bar-with-storyboards/	Adding Buttons to the Navigation Bar with Storyboards	storyboards		20160414	0	0
+advanced	https://www.raywenderlich.com/131629/video-tutorial-intermediate-ios-animation-part-4-animation-groups	Video Tutorial: Intermediate iOS Animation Part 4: Animation Groups	video:animation		20160414	1	0
+advanced	http://www.wooji-juice.com/blog/stupid-swift-tricks-5-enums.html	Stupid Swift Tricks #5 - Pickable Enums	enum		20160408	0	0
+advanced	http://foxinswift.com/2016/04/12/generics-and-the-art-of-inference-part-1-of-3/	Generics and the Art of Inference Part 1 of 3	generics		20160412	0	0
+libs	https://github.com/delba/TextAttributes	An easier way to compose attributed strings			20160414	0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/recreating-kais-power-tools-goo-in-swift.html	Recreating Kai's Power Tools Goo in Swift	CoreImage		20160415	0	0
+advanced	https://www.raywenderlich.com/97941/paintcode-swift-tutorial-part-2-custom-progress-bar	PaintCode Tutorial for Developers: Custom Progress Bar	PaintCode		20160415	0	0
+advanced	http://www.wooji-juice.com/blog/stupid-swift-tricks-2.html	Stupid Swift Tricks #2: Coalescing Updates			20150206	0	0
+advanced	http://www.wooji-juice.com/blog/stupid-swift-tricks-3.html	Stupid Swift Tricks #3: Observations on Value Types			20150218	0	0
+advanced	http://www.wooji-juice.com/blog/swift-genius-of-protocols.html	Swift: The Genius of Protocols	protocol		20150814	0	0
+advanced	http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html	Stupid Swift Tricks #4: Writing A Big App In It			20160311	0	0
+advanced	http://foxinswift.com/2015/06/11/swift-2-0-type-introspection/	Swift 2.0 Type Introspection	Introspection		20150111	0	0
+advanced	http://foxinswift.com/2015/07/09/recreating-defer-sytax-in-swift-1-2/	Recreating Defer Syntax in Swift 1.2	defer		20150709	0	0
+advanced	http://foxinswift.com/2015/08/17/cast-free-arithmetic/	Cast-Free Arithmetic			20150817	0	0
+advanced	http://foxinswift.com/2015/12/30/swift-in-gists/	Swift Gist Favorites of 2015			20151230	0	0
+advanced	http://foxinswift.com/2016/01/03/trying-to-build-a-better-hashable/	Trying to Build a Better Hashable			20160103	0	0
+advanced	http://ericasadun.com/2016/04/15/triassic-park-the-swift-evolution/	Triassic Park: The Swift Evolution			20160415	0	0
