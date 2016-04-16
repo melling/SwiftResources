@@ -35,10 +35,12 @@ class UrlRecord {
     var image: String
     var date: Int
     var isPaywall: Int
+    var apisUsed: String
     var recType: Int
+    var key: Int
 
-    init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, image: String, date: Int, isPaywall: Int, recType: Int) {
-        
+    init(id: Int, groupNum: Int, source: String, url: String, title: String, githubName: String, tags: String, image: String, date: Int, isPaywall: Int, apisUsed: String, recType: Int, key: Int) {
+
         self.id = id
         self.groupNum = groupNum
         self.source = source
@@ -49,7 +51,9 @@ class UrlRecord {
         self.image = image
         self.date = date
         self.isPaywall = isPaywall
+        self.apisUsed = apisUsed
         self.recType = recType
+        self.key = key
     }
 }
 
@@ -57,33 +61,34 @@ var database:[UrlRecord] = []
 
 func readLines(filePath: String) -> [String] {
     //    var stream:NSStream = NSStream
-    
+
     var allLines:[String] = []
-    
+
     if let fileManager =  NSFileManager.defaultManager() as NSFileManager! {
         let fileExists = fileManager.fileExistsAtPath(filePath)
         if fileExists {
             let data:NSData? = fileManager.contentsAtPath(filePath)
-            
+
             let aString = NSString(data: data!, encoding: NSUTF8StringEncoding)
-            
+
             let str1:String = aString as! String
             allLines = str1.componentsSeparatedByString("\n")
-            
+
         } else {
             print("file not found: \(filePath)")
         }
-        
-        
+
+
     }
     return allLines
-    
+
 }
 
 func writeGoVar(groupNum: Int, url: String, name: String,
-    source: String, githubName:String, 
+    source: String, githubName:String,
     tags: String, image: String, date: Int,
-     isPaywall: Int, recType: Int) {
+     isPaywall: Int, apisUsed: String,
+      recType: Int, key: Int) {
         var allTagStr = ""
 
         let lowerTitle = name.lowercaseString
@@ -94,11 +99,11 @@ func writeGoVar(groupNum: Int, url: String, name: String,
                 allTagStr += "\"\(t)\","
             }
       }
-        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date), \(isPaywall), \(recType)  },")
+        print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date), \(isPaywall), \"\(apisUsed)\", \(recType), \(key)  },")
 }
 
 func deriveSource(url: String) -> (String, String) {
-    
+
     var source = "n/a"
     var githubName = ""
     var F:[String] // Translated from Perl?
@@ -113,13 +118,13 @@ func deriveSource(url: String) -> (String, String) {
             githubName = ""
         }
     } else if url.hasPrefix("http") { //(url =~ m#^http://([a-zA-Z0-9.\-\!\#]*)/#) {
-        
+
         source = F[0].stringByReplacingOccurrencesOfString("www.", withString: "", options: NSStringCompareOptions.LiteralSearch, range: nil) //  source =~ s/www[.]//;
     } else {
         source = url
         //    source =~ s/http:\/\///;
         //    my @F = split(/\//, url);
-        
+
         //    # my @F = split(source,'/');
         source = F[0]
     }
@@ -136,7 +141,7 @@ for line in lines {
     if !(line.hasPrefix("#") || line.hasPrefix(" ")) {
         let aLine = line.componentsSeparatedByString("\t")
         if aLine.count > 1 {
-            
+
             if let groupNum = groupNumbers[aLine[0]] {
                 let url = aLine[1]
                 var (source, githubName) = deriveSource(url)
@@ -156,19 +161,28 @@ for line in lines {
 
                 var isPaywall:Int? = Int(aLine[6])
 
-                if (isPaywall == nil) {
+                if isPaywall == nil {
                     isPaywall = 0
                 }
 
-                var recType:Int? = Int(aLine[7])
+                let apisUsed = aLine[7]
 
-                if (recType == nil) {
+                var recType:Int? = Int(aLine[8])
+
+                if recType == nil {
                     recType = 0
                 }
-                let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, image: image, date: date!, isPaywall: isPaywall!, recType: recType!)
+
+                var recordKey:Int? = Int(aLine[9])
+
+                if recordKey == nil {
+                    recordKey = 0
+                }
+
+                let rec = UrlRecord(id: i, groupNum: groupNum, source: source, url: url, title: title, githubName: githubName, tags: tags, image: image, date: date!, isPaywall: isPaywall!, apisUsed: apisUsed, recType: recType!, key:recordKey!)
                 database.append(rec)
-                
-                
+
+
             } else {
                 print("Error: Invalid Group: \(line)")
             }
@@ -180,17 +194,17 @@ for line in lines {
 }
 
 func printTagsArray() {
-    
+
     let names = allTags.keys.sort( { $0.lowercaseString < $1.lowercaseString } )
-    
+
     let varName = "var tagNameList = []string{"
-    
+
     print("\(varName)")
     for name in names {
         print("\"\(name)\",", terminator:" ")
     }
     print("}")
-    
+
 }
 
 func printTagCountVar() {
@@ -206,7 +220,7 @@ database.sortInPlace({ (rec1, rec2) -> Bool in
     if rec1.groupNum < rec2.groupNum {
         return true
     } else if rec1.groupNum == rec2.groupNum {
-        
+
         if rec1.date > rec2.date { // most recent first
             return true
         } else if rec1.date == rec2.date {
@@ -238,13 +252,15 @@ for row in database {
             }
         }
     }
-    
+
     writeGoVar(row.groupNum, url:row.url, name:row.title, source:row.source, githubName: row.githubName, tags:row.tags,
      image:row.image, date:row.date,
-      isPaywall:row.isPaywall, recType: row.recType)
+      isPaywall:row.isPaywall,
+      apisUsed: row.apisUsed,
+      recType: row.recType,
+      key: row.key)
 }
 print("}")
 
 printTagsArray()
 printTagCountVar()
-
