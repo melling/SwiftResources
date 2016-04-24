@@ -4002,3 +4002,52 @@ libs	https://github.com/beryu/CustomizableActionSheet	Action sheet allows includ
 libs	https://github.com/abdulKarim002/activityIndicator	Activity Indicator			20160418	0		0	0
 libs	https://github.com/tejas-ardeshna/TJTextField	UITextField with underline and left image	UITextField		20160418	0		0	0
 libs	https://github.com/rishi420/WARDoorView	Door open/close animation in iOS	animation		20160418	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/04/14/error-recovery-attempter.html	Presenting unanticipated errors to users			20160414	0		0	0
+advanced	http://ericasadun.com/2016/04/18/ask-erica-how-do-i-count-with-reduce/	Ask Erica: How do I count with reduce?			20160418	0		0	0
+advanced	http://ericasadun.com/2016/04/18/fast-tracking-swift-reviews/	Fast-tracking Swift reviews			20160418	0		0	0
+advanced	http://ericasadun.com/2016/04/18/default-reflection/	Default reflection			20160418	0		0	0
+advanced	https://robots.thoughtbot.com/observables-and-callbacks-and-threading-oh-my	Observables, and Callbacks and Threading, Oh My!			20160418	0		0	0
+advanced	https://www.invasivecode.com/weblog/replicator-layer-core-animation/	Replicator Layer	ReplicatorLayer		20160418	0		0	0
+advanced	http://swiftandpainless.com/what-to-learn-first/	What to learn first			20160419	0		0	0
+advanced	https://medium.com/swift-programming/struct-style-printing-of-classes-in-swift-7ee34f1c975a	Struct-Style Printing of Classes in Swift			20160419	0		0	0
+advanced	https://www.raywenderlich.com/122295/os-x-stack-views-nsstackview	OS X Stack Views with NSStackView	mac:NSStackView		20160419	0		0	0
+advanced	http://www.iosinsight.com/setneedsdisplay-and-drawrect-explained/	setNeedsDisplay And drawRect Explained			20160414	0		0	0
+advanced	http://limlab.io/swift/2016/04/09/swift-sequences-and-generators.html	Sequences and Genarators			20160409	0		0	0
+libs	https://github.com/Yalantis/DisplaySwitcher	Custom transition between two collection view layouts			20160418	0		0	0
+libs	https://github.com/shu223/Pulsator	Pulse animation for iOS			20160418	0		0	0
+libs	https://github.com/yannickl/DynamicButton	Yet another animated flat buttons			20160418	0		0	0
+advanced	https://www.raywenderlich.com/132066/video-tutorial-intermediate-ios-animation-part-7-layer-keyframes	Video Tutorial: Intermediate iOS Animation Part 7: Layer Keyframes	animation:video		20160419	1		0	0
+advanced	https://medium.com/swift-programming/upgrade-your-tableviews-with-loading-state-in-swift-1fdce34ada77	Upgrade your TableViews with Loading State in Swift	UITableView		20160419	0		0	0
+advanced	http://ericasadun.com/2016/04/19/nostalgia/	Nostalgia			20160419	0		0	0
+advanced	http://ericasadun.com/2016/04/19/the-tao-of-pattern-matchage/	The Tao of Pattern Matchage			20160419	0		0	0
+advanced	http://www.raizlabs.com/dev/2016/04/core-data-type-safety-with-swift/	Core Data Type Safety with Swift	CoreData		20160420	0		0	0
+advanced	https://www.raywenderlich.com/132071/video-tutorial-intermediate-ios-animation-part-8-shape-mask-animations	Video Tutorial: Intermediate iOS Animation Part 8: Shape And Mask Animations	animation:video		20160420	1		0	0
+advanced	http://ericasadun.com/2016/04/20/style-q-returning-on-default/	Style q: Returning on default?			20160420	0		0	0
+advanced	http://ericasadun.com/2016/04/20/se-0066-the-one-argument-function-outlier/	SE-0066: The one-argument function outlier			20160420	0		0	0
+advanced	https://medium.com/swift-programming/swift-pretty-in-print-pt-3-22dbc52c412c	Swift: Pretty in print() Pt. 3			20160420	0		0	0
+advanced	http://www.thomashanning.com/swift-use-cases-for-guard/	Swift: Use Cases For Guard			20160420	0		0	0
+advanced	https://realm.io/news/alex-leffelman-migrating-to-realm-ios/	Migrating to Realm on iOS			20160421	0		0	0
+advanced	https://www.raywenderlich.com/123463/nsoutlineview-os-x-tutorial	NSOutlineView on OS X Tutorial	mac		20160421	0		0	0
+advanced	http://ericasadun.com/2016/04/21/dear-erica-string-matching-without-foundation/	Dear Erica: String matching without Foundation			20160421	0		0	0
+advanced	http://softwaredesign.jeffverkoeyen.com/enumerate-xcuielementquery-in-swift/	Enumerate XCUIElementQuery in Swift			20160421	0		0	0
+advanced	http://ericasadun.com/2016/04/21/the-rules-of-swift-evolution/	The rules of Swift Evolution			20160421	0		0	0
+advanced	https://www.raywenderlich.com/132077/video-tutorial-intermediate-ios-animation-part-9-gradient-animations	Video Tutorial: Intermediate iOS Animation Part 9: Gradient Animations			20160421	1		0	0
+advanced	http://www.mav3r1ck.io/the-compiler-linker-loader/	The Compiler, linker & loader			20160421	0		0	0
+advanced	http://swiftandpainless.com/using-a-playground-instead-of-keynote/	Using a Playground instead of Keynote	playground		20160422	0		0	0
+advanced	http://sketchytech.blogspot.com/2016/04/bytes-for-beginners-build-your-own-int.html	Bytes for Beginners: Build your own Int to binary string extension in Swift (also includes other number bases)			20160422	0		0	0
+advanced	https://www.raywenderlich.com/125071/nstask-tutorial-os-x	NSTask Tutorial for OS X	mac		20160422	0		0	0
+advanced	http://code.tutsplus.com/tutorials/spritekit-from-scratch-fundamentals--cms-26326	SpriteKit From Scratch: Fundamentals	SpriteKit		20160422	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/histogram-functions-in-accelerate-vimage.html	Histogram Functions in Accelerate vImage			20160422	0		0	0
+advanced	https://www.raywenderlich.com/132162/video-tutorial-intermediate-ios-animation-part-10-stroke-animations	Video Tutorial: Intermediate iOS Animation Part 10: Stroke Animations			20160422	1		0	0
+advanced	https://www.raywenderlich.com/132170/video-tutorial-intermediate-ios-animation-part-11-conclusion	Video Tutorial: Intermediate iOS Animation Part 11: Conclusion			20160422	1		0	0
+advanced	http://youtu.be/RgoJTGQ09B4	Using Tiled! (Swift 2 in Xcode)	video		20160422	0		0	0
+advanced	http://bjmiller.me/post/143143277507	Simple Email Address Validation for iOS			20160420	0		0	0
+advanced	http://waynewbishop.com/swift/recursion	Learn Recursion with Swift			20160421	0		0	0
+advanced	http://andybargh.com/swift-strings/l	Swift Strings	strings		20160421	0		0	0
+advanced	http://mattcomi.tumblr.com/post/143043907238/struct-style-printing-of-classes-in-swift	Struct-Style Printing of Classes in Swift			20160419	0		0	0
+advanced	http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/	Compile Time vs. Run Time Type Checking in Swift			20160413	0		0	0
+libs	https://github.com/shaps80/Peek	Take a Peek at your application			20160419	0		0	0
+libs	https://github.com/KevinCoble/AIToolbox	A toolbox of AI modules written in Swift: Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms			20160419	0		0	0
+libs	https://github.com/delba/JASON	Fast JSON parsing for Swift	json		20160419	0		0	0
+advanced	http://tonyarnold.com/2016/04/20/xcode-build-duration.html	How to show the duration of builds in Xcode	xcode		20160420	0		0	0
+advanced	http://ankit.im/swift/2016/04/22/playing-with-llbuild-core/	Playing with llbuild core in swift!			20160422	0		0	0
