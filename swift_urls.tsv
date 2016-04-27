@@ -4051,3 +4051,18 @@ libs	https://github.com/KevinCoble/AIToolbox	A toolbox of AI modules written in 
 libs	https://github.com/delba/JASON	Fast JSON parsing for Swift	json		20160419	0		0	0
 advanced	http://tonyarnold.com/2016/04/20/xcode-build-duration.html	How to show the duration of builds in Xcode	xcode		20160420	0		0	0
 advanced	http://ankit.im/swift/2016/04/22/playing-with-llbuild-core/	Playing with llbuild core in swift!			20160422	0		0	0
+advanced	http://alisoftware.github.io/swift/2016/04/24/pattern-matching-3/	Pattern Matching, Part 3: Custom pattern matching & syntactic sugar	PatternMatching		20160423	0		0	0
+advanced	http://candycode.io/support-links-in-text-on-ios/	Supporting links in text			20160424	0		0	0
+advanced	http://www.thomashanning.com/swift-filter/	Swift: filter	filter:map		20160424	0		0	0
+advanced	http://nshipster.com/uitextchecker/	UITextChecker			20160425	0		0	0
+advanced	http://christiantietze.de/posts/2016/04/type-safe-segues/	Type-Safe Storyboard Segues			20160425	0		0	0
+advanced	http://useyourloaf.com/blog/static-tables-and-dynamic-type/	Static Tables and Dynamic Type			20160425	0		0	0
+advanced	https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/	An Artsy Testing Tour	video		20160425	0		0	0
+advanced	https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift	ReactiveCocoa vs RxSwift			20160426	0		0	0
+advanced	http://ericasadun.com/2016/04/26/ruby-tuesday-slicing-arrays/	Ruby Tuesday: Slicing arrays			20160426	0		0	0
+advanced	https://www.raywenderlich.com/132563/rwdevcon-2016-session-103-beginning-uistackview-2	RWDevCon 2016 Session 103: Beginning UIStackView			20160426	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/vimage-histogram-functions-part-ii.html	vImage Histogram Functions Part II: Specification	CoreImage		20160427	0		0	0
+advanced	https://www.raywenderlich.com/132574/rwdevcon-2016-session-202-programming-swift-style-2	RWDevCon 2016 Session 202: Programming in a Swift Style			20160427	0		0	0
+advanced	http://www.appcoda.com/geo-targeting-ios/	Building a Geo Targeting iOS App in Swift			20160427	0		0	0
+advanced	https://youtu.be/BNFPc_-y3Vw	‪IBInspectable UIView Borders Tutorial in Swift - Xcode 7.3 iOS 9.3‬	video		20160425	0		0	0
+advanced	http://appventure.me/2016/04/23/associated-types-enum-raw-value-initializers/	Raw value initializers for enums with associated types	enum		20160422	0		0	0
