@@ -4080,3 +4080,121 @@ advanced	http://holko.pl/2016/04/26/xcode-search/	Xcode Search: the Hidden Gems	
 advanced	http://www.apokrupto.com/blog-1/2016/3/17/coordinators-with	Coordinators with Storyboards	storyboards		20160427	0		0	0
 advanced	https://medium.com/@danielgalasko/change-your-api-endpoint-environment-using-xcode-configurations-in-swift-c1ad2722200e	Change your API endpoint/environment using Xcode Configurations in Swift			20160424	0		0	0
 advanced	https://pspdfkit.com/blog/2016/running-ui-tests-with-ludicrous-speed/	Running UI Tests on iOS With Ludicrous Speed	testing		20160427	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/04/28/listing-calendar-events-with-event-kit-and-swift/	Listing Calendar Events with Event Kit and Swift			20160428	0		0	0
+advanced	https://www.raywenderlich.com/132577/rwdevcon-2016-session-303-introduction-protocol-oriented-programming-2	RWDevCon 2016 Session 303: Introduction to Protocol-Oriented Programming	protocol		20160428	0		0	0
+advanced	http://www.russbishop.net/swift-associated-types-cont	Swift Associated Types, cont.			20160428	0		0	0
+advanced	http://blog.jtribe.com.au/title/	Photo Transitions Just Like Apple & Facebook			20160428	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/creating-lens-flare-filter-in-core-image.html	Creating a Lens Flare Filter in Core Image	CoreImage		20160429	0		0	0
+advanced	https://realm.io/news/slug-jad-osseiran-protocol-extension-list-controller/	Protocol Extensions, Meet List Controllers			20160429	0		0	0
+advanced	https://medium.com/swift-programming/swift-do-something-useful-with-zip-map-and-reduce-3b0603ba9e60	Swift Do Something Useful with Zip, Map, and Reduce			20160429	0		0	0
+advanced	http://code.tutsplus.com/tutorials/spritekit-from-scratch-constraints-and-actions--cms-26340	SpriteKit From Scratch: Constraints and Actions	SpriteKit		20160429	0		0	0
+advanced	http://www.youtube.com/watch?v=Sv6pANLl4LA	#2 Core Data: Setting up the Core Data Stack	CoreData		20160429	0		0	0
+advanced	https://the-nerd.be/2015/08/07/load-assets-from-bundle-resources-in-cocoapods/	Load assets from bundle resources in Cocoapods			20160429	0		0	0
+advanced	http://inessential.com/2016/04/29/in_praise_of_swift	In Praise of Swift			20160429	0		0	0
+libs	https://github.com/teodorpatras/Jukebox	Player for streaming local and remote audio files	audio		20160429	0		0	0
+libs	https://github.com/dekatotoro/PlaybackButton	iOS animation playback button inspired by the playback button of YouTube for web			20160429	0		0	0
+libs	https://github.com/gtsif21/UIKeyboardLikePickerTextField	UITextField with UIPicker instead of keyboard as input view. Same as the Picker when you tap to a dropdown in Safari iOS.			20160429	0		0	0
+libs	https://github.com/anpufeng/ETNetwork	swift network library based on Alamofire			20160429	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/simulating-bokeh-with-metal-performance.html	Simulating Bokeh with Metal Performance Shaders	CoreImage:Metal		20160430	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/04/simulating-depth-of-field-with-variable.html	Simulating Depth-of-Field with Variable Bokeh in Core Image	CoreImage		20160501	0		0	0
+advanced	http://oleb.net/blog/2016/05/default-arguments-in-protocols/	Protocol-Oriented Logging, or: Default Arguments in Swift Protocols	protocol		20160501	0		0	0
+advanced	http://nshint.io/blog/2016/05/02/wrapping-apis-using-the-builder-pattern/	Wrapping API's using the Builder Pattern			20160501	0		0	0
+advanced	http://candycode.io/a-practical-mvvm-example-in-swift-part-1/	A practical MVVM example in Swift – Part 1	MVVM		20160502	0		0	0
+advanced	http://useyourloaf.com/blog/readable-width-of-table-view-cells/	Readable Width of Table View Cells			20160502	0		0	0
+advanced	https://medium.com/swift-programming/the-why-of-nonmutating-7ecd2cf17ecf	The why of nonmutating			20160502	0		0	0
+advanced	https://realm.io/news/tryswift-yasuhiro-inami-parser-combinator/	Parser Combinators in Swift	video		20160502	0		0	0
+advanced	https://www.raywenderlich.com/133455/video-tutorial-beginning-core-graphics-series-introduction	Video Tutorial: Beginning Core Graphics: Series Introduction	CoreGraphics:video		20160502	0		0	0
+advanced	https://www.raywenderlich.com/133460/video-tutorial-beginning-core-graphics-part-1-getting-started	Video Tutorial: Beginning Core Graphics Part 1: Getting Started	CoreGraphics:video		20160502	0		0	0
+advanced	http://code.tutsplus.com/tutorials/how-to-automate-screenshots-with-fastlane--cms-26151	How to Automate Screenshots With fastlane	fastlane		20160502	0		0	0
+advanced	http://ericasadun.com/2016/05/02/survival-of-the-swiftest-whats-up-in-swift-evolution/	Survival of the Swiftest: What’s up in Swift Evolution			20160502	0		0	0
+advanced	http://ericasadun.com/2016/05/02/dear-erica-why-doesnt-nslog-support-swift-objects/	Dear Erica: Why doesn’t NSLog support Swift objects			20160502	0		0	0
+advanced	http://ericasadun.com/2016/05/02/the-great-space-delimited-comma-war/	The great space-delimited comma war			20160502	0		0	0
+libs	https://github.com/zelic91/ZAlertView	A quite cool customizable AlertView			20160502	0		0	0
+libs	https://github.com/indevizible/EasyTransition	EasyTransition is a simple library for make a transition			20160502	0		0	0
+libs	https://github.com/mbutan/MBPhotoPicker	Easy and quick in implementation Photo Picker, based on Slack's picker			20160502	0		0	0
+libs	https://github.com/shoheiyokoyama/SYBlinkAnimationKit	SYBlinkAnimationKit is a blink effect animation framework 			20160502	0		0	0
+libs	https://github.com/spromicky/RCPickerButton	Simple button for marking some items as selected			20160502	0		0	0
+libs	https://github.com/pbradshawusc/NavGrid	iOS Grid-Style Navigation Controller with swipe navigation			20160502	0		0	0
+libs	https://github.com/itsmeichigo/URLPreview	An NSURL extension for showing preview info of webpages			20160502	0		0	0
+advanced	https://realm.io/news/marin-todorov-fine-grained-notifications/	Building a Simple Swift App With Fine-Grained Notifications			20160502	0		0	0
+advanced	http://iosdeveloperzone.com/2016/05/02/using-scenekit-and-coremotion-in-swift/	Using SceneKit and CoreMotion in Swift	SceneKit:CoreMotion		20160502	0		0	0
+advanced	http://www.russbishop.net/swift-why-associated-types	Swift: Why Associated Types?			20160503	0		0	0
+advanced	https://www.raywenderlich.com/128313/parse-server-tutorial	Migrating to Parse Server	ParseSDK		20160503	0		0	0
+advanced	http://christiantietze.de/posts/2016/05/emoji-bytes-lost/	What I Did When I Found Emojis in Strings Always Lost the Last Byte			20160503	0		0	0
+advanced	http://ericasadun.com/2016/05/03/playground-secrets-update-and-new-tricks/	Playground Secrets: Update and new tricks	playground		20160503	0		0	0
+advanced	https://www.raywenderlich.com/133465/video-tutorial-beginning-core-graphics-part-2-paths	Video Tutorial: Beginning Core Graphics Part 2: Paths	CoreGraphics:video		20160503	1		0	0
+advanced	https://www.raywenderlich.com/133468/video-tutorial-beginning-core-graphics-part-3-contexts-1	Video Tutorial: Beginning Core Graphics Part 3: Contexts 1	CoreGraphics:video		20160504	1		0	0
+libs	https://github.com/FlexMonkey/InnerPlanetCurves/tree/master	Draws Cubic Bezier Curve Between Earth & Venus Using Mercury & Mars as Control Points			20160503	0		0	0
+libs	https://github.com/rakaramos/OnOffButton	On & Off by Creativedash			20160503	0		0	0
+libs	https://github.com/suzuki-0000/CountdownLabel	Simple countdown UILabel with morphing animation, and some useful function.			20160503	0		0	0
+libs	https://github.com/DanisFabric/FollowKeyboard	Keep your views visible when keyboard is being shown			20160503	0		0	0
+libs	https://github.com/saru2020/SARMaterialDesignSpinner	Swift version of MMMaterialDesignSpinner which was inspired from Google's Material Design Guidelines			20160503	0		0	0
+advanced	http://iosdeveloperzone.com/2016/05/05/shinkansenspeed-mapkit-and-corelocation-in-swift/?utm_source=rss&utm_medium=rss&utm_campaign=shinkansenspeed-mapkit-and-corelocation-in-swift	ShinkansenSpeed: MapKit and CoreLocation in Swift	MapKit:CoreLocation		20160505	0		0	0
+advanced	https://www.smashingmagazine.com/2016/05/better-architecture-for-ios-apps-model-view-controller-pattern/	A Better Architecture For iOS Apps: A Deep Look At The Model-View-Controller Pattern			20160504	0		0	0
+libs	https://github.com/larrynatalicio/15DaysofAnimationsinSwift	15 Days of Animations in Swift			20160503	0		0	0
+advanced	https://www.apteligent.com/developer-resources/building-a-native-tvos-dashboard-app/	Building a native tvOS dashboard app	AppleTV		20160504	0		0	0
+libs	https://github.com/jayfk/server-side-swift-starter	Server side swift starter template			20160502	0		0	0
+libs	https://github.com/r0fls/swiftstats	Statistics for Swift	statistics		20160502	0		0	0
+advanced	https://spin.atomicobject.com/2016/05/02/testing-swift-code	Testing with Swift – Approaches & Useful Libraries	testing		20160502	0		0	0
+advanced	http://cutting.io/posts/stateful-mixins-in-swift/	Stateful mixins in Swift			20160427	0		0	0
+advanced	https://www.raywenderlich.com/123100/collection-data-structures-swift-2	Collection Data Structures in Swift			20160505	0		0	0
+advanced	http://www.codingexplorer.com/error-handling-swift/	Error Handling in Swift	exceptions		20160505	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html	Comparing Swift to C++ for parsing			20160501	0		0	0
+advanced	https://realm.io/news/slug-jeff-bergier-teaching-swift-non-developers/	Teaching Swift to Non-Developers	video		20160505	0		0	0
+advanced	https://www.shinobicontrols.com/blog/scripting-in-swift	Scripting in Swift	scripting		20160505	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/05/05/working-with-swift-adopt-a-protocol-or-pass-a-function/	Working with Swift: Adopt a Protocol or Pass a Function?			20160505	0		0	0
+advanced	https://www.raywenderlich.com/133473/video-tutorial-beginning-core-graphics-part-4-contexts-2	Video Tutorial: Beginning Core Graphics Part 4: Contexts 2	CoreGraphics:video		20160505	1		0	0
+advanced	http://ericasadun.com/2016/05/05/world-war-string/	World War String			20160505	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/a-histogram-display-component-in-swift.html	A Histogram Display Component in Swift for iOS	graph		20160506	0		0	0
+advanced	https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31	Regarding Swift build time optimizations			20160505	0		0	0
+libs	https://github.com/onmyway133/github.swift	Unofficial GitHub API client in Swift			20160505	0		0	0
+libs	https://github.com/marmelroy/Interpolate	Swift interpolation for gesture-driven animations			20160505	0		0	0
+libs	https://github.com/phatblat/Outlets	Utility functions for validating IBOutlet and IBAction connections			20160505	0		0	0
+advanced	https://www.raywenderlich.com/125718/coding-auto-layout	Easier Auto Layout: Coding Constraints in iOS 9	AutoLayout		20160506	0		0	0
+advanced	https://www.raywenderlich.com/133675/video-tutorial-beginning-core-graphics-part-5-paintcode	Video Tutorial: Beginning Core Graphics Part 5: PaintCode	CoreGraphics:video		20160506	1		0	0
+advanced	http://code.tutsplus.com/tutorials/spritekit-from-scratch-physics-and-collisions--cms-26413	SpriteKit From Scratch: Physics and Collisions	SpriteKit		20160506	0		0	0
+advanced	https://www.raywenderlich.com/133686/video-tutorial-beginning-core-graphics-part-6-conclusion	Video Tutorial: Beginning Core Graphics Part 6: Conclusion	CoreGraphics:video		20160506	1		0	0
+advanced	https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift/	Recursive Tail Calls and Trampolines in Swift			20160504	0		0	0
+advanced	http://www.brianjcoleman.com/tutorial-how-to-test-your-app-for-ipv6-compatibility/	Tutorial: How to test your app for IPv6 compatibility			20160506	0		0	0
+libs	https://github.com/jubinjacob19/ExpandableTableView	Generic View Controller which can be used to show expandable sections in apps like FAQs			20160506	0		0	0
+libs	https://github.com/oyvind-hauge/OHCircleSegue	Custom UIStoryBoardSegue with circular transition/animation			20160506	0		0	0
+libs	https://github.com/mustafaibrahim989/MICountryPicker	MICountryPicker is a country picker controller for iOS8+ with an option to search			20160506	0		0	0
+libs	https://github.com/MosheBerman/PatronKit	A framework to add patronage to your apps			20160506	0		0	0
+libs	https://github.com/ltebean/LTInfiniteScrollView-Swift	Paged scrollview allowing easily applying animation			20160506	0		0	0
+libs	https://github.com/mmick66/KDRearrangeableCollectionViewFlowLayout	This is a simple implementation of a drag and rearrange collection view through its layout			20160506	0		0	0
+libs	https://github.com/igormatyushkin014/Baggage	Simplifying work with clipboard in iOS			20160506	0		0	0
+libs	https://github.com/yukiasai/Minamo	Simple coach mark library written in Swift			20160506	0		0	0
+libs	https://github.com/gazolla/GetCurrency	List all currencies available in NSLocale programmatically			20160506	0		0	0
+libs	https://github.com/soberman/ARSLineProgress	iOS progress bar, replacement for the default activity indicator			20160506	0		0	0
+libs	https://github.com/Morbix/CloudTagView	A custom view to create cloud of tags			20160506	0		0	0
+libs	https://github.com/RahulKatariya/RKParallaxEffect	RKParallax Effect is written in swift and provides API to create a parallax effect on UITableHeaderView with Full Screen option			20160506	0		0	0
+libs	https://github.com/avdyushin/SwiftDevice	UIDevice extension			20160506	0		0	0
+libs	https://github.com/fancymax/LunarCalendar	LunarCalendar for OS X	mac		20160506	0		0	0
+libs	https://github.com/sarunw/SWSegmentedControl	An Android-like tab bar, drop-in replacement for UISegmentedControl			20160506	0		0	0
+libs	https://github.com/Azuritul/AZExpandableIconListView	An expandable/collapsible view component			20160506	0		0	0
+libs	https://github.com/Hussein75/Sortable-Objects-Controller	A library for sorting custom objects into sections, good for UITableView and UICollectionView			20160506	0		0	0
+advanced	http://swiftandpainless.com/4th-problem-from-project-euler-in-swift/	4th Problem from Project Euler in Swift			20160507	0		0	0
+advanced	http://tech.jjude.com/double-loops/	Double loops are slower in Swift than in Python & Typescript			20160506	0		0	0
+advanced	https://swift.org/blog/swift-3-0-release-process/	Swift 3.0 Release Process			20160506	0		0	0
+libs	https://github.com/BalestraPatrick/RealmVideo	An iOS app to watch Realm videos and slides on your phone			20160506	0		0	0
+advanced	http://hackazach.net/autolayout/2016/05/04/autolayout-like-a-pirate	Autolayout like a pirate	AutoLayout		20160504	0		0	0
+advanced	https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961	Developing iOS 9 Apps with Swift - by Stanford	video		20160504	0		0	0
+advanced	http://blog.elpassion.com/dropcolour-now-open-source/	DropColour – Our Open-Source Arcade Game for iOS in Swift 2.2			20160504	0		0	0
+advanced	http://andybargh.com/swift-assertions	Swift Assertions			20160504	0		0	0
+libs	https://github.com/Ramotion/paper-onboarding	PaperOnboarding is a material design slider			20160504	0		0	0
+advanced	http://mhorga.org/2016/05/02/using-metalkit-part-10.html		metal		20160502	0		0	0
+advanced	http://mhorga.org/2016/04/18/using-metalkit-part-9.html	Using MetalKit part 9	metal		20160417	0		0	0
+advanced	http://mhorga.org/2016/03/07/using-metalkit-part-8.html	Using MetalKit part 8	metal		20160306	0		0	0
+advanced	http://mhorga.org/2016/02/29/using-metalkit-part-7.html	Using MetalKit part 7	metal		20160228	0		0	0
+advanced	http://mhorga.org/2016/02/15/using-metalkit-part-6.html	Using MetalKit part 6	metal		20160214	0		0	0
+advanced	http://mhorga.org/2016/02/08/using-metalkit-part-5.html	Using MetalKit part 5	metal		20160207	0		0	0
+advanced	http://mhorga.org/2016/02/01/using-metalkit-part-4.html	Using MetalKit part 4	metal		20160131	0		0	0
+advanced	http://mhorga.org/2016/01/25/using-metalkit-part-3.html	Using MetalKit part 3	metal		20160124	0		0	0
+advanced	http://mhorga.org/2016/01/18/using-metalkit-part-2.html	Using MetalKit part 2	metal		20160117	0		0	0
+advanced	http://mhorga.org/2016/01/11/using-metalkit-part-1.html	Using MetalKit part 1	metal		20160110	0		0	0
+advanced	http://mhorga.org/2016/03/14/a-first-look-at-the-swift-express-web-server.html	A first look at the Swift Express web server			20160313	0		0	0
+advanced	http://mhorga.org/2016/03/21/ray-tracing-in-a-swift-playground.html	Ray tracing in a Swift playground	raytracing		20160320	0		0	0
+advanced	http://mhorga.org/2016/03/28/ray-tracing-in-a-swift-playground-part-2.html	Ray tracing in a Swift playground part 2	raytracing		20160327	0		0	0
+advanced	http://mhorga.org/2016/04/05/ray-tracing-in-a-swift-playground-part-3.html	Ray tracing in a Swift playground part 3	raytracing		20160404	0		0	0
+advanced	http://mhorga.org/2016/04/09/ray-tracing-in-a-swift-playground-part-4.html	Ray tracing in a Swift playground part 4	raytracing		20160408	0		0	0
+advanced	http://mhorga.org/2016/04/11/ray-tracing-in-a-swift-playground-part-5.html	Ray tracing in a Swift playground part 5	raytracing		20160410	0		0	0
