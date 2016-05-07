@@ -4198,3 +4198,7 @@ advanced	http://mhorga.org/2016/03/28/ray-tracing-in-a-swift-playground-part-2.h
 advanced	http://mhorga.org/2016/04/05/ray-tracing-in-a-swift-playground-part-3.html	Ray tracing in a Swift playground part 3	raytracing		20160404	0		0	0
 advanced	http://mhorga.org/2016/04/09/ray-tracing-in-a-swift-playground-part-4.html	Ray tracing in a Swift playground part 4	raytracing		20160408	0		0	0
 advanced	http://mhorga.org/2016/04/11/ray-tracing-in-a-swift-playground-part-5.html	Ray tracing in a Swift playground part 5	raytracing		20160410	0		0	0
+advanced	http://khanlou.com/2016/04/the-GCD-handbook/	The GCD Handbook	concurrency		20160425	0		0	0
+libs	https://github.com/liu044100/Smile-Lock	A library for make a beautiful Passcode Lock View			20160502	0		0	0
+libs	https://github.com/osnr/Screenotate	Automatically annotate your screenshots	mac		20160502	0		0	0
+libs	https://github.com/mitchtreece/Threader	Pretty GCD calls and easier code execution	concurrency		20160502	0		0	0
