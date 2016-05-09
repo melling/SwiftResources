@@ -4222,4 +4222,42 @@ advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patte
 advanced	https://medium.com/the-traveled-ios-developers-guide/ios-citizenship-part-i-b5d7ecc4b1b9	iOS Citizenship: Part I			20160304	0		0	0
 advanced	https://medium.com/the-traveled-ios-developers-guide/a-swift-refactor-831e9a8f18a	A Swift Refactor			20160326	0		0	0
 advanced	https://medium.com/the-traveled-ios-developers-guide/access-control-swift-b158b37031d6	Access Control + Swift			20160421	0		0	0
-advanced	https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/	Boundaries in Practice	video		20160509	0		0	0
+advanced	https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/	Boundaries in Practice	CoreGraphics:video		20160509	0		0	0
+advanced	https://www.raywenderlich.com/133799/video-tutorial-intermediate-core-graphics-part-1-gradients	Video Tutorial: Intermediate Core Graphics Part 1: Gradients	CoreGraphics:video		20160509	1		0	0
+advanced	http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/	Swift Guide to Map Filter Reduce			20160509	0		0	0
+advanced	http://kristina.io/clockkit-deep-dive-text-providers-clockkit-2/	ClockKit Deep Dive: Text Providers	WatchKit		20160503	0		0	0
+libs	https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode	Build Time Analyzer for Swift			20160503	0		0	0
+libs	https://github.com/symentis/Palau	NSUserDefaults with Wings			20160503	0		0	0
+advanced	http://jasdev.me/nonmutating	Swift's nonmutating Keyword			20160501	0		0	0
+advanced	https://theswiftdev.com/2016/04/28/clockkit-complications-cheat-sheet/	ClockKit complications cheat sheet	WatchKit		20160428	0		0	0
+advanced	https://theswiftdev.com/2016/05/04/15-swift-gist-nslayoutconstraint-init/	15. Swift gist: NSLayoutConstraint+Init.swift	AutoLayout		20160504	0		0	0
+advanced	http://theswiftdev.com/2016/04/25/14-swift-gist-dummy-nscoder-subclass/	14. Swift gist: Dummy NSCoder subclass			20160425	0		0	0
+advanced	http://theswiftdev.com/2016/04/14/more-than-a-year/	CILinearGradient issues: solved.			20160414	0		0	0
+advanced	http://theswiftdev.com/2016/04/11/13-swift-gist-array-elementatindex/	13. Swift gist: Array+ElementAtIndex			20160411	0		0	0
+advanced	http://theswiftdev.com/2016/03/29/corekit-cocoaphase-cvmc-design-pattern/	Cocoaphase + CoreKit + CVMC design pattern			20160329	0		0	0
+advanced	https://theswiftdev.com/2016/03/03/best-cocoapods-tutorial/	Best CocoaPods tutorial			20160303	0		0	0
+advanced	http://theswiftdev.com/2016/03/02/12-swift-gist-uifont-family-variants/	12. Swift gist: UIFont + family variants			20160302	0		0	0
+advanced	http://theswiftdev.com/2016/02/24/11-swift-gist-uifont-sizes/	11. Swift gist: UIFont + sizes			20160224	0		0	0
+advanced	http://theswiftdev.com/2016/02/22/how-to-parse-json-in-swift/	How to parse JSON in Swift?	json		20160222	0		0	0
+advanced	http://theswiftdev.com/2016/02/17/10-swift-gist-nstimeinterval-constants/	10. Swift gist: NSTimeinterval constants			20160217	0		0	0
+advanced	http://theswiftdev.com/2016/02/10/9-swift-gist-push-with-completion/	9. Swift gist: push with completion			20160210	0		0	0
+advanced	http://theswiftdev.com/2016/02/03/8-swift-gist-delay/	8. Swift gist: Delay			20160203	0		0	0
+advanced	http://theswiftdev.com/2016/01/30/all-about-ssl-app-transport-security/	All about: SSL + App Transport Security			20160130	0		0	0
+advanced	http://theswiftdev.com/2016/01/20/7-swift-gist-uiedgeinsets-init-extension/	7. Swift gist: UIEdgeInsets + init extension			20160120	0		0	0
+advanced	http://theswiftdev.com/2016/01/13/6-swift-gist-nsdate-components/	6. Swift gist: NSDate + components			20160113	0		0	0
+advanced	http://theswiftdev.com/2016/01/06/5-swift-gist-dlog-aka-death-to-nslog/	5. Swift gist: dlog aka. death to NSLog			20160106	0		0	0
+advanced	http://theswiftdev.com/2016/01/02/swift-frameworks-and-xcode-workspaces/	Swift frameworks and Xcode workspaces	xcode		20160102	0		0	0
+advanced	http://theswiftdev.com/2015/12/30/swift-gist-uiviewcontroller-hierarchy/	4. Swift gist: UIViewController hierarchy			20151230	0		0	0
+advanced	http://theswiftdev.com/2015/12/23/3-swift-gist-super-cool-uicollectionview-reuse-extension/	3. Swift gist: super cool UICollectionView reuse extension			20151223	0		0	0
+advanced	http://theswiftdev.com/2015/12/16/2-swift-gist-nsdata-json-parser/	2. Swift gist: NSData + JSON parser			20151216	0		0	0
+advanced	http://theswiftdev.com/2015/12/11/1-swift-gist-cgfloat-scaled-pixel/	1. Swift gist: CGFloat+ScaledPixel			20151211	0		0	0
+advanced	http://theswiftdev.com/2015/12/02/collectionview-cells-with-circular-images/	CollectionView cells with circular images			20151202	0		0	0
+advanced	https://theswiftdev.com/2015/10/15/networking-not-just-for-tvos-bonjour-tcp-udp-corebluetooth/	Networking - not just for tvOS - Bonjour, TCP, UDP, CoreBluetooth			20151015	0		0	0
+advanced	https://theswiftdev.com/2015/09/17/first-os-x-tutorial-how-to-launch-an-os-x-app-at-login/	First OS X tutorial: How to launch an OS X app at login?	mac		20150917	0		0	0
+advanced	http://theswiftdev.com/2015/08/05/swift-init-patterns/	Swift init patterns			20150805	0		0	0
+advanced	https://theswiftdev.com/2015/04/22/animating-corner-radius/	Animating corner radius			20150422	0		0	0
+advanced	https://theswiftdev.com/2015/04/11/interface-builder-or-code/	Interface Builder or code?			20150411	0		0	0
+advanced	https://theswiftdev.com/2015/03/28/auto-layout-with-layers/	Auto Layout with layers	AutoLayout		20150328	0		0	0
+advanced	http://theswiftdev.com/2015/02/26/building-swift-frameworks/	Building swift frameworks			20150226	0		0	0
+advanced	https://theswiftdev.com/2015/02/23/core-data-preparation/	CoreData preparation	CoreData		20150223	0		0	0
+advanced	http://theswiftdev.com/2015/02/16/auto-layout-and-view-initializations/	Auto layout and view initializations	AutoLayout		20150216	0		0	0
