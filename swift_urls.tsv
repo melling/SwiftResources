@@ -4209,7 +4209,7 @@ advanced	http://flexmonkey.blogspot.com/2016/05/histogram-equalisation-with-meta
 advanced	http://christiantietze.de/posts/2016/05/getting-started-swift-write-tests/	How to Get Started with Swift: Write New Tests in Swift			20160508	0		0	0
 advanced	http://www.mav3r1ck.io/error-handling-with-swift/	Error handling with Swift			20160508	0		0	0
 advanced	http://peterwitham.com/swift/intermediate/accessing-files-stored-application-bundle-ios-swift/	Accessing Files stored in Application Bundle on iOS with Swift			20160508	0		0	0
-advanced	https://www.raywenderlich.com/133798/video-tutorial-intermediate-core-graphics-series-introduction	Video Tutorial: Intermediate Core Graphics: Series Introduction			20160509	0		0	0
+advanced	https://www.raywenderlich.com/133798/video-tutorial-intermediate-core-graphics-series-introduction	Video Tutorial: Intermediate Core Graphics: Series Introduction	CoreGraphics:video		20160509	0		0	0
 advanced	https://youtu.be/lm1d2Pe1Mqw	Cocoapods for Absolute Beginners	BuidlingBuddies:video		20160508	0		0	0
 advanced	http://www.norchops.com/dependency-injection	Four Types of Dependency Injection in Swift			20160425	0		0	0
 advanced	http://www.norchops.com/lazy-dependency-injection	Getting Lazy with Protocols and Dependency Injection			20160505	0		0	0
@@ -4224,7 +4224,7 @@ advanced	https://medium.com/the-traveled-ios-developers-guide/a-swift-refactor-8
 advanced	https://medium.com/the-traveled-ios-developers-guide/access-control-swift-b158b37031d6	Access Control + Swift			20160421	0		0	0
 advanced	https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/	Boundaries in Practice	CoreGraphics:video		20160509	0		0	0
 advanced	https://www.raywenderlich.com/133799/video-tutorial-intermediate-core-graphics-part-1-gradients	Video Tutorial: Intermediate Core Graphics Part 1: Gradients	CoreGraphics:video		20160509	1		0	0
-advanced	http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/	Swift Guide to Map Filter Reduce			20160509	0		0	0
+advanced	http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/	Swift Guide to Map Filter Reduce	map:filter		20160509	0		0	0
 advanced	http://kristina.io/clockkit-deep-dive-text-providers-clockkit-2/	ClockKit Deep Dive: Text Providers	WatchKit		20160503	0		0	0
 libs	https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode	Build Time Analyzer for Swift			20160503	0		0	0
 libs	https://github.com/symentis/Palau	NSUserDefaults with Wings			20160503	0		0	0
@@ -4261,3 +4261,12 @@ advanced	https://theswiftdev.com/2015/03/28/auto-layout-with-layers/	Auto Layout
 advanced	http://theswiftdev.com/2015/02/26/building-swift-frameworks/	Building swift frameworks			20150226	0		0	0
 advanced	https://theswiftdev.com/2015/02/23/core-data-preparation/	CoreData preparation	CoreData		20150223	0		0	0
 advanced	http://theswiftdev.com/2015/02/16/auto-layout-and-view-initializations/	Auto layout and view initializations	AutoLayout		20150216	0		0	0
+libs	https://github.com/Polidea/RxBluetoothKit	iOS & OSX Bluetooth library for RxSwift	bluetooth		20160509	0		0	0
+libs	https://github.com/jessesquires/DefaultStringConvertible	A default CustomStringConvertible implementation for Swift types	string		20160509	0		0	0
+libs	https://github.com/SwiftKit/Cuckoo	First boilerplate-free mocking framework for Swift			20160509	0		0	0
+advanced	https://medium.com/@caiobzen/coreanimation-is-pure-love-%EF%B8%8F-7925664d1311	CoreAnimation is pure love	animation		20160417	0		0	0
+libs	https://github.com/producthunt/producthunt-osx	The best new products, every day on Mac	mac		20160417	0		0	0
+libs	https://github.com/kirualex/SwiftyGif	High performance GIF engine			20160417	0		0	0
+libs	https://github.com/alsedi/AnimatedSwitch	UISwitch which paints over the parent view with the color			20160417	0		0	0
+libs	https://github.com/soyersoyer/SwCrypt	RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X	mac:ios		20160417	0		0	0
+libs	https://github.com/mobileplayer/mobileplayer-ios	A powerful and completely customizable media player for iOS			20160417	0		0	0
