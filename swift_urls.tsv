@@ -3432,7 +3432,6 @@ advanced	https://labs.ribot.co.uk/sharing-functionality-across-tvos-and-ios-228c
 advanced	http://www.raywenderlich.com/126373/video-tutorial-beginning-ios-animation-part-10-troubleshooting-animations-gone-wrong	Video Tutorial: Beginning iOS Animation Part 10: Troubleshooting Animations Gone Wrong	animation		20160219	1		0	0
 advanced	http://www.raywenderlich.com/126377/video-tutorial-beginning-ios-animation-part-11-conclusion	Video Tutorial: Beginning iOS Animation Part 11: Conclusion	animation		20160219	1		0	0
 advanced	http://www.robpercival.co.uk/parse-server-on-heroku	Setting Up Parse Server On Heroku For iOS			20160220	0		0	0
-advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-3-231f82cbb781	Architecture Patterns in iOS: Part 3			20160220	0		0	0
 advanced	http://www.appcoda.com/socket-io-chat-app	Swift Tutorial: Building an iOS Chat App Using Socket.IO			20160221	0		0	0
 advanced	https://medium.com/@flarup/designing-for-the-apple-tv-5992c3aab1e4	Designing for the Apple TV	AppleTV:design		Split laps timer with RxSwift and RxCocoa	Split laps timer with RxSwift and RxCocoa		Split laps timer with RxSwift and RxCocoa	Split laps timer with RxSwift and RxCocoa
 libs	https://github.com/necolt/swifton	A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X	WebFramework		20160219	0		0	0
@@ -4206,3 +4205,21 @@ advanced	https://pspdfkit.com/blog/2016/running-ui-tests-with-ludicrous-speed	Ru
 advanced	http://holko.pl/2016/04/26/xcode-search	Xcode Search: the Hidden Gems	xcode		20160426	0		0	0
 advanced	https://medium.com/posts-from-emmerge/ios-push-notification-background-fetch-demystified-7090358bb66e	iOS Push Notification Background Download Demystified			20160420	0		0	0
 libs	https://github.com/winslowdibona/TabDrawer	TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer			20160420	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/histogram-equalisation-with-metal.html	Histogram Equalisation with Metal Performance Shaders	metal:shader		20160508	0		0	0
+advanced	http://christiantietze.de/posts/2016/05/getting-started-swift-write-tests/	How to Get Started with Swift: Write New Tests in Swift			20160508	0		0	0
+advanced	http://www.mav3r1ck.io/error-handling-with-swift/	Error handling with Swift			20160508	0		0	0
+advanced	http://peterwitham.com/swift/intermediate/accessing-files-stored-application-bundle-ios-swift/	Accessing Files stored in Application Bundle on iOS with Swift			20160508	0		0	0
+advanced	https://www.raywenderlich.com/133798/video-tutorial-intermediate-core-graphics-series-introduction	Video Tutorial: Intermediate Core Graphics: Series Introduction			20160509	0		0	0
+advanced	https://youtu.be/lm1d2Pe1Mqw	Cocoapods for Absolute Beginners	BuidlingBuddies:video		20160508	0		0	0
+advanced	http://www.norchops.com/dependency-injection	Four Types of Dependency Injection in Swift			20160425	0		0	0
+advanced	http://www.norchops.com/lazy-dependency-injection	Getting Lazy with Protocols and Dependency Injection			20160505	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/protocol-extensions-1e86b04509c7	Swift’s Protocol Extensions			20151126	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/they-say-it-s-all-about-how-you-finish-d0203c7fbe8a#.fgiv38ucb	Swift + Initialization			20151117	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/arc-swift-d323535baecb	ARC + Swift			20160109	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-1-8d4ad146c266	Architecture Patterns in iOS: Part 1			20160122	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-2-fac1180e0251	Architecture Patterns in iOS: Part 2			20160206	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-3-231f82cbb781	Architecture Patterns in iOS:Part 3			20160220	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/ios-citizenship-part-i-b5d7ecc4b1b9	iOS Citizenship: Part I			20160304	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/a-swift-refactor-831e9a8f18a	A Swift Refactor			20160326	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/access-control-swift-b158b37031d6	Access Control + Swift			20160421	0		0	0
+advanced	https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/	Boundaries in Practice	video		20160509	0		0	0
