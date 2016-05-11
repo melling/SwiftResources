@@ -4222,7 +4222,7 @@ advanced	https://medium.com/the-traveled-ios-developers-guide/architecture-patte
 advanced	https://medium.com/the-traveled-ios-developers-guide/ios-citizenship-part-i-b5d7ecc4b1b9	iOS Citizenship: Part I			20160304	0		0	0
 advanced	https://medium.com/the-traveled-ios-developers-guide/a-swift-refactor-831e9a8f18a	A Swift Refactor			20160326	0		0	0
 advanced	https://medium.com/the-traveled-ios-developers-guide/access-control-swift-b158b37031d6	Access Control + Swift			20160421	0		0	0
-advanced	https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/	Boundaries in Practice	CoreGraphics:video		20160509	0		0	0
+advanced	https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/	Boundaries in Practice			20160509	0		0	0
 advanced	https://www.raywenderlich.com/133799/video-tutorial-intermediate-core-graphics-part-1-gradients	Video Tutorial: Intermediate Core Graphics Part 1: Gradients	CoreGraphics:video		20160509	1		0	0
 advanced	http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/	Swift Guide to Map Filter Reduce	map:filter		20160509	0		0	0
 advanced	http://kristina.io/clockkit-deep-dive-text-providers-clockkit-2/	ClockKit Deep Dive: Text Providers	WatchKit		20160503	0		0	0
@@ -4270,3 +4270,18 @@ libs	https://github.com/kirualex/SwiftyGif	High performance GIF engine			2016041
 libs	https://github.com/alsedi/AnimatedSwitch	UISwitch which paints over the parent view with the color			20160417	0		0	0
 libs	https://github.com/soyersoyer/SwCrypt	RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X	mac:ios		20160417	0		0	0
 libs	https://github.com/mobileplayer/mobileplayer-ios	A powerful and completely customizable media player for iOS			20160417	0		0	0
+advanced	http://ericasadun.com/2016/05/09/swift-3-0-release-process/	Swift 3.0 Release Process			20160109	0		0	0
+advanced	http://mhorga.org/2016/05/10/using-metalkit-part-11.html	Using MetalKit part 11	metal		20160109	0		0	0
+advanced	http://ericasadun.com/2016/05/09/this-weeks-swift-evolution-reviews/	This week’s Swift Evolution reviews			20160109	0		0	0
+advanced	http://iosdeveloperzone.com/2016/05/10/getting-started-with-modelio/	Getting Started with ModelIO			20160510	0		0	0
+advanced	https://www.raywenderlich.com/124005/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-1	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 1	SpriteKit		20160510	0		0	0
+advanced	https://www.raywenderlich.com/124006/make-game-like-space-invaders-sprite-kit-swift-tutorial-part-2	How To Make a Game Like Space Invaders with Sprite Kit and Swift Tutorial: Part 2	SpriteKit		20160510	0		0	0
+advanced	https://www.shinobicontrols.com/blog/advanced-charting-for-ios-part-1-sampling	Advanced Charting for iOS – Part 1 Sampling	chart		20160510	0		0	0
+advanced	https://www.raywenderlich.com/133807/video-tutorial-intermediate-core-graphics-part-2-transforms	Video Tutorial: Intermediate Core Graphics Part 2: Transforms	CoreGraphics:video		20160510	1		0	0
+advanced	http://iosdeveloperzone.com/2016/05/10/implementing-a-360o-video-viewer-with-spritekit-and-scenekit/	Implementing a 360º Video Viewer with SpriteKit and SceneKit	SpriteKit:SceneKit		20160510	0		0	0
+libs	https://github.com/alexruperez/ARDeepLinkButton	#UIButton subclass that handle deep links, shows in-app #SKStoreProductViewController or redirects to the #AppStore			20160510	0		0	0
+libs	https://github.com/anas10/AASquaresLoading	Simple loading animation using squares			20160510	0		0	0
+libs	https://github.com/Khan/SwiftTweaks	Tweak your iOS app without recompiling			20160510	0		0	0
+advanced	http://blog.cocoapods.org/CocoaPods-1.0/	CocoaPods 1.0			20160510	0		0	0
+advanced	https://medium.com/faber-dev/swift-extensions-9dd12e0dc888	Swift extensions			20160510	0		0	0
+advanced	https://www.raywenderlich.com/123393/how-to-create-a-breakout-game-with-sprite-kit-and-swift	How To Create a Breakout Game with Sprite Kit and Swift: Part 1	SpriteKit		20160511	0		0	0
