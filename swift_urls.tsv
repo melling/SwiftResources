@@ -4285,3 +4285,18 @@ libs	https://github.com/Khan/SwiftTweaks	Tweak your iOS app without recompiling	
 advanced	http://blog.cocoapods.org/CocoaPods-1.0/	CocoaPods 1.0			20160510	0		0	0
 advanced	https://medium.com/faber-dev/swift-extensions-9dd12e0dc888	Swift extensions			20160510	0		0	0
 advanced	https://www.raywenderlich.com/123393/how-to-create-a-breakout-game-with-sprite-kit-and-swift	How To Create a Breakout Game with Sprite Kit and Swift: Part 1	SpriteKit		20160511	0		0	0
+advanced	https://www.raywenderlich.com/129904/create-breakout-game-sprite-kit-swift-part-2	How To Create a Breakout Game with Sprite Kit and Swift: Part 2	SpriteKit		20160511	0		0	0
+advanced	http://christiantietze.de/posts/2016/05/better-hidden-menus/	Better Sliding Menus			20160511	0		0	0
+advanced	http://ericasadun.com/2016/05/11/float-initialized-uicolors/	Float-initialized UIColors			20160511	0		0	0
+advanced	http://ericasadun.com/2016/05/11/guarding-against-an-empty-sequence/	Guarding against an empty sequence			20160511	0		0	0
+advanced	https://www.raywenderlich.com/133874/video-tutorial-intermediate-core-graphics-part-3-shadows	Video Tutorial: Intermediate Core Graphics Part 3: Shadows			20160511	1		0	0
+advanced	http://ericasadun.com/2016/05/11/swift-taxonomy-acceptances-and-rejections/	Swift Taxonomy: Acceptances and Rejections			20160511	0		0	0
+advanced	http://www.mokacoding.com/blog/nsdateformatter-json-date	NSDateFormatter format for JSON dates	json		20160511	0		0	0
+advanced	http://www.appcoda.com/swift-markdown/	Documenting Your Swift Code in Xcode Using Markdown	xcode		20160511	0		0	0
+advanced	https://realm.io/news/slug-javi-soto-building-fabric-in-swift/	Building Fabric.app in Swift	video		20160512	0		0	0
+advanced	https://www.raywenderlich.com/129895/sprite-kit-inverse-kinematics-swift-2	Sprite Kit and Inverse Kinematics with Swift			20160512	0		0	0
+advanced	http://www.russbishop.net/packing-bytes-in-swift	Packing Bytes in Swift			20160512	0		0	0
+libs	https://github.com/YannickL/Petal	Petal is a beautiful activity indicator to show that a task is in progress			20160512	0		0	0
+libs	https://github.com/AndreyPanov/AwesomeButton	UIButton inheritance with @IBDesignable and @IBInspectable force			20160512	0		0	0
+libs	https://github.com/RxSwiftCommunity/RxMediaPicker	A reactive wrapper built around UIImagePickerController			20160512	0		0	0
+libs	https://github.com/angelvasa/AVXCAssets-Generator	AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click			20160512	0		0	0
