@@ -2484,6 +2484,11 @@ advanced	http://littlebitesofcocoa.com/227	little bites of cocoa: #227: Convert 
 advanced	http://littlebitesofcocoa.com/228	little bites of cocoa: #228: Standard Setup - Authentication with Moya			20160406	0		0	0
 advanced	http://littlebitesofcocoa.com/229	little bites of cocoa: #229: Dependency or Not to Be?			20160407	0		0	0
 advanced	http://littlebitesofcocoa.com/230	little bites of cocoa: #230: More Fun with fastlane Actions	fastlane		20160408	0		0	0
+advanced	https://littlebitesofcocoa.com/231-fine-grained-notifications-in-realm	little bites of cocoa: #231: Fine-Grained Notifications in Realm	realm		20160502	0		0	0
+advanced	https://littlebitesofcocoa.com/232-practical-protocols	little bites of cocoa: #232: Practical Protocols	protocol		20160503	0		0	0
+advanced	https://littlebitesofcocoa.com/233-gesture-driven-animations-with-interpolate	little bites of cocoa: #233: Gesture-Driven Animations with Interpolate			20160504	0		0	0
+advanced	https://littlebitesofcocoa.com/234-queryable-live-inverse-realm-collections	little bites of cocoa: #234: Queryable, Live Inverse Realm Collections			20160505	0		0	0
+advanced	https://littlebitesofcocoa.com/235-debugging-slow-builds-with-buildtimeanalyzer	little bites of cocoa: #235: Debugging Slow Builds with BuildTimeAnalyzer			20160509	0		0	0
 advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	Split Views and Unexpected Keyboards	keyboard		20151122	0		0	0
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video		20151123	0		0	0
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode		20151123	0		0	0
@@ -3897,6 +3902,10 @@ advanced	http://nsscreencast.com/episodes/213-icon-badging-with-fastlane	Episode
 advanced	http://nsscreencast.com/episodes/214-swift-on-linux	Episode #214: Swift on Linux	Linux:video		20160328	1		0	0
 advanced	http://nsscreencast.com/episodes/215-custom-dragging-with-uicollectionview	Episode #215: Custom Dragging with UICollectionView	UICollectionView:video		20160401	1		0	0
 advanced	http://nsscreencast.com/episodes/216-swift-web-frameworks	Episode #216: Swift Web Frameworks	web:video		20160407	1		0	0
+advanced	http://nsscreencast.com/episodes/217-text-attachments	Episode #217: Text Attachments	video		20160414	1		0	0
+advanced	http://nsscreencast.com/episodes/218-core-data-with-swift	Episode #218: Core Data with Swift	CoreData:video		20160428	1		0	0
+advanced	http://nsscreencast.com/episodes/219-nscalendar	Episode #219: NSCalendar	video		20160506	1		0	0
+advanced	http://nsscreencast.com/episodes/220-easy-auth-part-1	Episode #220: Easy Auth - Part 1	video		20160512	1		0	0
 advanced	http://ericasadun.com/2016/04/12/proposal-spotlight-se-0045-add-scan-takewhile-dropwhile-and-iterate-to-the-stdlib/	Proposal Spotlight: SE-0045 Add scan, takeWhile, dropWhile, and iterate to the stdlib			20160412	0		0	0
 advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models	video:animation		20160412	1		0	0
 advanced	http://peterwitham.com/swift/intermediate/swift-error-throwing-catching/	Swift Error Throwing and Catching	exceptions		20160412	0		0	0
@@ -4299,4 +4308,25 @@ advanced	http://www.russbishop.net/packing-bytes-in-swift	Packing Bytes in Swift
 libs	https://github.com/YannickL/Petal	Petal is a beautiful activity indicator to show that a task is in progress			20160512	0		0	0
 libs	https://github.com/AndreyPanov/AwesomeButton	UIButton inheritance with @IBDesignable and @IBInspectable force			20160512	0		0	0
 libs	https://github.com/RxSwiftCommunity/RxMediaPicker	A reactive wrapper built around UIImagePickerController			20160512	0		0	0
-libs	https://github.com/angelvasa/AVXCAssets-Generator	AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click			20160512	0		0	0
+libs	https://github.com/angelvasa/AVXCAssets-Generator	AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click	mac:tools		20160512	0		0	0
+advanced	https://www.raywenderlich.com/133879/video-tutorial-intermediate-core-graphics-part-4-drawing-text-images	Video Tutorial: Intermediate Core Graphics Part 4: Drawing Text and Images			20160512	1		0	0
+advanced	http://ericasadun.com/2016/05/12/what-does-debug-mean-to-you/	What does Debug mean to you?			20160512	0		0	0
+advanced	http://ericasadun.com/2016/05/12/swift-3-0-pr-1-has-been-cut/	Swift 3.0 PR 1 has been cut			20160512	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/nodality-for-audiokit-node-based-synth.html	Nodality for AudioKit: Node Based Synth for iPad			20160513	0		0	0
+advanced	http://ericasadun.com/2016/05/13/first-parameters-swift-signatures-and-conditional-builds/	First parameters, Swift signatures, and conditional builds			20160513	0		0	0
+advanced	http://code.tutsplus.com/tutorials/spritekit-from-scratch-visual-and-audio-effects--cms-26448	SpriteKit From Scratch: Visual and Audio Effects	SpriteKit		20160513	0		0	0
+advanced	https://www.raywenderlich.com/133884/video-tutorial-intermediate-core-graphics-part-5-pdf-printing	Video Tutorial: Intermediate Core Graphics Part 5: PDF Printing	CoreGraphics:video		20160513	1		0	0
+advanced	https://www.raywenderlich.com/133889/video-tutorial-intermediate-core-graphics-part-6-conclusion	Video Tutorial: Intermediate Core Graphics Part 6: Conclusion	CoreGraphics:video		20160513	1		0	0
+advanced	http://ericasadun.com/2016/05/13/dear-xcode-santa-what-i-want-for-playground-dubmas/	Dear Xcode Santa: What I want for Playground Dubmas			20160513	0		0	0
+libs	https://github.com/Antondomashnev/ADPuzzleAnimation	Inspired by Fabric - Answers animation. Allows to ''build'' given view with pieces			20160513	0		0	0
+libs	https://github.com/ridvank/UIImageViewWithWords	Creating UIImageView with words			20160513	0		0	0
+libs	https://github.com/macteo/Marklight	Markdown syntax highlighter			20160513	0		0	0
+libs	https://github.com/igongora/UIDropDown	An elegant dropdown			20160513	0		0	0
+libs	https://github.com/kyleweiner/Sentiments	Sentiments is an iOS app written in Swift that analyzes text for positive or negative sentiment			20160513	0		0	0
+libs	https://github.com/macteo/SabBar	Drop-in UITabBarController subclass that shows a sidebar with tabs based on trait collections			20160513	0		0	0
+libs	https://github.com/indevizible/CharPageControl	CharPageControl is a GLYPH style for pagination			20160513	0		0	0
+advanced	http://www.youtube.com/watch?v=udCoIhPYtd8	Randomly Picking View Controllers! (Swift 2 in Xcode)	JaredDavidson:video		20160513	0		0	0
+advanced	http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html	Type-safe styles in Swift			20160510	0		0	0
+advanced	http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/	Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit			20160510	0		0	0
+libs	https://github.com/doubleencore/XcodeIssueGenerator	XcodeIssueGenerator	xcode:tools		20160510	0		0	0
+libs	https://github.com/Guikunzhi/BeautifyFaceDemo/tree/master/BeautifyFaceDemo	It's a simple demo of realtime face beautification based on GPUImage	objc_src:CoreImage		20160510	0		0	0
