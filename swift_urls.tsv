@@ -3985,7 +3985,9 @@ commercial	http://itunes.apple.com/us/book/swift-documentation-markup/id10490104
 commercial	http://itunes.apple.com/us/book/swift-swift-view-controllers/id983247343?ls=1&mt=11	Swift Swift View Controllers (Steven Lipton)	book	https://apppie.files.wordpress.com/2015/02/screenshot-2015-04-01-07-53-14.png?w=460&h=600	20010101	0		3	100045
 commercial	http://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034	Playground Secrets and Power Tips (Erica Sadun)	book:playground	http://a3.mzstatic.com/us/r30/Publication49/v4/12/a0/9f/12a09fb0-2cbc-a83a-fcdf-b5fb66d6e09a/cover162x243.jpeg	20150406	0		3	100046
 commercial	http://www.amazon.com/dp/1320479243	Swift Algorithms & Data Structures (Wayne Bishop)	book:algorithm	http://cdn.shopify.com/s/files/1/0911/9546/products/Algorithms_Web_Cover_PNG_Shop_1024x1024.png?v=1444787016	20010101	0		3	100047
-libs	https://github.com/wangjwchn/MetalAcc	GPU-based media processing library using Metal written in Swift	metal		20160415	0		0	0
+commercial	https://pragprog.com/titles/jkwatch2/developing-for-apple-watch-second-edition	Developing for Apple Watch, Second Edition	book:WatchKit	https://imagery.pragprog.com/products/465/jkwatch2.jpg?1449158389	20160510	0		3	100048
+commercial	http://www.amazon.com/iOS-Apps-Masterminds-advantage-insanely/dp/153049494X	iOS Apps for Masterminds	book	http://ecx.images-amazon.com/images/I/51OVxTleQNL.jpg	20160310	0		3	100049
+libs	https://github.com/wangjwchn/MetalAcc	GPU-based media processing library using Metal written in Swift	metal		'	0		0	0
 libs	https://github.com/nakiostudio/EasyPeasy	Auto Layout made easy	AutoLayout		20160415	0		0	0
 libs	https://github.com/rnine/AMCoreAudio	AMCoreAudio is a Swift wrapper for Apple's Core Audio framework (OS X)	audio		20160415	0		0	0
 libs	https://github.com/boycechang/BCColor	A lightweight but powerful color kit 	color		20160415	0		0	0
@@ -4330,3 +4332,11 @@ advanced	http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html	Ty
 advanced	http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/	Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit			20160510	0		0	0
 libs	https://github.com/doubleencore/XcodeIssueGenerator	XcodeIssueGenerator	xcode:tools		20160510	0		0	0
 libs	https://github.com/Guikunzhi/BeautifyFaceDemo/tree/master/BeautifyFaceDemo	It's a simple demo of realtime face beautification based on GPUImage	objc_src:CoreImage		20160510	0		0	0
+advanced	http://ctarda.com/2016/04/polymorphism-and-protocol-extensions/	POLYMORPHISM AND PROTOCOL EXTENSIONS			20160510	0		0	0
+libs	https://github.com/kristopherjohnson/Markingbird	Markdown processor			20160510	0		0	0
+libs	https://github.com/delba/SwiftyOAuth	A small OAuth library with a built-in set of providers			20160510	0		0	0
+libs	https://github.com/3lvis/Networking	Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support			20160510	0		0	0
+libs	https://github.com/garnele007/SwiftOCR	Fast and simple OCR library written in Swift	ocr		20160510	0		0	0
+advanced	http://engineering.khanacademy.org/posts/introducing-swifttweaks.htm	Introducing SwiftTweaks			20160509	0		0	0
+advanced	https://shirazian.wordpress.com/2016/05/08/design-patterns-in-swift-interpreter/	Design Patterns in Swift: Interpreter			20160508	0		0	0
+libs	https://github.com/YuAo/YUCIHighPassSkinSmoothing	An implementation of High Pass Skin Smoothing	CoreImage:objc_src		20160508	0		0	0
