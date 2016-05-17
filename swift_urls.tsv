@@ -1350,7 +1350,7 @@ advanced	http://inessential.com/2015/08/02/swift_diary_7_protocols_arrays_and_c	
 advanced	http://inessential.com/2015/08/04/swift_diary_8_forwardinvocation	Swift Diary #8: forwardInvocation			20150804	0		0	0
 advanced	http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html	Pimp My Code, Book 2: Replacing Loops in Swift	SwiftLang		20150803	0		0	0
 advanced	http://inessential.com/2015/08/05/swift_diary_9_where_im_stuck	Swift Diary #9: Where I’m Stuck			20150805	0		0	0
-advanced	http://www.thinkandbuild.it/introduction-to-uistackview	INTRODUCTION TO UISTACKVIEW	UIStackView		20150805	0		0	0
+advanced	http://www.thinkandbuild.it/introduction-to-uistackview	Introduction To UIStackView	UIStackView		20150805	0		0	0
 advanced	http://flexmonkey.blogspot.com/2015/08/metal-performance-shaders-fallback-copy.html	Metal Performance Shaders & Fallback Copy Allocators	metal		20150805	0		0	0
 advanced	http://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers	UIGestureRecognizer Tutorial: Creating Custom Recognizers	UIGestureRecognizer		20150806	0		0	0
 advanced	http://littlebitesofcocoa.com/55	little bites of cocoa: #55: Switching View Controllers With UISegmentedControl	UISegmentedControl		20150807	0		0	0
@@ -2291,7 +2291,6 @@ advanced	http://medium.com/the-traveled-ios-developers-guide/swift-javascript-32
 advanced	http://ericasadun.com/2015/10/31/printing-playground-documents-swiftlang	Printing Playground Documents #swiftlang			20151031	0		0	0
 advanced	http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html	Unwind Segues as an Alternative to Delegation			20151101	0		0	0
 advanced	http://flexmonkey.blogspot.com/2015/11/introducing-image-processing-in-metal.html	Introducing Image Processing in Metal	metal		20151101	0		0	0
-advanced	http://ios-blog.co.uk/tutorials/introduction-to-uistackview	Introduction to UIStackView	UIStackView		20151102	0		0	0
 advanced	http://realm.io/news/gwendolyn-weston-ios-background-networking	While Your App Was Sleeping: Background Transfer Services	networking:video		20151102	0		0	0
 advanced	http://www.raywenderlich.com/118225/introduction-sprite-kit-scene-editor	Introduction to the Sprite Kit Scene Editor	SpriteKit		20151102	0		0	0
 advanced	http://littlebitesofcocoa.com/116	little bites of cocoa:#116: Instructions			20151102	0		0	0
@@ -3856,22 +3855,22 @@ advanced	http://blog.jtribe.com.au/how-to-create-a-uiscrollview-with-auto-layout
 advanced	https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2	Swift Tutorial: Initialization In Depth, Part 2/2			20160412	0		0	0
 advanced	http://blog.udacity.com/2016/04/getting-ready-for-swift-3-0.html	Getting ready for Swift 3.0			20160412	0		0	0
 advanced	http://nsscreencast.com/episodes/170-testing-with-quick	Episode #170: Testing with Quick	video		20150521	1		0	0
-advanced	http://nsscreencast.com/episodes/171-nsdatecomponents	Episode #171: NSDateComponents	video		20150529	1		0	0
+advanced	http://nsscreencast.com/episodes/171-nsdatecomponents	Episode #171: NSDateComponents	date:video		20150529	1		0	0
 advanced	http://nsscreencast.com/episodes/172-magic-move	Episode #172: Magic Move	video		20150604	1		0	0
 advanced	http://nsscreencast.com/episodes/173-interactive-magic-move	Episode #173: Interactive Magic Move	video		20150611	1		0	0
 advanced	http://nsscreencast.com/episodes/174-local-notifications	Episode #174: Local Notifications	video		20150618	1		0	0
-advanced	http://nsscreencast.com/episodes/175-nsoperation-basics	Episode #175: NSOperation Basics	video		20150626	1		0	0
+advanced	http://nsscreencast.com/episodes/175-nsoperation-basics	Episode #175: NSOperation Basics	NSOperation:video		20150626	1		0	0
 advanced	http://nsscreencast.com/episodes/176-asynchronous-operations	Episode #176: Asynchronous Operations	video		20150703	1		0	0
 advanced	http://nsscreencast.com/episodes/177-nsoperation-dependencies	Episode #177: NSOperation Dependencies	video		20150709	1		0	0
 advanced	http://nsscreencast.com/episodes/178-getting-started-with-carthage	Episode #178: Getting Started with Carthage	video		20150723	1		0	0
 advanced	http://nsscreencast.com/episodes/179-carthage-for-library-authors	Episode #179: Carthage for Library Authors	video		20150727	1		0	0
-advanced	http://nsscreencast.com/episodes/180-advanced-nsoperations	Episode #180: Advanced NSOperations	video		20150730	1		0	0
+advanced	http://nsscreencast.com/episodes/180-advanced-nsoperations	Episode #180: Advanced NSOperations	NSOperation:video		20150730	1		0	0
 advanced	http://nsscreencast.com/episodes/181-cgimagesource	Episode #181: CGImageSource	video		20150806	1		0	0
 advanced	http://nsscreencast.com/episodes/182-screen-savers-part-1	Episode #182: Screen Savers - Part 1	video		20150813	1		0	0
 advanced	http://nsscreencast.com/episodes/183-screen-savers-part-2	Episode #183: Screen Savers Part 2	video		20150820	1		0	0
 advanced	http://nsscreencast.com/episodes/184-dznemptydataset	Episode #184: DZNEmptyDataSet	video		20150827	1		0	0
 advanced	http://nsscreencast.com/episodes/185-self-sizing-cells-and-dynamic-type	Episode #185: Self Sizing Cells and Dynamic Type	video		20150904	1		0	0
-advanced	http://nsscreencast.com/episodes/186-uistackview	Episode #186: UIStackView	video		20150917	1		0	0
+advanced	http://nsscreencast.com/episodes/186-uistackview	Episode #186: UIStackView	UIStackView:video		20150917	1		0	0
 advanced	http://nsscreencast.com/episodes/187-swift-2-basics	Episode #187: Swift 2 Basics	video		20150917	0		0	0
 advanced	http://nsscreencast.com/episodes/188-app-transport-security	Episode #188: App Transport Security	video		20150924	1		0	0
 advanced	http://nsscreencast.com/episodes/189-swift-2-functions-and-extensions	Episode #189: Swift 2 Functions and Extensions	video		20151001	0		0	0
@@ -4332,7 +4331,6 @@ advanced	http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html	Ty
 advanced	http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/	Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit			20160510	0		0	0
 libs	https://github.com/doubleencore/XcodeIssueGenerator	XcodeIssueGenerator	xcode:tools		20160510	0		0	0
 libs	https://github.com/Guikunzhi/BeautifyFaceDemo/tree/master/BeautifyFaceDemo	It's a simple demo of realtime face beautification based on GPUImage	objc_src:CoreImage		20160510	0		0	0
-advanced	http://ctarda.com/2016/04/polymorphism-and-protocol-extensions/	POLYMORPHISM AND PROTOCOL EXTENSIONS			20160510	0		0	0
 libs	https://github.com/kristopherjohnson/Markingbird	Markdown processor			20160510	0		0	0
 libs	https://github.com/delba/SwiftyOAuth	A small OAuth library with a built-in set of providers			20160510	0		0	0
 libs	https://github.com/3lvis/Networking	Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support			20160510	0		0	0
@@ -4340,3 +4338,36 @@ libs	https://github.com/garnele007/SwiftOCR	Fast and simple OCR library written 
 advanced	http://engineering.khanacademy.org/posts/introducing-swifttweaks.htm	Introducing SwiftTweaks			20160509	0		0	0
 advanced	https://shirazian.wordpress.com/2016/05/08/design-patterns-in-swift-interpreter/	Design Patterns in Swift: Interpreter			20160508	0		0	0
 libs	https://github.com/YuAo/YUCIHighPassSkinSmoothing	An implementation of High Pass Skin Smoothing	CoreImage:objc_src		20160508	0		0	0
+advanced	http://inessential.com/2016/05/14/the_tension_of_swift	The Tension of Swift			20160514	0		0	0
+advanced	http://swiftdeveloperblog.com/setting-up-our-own-mobile-app-backend-on-amazon-ec2/	Setting Up Our Own Mobile App Backend Server on Amazon EC2			20160514	0		0	0
+advanced	http://christiantietze.de/posts/2016/05/swift-depends-on-objective-c/	Swift Depends on Objective-C			20160515	0		0	0
+advanced	http://inessential.com/2016/05/15/a_hypothetical_responder_chain_written_i	A Hypothetical Responder Chain Written in Swift			20160515	0		0	0
+advanced	http://candycode.io/a-practical-mvvm-example-in-swift-part-2/	A practical MVVM example in Swift – Part 2 (featuring RxSwift)			20160515	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/swift-3-feature-highlight-c38f94359731	Swift 3 Features			20160515	0		0	0
+advanced	http://inessential.com/2016/05/15/the_case_for_dynamic-swift_optimism	The Case for Dynamic-Swift Optimism			20160515	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/core-image-for-swift-version-13.html	Core Image for Swift Version 1.3	CoreImage		20160516	0		0	0
+advanced	https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/	Table View Controllers in Swift	UITableView:video		20160516	0		0	0
+advanced	https://www.raywenderlich.com/134465/video-tutorial-networking-nsurlsession-series-introduction	Video Tutorial: Networking With NSURLSession: Series Introduction	NSURLSession:video		20160516	0		0	0
+libs	https://github.com/mukyasa/MMPaperGallery	Image Browser similar to Facebook Paper app			20160516	0		0	0
+advanced	http://ctarda.com/2016/03/devil-is-in-the-details-final-vars-and-methods/	Devil is in the details: final vars and methods			20160314	0		0	0
+advanced	http://ctarda.com/2016/03/devil-is-in-the-details-ii-immutable-collections/	Devil is in the details II: immutable collections			20160315	0		0	0
+advanced	http://ctarda.com/2016/03/swift-class-clusters/	Swift Class Clusters			20160330	0		0	0
+advanced	http://ctarda.com/2016/04/building-a-custom-ring/	Building a custom ring			20160405	0		0	0
+advanced	http://ctarda.com/2016/04/binding-custom-view-properties-with-rxswift/	Binding custom view properties with RxSwift			20160407	0		0	0
+advanced	http://ctarda.com/2016/04/its-the-open-closed-principle-duh/	It’s the open-closed principle!. Duh!			20160415	0		0	0
+advanced	http://ctarda.com/2016/04/modularity-in-laymans-terms/	Modularity in layman’s terms			20160419	0		0	0
+advanced	http://ctarda.com/2016/04/polymorphism-and-protocol-extensions/	Polymorphism and protocol extensions			20160429	0		0	0
+advanced	http://ctarda.com/2016/05/testing/	Testing	testing		20160508	0		0	0
+advanced	https://www.raywenderlich.com/134471/video-tutorial-networking-nsurlsession-part-1-nsurlsession-configuration	Video Tutorial: Networking With NSURLSession Part 1: NSURLSession And Configuration	NSURLSession:video		20160516	0		0	0
+advanced	http://ericasadun.com/2016/05/16/winding-down-swift-3-0-abi-stability-deferred/	Winding down Swift 3.0; ABI stability deferred			20160516	0		0	0
+libs	https://github.com/edekhayser/TiltingScrollView	UIScrollView subclass that scrolls when the user tilts the device			20160516	0		0	0
+advanced	https://medium.com/@icex33/10-thousand-times-faster-swift-737b1accd973	10 thousand times faster Swift			20160515	0		0	0
+advanced	https://engineering.tumblr.com/post/144151794436/swift-compilation-reporting-at-tumblr	Swift Compilation Reporting at Tumblr			20160510	0		0	0
+advanced	https://github.com/subdigital/nsdateformatter.com	Source code for nsdateformatter.com. Built with Swift using Frank & Stencil. Hosted on Linux			20160510	0		0	0
+advanced	https://youtu.be/NH-qIKOoKgA	Introduction to Swift Intermediate Language — Alex Blewitt	video		20160513	0		0	0
+advanced	http://alisoftware.github.io/swift/pattern-matching/2016/05/16/pattern-matching-4/	Pattern Matching, Part 4: if case, guard case, for case			20160515	0		0	0
+advanced	http://invasivecode.tumblr.com/post/144461849875	SignaKit - Handwritten Signature Framework for iOS from...			20160516	0		0	0
+advanced	http://alisoftware.github.io/swift/pattern-matching/2016/03/30/pattern-matching-2/	Pattern Matching, Part 2: tuples, ranges & types			20160516	0		0	0
+advanced	http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/	Pattern Matching, Part 1: switch, enums & where clauses			20160516	0		0	0
+advanced	https://www.raywenderlich.com/124490/cocoa-bindings-os-x-tutorial	Cocoa Bindings on OS X Tutorial			20160517	0		0	0
+advanced	https://realm.io/news/marin-todorov-realm-rxswift/	Using Realm Seamlessly in an RxSwift App	RxSwift		20160517	0		0	0
