@@ -3904,7 +3904,8 @@ advanced	http://nsscreencast.com/episodes/216-swift-web-frameworks	Episode #216:
 advanced	http://nsscreencast.com/episodes/217-text-attachments	Episode #217: Text Attachments	video		20160414	1		0	0
 advanced	http://nsscreencast.com/episodes/218-core-data-with-swift	Episode #218: Core Data with Swift	CoreData:video		20160428	1		0	0
 advanced	http://nsscreencast.com/episodes/219-nscalendar	Episode #219: NSCalendar	video		20160506	1		0	0
-advanced	http://nsscreencast.com/episodes/220-easy-auth-part-1	Episode #220: Easy Auth - Part 1	video		20160512	1		0	0
+advanced	http://nsscreencast.com/episodes/220-easy-auth-part-1	Episode #220: Easy Auth - Part 1	video:oauth2		20160512	1		0	0
+advanced	http://nsscreencast.com/episodes/221-easy-auth-part-2	Episode #221: Easy Auth - Part 2	video:oauth2		20160519	1		0	0
 advanced	http://ericasadun.com/2016/04/12/proposal-spotlight-se-0045-add-scan-takewhile-dropwhile-and-iterate-to-the-stdlib/	Proposal Spotlight: SE-0045 Add scan, takeWhile, dropWhile, and iterate to the stdlib			20160412	0		0	0
 advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models	video:animation		20160412	1		0	0
 advanced	http://peterwitham.com/swift/intermediate/swift-error-throwing-catching/	Swift Error Throwing and Catching	exceptions		20160412	0		0	0
@@ -4442,3 +4443,5 @@ advanced	http://www.bensnider.com/making-a-slack-slash-command-integration-using
 advanced	http://www.bensnider.com/roadblocks-when-making-cross-platform-command-line-swift-scripts.html	Roadblocks When Making Cross Platform Command Line Swift Scripts	scripting		20160117	0		0	0
 advanced	http://www.bensnider.com/using-swiftenv-to-install-and-manage-swift-versions.html	Using swiftenv To Install and Manage Swift Versions			20160309	0		0	0
 advanced	http://www.bensnider.com/making-swift-code-more-swifty-and-an-mvvm-aside.html	Making Swift Code More Swifty And An MVVM Aside			20160517	0		0	0
+advanced	https://possiblemobile.com/2016/05/xcode-issue-generator/	Taking Control of Xcode Issue Navigator with XcodeIssueGenerator	xcode		20160511	0		0	0
+libs	https://github.com/czechboy0/swiftpm-packages-statistics	Statistics about SwiftPM packages on GitHub							
