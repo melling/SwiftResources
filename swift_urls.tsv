@@ -581,7 +581,7 @@ advanced	http://www.weheartswift.com/higher-order-functions-map-filter-reduce-an
 advanced	http://www.weheartswift.com/swift-classes-part-1	Swift Classes – Part 1			20140603	0		0	0
 advanced	http://www.weheartswift.com/swifting-around	Swifting Around			20140605	0		0	0
 advanced	http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6	How to make awesome UI components in iOS 8 using Swift and XCode 6			20140606	0		0	0
-advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	SpriteKit		20140609	0		0	0
+advanced	http://www.weheartswift.com/fractals-xcode-6	Fractals in Xcode 6	SpriteKit:fractal		20140609	0		0	0
 advanced	http://www.weheartswift.com/swift-classes-part-2	Swift Classes – Part 2			20140609	0		0	0
 advanced	http://www.weheartswift.com/object-subscripting-swift	Object Subscripting in Swift	subscript		20140616	0		0	0
 advanced	http://www.weheartswift.com/make-custom-keyboard-ios-8-using-swift	How to make a custom keyboard in iOS 8 using Swift	keyboard		20140627	0		0	0
@@ -1015,7 +1015,7 @@ advanced	http://sketchytech.blogspot.com/2015/06/swift-further-adventures-in-fla
 advanced	http://www.extelligentcocoa.org/adding-images-to-buttons	Adding Images to Buttons	mac		20150603	0		0	0
 advanced	http://sketchytech.blogspot.com/2015/06/swift-banking-on-reduce.html	Swift: Banking on reduce()	functional:reduce		20150603	0		0	0
 advanced	http://www.raywenderlich.com/97756/creating-an-xcode-plugin-part-2	How To Create an Xcode Plugin: Part 2/3	xcode:plugin		20150603	0		0	0
-advanced	http://www.weheartswift.com/make-ios-fractal-app	How to Make an iOS Fractal App			20150603	0		0	0
+advanced	http://www.weheartswift.com/make-ios-fractal-app	How to Make an iOS Fractal App	fractal		20150603	0		0	0
 advanced	http://ericasadun.com/2015/06/03/swift-overlooked-playground-cool-stuff-2	Swift: Overlooked playground cool stuff #2	playground		20150603	0		0	0
 advanced	http://ericasadun.com/2015/06/03/xcode-snippets	Xcode Snippets	xcode		20150603	0		0	0
 advanced	http://sketchytech.blogspot.com/2015/06/swift-map-can-be-taxing.html	Swift: map() can be taxing			20150604	0		0	0
@@ -3426,7 +3426,7 @@ libs	https://github.com/allenwong/30DaysofSwift	30 Days of Swift			20160216	0		0
 libs	https://github.com/dustturtle/RealReachability	We need to observe the REAL reachability of network			20160216	0		0	0
 advanced	http://www.youtube.com/watch?v=zAO3M7nnZIA	How To Use Firebase (Swift, Xcode) - Ep 2 - Saving and Retrieving Data Quickstart	firebase:video		20160218	0		0	0
 advanced	https://medium.com/swift-programming/swift-closures-everyday-gems-part-1-of-2-c1a50c08a458	Swift Closures — Everyday Gems Part 1 of 2	closures		20160218	0		0	0
-libs	https://github.com/jmfieldman/Mortar	A compact but full-featured Auto Layout DSL for Swift			20160218			0	0
+libs	https://github.com/jmfieldman/Mortar	A compact but full-featured Auto Layout DSL for Swift			20160218	0		0	0
 libs	https://github.com/edekhayser/KBKit	Classes to extend UIKit navigation using key commands			20160118	0		0	0
 advanced	http://www.ios-blog.co.uk/tutorials/set-location-of-simulator-when-requesting-users-location/	Quick Tip: Set Location of Simulator when Requesting Users Location	CoreLocation		20160119	0		0	0
 advanced	http://andybargh.com/2016/02/17/switch-statement-in-swift	The Switch Statement in Swift			20160119	0		0	0
@@ -4069,7 +4069,7 @@ advanced	http://useyourloaf.com/blog/static-tables-and-dynamic-type/	Static Tabl
 advanced	https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/	An Artsy Testing Tour	video		20160425	0		0	0
 advanced	https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift	ReactiveCocoa vs RxSwift			20160426	0		0	0
 advanced	http://ericasadun.com/2016/04/26/ruby-tuesday-slicing-arrays/	Ruby Tuesday: Slicing arrays			20160426	0		0	0
-advanced	https://www.raywenderlich.com/132563/rwdevcon-2016-session-103-beginning-uistackview-2	RWDevCon 2016 Session 103: Beginning UIStackView			20160426	0		0	0
+advanced	https://www.raywenderlich.com/132563/rwdevcon-2016-session-103-beginning-uistackview-2	RWDevCon 2016 Session 103: Beginning UIStackView	UIStackView		20160426	0		0	0
 advanced	http://flexmonkey.blogspot.com/2016/04/vimage-histogram-functions-part-ii.html	vImage Histogram Functions Part II: Specification	CoreImage		20160427	0		0	0
 advanced	https://www.raywenderlich.com/132574/rwdevcon-2016-session-202-programming-swift-style-2	RWDevCon 2016 Session 202: Programming in a Swift Style			20160427	0		0	0
 advanced	http://www.appcoda.com/geo-targeting-ios/	Building a Geo Targeting iOS App in Swift			20160427	0		0	0
@@ -4372,7 +4372,7 @@ advanced	http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-
 advanced	https://www.raywenderlich.com/124490/cocoa-bindings-os-x-tutorial	Cocoa Bindings on OS X Tutorial			20160517	0		0	0
 advanced	https://realm.io/news/marin-todorov-realm-rxswift/	Using Realm Seamlessly in an RxSwift App	RxSwift		20160517	0		0	0
 advanced	http://ctarda.com/2016/05/clarity-is-more-important-than-brevity-sometimes-you-can-have-both	Clarity is more important than brevity. Sometimes you can have both			20160518	0		0	0
-advanced	http://www.knowstack.com/swift-fractal-tree/	Swift Fractal Tree			20160517	0		0	0
+advanced	http://www.knowstack.com/swift-fractal-tree/	Swift Fractal Tree	fractal		20160517	0		0	0
 advanced	http://theswiftdev.com/2016/05/17/from-springs-and-struts-to-autolayout-and-anchors/	From Springs & Struts to Autolayout and Anchors	AutoLayout		20160517	0		0	0
 advanced	https://www.raywenderlich.com/134504/video-tutorial-networking-nsurlsession-part-2-nsurl-nsurlrequest-nsurlresponse	Video Tutorial: Networking With NSURLSession Part 2: NSURL, NSURLRequest, and NSURLResponse	NSURLSession:video		20160517	1		0	0
 advanced	http://inessential.com/2016/05/17/responder_chain_followup	Responder Chain Followup			20160517	0		0	0
@@ -4380,3 +4380,65 @@ advanced	http://ericasadun.com/2016/05/17/more-about-the-swift-abi-postponement-
 advanced	http://ericasadun.com/2016/05/17/new-active-swift-reviews/	New Active Swift Reviews			20160517	0		0	0
 advanced	http://flexmonkey.blogspot.com/2016/05/random-numbers-in-core-image-kernel.html	Random Numbers in Core Image Kernel Language	CoreImage:random		20160518	0		0	0
 advanced	https://medium.com/swift-programming/swift-functional-programming-basic-concepts-a6b0c3937d56	Swift Functional Programming: Basic Concepts	functional		20160518	0		0	0
+advanced	http://mhorga.org/2016/05/18/using-metalkit-part-12.html	Using MetalKit part 12	metal		20160518	0		0	0
+advanced	http://ericasadun.com/2016/05/18/playing-with-the-future/	Playing with the future			20160518	0		0	0
+advanced	http://ericasadun.com/2016/05/18/if-i-had-my-druthers-swift-2-2-swift-3-0-abis-etc/	If I had my druthers: Swift 2.2, Swift 3.0, ABIs, etc			20160518	0		0	0
+advanced	http://code.tutsplus.com/tutorials/privacy-and-url-schemes-in-ios-9--cms-26550	Privacy and URL Schemes in iOS 9			20160518	0		0	0
+advanced	https://www.raywenderlich.com/134651/video-tutorial-networking-nsurlsession-part-3-nsurlsessiontask	Video Tutorial: Networking With NSURLSession Part 3: NSURLSessionTask	NSURLSession:video		20160518	1		0	0
+advanced	http://www.appcoda.com/simple-barcode-reader-app-swift/	Building a Simple Barcode Reader App in Swift			20160518	0		0	0
+advanced	https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/	Advanced Graphics with Core Animation	CoreGraphics:video		20160519	0		0	0
+advanced	https://www.raywenderlich.com/128039/command-line-programs-os-x-tutorial	Command Line Programs on OS X Tutorial	mac		20160519	0		0	0
+advanced	http://ericasadun.com/2016/05/19/swift-things-i-really-wanted-that-wont-make-it/	Swift: Things I really wanted that won’t make it			20160519	0		0	0
+advanced	https://www.raywenderlich.com/134744/video-tutorial-networking-nsurlsession-part-4-delegate-vs-closures	Video Tutorial: Networking With NSURLSession Part 4: Delegate vs. Closures	NSURLSession:video		20160519	1		0	0
+advanced	https://www.andrewcbancroft.com/2016/05/19/parse-pfcloud-json-text-did-not-start-with-array-or-object/	Parse PFCloud – “JSON text did not start with array or object”	json		20160519	0		0	0
+advanced	https://www.raywenderlich.com/127423/in-app-purchases-tutorial	In App Purchases Tutorial: Consumables	InAppPurchase		20160520	0		0	0
+advanced	http://ericasadun.com/2016/05/20/ordovician-swift-evolutionary-advances/	Ordovician Swift: Evolutionary Advances			20160520	0		0	0
+advanced	http://code.tutsplus.com/tutorials/spritekit-from-scratch-advanced-techniques-and-optimizations--cms-26470	SpriteKit From Scratch: Advanced Techniques and Optimizations	SpriteKit		20160520	0		0	0
+advanced	https://www.raywenderlich.com/134826/video-tutorial-networking-nsurlsession-part-5-threading-operation-queues	Video Tutorial: Networking With NSURLSession Part 5: Threading And Operation Queues	NSURLSession:video		20160520	1		0	0
+libs	https://github.com/daisuke310vvv/PopupController	PopupController is a controller for showing temporary popup view			20160520	0		0	0
+libs	https://github.com/zenangst/Tailor	A super fast & convenient object mapper tailored for your needs			20160520	0		0	0
+libs	https://github.com/PiXeL16/PasswordTextField	A custom TextField with a switchable icon which shows or hides the password and enforce good password policies			20160520	0		0	0
+libs	https://github.com/scamps88/ASBubbleDrag	round icon drag control dock style			20160520	0		0	0
+advanced	http://furbo.org/2016/05/20/adulterated-swift/	Adulterated Swift			20160520	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/05/19/random-numbers.html	Random number generators in Swift	random		20160518	0		0	0
+advanced	http://inessential.com/2016/05/20/updating_local_objects_with_server_objec	Updating Local Objects with Server Objects			20160520	0		0	0
+advanced	https://www.raywenderlich.com/134835/video-tutorial-networking-nsurlsession-part-6-conclusion	Video Tutorial: Networking With NSURLSession Part 6: Conclusion	NSURLSession:video		20160520	1		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/a-core-image-transverse-chromatic.html	A Core Image Transverse Chromatic Aberration Filter in Swift	CoreImage		20160521	0		0	0
+advanced	http://alisoftware.github.io/swift/error/2015/12/17/let-it-throw/	Let it throw, Let it throw!	exceptions		20160521	0		0	0
+advanced	https://realm.io/news/trySwift-diana-zmuda-how-to-train-your-swift-computational-statistics/	How to Train Your Swift: Examples of Computational Statistics in Swift	statistics:video		20160521	0		0	0
+advanced	http://ankit.im/swift/2016/05/21/creating-objc-cpp-packages-with-swift-package-manager/	Creating Objective-C and C++ packages using Swift Package Manager			20160521	0		0	0
+advanced	http://inessential.com/2016/05/21/ash_and_marcel	Ash and Marcel			20160521	0		0	0
+advanced	http://candycode.io/how-to-properly-do-buttons-in-table-view-cells-using-swift-closures/	How to properly do buttons in table view cells using Swift closures			20160522	0		0	0
+advanced	http://www.thomashanning.com/clean-up-your-xcode-installation/	How To Clean Up Your Xcode Installation?	xcode		20160522	0		0	0
+advanced	http://christiantietze.de/posts/2016/05/custom-enumeration-index/	Custom Enumerated Sequences in Just 1 Line of Code			20160523	0		0	0
+advanced	http://useyourloaf.com/blog/detecting-low-power-mode/	Detecting low power mode			20160523	0		0	0
+advanced	https://realm.io/news/tryswift-gwendolyn-weston-type-erasure/	Keep Calm and Type Erase On	video		20160523	0		0	0
+advanced	https://www.raywenderlich.com/134961/video-tutorial-collection-views-introduction	Video Tutorial: Collection Views: Introduction	UICollectionView:video		20160523	0		0	0
+advanced	https://www.raywenderlich.com/134967/video-tutorial-collection-views-part-1-getting-started-2	Video Tutorial: Collection Views Part 1: Getting Started			20160523	0		0	0
+advanced	https://www.raywenderlich.com/134973/video-tutorial-collection-views-part-2-custom-cells-2	Video Tutorial: Collection Views Part 2: Custom Cells			20160523	0		0	0
+advanced	http://inessential.com/2016/05/23/dynamic_swift_comments_on_hacker_news	Dynamic Swift Comments on Hacker News			20160523	0		0	0
+advanced	http://ericasadun.com/2016/05/23/swifty-quicky-checking-for-a-tuple-in-an-array/	Swifty Quicky: Checking for a tuple in an array	tuple		20160523	0		0	0
+advanced	http://swiftdeveloperblog.com/uitableviewcell-separator-hide-separator-or-change-left-side-spacing/	UITableViewCell Separator. Hide Separator or Change Left Side Spacing	UITableViewCell		20160523	0		0	0
+advanced	http://ericasadun.com/2016/05/23/tomorrows-reviews/	Tomorrow’s Reviews			20160523	0		0	0
+advanced	http://peterwitham.com/swift/install-new-swift-versions-xcode/	How To Install New Swift Versions in Xcode	xcode		20160524	0		0	0
+advanced	http://ctarda.com/2016/05/swift-extensions-can-be-applied-to-objective-c-types/	Swift extensions can be applied to Objective-C types			20160524	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/swift-30-for-core-image-developers.html	Swift 3.0 for Core Image Developers	CoreImage		20160524	0		0	0
+advanced	https://www.raywenderlich.com/125559/make-game-like-bomberman	How To Make A Game Like Bomberman			20160524	0		0	0
+advanced	http://www.youtube.com/watch?v=8sRUhzgJhcY	Email Login! (Firebase : Swift 2 in Xcode)	JaredDavidson:video		20160520	0		0	0
+advanced	http://www.youtube.com/watch?v=EyEiuQdxils	#94 Supplementary Views	AzamSharp:video		20160520	0		0	0
+advanced	http://matthewfecher.com/swift/learn-to-code-and-make-iphone-apps-free-swift-course/	Learn to Code and Make iPhone Apps: Free Video Course!			20160521	0		0	0
+libs	https://github.com/ipraba/EPSignature	Signature component for iOS			20160521	0		0	0
+libs	https://github.com/philackm/Scrollable-GraphView	An adaptive scrollable graph view for iOS to visualise simple discrete datasets			20160521	0		0	0
+libs	https://github.com/arvindhsukumar/PanGestureView	UIView subclass that allows you to trigger actions based on Pan Gestures			20160521	0		0	0
+advanced	http://www.bensnider.com/abi-compatibility-whoopdty-do-what-does-it-all-mean.html	ABI Compatibility: Whoopdty Do, What Does It All Mean?			20160520	0		0	0
+advanced	https://engineering.tumblr.com/post/144507330193/peeking-into-a-black-box-the-effect-of	Peeking into a Black Box - The Effect of Dependency Structure on iOS Launch Times			20160517	0		0	0
+libs	https://github.com/alexdrone/Render	Swift and UIKit a la React			20160517	0		0	0
+libs	https://github.com/Codeido/PMAlertController	PMAlertController is a great and customizable substitute to UIAlertController			20160517	0		0	0
+libs	https://github.com/KrakenDev/PrediKit	An NSPredicate DSL for iOS & OS X inspired by SnapKit			20160517	0		0	0
+libs	https://github.com/BalestraPatrick/ParticlesLoadingView	A customizable SpriteKit particles animation on the border of a view	SpriteKit		20160517	0		0	0
+advanced	http://www.bensnider.com/using-swift-to-make-command-line-scripts-part-2.html	Using Swift To Make Command Line Scripts - Part 2	scripting		20151117	0		0	0
+advanced	http://www.bensnider.com/using-swift-to-make-command-line-scripts-part-1.html	Using Swift To Make Command Line Scripts - Part 1	scripting		20151104	0		0	0
+advanced	http://www.bensnider.com/making-a-slack-slash-command-integration-using-swift-on-heroku.html	Making a Slack Slash Command Integration using Swift on Heroku			20151216	0		0	0
+advanced	http://www.bensnider.com/roadblocks-when-making-cross-platform-command-line-swift-scripts.html	Roadblocks When Making Cross Platform Command Line Swift Scripts	scripting		20160117	0		0	0
+advanced	http://www.bensnider.com/using-swiftenv-to-install-and-manage-swift-versions.html	Using swiftenv To Install and Manage Swift Versions			20160309	0		0	0
+advanced	http://www.bensnider.com/making-swift-code-more-swifty-and-an-mvvm-aside.html	Making Swift Code More Swifty And An MVVM Aside			20160517	0		0	0
