@@ -4415,8 +4415,8 @@ advanced	http://christiantietze.de/posts/2016/05/custom-enumeration-index/	Custo
 advanced	http://useyourloaf.com/blog/detecting-low-power-mode/	Detecting low power mode			20160523	0		0	0
 advanced	https://realm.io/news/tryswift-gwendolyn-weston-type-erasure/	Keep Calm and Type Erase On	video		20160523	0		0	0
 advanced	https://www.raywenderlich.com/134961/video-tutorial-collection-views-introduction	Video Tutorial: Collection Views: Introduction	UICollectionView:video		20160523	0		0	0
-advanced	https://www.raywenderlich.com/134967/video-tutorial-collection-views-part-1-getting-started-2	Video Tutorial: Collection Views Part 1: Getting Started			20160523	0		0	0
-advanced	https://www.raywenderlich.com/134973/video-tutorial-collection-views-part-2-custom-cells-2	Video Tutorial: Collection Views Part 2: Custom Cells			20160523	0		0	0
+advanced	https://www.raywenderlich.com/134967/video-tutorial-collection-views-part-1-getting-started-2	Video Tutorial: Collection Views Part 1: Getting Started	UICollectionView:video		20160523	1		0	0
+advanced	https://www.raywenderlich.com/134973/video-tutorial-collection-views-part-2-custom-cells-2	Video Tutorial: Collection Views Part 2: Custom Cells	UICollectionView:video		20160523	0		0	0
 advanced	http://inessential.com/2016/05/23/dynamic_swift_comments_on_hacker_news	Dynamic Swift Comments on Hacker News			20160523	0		0	0
 advanced	http://ericasadun.com/2016/05/23/swifty-quicky-checking-for-a-tuple-in-an-array/	Swifty Quicky: Checking for a tuple in an array	tuple		20160523	0		0	0
 advanced	http://swiftdeveloperblog.com/uitableviewcell-separator-hide-separator-or-change-left-side-spacing/	UITableViewCell Separator. Hide Separator or Change Left Side Spacing	UITableViewCell		20160523	0		0	0
@@ -4424,7 +4424,6 @@ advanced	http://ericasadun.com/2016/05/23/tomorrows-reviews/	Tomorrow’s Review
 advanced	http://peterwitham.com/swift/install-new-swift-versions-xcode/	How To Install New Swift Versions in Xcode	xcode		20160524	0		0	0
 advanced	http://ctarda.com/2016/05/swift-extensions-can-be-applied-to-objective-c-types/	Swift extensions can be applied to Objective-C types			20160524	0		0	0
 advanced	http://flexmonkey.blogspot.com/2016/05/swift-30-for-core-image-developers.html	Swift 3.0 for Core Image Developers	CoreImage		20160524	0		0	0
-advanced	https://www.raywenderlich.com/125559/make-game-like-bomberman	How To Make A Game Like Bomberman			20160524	0		0	0
 advanced	http://www.youtube.com/watch?v=8sRUhzgJhcY	Email Login! (Firebase : Swift 2 in Xcode)	JaredDavidson:video		20160520	0		0	0
 advanced	http://www.youtube.com/watch?v=EyEiuQdxils	#94 Supplementary Views	AzamSharp:video		20160520	0		0	0
 advanced	http://matthewfecher.com/swift/learn-to-code-and-make-iphone-apps-free-swift-course/	Learn to Code and Make iPhone Apps: Free Video Course!			20160521	0		0	0
@@ -4444,4 +4443,30 @@ advanced	http://www.bensnider.com/roadblocks-when-making-cross-platform-command-
 advanced	http://www.bensnider.com/using-swiftenv-to-install-and-manage-swift-versions.html	Using swiftenv To Install and Manage Swift Versions			20160309	0		0	0
 advanced	http://www.bensnider.com/making-swift-code-more-swifty-and-an-mvvm-aside.html	Making Swift Code More Swifty And An MVVM Aside			20160517	0		0	0
 advanced	https://possiblemobile.com/2016/05/xcode-issue-generator/	Taking Control of Xcode Issue Navigator with XcodeIssueGenerator	xcode		20160511	0		0	0
-libs	https://github.com/czechboy0/swiftpm-packages-statistics	Statistics about SwiftPM packages on GitHub							
+libs	https://github.com/czechboy0/swiftpm-packages-statistics	Statistics about SwiftPM packages on GitHub			20160525	0		0	0
+advanced	https://www.raywenderlich.com/134978/video-tutorial-collection-views-part-3-multiple-sections-2	Video Tutorial: Collection Views Part 3: Multiple Sections	UICollectionView:video		20160524	1		0	0
+advanced	http://inessential.com/2016/05/24/paul_daniel_dave	Paul, Daniel, Dave			20160524	0		0	0
+advanced	http://ctarda.com/2016/05/til-uiviewcontroller-init-might-initialize-a-xib/	TIL: UIViewController.init() might initialize a xib			20160525	0		0	0
+advanced	http://www.ioscreator.com/tutorials/persistent-data-property-list-tutorial	Persistent Data with Property List Tutorial	plist		20160525	0		0	0
+advanced	http://christiantietze.de/posts/2016/05/editing-nstableview-cells/	The Surprising Intricacies of Editing Parts of NSTableView	NSTableView:mac		20160525	0		0	0
+advanced	https://www.raywenderlich.com/134983/video-tutorial-collection-views-part-4-inserting-cells-2	Video Tutorial: Collection Views Part 4: Inserting Cells	UICollectionView:video		20160525	1		0	0
+advanced	http://mhorga.org/2016/05/25/using-metalkit-part-13.html	Using MetalKit part 13	metal		20160524	0		0	0
+advanced	https://www.raywenderlich.com/134988/video-tutorial-collection-views-part-5-subclassing-layout	Video Tutorial: Collection Views Part 5: Subclassing Layout	UICollectionView:video		20160525	1		0	0
+advanced	http://www.raizlabs.com/dev/2016/05/smarter-animated-row-deselection-ios/	Smarter Animated Row Deselection on iOS			20160526	0		0	0
+advanced	http://www.ioscreator.com/tutorials/change-display-name-tutorial	Change Display Name Tutorial			20160526	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/05/26/swift-cheat-sheet-for-dates-formatters-date-components/	Swift Cheat Sheet for Dates, Formatters, & Date Components			20160526	0		0	0
+advanced	http://www.knowstack.com/swift-nssearchfield-nstableview-with-bindings/	Swift NSSearchField NSTableView With Bindings	NSTableView:mac		20160526	0		0	0
+advanced	http://www.knowstack.com/swift-nssearchfield-nsarraycontroller-no-bindings/	Swift NSSearchField NSArrayController No Bindings	mac		20160526	0		0	0
+advanced	https://www.raywenderlich.com/134993/video-tutorial-collection-views-part-6-deleting-cells	Video Tutorial: Collection Views Part 6: Deleting Cells	UICollectionView:video		20160526	1		0	0
+advanced	https://realm.io/news/slug-patrick-reynolds-keeping-designers-happy-enums/	Keeping Designers Happy via Enums			20160527	0		0	0
+advanced	http://ericasadun.com/2016/05/27/trailing-commas-open-source-and-community-participation/	Trailing commas, open source, and community participation			20160527	0		0	0
+advanced	http://ericasadun.com/2016/05/27/cenozoic-park-swift-evolution/	Cenozoic Park: Swift Evolution			20160527	0		0	0
+advanced	https://medium.com/swift-programming/from-swift-to-javascript-and-back-fd1f6a7a9f46	From Swift to Javascript and Back	javascript		20160527	0		0	0
+advanced	https://www.raywenderlich.com/134997/video-tutorial-collection-views-part-7-moving-cells	Video Tutorial: Collection Views Part 7: Moving Cells	UICollectionView:video		20160527	1		0	0
+advanced	http://www.knowstack.com/swift-nssearchfield-nstableview-sample-code/	Swift NSSearchField NSTableView Sample Code	NSTableView:mac		20160527	0		0	0
+advanced	https://www.raywenderlich.com/135002/video-tutorial-collection-views-part-8-custom-layout	Video Tutorial: Collection Views Part 8: Custom Layout	UICollectionView:video		20160527	1		0	0
+advanced	http://flexmonkey.blogspot.com/2016/05/chaos-in-swift-visualising-lorenz.html	Chaos in Swift! Visualising the Lorenz Attractor with Metal	metal		20160528	0		0	0
+advanced	http://www.knowstack.com/swift-caemittercell-caemitterlayer-sample-code/	Swift CAEmitterCell CAEmitterLayer Sample Code	CAEmitterCell		20160528	0		0	0
+libs	https://github.com/Ramotion/Expanding-Collection	ExpandingCollection is a card peek/pop controller			20160528	0		0	0
+advanced	http://bridgermaxwell.com/blog/building-on-auto-layout/	Building on Auto Layout	AutoLayout		20160523	0		0	0
+advanced	http://subjc.com/going-with-the-flow	Going with the flow	UICollectionViewLayout		20160523	0		0	0
