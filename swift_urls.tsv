@@ -4470,3 +4470,32 @@ advanced	http://www.knowstack.com/swift-caemittercell-caemitterlayer-sample-code
 libs	https://github.com/Ramotion/Expanding-Collection	ExpandingCollection is a card peek/pop controller			20160528	0		0	0
 advanced	http://bridgermaxwell.com/blog/building-on-auto-layout/	Building on Auto Layout	AutoLayout		20160523	0		0	0
 advanced	http://subjc.com/going-with-the-flow	Going with the flow	UICollectionViewLayout		20160523	0		0	0
+advanced	http://johnpatrickmorgan.github.io/2016/05/11/URLPatternMatching/	URL Pattern Matching			20160511	0		0	0
+advanced	http://en.swifter.tips/sizeof-sizeofValue/	sizeof and sizeofValue			20160525	0		0	0
+advanced	http://codelle.com/blog/2016/5/an-easy-way-to-convert-swift-structs-to-json/	An easy way to convert Swift structs to JSON	json		20160524	0		0	0
+libs	https://github.com/maquannene/Track	Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU			20160524	0		0	0
+libs	https://github.com/joeldev/JLRoutes	URL routing library for iOS with a simple block-based API			20160524	0		0	0
+libs	https://github.com/crossroadlabs/Regex	Regular expressions for swift			20160524	0		0	0
+advanced	https://alastairs-place.net/blog/2016/05/20/code-coverage-from-the-command-line-with-clang/%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_252	Code Coverage From the Command Line With Clang			20160520	0		0	0
+advanced	https://medium.com/ios-os-x-development/make-your-app-extensible-with-javascript-core-7074061f2b05	Make your app extensible with JavaScript Core	javascript		20160519	0		0	0
+advanced	http://swiftdeveloperblog.com/display-large-collection-of-images-in-uitableview-with-sdwebimage/	Display Large Collection of Images in UITableView with SDWebImage			20160528	0		0	0
+advanced	http://en.swifter.tips/asmname/	Calling C code and @asmname			20160518	0		0	0
+advanced	http://en.swifter.tips/type-encode/	Type Encode and @encode			20160511	0		0	0
+advanced	http://en.swifter.tips/enumerate/	Enumerating an Array			20160427	0		0	0
+advanced	http://en.swifter.tips/options/	Options			20160413	0		0	0
+advanced	http://en.swifter.tips/output-format/	Formatted Output			20160406	0		0	0
+advanced	http://en.swifter.tips/dylib/	C dynamic library			20160330	0		0	0
+advanced	http://en.swifter.tips/swizzle/	Swizzle			20160316	0		0	0
+advanced	http://alastairs-place.net/blog/2015/12/30/symbolicating-os-x-crash-logs/	Symbolicating OS X Crash Logs			20151230	0		0	0
+advanced	http://alastairs-place.net/blog/2014/06/12/async-in-swift/	Async in Swift			20140612	0		0	0
+advanced	http://alastairs-place.net/blog/2014/06/09/c-number-like-async-in-swift/	C#-like Async in Swift			20140609	0		0	0
+advanced	https://realm.io/news/tryswift-maxim-cramer-live-design/	Live Design	design:video		20160530	0		0	0
+advanced	https://www.raywenderlich.com/135336/video-tutorial-beginning-spritekit-introduction	Video Tutorial: Beginning SpriteKit: Introduction	SpriteKit:video		20160530	0		0	0
+advanced	http://useyourloaf.com/blog/unregistering-nsnotificationcenter-observers-in-ios-9/	Unregistering NSNotificationCenter Observers in iOS 9			20160530	0		0	0
+advanced	https://www.raywenderlich.com/135346/video-tutorial-beginning-spritekit-part-1-sprites	Video Tutorial: Beginning SpriteKit Part 1: Sprites	SpriteKit:video		20160530	0		0	0
+advanced	http://code.tutsplus.com/tutorials/data-validation-with-core-data-common-constraints--cms-26621	Data Validation With Core Data: Common Constraints	CoreData		20160530	0		0	0
+advanced	https://www.raywenderlich.com/135351/video-tutorial-beginning-spritekit-part-2-game-loop	Video Tutorial: Beginning SpriteKit Part 2: Game Loop	SpriteKit:video		20160530	1		0	0
+advanced	http://masilotti.com/testing-dictionaries/	Testing Dictionaries with Swift and XCTest	testing		20160530	0		0	0
+advanced	http://www.knowstack.com/swift-caemittercell-caemitterlayer-fireworks/	Swift CAEmitterCell CAEmitterLayer Fireworks			20160530	0		0	0
+advanced	https://www.shinobicontrols.com/blog/advanced-charting-for-ios-part-2-smoothing	Advanced Charting for iOS – Part 2 Smoothing	chart		20160531	0		0	0
+advanced	https://www.raywenderlich.com/128948/universal-links-make-connection	Universal Links – Make the Connection	UniversalLinks		20160531	0		0	0
