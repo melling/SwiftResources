@@ -3906,6 +3906,7 @@ advanced	http://nsscreencast.com/episodes/218-core-data-with-swift	Episode #218:
 advanced	http://nsscreencast.com/episodes/219-nscalendar	Episode #219: NSCalendar	video		20160506	1		0	0
 advanced	http://nsscreencast.com/episodes/220-easy-auth-part-1	Episode #220: Easy Auth - Part 1	video:oauth2		20160512	1		0	0
 advanced	http://nsscreencast.com/episodes/221-easy-auth-part-2	Episode #221: Easy Auth - Part 2	video:oauth2		20160519	1		0	0
+advanced	http://nsscreencast.com/episodes/222-easy-auth-part-3	Episode #222: Easy Auth - Part 3	video:oauth2		20160527	1		0	0
 advanced	http://ericasadun.com/2016/04/12/proposal-spotlight-se-0045-add-scan-takewhile-dropwhile-and-iterate-to-the-stdlib/	Proposal Spotlight: SE-0045 Add scan, takeWhile, dropWhile, and iterate to the stdlib			20160412	0		0	0
 advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models	video:animation		20160412	1		0	0
 advanced	http://peterwitham.com/swift/intermediate/swift-error-throwing-catching/	Swift Error Throwing and Catching	exceptions		20160412	0		0	0
@@ -4512,3 +4513,88 @@ advanced	http://christiantietze.de/posts/2016/05/cancelable-blocks-gcd/	TIL You 
 advanced	http://codelle.com/blog/2016/2/calling-methods-from-strings-in-swift/	Calling methods from strings in Swift			20160224	0		0	0
 advanced	http://codelle.com/blog/2016/3/extending-uitabbaritem-with-ibinspectable-paintcode-icons/	Extending UITabBarItem with IBInspectable PaintCode icons			20160307	0		0	0
 advanced	http://codelle.com/blog/2016/3/simple-core-data-full-text-search-with-swift-and-sqlite/	Simple Core Data Full Text Search With Swift and SQLite			20160321	0		0	0
+advanced	http://chris.eidhof.nl/post/dynamic-swift/	Dynamic Swift			20160528	0		0	0
+advanced	http://chris.eidhof.nl/post/undo-history-in-swift/	Undo History in Swift - Chris Eidhof			20160530	0		0	0
+advanced	http://ericasadun.com/2016/05/31/swift-rewrite-challenge/	Swift rewrite challenge			20160531	0		0	0
+advanced	https://www.raywenderlich.com/135356/video-tutorial-beginning-spritekit-part-3-univesal-app-support	Video Tutorial: Beginning SpriteKit Part 3: Univesal App Support	SpriteKit:video		20160531	1		0	0
+libs	https://github.com/marmelroy/filebrowser	Finder-style iOS file browser			20160531	0		0	0
+libs	https://github.com/startry/SwViewCapture	A nice iOS View Capture Swift Library which can capture all content.			20160531	0		0	0
+advanced	https://www.raywenderlich.com/135361/video-tutorial-beginning-spritekit-part-4-boundaries-playable-area	Video Tutorial: Beginning SpriteKit Part 4: Boundaries and the Playable Area	SpriteKit:video		20160531	1		0	0
+advanced	http://ericasadun.com/2016/05/31/swift-3-0-preview-1-release-branch/	Swift 3.0 Preview 1 Release Branch			20160531	0		0	0
+advanced	https://medium.com/swift-programming/swift-nsnotificationcenter-protocol-c527e67d93a1	Swift: NSNotificationCenter protocol			20160601	0		0	0
+advanced	https://www.raywenderlich.com/125311/make-game-like-candy-crush-spritekit-swift-part-1	How to Make a Game Like Candy Crush with SpriteKit and Swift: Part 1	SpriteKit		20160601	0		0	0
+advanced	https://www.raywenderlich.com/132114/make-game-like-candy-crush-spritekit-swift-part-2	How to Make a Game Like Candy Crush with SpriteKit and Swift: Part 2	SpriteKit		20160601	0		0	0
+advanced	https://www.raywenderlich.com/132117/make-game-like-candy-crush-spritekit-swift-part-3	How to Make a Game Like Candy Crush with SpriteKit and Swift: Part 3	SpriteKit		20160601	0		0	0
+advanced	https://www.raywenderlich.com/125313/make-game-like-candy-crush-spritekit-swift-part-4	How to Make a Game Like Candy Crush with SpriteKit and Swift: Part 4	SpriteKit		20160601	0		0	0
+advanced	https://www.raywenderlich.com/135622/video-tutorial-beginning-spritekit-part-5-actions	Video Tutorial: Beginning SpriteKit Part 5: Actions	SpriteKit:video		20160601	1		0	0
+advanced	http://ericasadun.com/2016/06/01/build-configurations-now-and-future/	Build Configurations: Now and Future			20160601	0		0	0
+advanced	https://www.youtube.com/watch?v=XXHMfYuWXbQ	‪App Icons! (Prepo : Pixelmator : Xcode)‬			20160531	0		0	0
+advanced	http://en.swifter.tips/delegate/	delegate			20160601	0		0	0
+advanced	http://www.appcoda.com/app-thinning/	Working with App Thinning in iOS 9	AppThinning		20151011	0		0	0
+advanced	https://github.com/iwasrobbed/Swift-CheatSheet	Swift Cheat Sheet			20160531	0		0	0
+libs	https://github.com/Ramotion/Preview-Transition	PreviewTransition is a simple preview gallery controller			20160531	0		0	0
+advanced	https://www.invasivecode.com/weblog/custom-development-ios	Investing in custom development			20160601	0		0	0
+advanced	https://www.raywenderlich.com/135628/video-tutorial-beginning-spritekit-part-6-animations	Video Tutorial: Beginning SpriteKit Part 6: Animations	SpriteKit:video		20160601	1		0	0
+advanced	http://inessential.com/2016/06/01/oldie_praises_the_old_old_ways	Oldie Praises the Old Old Ways			20160601	0		0	0
+advanced	http://mhorga.org/2016/06/01/using-metalkit-part-14.html	Using MetalKit part 14	metal		20160531	0		0	0
+advanced	https://robots.thoughtbot.com/introducing-swish-1-0-protocol-based-networking-for-ios	Introducing Swish 1.0: Protocol Based Networking for iOS			20160601	0		0	0
+advanced	http://ericasadun.com/2016/06/01/convergent-evolution-rejections-and-acceptances/	Convergent Evolution: Rejections and Acceptances			20160602	0		0	0
+advanced	http://ctarda.com/2016/06/this-is-how-i-parse-json-in-swift/	This is how I parse JSON in Swift	json		20160602	0		0	0
+advanced	https://www.youtube.com/watch?v=vChxJ_Nk6kI	‪Simple Framework Tutorial in Swift - Xcode 7.3 iOS 9.3‬			20160601	0		0	0
+advanced	http://curtclifton.net/network-activity-indicator	Network Activity Indicator			20160522	0		0	0
+libs	https://github.com/Isuru-Nanayakkara/InstagramAuthViewController	A ViewController for Instagram authentication			20160522	0		0	0
+advanced	https://www.sitepoint.com/a-crash-course-on-networking-in-ios/	A Crash Course on Networking in iOS			20160518	0		0	0
+advanced	https://www.sitepoint.com/dependency-management-in-ios-with-carthage/	Dependency Management in iOS with Carthage			20160601	0		0	0
+advanced	http://ericasadun.com/2016/06/02/apple-withdraws-swift-3-0-preview-1/	Apple withdraws Swift 3.0 Preview 1			20160602	0		0	0
+advanced	https://www.raywenderlich.com/135634/video-tutorial-beginning-spritekit-part-7-collision-detection	Video Tutorial: Beginning SpriteKit Part 7: Collision Detection	SpriteKit:video		20160602	1		0	0
+advanced	https://www.linkedin.com/pulse/your-code-prepared-swift-3-find-out-today-dan-zinngrabe	Is your code prepared for Swift 3? Find out today.			20160601	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/06/02/creating-calendar-events-with-event-kit-and-swift/	Creating Calendar Events with Event Kit and Swift			20160602	0		0	0
+advanced	https://developer.apple.com/library/ios/technotes/tn2434/_index.html	Minimizing your app's Memory Footprint			20160523	0		0	0
+advanced	http://macoscope.com/blog/effective-localization-when-working-with-language-plural-rules/	Dealing with Localization of Plural Nouns in iOS			20160529	0		0	0
+advanced	https://www.raywenderlich.com/135641/video-tutorial-beginning-spritekit-part-8-scenes	Video Tutorial: Beginning SpriteKit Part 8: Scenes	SpriteKit:video		20160602	1		0	0
+advanced	https://www.raywenderlich.com/123102/implementing-custom-subscripts-swift	Implementing Custom Subscripts in Swift			20160603	0		0	0
+advanced	https://www.raywenderlich.com/135645/video-tutorial-beginning-spritekit-part-9-labels	Video Tutorial: Beginning SpriteKit Part 9: Labels	SpriteKit:video		20160603	1		0	0
+advanced	https://www.youtube.com/watch?v=LBw5tuTvKd4	Remote Notifications! (Firebase : Swift 2 in Xcode)	firebase:video		20160603	0		0	0
+advanced	https://www.raywenderlich.com/135723/video-tutorial-beginning-spritekit-part-10-tvos-apple-tv	Video Tutorial: Beginning SpriteKit Part 10: tvOS and the Apple TV	SpriteKit:video:AppleTV		20160603	1		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html	Mutexes and closure capture in Swift			20160601	0		0	0
+advanced	http://code.tutsplus.com/tutorials/taking-control-of-the-tvos-focus-engine--cms-26572	Taking Control of the tvOS Focus Engine	AppleTV		20160603	0		0	0
+advanced	http://candycode.io/swift-optionals-demystified/	Swift Optionals Demystified			20160603	0		0	0
+advanced	http://ericasadun.com/2016/06/03/swift-from-two-to-three-currying-favor/	Swift from Two to Three: Currying Favor	functional		20160603	0		0	0
+advanced	https://www.raywenderlich.com/135728/video-tutorial-beginning-spritekit-part-11-conclusion	Video Tutorial: Beginning SpriteKit Part 11: Conclusion	SpriteKit:video		20160603	1		0	0
+advanced	https://realm.io/news/tryswift-daniel-eggert-modern-core-data/	Modern Core Data	video		20160603	0		0	0
+advanced	https://realm.io/news/slug-rudy-mutter-putting-out-swift-fires/	Putting Out Swift Fires - Lessons from Launching Chelsea Handler: Gotta Go	video		20160602	0		0	0
+advanced	https://beaunouvelle.com/large-numbers-with-swift-big-int	Working with very large numbers in Swift - BigInt			20160603	0		0	0
+libs	https://github.com/AugustRush/Stellar	A fantastic Physical animation library			20160603	0		0	0
+libs	https://github.com/appculture/MissionControl-iOS	Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, OSX)			20160603	0		0	0
+libs	https://github.com/Clipy/Clipy	Clipboard extension app for Mac OSX.	mac		20160603	0		0	0
+libs	https://github.com/Ahmed-Ali/JSONExport	A desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors			20160603	0		0	0
+libs	https://github.com/ochococo/OOD-Principles-In-Swift	The Principles of OOD based on Uncle Bob articles			20160604	0		0	0
+advanced	http://www.jessesquires.com/avoiding-objc-in-swift/	Avoiding the overuse of @objc in Swift			20160604	0		0	0
+libs	https://github.com/kylef/swim	Simple build system for the Swift language			20160604	0		0	0
+libs	https://github.com/Buglife/Floater_	Add a floating fingertip to your app demo			20160604	0		0	0
+libs	https://github.com/jeantimex/ios-swift-collapsible-table-section	A simple iOS swift project demonstrates how to implement collapsible table section			20160604	0		0	0
+libs	https://github.com/JohnSundell/Flow	Operation Oriented Programming			20160604	0		0	0
+advanced	http://oleb.net/blog/2016/06/kevin-ballard-swift-dispatch/	Method Dispatch in Protocol Extensions			20160605	0		0	0
+advanced	http://swiftdeveloperblog.com/swift-code-examples/	Swift Code Examples			20160605	0		0	0
+advanced	http://www.appcoda.com/custom-content-view/	Building a Custom Content View with UITableView and MapKit			20160605	0		0	0
+advanced	https://www.raywenderlich.com/135967/video-tutorial-beginning-realm-ios-series-introduction	Video Tutorial: Beginning Realm on iOS: Series Introduction			20160606	0		0	0
+advanced	http://oleb.net/blog/2016/06/ellen-shapiro-ui-testing/	Ellen Shapiro: Outside In — Using UI Tests to Start Improving Your App	testing:video		20160606	0		0	0
+advanced	https://www.youtube.com/playlist?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k	UIKonf 2016	video		20160606	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/06/06/pentominoes_part_one/	Pentominoes, part one: Tiles			20160606	0		0	0
+advanced	https://www.raywenderlich.com/135977/video-tutorial-beginning-realm-ios-part-1-getting-started	Video Tutorial: Beginning Realm on iOS Part 1: Getting Started	realm:video		20160606	0		0	0
+advanced	http://christiantietze.de/posts/2016/06/principles-ood/	Principles of Object-Oriented Design in Swift 2.2			20160606	0		0	0
+advanced	http://code.tutsplus.com/tutorials/data-validation-with-core-data-advanced-constraints--cms-26623	Data Validation With Core Data: Advanced Constraints	CoreData		20160606	0		0	0
+advanced	http://useyourloaf.com/blog/using-objective-c-lightweight-generics/	Using Objective-C Lightweight Generics			20160606	0		0	0
+advanced	http://ericasadun.com/2016/06/06/sneaky-swift-tricks-the-fake-boolean/	Sneaky Swift Tricks: The fake Boolean			20160606	0		0	0
+advanced	https://www.raywenderlich.com/135533/join-swift-algorithm-club	Join the Swift Algorithm Club!			20160606	0		0	0
+advanced	http://www.mokacoding.com/blog/swift-unavailable-how-to	How to make Swift methods unavailable			20160606	0		0	0
+advanced	https://www.raywenderlich.com/126365/ios-frameworks-tutorial	Creating and Distributing iOS Frameworks			20160607	0		0	0
+advanced	https://realm.io/news/tryswift-helen-holmes-10-ways-designers-swift-codebase/	10 Ways to Get Designers in Your Swift Codebase			20160607	0		0	0
+advanced	http://oleb.net/blog/2016/06/daniel-steinberg-swift-time-lapse/	Daniel Steinberg: A Time Lapse Look at Swift			20160607	0		0	0
+advanced	https://www.raywenderlich.com/135984/video-tutorial-beginning-realm-ios-part-2-storing-retrieving-objects	Video Tutorial: Beginning Realm on iOS Part 2: Storing and Retrieving Objects			20160607	0		0	0
+advanced	http://theswiftdev.com/2016/06/07/app-icon-generator-for-ios-watchos-and-os-x/	App icon generator for iOS, watchOS and OS X			20160607	0		0	0
+advanced	https://www.shinobicontrols.com/blog/jamming-with-the-gyb-utility	Jamming with the GYB utility			20160608	0		0	0
+advanced	http://en.swifter.tips/associated-object/	Associated Object			20160608	0		0	0
+advanced	http://vormlab.com/pods-we-use/	15 Pods we use			20160407	0		0	0
+advanced	http://vormlab.com/animating-text-layers-using-coreanimation-coretext-frameworks-ios-sdk/	Animating text layers using CoreAnimation and CoreText frameworks in iOS SDK	CoreAnimation		20160413	0		0	0
+advanced	http://vormlab.com/coregraphics-tutorial-swift/	From Line to gradient graph – CoreGraphics Tutorial in Swift	CoreGraphics		20160608	0		0	0
