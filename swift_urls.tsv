@@ -4591,10 +4591,27 @@ advanced	http://www.mokacoding.com/blog/swift-unavailable-how-to	How to make Swi
 advanced	https://www.raywenderlich.com/126365/ios-frameworks-tutorial	Creating and Distributing iOS Frameworks			20160607	0		0	0
 advanced	https://realm.io/news/tryswift-helen-holmes-10-ways-designers-swift-codebase/	10 Ways to Get Designers in Your Swift Codebase			20160607	0		0	0
 advanced	http://oleb.net/blog/2016/06/daniel-steinberg-swift-time-lapse/	Daniel Steinberg: A Time Lapse Look at Swift			20160607	0		0	0
-advanced	https://www.raywenderlich.com/135984/video-tutorial-beginning-realm-ios-part-2-storing-retrieving-objects	Video Tutorial: Beginning Realm on iOS Part 2: Storing and Retrieving Objects			20160607	0		0	0
+advanced	https://www.raywenderlich.com/135984/video-tutorial-beginning-realm-ios-part-2-storing-retrieving-objects	Video Tutorial: Beginning Realm on iOS Part 2: Storing and Retrieving Objects	realm:video		20160607	1		0	0
 advanced	http://theswiftdev.com/2016/06/07/app-icon-generator-for-ios-watchos-and-os-x/	App icon generator for iOS, watchOS and OS X			20160607	0		0	0
 advanced	https://www.shinobicontrols.com/blog/jamming-with-the-gyb-utility	Jamming with the GYB utility			20160608	0		0	0
 advanced	http://en.swifter.tips/associated-object/	Associated Object			20160608	0		0	0
 advanced	http://vormlab.com/pods-we-use/	15 Pods we use			20160407	0		0	0
 advanced	http://vormlab.com/animating-text-layers-using-coreanimation-coretext-frameworks-ios-sdk/	Animating text layers using CoreAnimation and CoreText frameworks in iOS SDK	CoreAnimation		20160413	0		0	0
 advanced	http://vormlab.com/coregraphics-tutorial-swift/	From Line to gradient graph – CoreGraphics Tutorial in Swift	CoreGraphics		20160608	0		0	0
+advanced	https://www.raywenderlich.com/135989/video-tutorial-beginning-realm-ios-part-3-updating-objects	Video Tutorial: Beginning Realm on iOS Part 3: Updating Objects	realm:video		20160608	1		0	0
+libs	https://github.com/insidegui/WWDC	WWDC app for OS X	mac		20160608	0		0	0
+advanced	https://www.sitepoint.com/managing-data-in-ios-apps-with-sqlite/	Managing Data in iOS Apps with SQLite	sqlite		20160608	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/06/08/pentominoes-part-two/	Pentominoes, part two: Board			20160607	0		0	0
+advanced	http://ankit.im/swift/2016/06/08/swift-docs-markup-template-generator/	Swift Documentation Markup Template Generator using SourceKit			20160608	0		0	0
+advanced	http://ericasadun.com/2016/06/08/swift-the-joy-of-sequences/	Swift: The joy of sequences	sequences		20160608	0		0	0
+advanced	http://ericasadun.com/2016/06/08/swift-doc-markup-generator/	Swift Doc Markup generator			20160608	0		0	0
+libs	https://github.com/Ramotion/animated-tab-bar	RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items			20160608	0		0	0
+libs	https://github.com/Ramotion/folding-cell	FoldingCell is an expanding content cell inspired by folding paper material			20160608	0		0	0
+libs	https://github.com/Ramotion/paper-switch	RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on			20160608	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/06/08/pentominoes-part-three/	Pentominoes, part three: Placing the first tile			20160607	0		0	0
+advanced	https://www.raywenderlich.com/128614/core-graphics-os-x-tutorial	Core Graphics on OS X Tutorial	mac:CoreGraphics		20160609	0		0	0
+advanced	http://ericasadun.com/2016/06/09/dear-erica-whats-the-biggest-and-best-swift-3-change/	Dear Erica: What’s the biggest and best Swift 3 change?			20160609	0		0	0
+advanced	https://www.raywenderlich.com/135994/video-tutorial-beginning-realm-ios-part-4-collections	Video Tutorial: Beginning Realm on iOS Part 4: Collections			20160609	1		0	0
+advanced	https://www.andrewcbancroft.com/2016/06/09/extracting-a-pkcs7-container-for-receipt-validation-with-swift/	Extracting a PKCS7 Container for Receipt Validation with Swift			20160609	0		0	0
+advanced	https://realm.io/news/tryswift-gladman-simon-advanced-core-image/	Advanced Image Processing with Core Image	CoreImage		20160610	0		0	0
+advanced	http://www.norchops.com/map-and-flatmap	for-loops are for suckers: An OO-programmer's guide to map and flatMap	functional		20160609	0		0	0
