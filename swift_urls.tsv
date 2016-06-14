@@ -4615,3 +4615,30 @@ advanced	https://www.raywenderlich.com/135994/video-tutorial-beginning-realm-ios
 advanced	https://www.andrewcbancroft.com/2016/06/09/extracting-a-pkcs7-container-for-receipt-validation-with-swift/	Extracting a PKCS7 Container for Receipt Validation with Swift			20160609	0		0	0
 advanced	https://realm.io/news/tryswift-gladman-simon-advanced-core-image/	Advanced Image Processing with Core Image	CoreImage		20160610	0		0	0
 advanced	http://www.norchops.com/map-and-flatmap	for-loops are for suckers: An OO-programmer's guide to map and flatMap	functional		20160609	0		0	0
+advanced	http://indiestack.com/2016/06/nullable-edge-cases/	Nullable Edge Cases			20160603	0		0	0
+advanced	http://roopc.net/posts/2016/swifty-responder-chain/	Swifty Responder Chain			20160604	0		0	0
+advanced	https://blog.slashkeys.com/generic-types-type-constraints-b1b40ad8b890	Generic Types & Type constraints	generics		20160608	0		0	0
+libs	https://github.com/yannickl/SnappingStepper	An elegant alternative to the UIStepper			20160608	0		0	0
+libs	https://github.com/iwasrobbed/Down	Blazing fast Markdown rendering in Swift, built upon cmark			20160608	0		0	0
+libs	https://github.com/gjiazhe/Up-Down	A menu bar widget for OS X that monitors upload and download speeds	mac		20160608	0		0	0
+libs	https://github.com/poetmountain/MotionMachine	A powerful, elegant, and modular animation library			20160608	0		0	0
+advanced	http://ericasadun.com/2016/06/10/swift-where-oh-where-can-my-where-clause-be/	Swift: Where oh where can my where clause be			20160610	0		0	0
+advanced	https://www.raywenderlich.com/135999/video-tutorial-beginning-realm-ios-part-5-notifications	Video Tutorial: Beginning Realm on iOS Part 5: Notifications			20160610	1		0	0
+advanced	http://candycode.io/fastest-way-to-use-auto-layout-in-code/	Fastest way to use Auto Layout in code			20160610	0		0	0
+advanced	https://www.raywenderlich.com/136004/video-tutorial-beginning-realm-ios-part-6-conclusion	Video Tutorial: Beginning Realm on iOS Part 6: Conclusion			20160610	1		0	0
+advanced	https://swiftweekly.github.io/issue-26/	Swift Weekly Brief: Issue #26			20160609	0		0	0
+advanced	http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/	http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/			20160605	0		0	0
+libs	https://github.com/kaphacius/IconMaker	an Xcode plug-in for making app icons	AppIcons:Xcode:xcode-plugin		20160610	0		0	0
+libs	https://github.com/square/xcknife	Simple tool for optimizing XCTest runs across machines	testing		20160610	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/06/09/pentominoes-part-three/	Pentominoes, part three: Placing the first tile			20160608	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/06/12/pentominoes-part-four/	Pentominoes, part four: Updating the board			20160611	0		0	0
+advanced	http://christiantietze.de/posts/2016/06/tableflip-architecture/	Coding TableFlip: the Bigger Picture			20160612	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/06/12/is-protocol-oriented-swift-better-than-object-oriented-swift/	Is Protocol Oriented Swift Better than Object Oriented Swift?			20160612	0		0	0
+advanced	http://ericasadun.com/2016/06/12/dear-erica-ex-var-parameters/	Dear Erica: ex-var parameters			20160612	0		0	0
+advanced	https://www.raywenderlich.com/136402/video-tutorial-mapkit-core-location-series-introduction	Video Tutorial: MapKit and Core Location: Series Introduction	MapKit:CoreLocation:video		20160613	0		0	0
+advanced	https://www.raywenderlich.com/136408/video-tutorial-mapkit-core-location-part-1-core-location	Video Tutorial: MapKit and Core Location Part 1: Core Location	MapKit:CoreLocation:video		20160613	1		0	0
+advanced	http://code.tutsplus.com/tutorials/swift-and-regular-expressions-syntax--cms-26387	Swift and Regular Expressions: Syntax	regex		20160613	0		0	0
+advanced	http://ericasadun.com/2016/06/13/ios-playgrounds/	iOS Playgrounds	playground		20160613	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/06/13/force-unwrapping-swift-optionals-code-smell/	Force Unwrapping Swift Optionals: Code Smell!			20160613	0		0	0
+advanced	http://jamesonquave.com/blog/adding-siri-to-ios-10-apps-in-swift-tutorial/	Siri Integration in iOS 10 with Swift – SiriKit Tutorial (Part 1)	SiriKit		20160614	0		0	0
+advanced	http://jamesonquave.com/blog/creating-imessage-apps-with-xcode-8-tutorial-part-1/	Creating iMessage Apps with XCode 8 – Tutorial (Part 1)			20160614	0		0	0
