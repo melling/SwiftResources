@@ -4642,3 +4642,47 @@ advanced	http://ericasadun.com/2016/06/13/ios-playgrounds/	iOS Playgrounds	playg
 advanced	https://www.andrewcbancroft.com/2016/06/13/force-unwrapping-swift-optionals-code-smell/	Force Unwrapping Swift Optionals: Code Smell!			20160613	0		0	0
 advanced	http://jamesonquave.com/blog/adding-siri-to-ios-10-apps-in-swift-tutorial/	Siri Integration in iOS 10 with Swift – SiriKit Tutorial (Part 1)	SiriKit		20160614	0		0	0
 advanced	http://jamesonquave.com/blog/creating-imessage-apps-with-xcode-8-tutorial-part-1/	Creating iMessage Apps with XCode 8 – Tutorial (Part 1)			20160614	0		0	0
+advanced	http://en.swifter.tips/lock/	Lock	concurrency		20160615	0		0	0
+advanced	https://realm.io/news/swift-language-wwdc-panel-2016/	Swift Language User Group WWDC Swift Panel 2016	video		20160613	0		0	0
+advanced	http://mhorga.org/2016/06/14/what-s-new-in-graphics-and-games-at-wwdc-2016.html	What's new in graphics and games at WWDC 2016			20160614	0		0	0
+advanced	http://candycode.io/introducing-the-how-do-i-auto-layout-cheatsheet/	Introducing The ''How do I Auto Layout'' Cheatsheet	AutoLayout		20160614	0		0	0
+advanced	http://christiantietze.de/posts/2016/06/segmented-nstoolbaritem/	How to Create a Segmented NSToolbarItem like Apple Mail.app	mac		20160614	0		0	0
+advanced	http://ericasadun.com/2016/06/14/playgrounds-part-ii/	Playgrounds Part II	playground		20160614	0		0	0
+advanced	https://www.raywenderlich.com/136713/video-tutorial-mapkit-core-location-part-2-background-updates	Video Tutorial: MapKit and Core Location Part 2: Background Updates	MapKit:CoreLocation:video		20160614	1		0	0
+advanced	http://ericasadun.com/2016/06/14/playgrounds-part-iii/	Playgrounds Part III	playground		20160614	0		0	0
+advanced	http://www.russbishop.net/xcode-extensions	Xcode Extensions	xcode		20160614	0		0	0
+advanced	https://www.raywenderlich.com/135655/whats-new-swift-3	What’s New in Swift 3?	swift3		20160615	0		0	0
+advanced	http://gamedevelopment.tutsplus.com/articles/get-started-with-mobile-game-development--cms-26704	Get Started With Mobile Game Development			20160615	0		0	0
+advanced	http://code.tutsplus.com/tutorials/swift-and-regular-expressions-swift--cms-26626	Swift and Regular Expressions: Swift			20160615	0		0	0
+advanced	https://www.raywenderlich.com/136719/video-tutorial-mapkit-core-location-part-3-geocoding	Video Tutorial: MapKit and Core Location Part 3: Geocoding	MapKit:CoreLocation:video		20160615	1		0	0
+advanced	http://code.tutsplus.com/articles/get-started-creating-an-apple-tv-app-with-swift--cms-26699	Get Started Creating an Apple TV App With Swift	AppleTV		20160616	0		0	0
+advanced	http://christiantietze.de/posts/2016/06/disabling-toolbar-item-segments/	Disabling Segments in a NSSegmentedControl in a Toolbar	mac		20160616	0		0	0
+advanced	https://www.raywenderlich.com/136725/video-tutorial-mapkit-core-location-part-4-region-monitoring	Video Tutorial: MapKit and Core Location Part 4: Region Monitoring	MapKit:CoreLocation:video		20160616	1		0	0
+advanced	https://youtu.be/6tydk4Fc-tg	‪Using TestFlight! (Xcode)‬	JaredDavidson:video:testing		20160614	0		0	0
+libs	https://github.com/Lickability/PinpointKit	Send better feedback			20160613	0		0	0
+advanced	https://swifting.io/blog/2016/06/13/18-do-pure-swift-objects-have-load-method/	#18 Do pure Swift objects have load() method?			20160613	0		0	0
+advanced	https://swift.org/migration-guide/	Migrating to Swift 2.3 or Swift 3 from Swift 2.2	swift3		20160614	0		0	0
+advanced	https://realm.io/news/siena-aguayo-realm-as-replacement-for-sqlite/	Gotta Persist 'Em All: Realm as Replacement for SQLite	realm		20160615	0		0	0
+advanced	https://www.raywenderlich.com/136729/video-tutorial-mapkit-core-location-part-5-mapkit	Video Tutorial: MapKit and Core Location Part 5: MapKit	MapKit:CoreLocation:video		20160617	1		0	0
+advanced	http://www.appcoda.com/sleep-analysis-healthkit/	Using Sleep Analysis in HealthKit with Swift	HealthKit		20160618	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/06/19/pentominoes-part-five/	Pentominoes, part five: Some drawing			20160618	0		0	0
+advanced	http://www.mokacoding.com/blog/maintaining-sanity-with-multiple-versions-of-xcode	Maintaining Sanity with Multiple Versions of Xcode			20160619	0		0	0
+advanced	http://www.appcoda.com/message-sticker-app/	Building a Message Sticker App Extension in Xcode 8	stickers		20160620	0		0	0
+advanced	https://applidium.com/en/news/registerable_views/	Registerable Views	UITableViewCell		20160616	0		0	0
+advanced	http://swift.ayaka.me/posts/2016/6/18/favorite-swift-30-features	Favorite Swift 3.0 Features	swift3		20160618	0		0	0
+libs	https://github.com/tidwall/swiftwebsocket	Fast Websockets in Swift for iOS and OSX			20160618	0		0	0
+advanced	http://rightfontapp.com/	RightFont for Mac	tools:fonts		20160618	0		0	0
+libs	https://developer.apple.com/library/ios/samplecode/DemoBots/Introduction/Intro.html	DemoBots	SpriteKit		20160618	0		0	0
+libs	https://github.com/AppleDesignResources/SanFranciscoFont	The San Francisco font by Apple used in the Apple Watch, iOS 9, and OS X El Capitan	fonts		20150618	0		0	0
+advanced	https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505	Server Side Swift vs. The Other Guys — 2: Speed			20160613	0		0	0
+advanced	http://mjtsai.com/blog/2016/06/17/the-deprecation-of-icloud-core-data/	The Deprecation of iCloud Core Data	CoreData		20160617	0		0	0
+libs	https://github.com/hyperoslo/Malibu	Malibu is a networking library built on promises			20160613	0		0	0
+advanced	http://lepetit-prince.net/ios/?p=5231	Today's iOS sample no.1275 color door lock	SceneKit		20160618	0		0	0
+libs	https://github.com/SchoonSauce/SwiftDataStructures	Some basic data structures implemented in Swift			20160618	0		0	0
+advanced	https://medium.com/@pvzig/building-slack-bots-in-swift-b99e243e444c	Building Slack Bots In Swift			20160505	0		0	0
+advanced	http://andyheardapps.github.io/AHNoise/	AHNoise: A procedural, cohesive, modular noise library built using Metal and Swift	metal		20160505	0		0	0
+advanced	https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3	Swift: Selector syntax sugar			20160323	0		0	0
+advanced	https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5	A quick look at UIViewPropertyAnimator	UIViewPropertyAnimator		20160614	0		0	0
+libs	https://developer.apple.com/sample-code/wwdc/2016/	WWDC 2016 Sample Code			20160614	0		0	0
+libs	https://github.com/ohoachuck/wwdc-downloader	WWDC 2016 video downloader script written in Swift - no external dependency			20160614	0		0	0
+libs	https://github.com/IBM-Swift/BluePic	BluePic is a sample photo sharing application for iOS that shows you how to connect your mobile application with Kitura, Bluemix services, and OpenWhisk actions			20160614	0		0	0
