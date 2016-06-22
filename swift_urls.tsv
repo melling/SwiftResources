@@ -4686,3 +4686,18 @@ advanced	https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewproperty
 libs	https://developer.apple.com/sample-code/wwdc/2016/	WWDC 2016 Sample Code			20160614	0		0	0
 libs	https://github.com/ohoachuck/wwdc-downloader	WWDC 2016 video downloader script written in Swift - no external dependency			20160614	0		0	0
 libs	https://github.com/IBM-Swift/BluePic	BluePic is a sample photo sharing application for iOS that shows you how to connect your mobile application with Kitura, Bluemix services, and OpenWhisk actions			20160614	0		0	0
+advanced	http://jamesonquave.com/blog/sirikit-swift-3-resolutions-sirikit-tutorial-part-2/	SiriKit Resolutions with Swift 3 and iOS 10 – SiriKit Tutorial (Part 2)	SiriKit		20160620	0		0	0
+advanced	https://www.raywenderlich.com/137408/video-tutorial-mapkit-core-location-part-6-annotations	Video Tutorial: MapKit and Core Location Part 6: Annotations	MapKit:CoreLocation:video		20160620	1		0	0
+advanced	http://useyourloaf.com/blog/wwdc-2016-viewing-guide/	WWDC 2016 Viewing Guide			20160620	0		0	0
+advanced	http://ericasadun.com/2016/06/20/xcode-woes-and-noes/	Xcode Woes and Noes			20160620	0		0	0
+advanced	https://www.invasivecode.com/weblog/machine-learning-swift-ios/	Machine Learning in Swift for iOS			20160620	0		0	0
+advanced	https://www.raywenderlich.com/137634/ios-10-tutorials-free-access-for-subscribers	iOS 10 by Tutorials: Free Access for Subscribers!			20160621	0		0	0
+advanced	http://ericasadun.com/2016/06/21/ios-playgrounds-part-4-mailing-playgrounds/	iOS Playgrounds part 4: Mailing playgrounds	playground		20160621	0		0	0
+advanced	http://ericasadun.com/2016/06/21/ios-playgrounds-part-5-editing-real-code/	iOS Playgrounds Part 5: Editing real code	playground		20160621	0		0	0
+advanced	https://www.raywenderlich.com/137422/video-tutorial-mapkit-core-location-part-7-overlays	Video Tutorial: MapKit and Core Location Part 7: Overlays	MapKit:CoreLocation:video		20160622	0		0	0
+advanced	https://www.raywenderlich.com/137216/whats-new-spritekit-ios-10-look-tile-maps	What’s New In SpriteKit on iOS 10: A Look At Tile Maps	SpriteKit		20160622	0		0	0
+advanced	https://www.raywenderlich.com/137486/video-tutorial-mapkit-core-location-part-8-directions	Video Tutorial: MapKit and Core Location Part 8: Directions	MapKit:CoreLocation:video		20160622	1		0	0
+advanced	https://youtu.be/ESg0qgwLmLk	‪Using AdMob! (Firebase : Swift 2 in Xcode)‬	firebase:admob:video		20160621	0		0	0
+libs	https://github.com/gontovnik/Periscope-VideoViewController	Video view controller with Periscope fast rewind control			20160621	0		0	0
+libs	https://github.com/krimpedance/KRProgressHUD	A beautiful and easy-to-use progress HUD for your iOS.			20160621	0		0	0
+libs	https://github.com/BalestraPatrick/ValueStepper	A Stepper object that displays its value			20160621	0		0	0
