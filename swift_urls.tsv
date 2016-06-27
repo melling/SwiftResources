@@ -4701,3 +4701,79 @@ advanced	https://youtu.be/ESg0qgwLmLk	‪Using AdMob! (Firebase : Swift 2 in Xco
 libs	https://github.com/gontovnik/Periscope-VideoViewController	Video view controller with Periscope fast rewind control			20160621	0		0	0
 libs	https://github.com/krimpedance/KRProgressHUD	A beautiful and easy-to-use progress HUD for your iOS.			20160621	0		0	0
 libs	https://github.com/BalestraPatrick/ValueStepper	A Stepper object that displays its value			20160621	0		0	0
+libs	https://github.com/gabrielgarza/monza	Ruby Gem - Easy iTunes In-App Purchase Receipt validation, including auto-renewable subscriptions			20160621	0		0	0
+libs	https://github.com/nashvail/X-Days-of-Swift	Some iOS apps			20160621	0		0	0
+advanced	http://swiftdeveloperblog.com/migrate-parse-app-to-your-own-server-in-amazon-cloud/	Migrate Parse App to Your Own Server In Amazon Cloud			20160623	0		0	0
+advanced	https://realm.io/news/slug-nick-oneill-native-swift-patterns/	Discovering Native Swift Patterns			20160623	0		0	0
+advanced	http://christiantietze.de/posts/2016/06/location-matters/	Location Matters			20160623	0		0	0
+advanced	https://www.raywenderlich.com/137833/top-10-wwdc-2016-videos	Top 10 WWDC 2016 Videos			20160623	0		0	0
+advanced	http://en.swifter.tips/toll-free/	Toll-Free Bridging and Unmanaged			20160622	0		0	0
+advanced	http://mhorga.org/2016/06/23/using-metalkit-part-15.html	Using MetalKit part 15	metal		20160622	0		0	0
+advanced	https://www.raywenderlich.com/137491/video-tutorial-mapkit-core-location-part-9-flyover-maps	Video Tutorial: MapKit and Core Location Part 9: Flyover Maps	MapKit:CoreLocation:video		20160623	1		0	0
+advanced	http://www.appcoda.com/cocoapods/	Using CocoaPods in Your Swift and Objective-C Projects			20160623	0		0	0
+advanced	https://www.raywenderlich.com/132662/mvc-in-ios-a-modern-approach	Model-View-Controller (MVC) in iOS: A Modern Approach			20160624	0		0	0
+advanced	http://ericasadun.com/2016/06/24/playgrounds-6-focusing-interaction/	Playgrounds 6: Focusing Interaction	playground		20160624	0		0	0
+advanced	http://ericasadun.com/2016/06/24/playgrounds-7-in-which-i-finally-get-the-keyboard/	Playgrounds 7: In which I *finally* get the keyboard	playground		20160624	0		0	0
+advanced	http://code.tutsplus.com/tutorials/rapid-interactive-prototyping-with-xcode-playgrounds--cms-26637	Rapid, Interactive Prototyping With Xcode Playgrounds	playground		20160624	0		0	0
+advanced	https://www.raywenderlich.com/137496/video-tutorial-mapkit-core-location-part-10-conclusion	Video Tutorial: MapKit and Core Location Part 10: Conclusion	MapKit:CoreLocation:video		20160624	1		0	0
+advanced	http://christiantietze.de/posts/2016/06/checkbox/	Check Boxes in AppKit	mac		20160625	0		0	0
+advanced	https://www.raywenderlich.com/137830/ios-10-screencast-usernotifications-framework	iOS 10 Screencast: The UserNotifications Framework	UserNotifications		20160627	0		0	0
+advanced	http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/	GraphQL for iOS Developers - Artsy Engineering			20160624	0		0	0
+advanced	https://talk.objc.io/episodes/S01E03-loading-view-controllers	Loading View Controllers	video		20160625	0		0	0
+advanced	http://artsy.github.io/blog/2016/06/24/typealias-for-great-good/	Swift Type Aliases: Use Early and Often - Artsy Engineering			20160626	0		0	0
+advanced	http://calayer.com/core-animation/2016/06/23/quick-bits-simple-text-label-transition.html	Quick Bits: Simple Text Label Transition	UILabel		20160623	0		0	0
+advanced	http://blog.jtribe.com.au/a-better-way-to-use-view-controllers-with-storyboards-with-dependency-injection/	Better View Controllers with Storyboards using Dependency Injection in Swift			20160622	0		0	0
+libs	https://github.com/StefanLage/LegofySwift	Make images look as if they are made out of 1x1 LEGO blocks			20160622	0		0	0
+libs	https://github.com/withalsolution/JimoniKeyboard	It is very handy custom keyboard for ios using extension			20160622	0		0	0
+libs	https://github.com/efremidze/NumPad	Number Pad (inspired by Square's design)			20160622	0		0	0
+libs	https://github.com/arunpkumar92/InfiniteUICollectionView	UICollectionView with infinite scrolling for both vertical and horizontal			20160622	0		0	0
+libs	https://github.com/kekearif/KACircleCropViewController	An extremely simple circular crop view controller			20160622	0		0	0
+libs	https://github.com/itsmeichigo/PeekView	PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility			20160622	0		0	0
+libs	https://github.com/nestorpopko/NPProgressLabel-Swift	Customizable progress indicator, which displays progress by filling stroked text			20160622	0		0	0
+libs	https://github.com/kean/Arranged	Open source replacement of UIStackView for iOS 8 (100% layouts supported)			20160622	0		0	0
+libs	https://github.com/nestorpopko/NPGradientImage-Swift	UIImage extension which lets you create gradient images			20160622	0		0	0
+libs	https://github.com/freshking/BKFilterView	An overlay view to color filter content below			20160622	0		0	0
+libs	https://github.com/JellyDevelopment/JDAnimationKit	Animate easy and with less code			20160622	0		0	0
+libs	https://github.com/SintraWorks/QueuedAlertPresenter	A QueuedAlertPresenter serializes the presentation of alerts			20160622	0		0	0
+libs	https://github.com/dehlen/TRexAboutWindowController	Swift clone of PFAboutWindow to show a Xcode6 like About Window			20160622	0		0	0
+libs	https://github.com/satoshin2071/SwiftyVerticalScrollBar	A custom scrollbar for a UIScrollView or UIScrollView's subclasses. This is a re-write WKVerticalScrollBar in Swift			20160622	0		0	0
+libs	https://github.com/ozgurshn/PayPalSampleForiOS	Sample app to discover PayPal SDK for iOS			20160622	0		0	0
+libs	https://github.com/punty/FPActivityIndicator	A simple activity indicator. Written in Swift. Simple and customisable from Interface builder and by code			20160622	0		0	0
+libs	https://github.com/caiobzen/CCAnimations	This is a set of custom CAAnimations			20160622	0		0	0
+libs	https://github.com/hyperoslo/Spots	Spots is a view controller framework that makes your setup and future development blazingly fast			20160622	0		0	0
+libs	https://github.com/JLoewy/MMPGraphView	A versatile core graphics graph for iOS			20160622	0		0	0
+libs	https://github.com/mtynior/ColorizeSwift	Terminal string styling for Swift			20160622	0		0	0
+libs	https://github.com/matibot/MBRateApp	A groovy app rate stars screen for iOS			20160622	0		0	0
+libs	https://github.com/inspace-io/INSPhotoGallery	INSPhotoGallery is a modern looking photo gallery			20160622	0		0	0
+libs	https://github.com/iwasrobbed/RPCircularProgress/tree/master	Circular progress UIView subclass with UIProgressView properties			20160622	0		0	0
+libs	https://github.com/ra1028/Alembic	Functional JSON parsing, mapping to objects, and serialize to JSON	json		20160622	0		0	0
+libs	https://github.com/gmarm/BetterSegmentedControl	An easy to use, customizable replacement for UISegmentedControl & UISwitch			20160622	0		0	0
+libs	https://github.com/dabing1022/DBStateMachine	A swift library for implementing state machine just like GKStateMachine in GameplayKit			20160622	0		0	0
+libs	https://github.com/rentpath/Atlas	An extremely easy-to-use and lightweight JSON mapping library for iOS and tvOS	json		20160622	0		0	0
+libs	https://github.com/kiran5232/SideMenuSwiftDemo	SideMenu in Swift with autolayout			20160622	0		0	0
+libs	https://github.com/Shakarang/MJSnackBar	Swift iOS implementation of the Android SnackBar used in some Google Apps			20160622	0		0	0
+libs	https://github.com/IcaliaLabs/Presentr	Presentr is a simple wrapper for the Custom View Controller Presentation API introduced in iOS 8			20160622	0		0	0
+libs	https://github.com/EndouMari/TabPageViewController	Paging view controller and scroll tab view			20160622	0		0	0
+libs	https://github.com/xxxAIRINxxx/ViewPagerController	Infinite menu & view paging Controller			20160622	0		0	0
+libs	https://github.com/xxxAIRINxxx/Cmg	Easy image filtering library of using Core Image	CoreImage		20160622	0		0	0
+libs	https://github.com/patchthecode/JTAppleCalendar	Github's best iOS Swift calendar library			20160622	0		0	0
+libs	https://github.com/AlbanPerli/HandWriting-Recognition-iOS	Artisanal and basic Handwriting recognition system for iOS, based on a Fast Forward Neural Network			20160622	0		0	0
+libs	https://github.com/avadeshyadav/GmailStyleAnimation	This demonstrate the profile presentation and animation of image and user details into navigationbar			20160622	0		0	0
+libs	https://github.com/hyperoslo/Compass	Compass helps you setup a central navigation system for your application			20160622	0		0	0
+libs	https://github.com/hyperoslo/ImagePicker	Reinventing the way ImagePicker works			20160622	0		0	0
+libs	https://github.com/SintraWorks/ActionSheetController	AcionSheetController is an iOS control for presenting a view in an iOS action sheet or alert style			20160622	0		0	0
+libs	https://github.com/hectr/DriftAnimationImageView	UIImageView subclass that performs slow translation and scale animations on its image			20160622	0		0	0
+libs	https://github.com/YannickL/DynamicColor	Yet another extension to manipulate colors easily			20160622	0		0	0
+libs	https://github.com/MPiccinato/GaugeView	It is a gauge			20160622	0		0	0
+libs	https://github.com/RamonGilabert/Walker	Each step you take reveals a new horizon. You have taken the first step today			20160622	0		0	0
+libs	https://github.com/tichise/TIFeedParser	RSS Parser	rss		20160622	0		0	0
+libs	https://github.com/RamonGilabert/Morgan	Not all those who wander are lost			20160622	0		0	0
+libs	https://github.com/kronik/ScalePicker	Generic scale and a handy float-value picker for any iOS app			20160622	0		0	0
+libs	https://github.com/NitWitStudios/NWSTokenView	NWSTokenView is a flexible UIView subclass that shows a collection of objects in a similar manner to the Messages app.			20160622	0		0	0
+libs	https://github.com/nunojfg/NGUtilitiesSwift	NGUtilities for Swift is a set of Swift extensions that every Swift project should have			20160622	0		0	0
+libs	https://github.com/sai-prasanna/SWMessages	NGUtilities for Swift is a set of Swift extensions that every Swift project should have			20160622	0		0	0
+libs	https://github.com/colatusso/functional-swift-crash-course	A crash course on how to use functional programming in swift	functional:playground		20160622	0		0	0
+libs	https://github.com/dogo/AKMediaViewer	Beautiful iOS library to animate your image and video thumbnails to fullscreen			20160622	0		0	0
+libs	https://github.com/epv44/EVTopTabBar	A custom PageViewController for iOS with the tab bar control at the top			20160622	0		0	0
+libs	https://github.com/trongcuong1710/DTLoadingButton	Custom button to show loading state with an activity indicator sit next to title label			20160622	0		0	0
+libs	https://github.com/pi3r0/PHExpendableCells	Library to display cells with min and max height like UITableView, it's made with an UIView and UIScrollView			20160622	0		0	0
