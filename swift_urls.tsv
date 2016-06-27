@@ -4777,3 +4777,16 @@ libs	https://github.com/dogo/AKMediaViewer	Beautiful iOS library to animate your
 libs	https://github.com/epv44/EVTopTabBar	A custom PageViewController for iOS with the tab bar control at the top			20160622	0		0	0
 libs	https://github.com/trongcuong1710/DTLoadingButton	Custom button to show loading state with an activity indicator sit next to title label			20160622	0		0	0
 libs	https://github.com/pi3r0/PHExpendableCells	Library to display cells with min and max height like UITableView, it's made with an UIView and UIScrollView			20160622	0		0	0
+libs	https://github.com/ngageoint/fog-machine	iOS Swift framework for parallel processing			20160622	0		0	0
+libs	https://github.com/dzenbot/Iconic	Auto-generated icon font library for iOS			20160622	0		0	0
+libs	https://github.com/LeonardoCardoso/SwiftLinkPreview	makes a preview from an url, grabbing all the information such as title, relevant texts and images			20160622	0		0	0
+libs	https://github.com/recruit-mtl/Graphs	Light weight charts view generater for iOS	chart		20160622	0		0	0
+libs	https://github.com/AssistoLab/DropDown	A Material Design drop down for iOS			20160622	0		0	0
+libs	https://github.com/evgenyneu/moa	An image download extension for image view written in Swift for iOS, tvOS and macOS.			20160622	0		0	0
+libs	https://github.com/ankurp/Dollar	A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript 	functional		20160622	0		0	0
+libs	https://github.com/tid-kijyun/Kanna	Kanna(鉋) is an XML/HTML parser for macOS / iOS / tvOS	xml		20160622	0		0	0
+libs	https://github.com/cyanzhong/xTextHandler	Xcode Source Editor Extension Toolset (Plugins for Xcode 8)	xcode8-plugin		20160622	0		0	0
+libs	https://github.com/JakeLin/SaveTheDot	A game developed using UIViewPropertyAnimator	UIViewPropertyAnimator		20160622	0		0	0
+advanced	https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/	WWDC 2016: Increased Safety in Swift 3.0	swift3		20160616	0		0	0
+advanced	https://medium.com/@ksmandersen/good-swift-bad-swift-part-2-d6daebf53a5	Good Swift, Bad Swift — Part 2			20160619	0		0	0
+advanced	http://holko.pl/2016/06/23/core-data/	Concurrent Core Data, Now Easier Than Ever	CoreData		20160623	0		0	0
