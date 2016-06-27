@@ -4790,3 +4790,8 @@ libs	https://github.com/JakeLin/SaveTheDot	A game developed using UIViewProperty
 advanced	https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/	WWDC 2016: Increased Safety in Swift 3.0	swift3		20160616	0		0	0
 advanced	https://medium.com/@ksmandersen/good-swift-bad-swift-part-2-d6daebf53a5	Good Swift, Bad Swift — Part 2			20160619	0		0	0
 advanced	http://holko.pl/2016/06/23/core-data/	Concurrent Core Data, Now Easier Than Ever	CoreData		20160623	0		0	0
+advanced	http://khanlou.com/2016/06/falsiness-in-swift/	Falsiness In Swift			20160621	0		0	0
+advanced	https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew	Open Sourcing Ello's iOS app			20160621	0		0	0
+libs	https://github.com/ello/ello-ios	Ello's open source iOS app			20160621	0		0	0
+libs	https://github.com/manuelescrig/SuggestionsBox	SuggestionsBox helps you build better a product trough your user suggestions			20160621	0		0	0
+libs	https://github.com/kean/Preheat	Automates prefetching of content in UITableView and UICollectionView			20160621	0		0	0
