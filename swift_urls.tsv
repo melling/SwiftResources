@@ -4795,3 +4795,55 @@ advanced	https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew	Open Sourcing Ello's i
 libs	https://github.com/ello/ello-ios	Ello's open source iOS app			20160621	0		0	0
 libs	https://github.com/manuelescrig/SuggestionsBox	SuggestionsBox helps you build better a product trough your user suggestions			20160621	0		0	0
 libs	https://github.com/kean/Preheat	Automates prefetching of content in UITableView and UICollectionView			20160621	0		0	0
+advanced	https://the-nerd.be/2015/08/12/tnswiftycheckboxgroup-create-checkboxes-for-swift/	TNSwiftyCheckboxGroup, create checkbox groups in Swift			20160630	0		0	0
+advanced	https://makeapppie.com/2016/06/30/adding-modal-views-and-popovers-in-swift-3-0/	Adding Modal Views and Popovers in Swift 3.0			20160630	0		0	0
+advanced	https://www.raywenderlich.com/129059/self-sizing-table-view-cells	Self-sizing Table View Cells			20160630	0		0	0
+advanced	http://ericasadun.com/2016/06/30/dear-erica-how-do-i-create-a-visible-non-mutable-array/	Dear Erica: How do I create a visible, non-mutable array?			20160630	0		0	0
+advanced	https://makeapppie.com/2016/06/20/wwdc2016-swift-3-0-and-the-playgrounds-for-ios/	WWDC2016: Swift 3.0 and the Playgrounds for iOS			20160630	0		0	0
+advanced	http://extelligentcocoa.org/double-click-and-right-mouse-behaviour/	Double-click and right mouse behaviour	mac		20160305	0		0	0
+advanced	http://codevoyagers.com/2016/02/09/transitioning-from-objective-c-to-swift-in-4-steps-without-rewriting-the-existing-code/	Transitioning From Objective C to Swift in 4 Steps – Without Rewriting The Existing Code			20160209	0		0	0
+advanced	http://codevoyagers.com/2016/03/23/how-we-migrated-our-objective-c-projects-to-swift-step-by-step	How We Migrated Our Objective C Projects to Swift – Step By Step			20160323	0		0	0
+advanced	http://inessential.com/2016/06/30/copy_vs_strong_nsarray_properties	Copy vs. Strong NSArray Properties			20160630	0		0	0
+advanced	http://inessential.com/2016/06/30/my_rules_for_mutable_foundation_collecti	My Rules for Mutable Foundation Collection Objects			20160630	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/swift-3-keypath-7a3cf41e603e?source=rss----79a4c0617ed4---4	Swift 3 + #keyPath()			20160630	0		0	0
+advanced	https://realm.io/news/slug-edward-jiang-server-side-swift/	Super Spectacular Server-Side Swift!			20160630	0		0	0
+advanced	https://www.raywenderlich.com/125046/card-game-mechanics-in-sprite-kit-with-swift	Card Game Mechanics in Sprite Kit with Swift	SpriteKit		20160701	0		0	0
+advanced	http://extelligentcocoa.org/colouring-buttons/	Colouring buttons			20160430	0		0	0
+advanced	http://extelligentcocoa.org/view-based-tablesbindings-and-selection/	View-Based Tables/Bindings and Selection			20160507	0		0	0
+advanced	https://www.bignerdranch.com/blog/apple-watch-crown-spritelist/	Crowns and Sprites in WatchOS 3	WatchKit		20160622	0		0	0
+advanced	https://www.bignerdranch.com/blog/neural-networks-in-ios-10-and-macos/	Neural Networks in iOS 10 and macOS			20160629	0		0	0
+advanced	https://www.bignerdranch.com/blog/creating-a-custom-xctest-assertion/	Creating a Custom XCTest Assertion			20160524	0		0	0
+advanced	https://www.bignerdranch.com/blog/protocol-oriented-problems-and-the-immutable-self-error/	Protocol-Oriented Problems and the Immutable 'self' Error			20160429	0		0	0
+advanced	https://makeapppie.com/2016/06/22/using-the-navigation-bar-title-and-back-button-in-swift-3-0/	Using The Navigation Bar Title and Back Button in Swift 3.0			20160622	0		0	0
+advanced	https://makeapppie.com/2016/06/23/how-to-use-arrays-in-swift-3-0/	How to Use Arrays in Swift 3.0			20160623	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/06/25/policing-whitespace.html	Parsing whitespace in an Xcode extension	xcode-plugin		20160624	0		0	0
+advanced	https://makeapppie.com/2016/06/24/using-dictionaries-and-optional-types-in-swift-3-0-example/	Using Dictionaries and Optional Types in Swift 3.0 (Example)			20160624	0		0	0
+advanced	https://makeapppie.com/2016/06/24/how-to-use-dictionaries-in-swift-3-0/	How to Use Dictionaries in Swift 3.0			20160624	0		0	0
+advanced	http://extelligentcocoa.org/update-notice-swift-3-and-storyboards/	Update Notice: Swift 3 and Storyboards			20160625	0		0	0
+advanced	http://extelligentcocoa.org/notify-everything-and-everybody-with-nsnotification/	Notify everything and everybody with NSNotification			20160626	0		0	0
+advanced	http://masilotti.com/maintainable-mocks/	Maintainable Swift Mocks			20160627	0		0	0
+advanced	https://peterwitham.com/xcode/xcode-8-extensions/	Xcode 8 Extensions			20160627	0		0	0
+advanced	https://makeapppie.com/2016/06/27/using-segues-and-delegates-for-navigation-controllers-in-swift-3-0/	Using Segues and Delegates for Navigation Controllers in Swift 3.0			20160627	0		0	0
+advanced	http://useyourloaf.com/blog/auto-adjusting-fonts-for-dynamic-type/	Auto Adjusting Fonts for Dynamic Type			20160627	0		0	0
+advanced	http://ericasadun.com/2016/06/27/dear-playgrounds-santa-playgrounds/	Dear Playgrounds Santa: Playgrounds	playground		20160627	0		0	0
+advanced	http://jamesonquave.com/blog/designing-animations-with-uiviewpropertyanimator-in-ios-10-and-swift-3/	Designing Animations with UIViewPropertyAnimator in iOS 10 and Swift 3	UIViewPropertyAnimator		20160628	0		0	0
+advanced	https://www.raywenderlich.com/127936/submit-an-app-part-1	How to Submit An App to Apple: From No Account to App Store – Part 1			20160628	0		0	0
+advanced	https://www.raywenderlich.com/127939/submit-an-app-part-2	How to Submit An App to Apple: From No Account to App Store – Part 2			20160628	0		0	0
+advanced	http://ericasadun.com/2016/06/28/that-integer-literal-thing/	That Integer Literal Thing			20160628	0		0	0
+advanced	https://makeapppie.com/2016/06/28/how-to-use-uiimagepickercontroller-for-a-camera-and-photo-library-in-swift-3-0/	How to Use UIImagePickerController for a Camera and Photo Library in Swift 3.0.			20160628	0		0	0
+advanced	http://ericasadun.com/2016/06/28/make-it-swifter-challenge/	Make it Swifter Challenge			20160628	0		0	0
+advanced	https://medium.com/swift-programming/swift-build-time-optimizations-part-2-37b0a7514cbe	Swift build time optimizations — Part 2			20160629	0		0	0
+advanced	http://ericasadun.com/2016/06/29/holocene-and-heard-whats-up-in-swift-evolution/	Holocene and heard: What’s up in Swift Evolution			20160629	0		0	0
+advanced	https://www.raywenderlich.com/138304/ios-10-screencast-imessage-sticker-packs	iOS 10 Screencast: iMessage Sticker Packs			20160629	0		0	0
+advanced	http://www.mokacoding.com/blog/what-is-an-optional-value-in-swift	What is an optional value in Swift			20160629	0		0	0
+advanced	http://supereasyapps.com/blog/2016/3/1/60-how-to-create-outlets-and-actions-in-xcode-using-swift	How to Create Outlets and Actions in Xcode Using Swift - Swift Tips 6			20160301	0		0	0
+advanced	http://supereasyapps.com/blog/2016/2/8/how-to-use-nsnumberformatter-in-swift-to-make-currency-numbers-easy-to-read	How to Use NSNumberFormatter in Swift to Make Currency Numbers Easy to Read			20160208	0		0	0
+advanced	http://supereasyapps.com/blog/2016/3/11/how-to-create-a-random-int-number-in-swift-2-swift-tips-7	How to Create a Random Int Number in Swift 2 - Swift Tips 7			20160311	0		0	0
+advanced	https://makeapppie.com/2016/05/30/how-to-read-csv-files-from-the-web-in-swift/	How to Read CSV files from the Web in Swift			20160530	0		0	0
+advanced	http://oleb.net/blog/2016/06/swift-3/	http://oleb.net/blog/2016/06/swift-3/			20160627	0		0	0
+advanced	http://artsy.github.io/blog/2016/06/27/dependency-injection-in-swift/	Depedency Injection in Swift - Artsy Engineering			20160628	0		0	0
+libs	https://github.com/AntonTheDev/FlightAnimator	Natural Blocks Based Core Animation Framework			20160628	0		0	0
+advanced	http://christiantietze.de/posts/2016/07/reswift-action-ui-events/	Separating ReSwift Actions from UI Events			20160701	0		0	0
+advanced	https://www.natashatherobot.com/xcode-8-create-an-animated-imessage-sticker/	Xcode 8: How To Create an Animated iMessage Sticker			20160701	0		0	0
+advanced	http://blog.fivelakesstudio.com/2016/06/swift-3-selection-sort-challenge.html	Swift 3 - Selection Sort Challenge			20160630	0		0	0
+advanced	http://en.swifter.tips/error-handle/	http://en.swifter.tips/error-handle/			20160629	0		0	0
