@@ -4847,3 +4847,58 @@ advanced	http://christiantietze.de/posts/2016/07/reswift-action-ui-events/	Separ
 advanced	https://www.natashatherobot.com/xcode-8-create-an-animated-imessage-sticker/	Xcode 8: How To Create an Animated iMessage Sticker			20160701	0		0	0
 advanced	http://blog.fivelakesstudio.com/2016/06/swift-3-selection-sort-challenge.html	Swift 3 - Selection Sort Challenge			20160630	0		0	0
 advanced	http://en.swifter.tips/error-handle/	http://en.swifter.tips/error-handle/			20160629	0		0	0
+advanced	http://theswiftdev.com/2016/06/29/16-swift-gist-string-localized-swift/	16. Swift gist: String+Localized.swift			20160629	0		0	0
+advanced	http://foxinswift.com/2016/06/28/generics-and-the-art-of-inference-part-2-of-3/	Generics and the Art of Inference Part 2 of 3	generics		20160628	0		0	0
+advanced	http://helpmecodeswift.com/advanced-functions/delay-function-in-swift-3-0	Delay Function in Swift 3.0			20160630	0		0	0
+advanced	http://code.tutsplus.com/articles/whats-new-in-xcode-8--cms-26799	What's New in Xcode 8	xcode		20160701	0		0	0
+advanced	https://www.raywenderlich.com/138398/ios-10-screencast-user-notification-management	iOS 10 Screencast: User Notification Management			20160701	0		0	0
+advanced	http://christiantietze.de/posts/2016/07/design-conflicting-mental-models/	Conflicting Mental Models in TableFlip's Interface Design			20160702	0		0	0
+advanced	http://christiantietze.de/posts/2016/07/uistackview-constraint-animation/	UIStackView For Showing And Hiding User Interface Controls	UIStackView		20160703	0		0	0
+advanced	http://useyourloaf.com/blog/privacy-settings-in-ios-10/	Privacy Settings in iOS 10			20160704	0		0	0
+advanced	https://www.raywenderlich.com/138406/ios-10-screencast-dynamic-sticker-packs-imessage-apps	iOS 10 Screencast: Dynamic Sticker Packs in iMessage Apps			20160704	0		0	0
+advanced	https://realm.io/news/appbuilders-daniel-steinberg-whats-new-swift-3/	The Open World of Swift 3			20160705	0		0	0
+advanced	https://medium.com/swift-programming/splitting-up-a-storyboard-in-an-objc-swift-mixed-legacy-project-829fca6d81bf?source=rss----5396e0e8bc29---4	Splitting up a storyboard in an ObjC/Swift mixed legacy project			20160705	0		0	0
+advanced	https://makeapppie.com/2016/07/05/using-attributed-strings-in-swift-3-0/	Using Attributed Strings in Swift 3.0			20160705	0		0	0
+advanced	https://www.raywenderlich.com/131668/document-provider-tutorial	iOS Extensions: Document Provider Tutorial			20160705	0		0	0
+advanced	http://ericasadun.com/2016/07/05/accessing-complete-stdlib-module-declarations/	Accessing complete stdlib module declarations			20160705	0		0	0
+advanced	http://ericasadun.com/2016/07/05/throwing-this-here/	Throwing this here			20160705	0		0	0
+advanced	http://mhorga.org/2016/07/06/using-metalkit-part-16.html	Using MetalKit part 16	metal		20160705	0		0	0
+advanced	https://peterwitham.com/swift/swift-playgrounds-for-ipad/	Swift Playgrounds for iPad	playground		20160706	0		0	0
+advanced	http://www.ioscreator.com/tutorials/parsing-xml-tutorial	Parsing XML Tutorial	xml		20160706	0		0	0
+advanced	https://makeapppie.com/2016/07/06/tab-bar-controllers-in-xcode-8-storyboards/	Tab Bar Controllers in Xcode 8 Storyboards			20160706	0		0	0
+advanced	https://www.raywenderlich.com/138411/ios-10-screencast-custom-notification-ui-content-extensions	iOS 10 Screencast: Custom Notification UI with Content Extensions			20160706	0		0	0
+advanced	http://theswiftdev.com/2016/07/06/conventions-for-xcode/	Conventions for Xcode			20160706	0		0	0
+advanced	http://www.mokacoding.com/blog/writing-your-own-swift-if-let	Writing your own Swift ''if let''			20160706	0		0	0
+advanced	https://realm.io/news/appbuilders-jp-simard-sourcekit/	SourceKit and You			20160707	0		0	0
+advanced	https://swiftweekly.github.io/issue-29/	Issue #29			20160707	0		0	0
+advanced	http://www.raizlabs.com/dev/2016/07/styling-localized-strings-bonmot/	Styling Localized Strings with BonMot			20160707	0		0	0
+advanced	http://christiantietze.de/posts/2016/07/swift-expressive-code/	I love Swift's Expressiveness			20160707	0		0	0
+advanced	https://www.bignerdranch.com/blog/hannibal-selector/	Hannibal #selector			20160707	0		0	0
+advanced	http://ashishkakkad.com/2016/07/create-floating-emoji-button-with-uipreviewinteraction-swift-3-ios-10-akfloatingmoji/	Create Floating Emoji Button with UIPreviewInteraction – Swift 3 – iOS 10 (AKFloatingMoji)			20160707	0		0	0
+advanced	https://www.raywenderlich.com/131985/core-plot-tutorial-getting-started	Core Plot Tutorial: Getting Started			20160707	0		0	0
+advanced	http://ericasadun.com/2016/07/07/the-cretaceous-period-of-swift-evolution/	The Cretaceous Period of Swift Evolution			20160707	0		0	0
+advanced	http://ericasadun.com/2016/07/07/dear-erica-help-me-guard-for-nil-variable/	Dear Erica: Help me guard for nil variable			20160707	0		0	0
+advanced	http://ericasadun.com/2016/07/07/musing-extending-literals/	Musing: Extending literals			20160707	0		0	0
+advanced	http://ericasadun.com/2016/07/07/apple-open-sources-swift-playground-support/	Apple open sources Swift Playground Support			20160707	0		0	0
+advanced	https://realm.io/news/tryswift-novall-khan-swift-compiler-lldb/	Swift Compiler Integration in LLDB	video		20160708	0		0	0
+advanced	https://realm.io/news/tryswift-matthew-gillingham-protocol-extensions-history/	Protocol Extensions: A History	video		20160708	0		0	0
+advanced	https://realm.io/news/tryswift-syo-ikeda-swift-ecosystem/	Dive into Swift Ecosystem	video		20160708	0		0	0
+advanced	https://realm.io/news/tryswift-boris-bugling-tvos/	tvOS	video		20160708	0		0	0
+advanced	https://realm.io/news/tryswift-yuta-koshizawa-error-handling-swift/	Three Stories of Error Handling in Swift	video		20160708	0		0	0
+advanced	https://realm.io/news/tryswift-hiroki-kato-motivation-based-library-abstraction/	Motivation-based Library Abstraction	video		20160708	0		0	0
+advanced	http://code.tutsplus.com/articles/what-to-expect-from-swift-3--cms-26818	What to Expect From Swift 3			20160708	0		0	0
+advanced	http://ericasadun.com/2016/07/08/the-perils-of-fallthrough/	The perils of fallthrough			20160708	0		0	0
+advanced	https://www.raywenderlich.com/138419/ios-10-screencast-sending-custom-messages-imessage-2	iOS 10 Screencast: Sending Custom Messages in iMessage			20160708	0		0	0
+advanced	https://medium.com/swift-programming/build-tic-tac-toe-with-ai-using-swift-25c5cd3085c9?source=rss----5396e0e8bc29---4	Build Tic Tac Toe with AI Using Swift			20160708	0		0	0
+advanced	http://www.appcoda.com/pdf-generation-ios/	How to Generate PDF using HTML Templates and UIPrintPageRenderer in iOS			20160710	0		0	0
+advanced	https://makeapppie.com/2016/07/10/why-does-apple-need-delegates/	Why Does Apple Need Delegates?			20160710	0		0	0
+advanced	https://www.andrewcbancroft.com/2016/07/10/using-a-core-data-model-in-swift-playgrounds/	Using a Core Data Model in Swift Playgrounds	CoreData:playground		20160710	0		0	0
+advanced	https://realm.io/news/altconf-boris-bugling-cross-platform-swift/	Cross-Platform Swift	video		20160711	0		0	0
+advanced	http://makeapppie.com/2016/07/11/programmatic-navigation-view-controllers-in-swift-3-0/	Programmatic Navigation View Controllers in Swift 3.0			20160711	0		0	0
+advanced	http://useyourloaf.com/blog/pro-swift-and-swift-algorithms/	Pro Swift and Swift Algorithms			20160711	0		0	0
+advanced	https://www.raywenderlich.com/138190/swift-algorithm-club-swift-tree-data-structure	Swift Algorithm Club: Swift Tree Data Structure			20160711	0		0	0
+advanced	http://code.tutsplus.com/tutorials/how-to-create-an-xcode-source-editor-extension--cms-26772	How to Create an Xcode Source Editor Extension			20160711	0		0	0
+advanced	https://www.raywenderlich.com/139088/ios-10-screencast-property-animators-timing-functions	iOS 10 Screencast: Property Animators: Timing Functions			20160711	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/07/12/pentominoes-part-six/	Pentominoes, part six: Gestures			20160711	0		0	0
+advanced	http://www.raizlabs.com/dev/2016/07/introducing-anchorage-readable-auto-layout-code-ios/	Introducing Anchorage: Readable Auto Layout Code for iOS	AutoLayout		20160712	0		0	0
+advanced	http://ashishkakkad.com/2016/07/ios-10-new-frameworks/	iOS 10 New Frameworks			20160712	0		0	0
