@@ -4949,3 +4949,29 @@ libs	https://github.com/nvzqz/Fischer	A cross-platform chess library for Swift		
 advanced	http://www.jessesquires.com/swift-3-sherlocked-my-libraries/	Swift 3 sherlocked my library			20160703	0		0	0
 advanced	http://developerplayground.net/pong_swift_playground_ipad/	Pong like game as iPad SWIFT Playground			20160622	0		0	0
 advanced	https://davidnix.io/post/ditch_storyboards_forever/	How to Ditch Storyboards and Nibs Forever			20160627	0		0	0
+advanced	http://ericasadun.com/2016/07/18/dear-erica-no-case-enums/	Dear Erica: No-case Enums?			20160718	0		0	0
+advanced	http://useyourloaf.com/blog/slow-app-startup-times/	Slow App Startup Times			20160718	0		0	0
+advanced	https://www.raywenderlich.com/138448/ios-10-screencast-collaborative-messaging-ios-10	iOS 10 Screencast: Collaborative Messaging in iOS 10			20160718	1		0	0
+advanced	http://ericasadun.com/2016/07/13/what-is-your-swift-name/	What is *your* Swift name?			20160714	0		0	0
+advanced	https://www.raywenderlich.com/138421/ios-10-screencast-interactive-custom-notifications	iOS 10 Screencast: Interactive Custom Notifications			20160713	1		0	0
+advanced	http://ericasadun.com/2016/07/13/dear-erica-why-this-swift-gotcha/	Dear Erica: Why this Swift gotcha?			20160713	0		0	0
+advanced	https://peterwitham.com/swift/wwdc16-whats-new-in-swift-3/	WWDC16 – What’s New in Swift 3			20160713	0		0	0
+advanced	http://szulctomasz.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift	iOS: A Beautiful Way of Styling IBOutlets in Swift			20160622	0		0	0
+libs	https://github.com/hyperoslo/BarcodeScanner	A simple and beautiful barcode scanner			20160622	0		0	0
+libs	https://github.com/shadowsocks/Potatso	Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.			20160622	0		0	0
+libs	https://github.com/teodorpatras/SideMenuController	A side menu controller			20160622	0		0	0
+libs	https://github.com/ykyouhei/KYShutterButton	KYShutterButton is a custom button that is similar to the shutter button of the camera app			20160622	0		0	0
+libs	https://github.com/MaxKramer/SwiftLuhn	Debit/Credit card validation port of the Luhn Algorithm			20160622	0		0	0
+libs	https://github.com/ink-spot/UPCarouselFlowLayout	A fancy carousel flow layout for UICollectionView on iOS			20160622	0		0	0
+libs	https://github.com/kyleduo/TinyPNG4Mac	TinyPNG client for Mac	mac		20160622	0		0	0
+libs	https://github.com/h2ero/XEasyMotion	keynav for macOS ( OS X ) , using keyboard control mouse	mac		20160622	0		0	0
+libs	https://github.com/laszlokorte/reform-swift	Swift implementation of the reform dynamic drawing application inspired by Bret Victor's talk ''Drawing Dynamic Visualizations''			20160622	0		0	0
+libs	https://github.com/keith/reminders-cli	A simple CLI for interacting with OS X reminders			20160622	0		0	0
+libs	https://github.com/hpennington/MOSwitch	A UISwitch clone for macOS	mac		20160622	0		0	0
+advanced	http://khanlou.com/2016/07/implementing-dictionary-in-swift/	Implementing Dictionary In Swift	Dictionary		20160705	0		0	0
+libs	https://github.com/soapyigu/LeetCode_Swift	Solutions coded by Swift to LeetCode			20160622	0		0	0
+libs	https://github.com/Jasdev/SwingSet	Quickly convert Swift Playgrounds to SwiftPM packages			20160622	0		0	0
+libs	https://github.com/whitesmith/WSTagsField	An iOS text field that represents different Tags			20160622	0		0	0
+libs	https://github.com/SwiftKitz/Datez	Breeze through NSDate, NSDateComponents, and NSTimeInterval with Swift			20160622	0		0	0
+libs	https://github.com/0x73/SwiftIconFont	Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon)			20160622	0		0	0
+libs	https://github.com/Binur/SubscriptionPrompt	Subscription View Controller like the Tinder uses			20160622	0		0	0
