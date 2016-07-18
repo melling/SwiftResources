@@ -2488,6 +2488,18 @@ advanced	https://littlebitesofcocoa.com/232-practical-protocols	little bites of 
 advanced	https://littlebitesofcocoa.com/233-gesture-driven-animations-with-interpolate	little bites of cocoa: #233: Gesture-Driven Animations with Interpolate			20160504	0		0	0
 advanced	https://littlebitesofcocoa.com/234-queryable-live-inverse-realm-collections	little bites of cocoa: #234: Queryable, Live Inverse Realm Collections			20160505	0		0	0
 advanced	https://littlebitesofcocoa.com/235-debugging-slow-builds-with-buildtimeanalyzer	little bites of cocoa: #235: Debugging Slow Builds with BuildTimeAnalyzer			20160509	0		0	0
+advanced	https://littlebitesofcocoa.com/236-sfspeechrecognizer-basics	little bites of cocoa: #236: SFSpeechRecognizer Basics			20160620	0		0	0
+advanced	https://littlebitesofcocoa.com/237-creating-a-sticker-pack-imessage-app	little bites of cocoa: #237: Creating a Sticker Pack iMessage App			20160621	0		0	0
+advanced	https://littlebitesofcocoa.com/238-collecting-feedback-with-pinpointkit	little bites of cocoa: #238: Collecting Feedback with PinpointKit			20160622	0		0	0
+advanced	https://littlebitesofcocoa.com/239-creating-an-xcode-source-editor-extension	little bites of cocoa: #239: Creating an Xcode Source Editor Extension 			20160623	0		0	0
+advanced	https://littlebitesofcocoa.com/240-intermediate-imessage-sticker-apps	little bites of cocoa: #240: Intermediate iMessage Sticker Apps			20160624	0		0	0
+advanced	https://littlebitesofcocoa.com/241-uicollectionview-cell-pre-fetching	little bites of cocoa: #241: UICollectionView Cell Pre-fetching			20160627	0		0	0
+advanced	https://littlebitesofcocoa.com/242-pre-loading-images-with-uicollectionviewdatasourceprefetching	little bites of cocoa: #242: Pre-loading Images with UICollectionViewDataSourcePrefetching			20160628	0		0	0
+advanced	https://littlebitesofcocoa.com/243-the-great-swift-3-rename	little bites of cocoa: #243: The Great Swift 3 Rename			20160629	0		0	0
+advanced	https://littlebitesofcocoa.com/244-grand-central-dispatch-in-swift-3	little bites of cocoa: #244: Grand Central Dispatch in Swift 3 	concurrency		20160711	0		0	0
+advanced	https://littlebitesofcocoa.com/245-masking-views-with-text-using-catextlayer	little bites of cocoa: #245: Masking Views with Text Using CATextLayer			20160712	0		0	0
+advanced	https://littlebitesofcocoa.com/246-uitextfield-b-sides	little bites of cocoa: #246: UITextField B-sides			20160713	0		0	0
+advanced	https://littlebitesofcocoa.com/247-particle-effects-with-caemitterlayer	little bites of cocoa: #247: Particle Effects with CAEmitterLayer			20160714	0		0	0
 advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	Split Views and Unexpected Keyboards	keyboard		20151122	0		0	0
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video		20151123	0		0	0
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode		20151123	0		0	0
@@ -4914,3 +4926,19 @@ advanced	http://ctarda.com/2016/07/the-reason-why-i-try-to-avoid-storyboards/	Th
 advanced	http://www.mav3r1ck.io/closures-with-swift-in/	Closures with Swift { () -> () in }			20160716	0		0	0
 advanced	http://www.mokacoding.com/blog/swift-either	Swift Either enum			20160717	0		0	0
 advanced	https://realm.io/news/altconf-ayaka-nonaka-swift-scripting-redux-localization/	Swift Scripting Redux: Localization	video		20160718	0		0	0
+advanced	http://battleofbrothers.com/sirryan/spritekit-save-files-in-swift-3	SpriteKit Save Files in Swift 3	SpriteKit		20160701	0		0	0
+advanced	http://battleofbrothers.com/sirryan/isometric-projectile-trajectory-in-swift-and-spritekit	Isometric Projectile Trajectory in Swift and SpriteKit	SpriteKit		20160712	0		0	0
+advanced	https://medium.com/@slavapestov/the-secret-life-of-types-in-swift-ff83c3c000a5	The secret life of types in Swift			20160711	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html	Exponential time complexity in the Swift type checker			20160712	0		0	0
+advanced	http://mjtsai.com/blog/2016/07/17/swift-classes-to-be-non-publicly-subclassable-by-default/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_95	Swift Classes to Be Non Publicly Subclassable by Default			20160717	0		0	0
+advanced	http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html	Protocol oriented loading of resources from a network service in Swift			20160711	0		0	0
+libs	https://github.com/facebook/facebook-sdk-swift	Integrate your iOS apps in Swift with Facebook Platform			20160711	0		0	0
+libs	https://github.com/Ekhoo/Translucid	Lightweight library to set an Image as text background			20160711	0		0	0
+libs	https://github.com/maxsokolov/Cribble	Swifty tool for visual testing iPhone and iPad apps			20160711	0		0	0
+libs	https://github.com/davoda/Localide	Localide is an easy helper to offer users a personalized experience by using their favorite installed apps for directions			20160711	0		0	0
+libs	https://github.com/kahopoon/Pokemon-Go-Controller	play pokemon go safely or at unavailable area			20160711	0		0	0
+libs	https://github.com/saravananImaginea/SparkButtonDemo	Demonstrates the Like button animation			20160711	0		0	0
+advanced	https://honzadvorsky.com/articles/2016-06-30-19-00-nslondon_swift_package_manager/	NSLondon: Swift Package Manager	PackageManager		20160630	0		0	0
+advanced	https://medium.com/swift-programming/build-tic-tac-toe-with-ai-using-swift-25c5cd3085c9	Build Tic Tac Toe with AI Using Swift			20160708	0		0	0
+advanced	https://www.cocoanetics.com/2016/07/an-update-on-custom-modal-presentations/	An Update on Custom Modal Presentations			20160704	0		0	0
+advanced	http://vormlab.com/wwdc-diary-custom-stickers-message-app-in-ios/	WWDC diary – Custom stickers message app in iOS			20160708	0		0	0
