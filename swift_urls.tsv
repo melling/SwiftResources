@@ -4975,3 +4975,16 @@ libs	https://github.com/whitesmith/WSTagsField	An iOS text field that represents
 libs	https://github.com/SwiftKitz/Datez	Breeze through NSDate, NSDateComponents, and NSTimeInterval with Swift			20160622	0		0	0
 libs	https://github.com/0x73/SwiftIconFont	Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon)			20160622	0		0	0
 libs	https://github.com/Binur/SubscriptionPrompt	Subscription View Controller like the Tinder uses			20160622	0		0	0
+advanced	https://www.raywenderlich.com/132268/advanced-collection-views-os-x-tutorial	Advanced Collection Views in OS X Tutorial	mac		20160719	0		0	0
+advanced	http://ericasadun.com/2016/07/19/stateful-loops-and-sequences/	Stateful loops and sequences			20160719	0		0	0
+advanced	https://medium.com/swift-programming/swift-syntax-cheat-codes-9ce4ab4bc82e	Swift : Syntax cheat codes			20160720	0		0	0
+advanced	https://www.raywenderlich.com/138453/ios-10-screencast-manipulating-push-notifications-service-extensions	iOS 10 Screencast: Manipulating Push Notifications with Service Extensions			20160720	1		0	0
+advanced	http://ericasadun.com/2016/07/20/removing-bit-flags-in-option-sets-or-fun-with-avfoundation/	Removing Bit Flags in Option Sets: or Fun with AVFoundation			20160720	0		0	0
+advanced	http://ericasadun.com/2016/07/20/proterozoic-oriented-programming-swift-evolution/	Proterozoic-Oriented Programming: Swift Evolution			20160720	0		0	0
+advanced	http://christiantietze.de/posts/2016/07/split-view-model-tableflip-aftermath/	Splitting the View Models of TableFlip, a Short Aftermath			20160721	0		0	0
+advanced	http://sketchytech.blogspot.com/2016/01/swift-nsurlsession-in-playground-ios.html	Swift: NSURLSession in the Playground (iOS 9.2.1, Swift 2.1, Xcode 7.2)			20160722	0		0	0
+advanced	https://pspdfkit.com/blog/2016/efficient-iOS-version-checking/	Efficient iOS Version Checking			20160706	0		0	0
+advanced	https://medium.com/capital-one-developers/reference-and-value-types-in-swift-de792db330b2	Reference and Value Types in Swift			20160714	0		0	0
+libs	https://github.com/Boris-Em/NightView	Dazzling Nights on iOS			20160714	0		0	0
+advanced	http://owensd.io/blog/se-0117---the-proposal-of-doom/	SE-0117 - THE PROPOSAL OF DOOM			20160718	0		0	0
+libs	https://github.com/ltebean/Live	Demonstrate how to build a live broadcast app			20160718	0		0	0
