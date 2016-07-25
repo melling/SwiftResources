@@ -4994,3 +4994,26 @@ libs	https://github.com/aminaura/AURUnlockSlider	Simple Unlock Slider View			201
 libs	https://github.com/anooptomar1/ATScrollingNumbers	Scrolling number control with circular progress			20160722	0		0	0
 libs	https://github.com/T-Pham/UITextField-Navigation	UITextField-Navigation make it easier to navigate between UITextFields			20160722	0		0	0
 advanced	https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838	A quick look at Grand Central Dispatch and Swift 3			20160719	0		0	0
+advanced	http://foxinswift.com/2016/07/24/generics-and-the-art-of-inference-part-3-of-3/	Generics and the Art of Inference Part 3 of 3	generics		20160724	0		0	0
+advanced	http://ericasadun.com/2016/07/22/devolving-your-projects/	Devolving your projects			20160722	0		0	0
+advanced	https://www.raywenderlich.com/139699/ios-10-screencast-thread-sanitizer	iOS 10 Screencast: Thread Sanitizer			20160722	1		0	0
+advanced	http://ericasadun.com/2016/07/22/new-swift-evolution-reviews/	New Swift Evolution Reviews			20160722	0		0	0
+advanced	https://www.natashatherobot.com/button-animation-stackview/	The Easy Button: A Fancy Animation with StackView			20160724	0		0	0
+advanced	https://www.natashatherobot.com/magical-view-rotation-with-stackview/	Magical View Rotation with StackView			20160724	0		0	0
+advanced	http://swiftdeveloperblog.com/actionsheet-example-in-swift/	ActionSheet Example in Swift	ActionSheet		20160724	0		0	0
+advanced	http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/	Closures Capturing Semantics, Part 1: Catch them all!			20160724	0		0	0
+advanced	https://makeapppie.com/2016/07/25/what-is-model-view-controller/	What is Model-View-Controller?			20160725	0		0	0
+advanced	https://www.raywenderlich.com/140001/video-tutorial-intermediate-realm-ios-introduction	Video Tutorial: Intermediate Realm on iOS: Introduction			20160725	0		0	0
+advanced	https://www.raywenderlich.com/140008/video-tutorial-intermediate-realm-ios-part-1-bundled-realm-files	Video Tutorial: Intermediate Realm on iOS Part 1: Bundled Realm Files			20160725	1		0	0
+advanced	https://www.youtube.com/watch?v=TkBUKHxjIcw	#94 Creating Messages Extension in iOS 10 Part 1	AzamSharp:video		20160702	0		0	0
+advanced	http://www.youtube.com/watch?v=-LaskEo-y9I	#95 Creating Messages Extension in iOS 10 Part 2	AzamSharp:video		20160704	0		0	0
+advanced	http://www.youtube.com/watch?v=st1-fEHHVto	#96 Creating Messages Extension in iOS 10 Part 3 - Compact and Expanded Modes	AzamSharp:video		20160704	0		0	0
+advanced	http://www.youtube.com/watch?v=i7Yq2B00u9g	#97 Creating and Embedding Framework in iOS Application	AzamSharp:video		20160705	0		0	0
+advanced	http://www.youtube.com/watch?v=pyTnvJNIF_E	#98 Swift 3: Function Parameters Label	AzamSharp:video		20160724	0		0	0
+advanced	http://www.youtube.com/watch?v=Rx7Y58eCeWM	#100 Swift 3.0: Omit Needless Words	AzamSharp:video		20160724	0		0	0
+advanced	http://www.youtube.com/watch?v=iK2OhHlaIA4	#101 Swift 3.0: Foundation and Camel Casing	AzamSharp:video		20160724	0		0	0
+advanced	http://www.youtube.com/watch?v=w0O3ZGUS3pk	Custom Camera View! (Swift 2 in Xcode)	JaredDavidson:video		20160715	0		0	0
+advanced	http://www.youtube.com/watch?v=XIQsQ2injLo	Upload and Retrieve From Firebase! (Swift 2 in Xcode)	JaredDavidson:video		20160722	0		0	0
+advanced	https://www.youtube.com/watch?v=yopfqJQJCOk	Universal Framework Run Script - Xcode 7.3 iOS 9.3	video		20160706	0		0	0
+advanced	http://www.youtube.com/watch?v=OaiLpVG6Tlc	Firebase Login Tutorial in Swift - Xcode 7.3 iOS 9.3	video		20160709	0		0	0
+advanced	http://www.youtube.com/watch?v=iOf2DSY6DoE	Firebase Forgot Password Tutorial in Swift - Xcode 7.3 iOS 9.3	video		20160723	0		0	0
