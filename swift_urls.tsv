@@ -3919,6 +3919,13 @@ advanced	http://nsscreencast.com/episodes/219-nscalendar	Episode #219: NSCalenda
 advanced	http://nsscreencast.com/episodes/220-easy-auth-part-1	Episode #220: Easy Auth - Part 1	video:oauth2		20160512	1		0	0
 advanced	http://nsscreencast.com/episodes/221-easy-auth-part-2	Episode #221: Easy Auth - Part 2	video:oauth2		20160519	1		0	0
 advanced	http://nsscreencast.com/episodes/222-easy-auth-part-3	Episode #222: Easy Auth - Part 3	video:oauth2		20160527	1		0	0
+advanced	http://nsscreencast.com/episodes/223-lets-build-activity	Episode #223: Lets Build Activity++!			20160602	1		0	0
+advanced	http://nsscreencast.com/episodes/224-let-s-build-activity-part-2	Episode #224: Let's Build Activity++ - Part 2			20160609	1		0	0
+advanced	http://nsscreencast.com/episodes/225-let-s-build-activity-part-3	Episode #225: Let's Build Activity++ - Part 3			20160623	1		0	0
+advanced	http://nsscreencast.com/episodes/226-let-s-build-activity-part-4	Episode #226: Let's Build Activity++ - Part 4			20160701	1		0	0
+advanced	http://nsscreencast.com/episodes/227-let-s-build-activity-part-5	Episode #227: Let's Build Activity++ - Part 5			20160707	1		0	0
+advanced	http://nsscreencast.com/episodes/228-let-s-build-activity-part-6	Episode #228: Let's Build Activity++ - Part 6			20160714	1		0	0
+advanced	http://nsscreencast.com/episodes/229-let-s-build-activity-part-7	Episode #229: Let's Build Activity++ - Part 7			20160722	1		0	0
 advanced	http://ericasadun.com/2016/04/12/proposal-spotlight-se-0045-add-scan-takewhile-dropwhile-and-iterate-to-the-stdlib/	Proposal Spotlight: SE-0045 Add scan, takeWhile, dropWhile, and iterate to the stdlib			20160412	0		0	0
 advanced	https://www.raywenderlich.com/131374/video-tutorial-intermediate-ios-animations-part-2-core-animation-models	Video Tutorial: Intermediate iOS Animations Part 2: Core Animation Models	video:animation		20160412	1		0	0
 advanced	http://peterwitham.com/swift/intermediate/swift-error-throwing-catching/	Swift Error Throwing and Catching	exceptions		20160412	0		0	0
@@ -5017,3 +5024,21 @@ advanced	http://www.youtube.com/watch?v=XIQsQ2injLo	Upload and Retrieve From Fir
 advanced	https://www.youtube.com/watch?v=yopfqJQJCOk	Universal Framework Run Script - Xcode 7.3 iOS 9.3	video		20160706	0		0	0
 advanced	http://www.youtube.com/watch?v=OaiLpVG6Tlc	Firebase Login Tutorial in Swift - Xcode 7.3 iOS 9.3	video		20160709	0		0	0
 advanced	http://www.youtube.com/watch?v=iOf2DSY6DoE	Firebase Forgot Password Tutorial in Swift - Xcode 7.3 iOS 9.3	video		20160723	0		0	0
+advanced	http://holko.pl/2016/07/21/introducing-emojitextview/	Introducing EmojiTextView			20160721	0		0	0
+advanced	https://swifting.io/blog/2016/07/18/20-sirikit-can-you-outsmart-provided-intents/	#20 SiriKit – Can you outsmart provided Intents?			20160718	0		0	0
+advanced	http://blog.benjamin-encz.de/post/bridging-existentials-generics-swift-2/	Bridging Existentials & Generics in Swift 2			20160721	0		0	0
+libs	https://github.com/fastred/EmojiTextView	Tap to swap out words with emojis. Inspired by Messages.app on iOS 10			20160721	0		0	0
+libs	https://github.com/Orderella/PopupDialog	A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style			20160721	0		0	0
+libs	https://github.com/mcmatan/ImageOpenTransition	Beautiful and precise transitions between ViewControllers images			20160721	0		0	0
+libs	https://github.com/WorldDownTown/ZoomTransitioning	ZoomTransitioning provides a custom transition with image zooming animation			20160721	0		0	0
+libs	https://github.com/scamps88/ASCalendar	A calendar control for iOS written in swift with mvvm pattern			20160721	0		0	0
+advanced	http://ericasadun.com/2016/07/25/very-last-second-swift-3-reviews/	Very last second Swift 3 reviews: big changes, little time			20160725	0		0	0
+advanced	https://www.invasivecode.com/weblog/convolutional-neural-networks-ios-10-macos-sierra/	Convolutional Neural Networks in iOS 10 and macOS			20160712	0		0	0
+advanced	https://www.natashatherobot.com/implementing-equatable-for-protocols-swift/	Implementing Equatable for Protocols in Swift			20160725	0		0	0
+advanced	http://useyourloaf.com/blog/xcode-visual-memory-debugger/	Xcode Visual Memory Debugger	testing		20160725	0		0	0
+advanced	http://www.appcoda.com/cagradientlayer/	Creating Gradient Colors Using CAGradientLayer	CAGradientLayer		20160725	0		0	0
+advanced	https://www.raywenderlich.com/128792/nsscanner-tutorial-for-os-x	NSScanner Tutorial for OS X	mac:NSScanner		20160726	0		0	0
+advanced	https://www.natashatherobot.com/swift-3-implicitly-unwrapped-optionals/	Swift 3: What You Need to Know About Implicitly Unwrapped Optionals			20160726	0		0	0
+libs	https://github.com/JARMourato/EasyAbout	A way to easily add Cocoapod licenses and App Version to your iOS App using the Settings Bundle			20160726	0		0	0
+libs	https://github.com/sidharthsankh/Swift-Intro	Swift auto layout with basic animation			20160726	0		0	0
+advanced	http://www.iosinsight.com/objective-c-to-swift-migration-illustrated-with-a-demo-app/	Objective-C To Swift Migration – Illustrated With A Demo App			20160726	0		0	0
