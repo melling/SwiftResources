@@ -5010,8 +5010,8 @@ advanced	https://www.natashatherobot.com/magical-view-rotation-with-stackview/	M
 advanced	http://swiftdeveloperblog.com/actionsheet-example-in-swift/	ActionSheet Example in Swift	ActionSheet		20160724	0		0	0
 advanced	http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/	Closures Capturing Semantics, Part 1: Catch them all!			20160724	0		0	0
 advanced	https://makeapppie.com/2016/07/25/what-is-model-view-controller/	What is Model-View-Controller?			20160725	0		0	0
-advanced	https://www.raywenderlich.com/140001/video-tutorial-intermediate-realm-ios-introduction	Video Tutorial: Intermediate Realm on iOS: Introduction			20160725	0		0	0
-advanced	https://www.raywenderlich.com/140008/video-tutorial-intermediate-realm-ios-part-1-bundled-realm-files	Video Tutorial: Intermediate Realm on iOS Part 1: Bundled Realm Files			20160725	1		0	0
+advanced	https://www.raywenderlich.com/140001/video-tutorial-intermediate-realm-ios-introduction	Video Tutorial: Intermediate Realm on iOS: Introduction	realm		20160725	0		0	0
+advanced	https://www.raywenderlich.com/140008/video-tutorial-intermediate-realm-ios-part-1-bundled-realm-files	Video Tutorial: Intermediate Realm on iOS Part 1: Bundled Realm Files	realm		20160725	1		0	0
 advanced	https://www.youtube.com/watch?v=TkBUKHxjIcw	#94 Creating Messages Extension in iOS 10 Part 1	AzamSharp:video		20160702	0		0	0
 advanced	http://www.youtube.com/watch?v=-LaskEo-y9I	#95 Creating Messages Extension in iOS 10 Part 2	AzamSharp:video		20160704	0		0	0
 advanced	http://www.youtube.com/watch?v=st1-fEHHVto	#96 Creating Messages Extension in iOS 10 Part 3 - Compact and Expanded Modes	AzamSharp:video		20160704	0		0	0
@@ -5042,3 +5042,20 @@ advanced	https://www.natashatherobot.com/swift-3-implicitly-unwrapped-optionals/
 libs	https://github.com/JARMourato/EasyAbout	A way to easily add Cocoapod licenses and App Version to your iOS App using the Settings Bundle			20160726	0		0	0
 libs	https://github.com/sidharthsankh/Swift-Intro	Swift auto layout with basic animation			20160726	0		0	0
 advanced	http://www.iosinsight.com/objective-c-to-swift-migration-illustrated-with-a-demo-app/	Objective-C To Swift Migration – Illustrated With A Demo App			20160726	0		0	0
+advanced	http://www.mokacoding.com/blog/why-implicitly-unwrapping-swift-optionals-is-dangerous	Why implicitly unwrapping Swift Optionals is dangerous			20160725	0		0	0
+advanced	http://mhorga.org/2016/07/26/metal-tutorials-updated-to-swift-3-and-xcode-8.html	Metal tutorials updated to Swift 3 and Xcode 8	metal		20160725	0		0	0
+advanced	http://christiantietze.de/posts/2016/07/implementing-collectiontyp-swift-2/	Implementing CollectionType in Swift 2.x			20160726	0		0	0
+advanced	https://www.raywenderlich.com/140012/video-tutorial-intermediate-realm-ios-part-2-multiple-realm-files	Video Tutorial: Intermediate Realm on iOS Part 2: Multiple Realm Files	realm		20160726	1		0	0
+advanced	https://peterwitham.com/swift/intermediate/argument-explicity-changing-function-argument-names-magically/	Changing Function Argument Names Magically			20160726	0		0	0
+advanced	http://ericasadun.com/2016/07/26/replacing-ranges-in-strings/	Replacing ranges in Strings			20160726	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-index	iOS 10 Day by Day :: Index			20160727	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-1-messages	iOS 10 Day by Day :: Day 1 :: Messages			20160727	0		0	0
+advanced	https://www.raywenderlich.com/140017/video-tutorial-intermediate-realm-ios-part-3-encrypted-realm-files	Video Tutorial: Intermediate Realm on iOS Part 3: Encrypted Realm Files	realm		20160727	0		0	0
+advanced	http://extelligentcocoa.org/macos-storyboard-segues-and-nspopoverdelegate/	MacOS Storyboard Segues and NSPopoverDelegate	mac		20160727	0		0	0
+advanced	http://ericasadun.com/2016/07/27/end-of-source-breaking-changes-for-swift-3/	End of Source Breaking Changes for Swift 3			20160727	0		0	0
+advanced	https://www.raywenderlich.com/133007/making-mac-app-scriptable-tutorial	Making A Mac App Scriptable Tutorial	mac		20160728	0		0	0
+advanced	https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/	Swift: What are Protocols with Associated Types?			20160728	0		0	0
+advanced	https://www.raywenderlich.com/140029/video-tutorial-intermediate-realm-ios-part-4-migrations-part-1	Video Tutorial: Intermediate Realm on iOS Part 4: Migrations Part 1	realm		20160728	1		0	0
+advanced	http://oleb.net/blog/2016/07/measurements-and-units/	Measurements and Units in Foundation			20160728	0		0	0
+advanced	http://ericasadun.com/2016/07/28/dear-erica-how-do-i-mimic-objective-cs-delegate-inheritance-pattern/	Dear Erica: How do I mimic Objective-C’s delegate inheritance pattern?			20160728	0		0	0
+advanced	http://ericasadun.com/2016/07/28/the-curious-case-of-the-optional-requirement-in-the-night/	The curious case of the “optional requirement” in the night			20160728	0		0	0
