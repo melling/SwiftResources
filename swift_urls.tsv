@@ -5059,3 +5059,26 @@ advanced	https://www.raywenderlich.com/140029/video-tutorial-intermediate-realm-
 advanced	http://oleb.net/blog/2016/07/measurements-and-units/	Measurements and Units in Foundation			20160728	0		0	0
 advanced	http://ericasadun.com/2016/07/28/dear-erica-how-do-i-mimic-objective-cs-delegate-inheritance-pattern/	Dear Erica: How do I mimic Objective-C’s delegate inheritance pattern?			20160728	0		0	0
 advanced	http://ericasadun.com/2016/07/28/the-curious-case-of-the-optional-requirement-in-the-night/	The curious case of the “optional requirement” in the night			20160728	0		0	0
+advanced	http://www.jessesquires.com/enums-as-configs/	Enums as configuration: the anti-pattern	enum		20160802	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/07/30/timer-problems.html	Design patterns for safe timer usage	NSTimer		20160729	0		0	0
+advanced	http://oleb.net/blog/2016/07/unitproduct/	Putting the Physics Into Measurements and Units	Measurements		20160729	0		0	0
+advanced	http://oleb.net/blog/2016/07/unitsquare/	Measurements and Units, Part 3	Measurements		20160729	0		0	0
+advanced	https://www.raywenderlich.com/140032/video-tutorial-intermediate-realm-ios-part-5-migrations-part-2	Video Tutorial: Intermediate Realm on iOS Part 5: Migrations Part 2	realm		20160729	1		0	0
+advanced	https://www.raywenderlich.com/140037/video-tutorial-intermediate-realm-ios-part-6-conclusion	Video Tutorial: Intermediate Realm on iOS Part 6: Conclusion	realm		20160729	1		0	0
+advanced	http://ericasadun.com/2016/07/29/chris-lattner-on-wrapping-up-swift-3-starting-swift-4/	Chris Lattner on wrapping up Swift 3, starting Swift 4			20160729	0		0	0
+advanced	http://commandshift.co.uk/blog/2016/07/30/pentominoes-part-seven/	Pentominoes, part seven: Dropping with intent			20160729	0		0	0
+advanced	http://mhorga.org/2016/07/31/metal-performance-shaders-for-the-ipad-playground.html	Metal Performance Shaders for the iPad playground	metal:playground		20160730	0		0	0
+advanced	http://swiftdeveloperblog.com/mapview-display-users-current-location-and-drop-a-pin/	MapView – Display User’s Current Location and Drop a Pin	MapKit:CoreLocation		20160731	0		0	0
+advanced	http://www.knowstack.com/swift-mapkit-annotation/	Swift MapKit Annotation	MapKit:CoreLocation		20160731	0		0	0
+advanced	http://useyourloaf.com/blog/swift-3-warning-of-unused-result/	Swift 3 Warning of Unused Result	testing		20160801	0		0	0
+advanced	https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen	How To Create an Uber Splash Screen			20160801	0		0	0
+advanced	https://makeapppie.com/2016/08/01/using-observers-and-delegates-on-the-model/	Using Observers and Delegates on the Model			20160801	0		0	0
+advanced	http://christiantietze.de/posts/2016/08/nsdocument-sheet-appears-disabled/	NSDocument Weirdness: Sheet Contents Appear Disabled	NSDocument		20160801	0		0	0
+advanced	http://www.appcoda.com/facebook-ads-integration/	Displaying Facebook Ads in Your iOS Apps			20160801	0		0	0
+advanced	http://code.tutsplus.com/tutorials/create-an-imessage-app-in-ios-10--cms-26870	Create an iMessage App in iOS 10	iMessage		20160801	0		0	0
+advanced	http://ericasadun.com/2016/08/01/geomapping-the-swift-change-log/	Geomapping the Swift Change Log			20160801	0		0	0
+advanced	https://www.raywenderlich.com/139112/ios-10-screencast-property-animators-working-together	iOS 10 Screencast: Property Animators: Working Together	PropertyAnimators		20160802	1		0	0
+advanced	https://www.raywenderlich.com/140858/ios-10-screencast-measurements-units	iOS 10 Screencast: Measurements & Units	Measurements		20160802	1		0	0
+advanced	http://christiantietze.de/posts/2016/08/transparent-table-header-view/	Transparent NSTableView Headers	mac:NSTableView		20160803	0		0	0
+advanced	https://medium.com/swift-programming/asynchronous-testing-e52db1b9b1fb	Asynchronous Testing	testing		20160804	0		0	0
+advanced	https://www.raywenderlich.com/140865/ios-10-screencast-memory-graph-debugger	iOS 10 Screencast: Memory Graph Debugger	testing		20160804	1		0	0
