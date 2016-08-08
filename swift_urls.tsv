@@ -4701,7 +4701,7 @@ libs	https://github.com/SchoonSauce/SwiftDataStructures	Some basic data structur
 advanced	https://medium.com/@pvzig/building-slack-bots-in-swift-b99e243e444c	Building Slack Bots In Swift			20160505	0		0	0
 advanced	http://andyheardapps.github.io/AHNoise/	AHNoise: A procedural, cohesive, modular noise library built using Metal and Swift	metal		20160505	0		0	0
 advanced	https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3	Swift: Selector syntax sugar			20160323	0		0	0
-advanced	https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5	A quick look at UIViewPropertyAnimator	UIViewPropertyAnimator		20160614	0		0	0
+advanced	https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5	A quick look at UIViewPropertyAnimator	PropertyAnimators		20160614	0		0	0
 libs	https://developer.apple.com/sample-code/wwdc/2016/	WWDC 2016 Sample Code			20160614	0		0	0
 libs	https://github.com/ohoachuck/wwdc-downloader	WWDC 2016 video downloader script written in Swift - no external dependency			20160614	0		0	0
 libs	https://github.com/IBM-Swift/BluePic	BluePic is a sample photo sharing application for iOS that shows you how to connect your mobile application with Kitura, Bluemix services, and OpenWhisk actions			20160614	0		0	0
@@ -4805,7 +4805,7 @@ libs	https://github.com/evgenyneu/moa	An image download extension for image view
 libs	https://github.com/ankurp/Dollar	A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript 	functional		20160622	0		0	0
 libs	https://github.com/tid-kijyun/Kanna	Kanna(鉋) is an XML/HTML parser for macOS / iOS / tvOS	xml		20160622	0		0	0
 libs	https://github.com/cyanzhong/xTextHandler	Xcode Source Editor Extension Toolset (Plugins for Xcode 8)	xcode8-plugin		20160622	0		0	0
-libs	https://github.com/JakeLin/SaveTheDot	A game developed using UIViewPropertyAnimator	UIViewPropertyAnimator		20160622	0		0	0
+libs	https://github.com/JakeLin/SaveTheDot	A game developed using UIViewPropertyAnimator	PropertyAnimators		20160622	0		0	0
 advanced	https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/	WWDC 2016: Increased Safety in Swift 3.0	swift3		20160616	0		0	0
 advanced	https://medium.com/@ksmandersen/good-swift-bad-swift-part-2-d6daebf53a5	Good Swift, Bad Swift — Part 2			20160619	0		0	0
 advanced	http://holko.pl/2016/06/23/core-data/	Concurrent Core Data, Now Easier Than Ever	CoreData		20160623	0		0	0
@@ -4845,7 +4845,7 @@ advanced	https://peterwitham.com/xcode/xcode-8-extensions/	Xcode 8 Extensions			
 advanced	https://makeapppie.com/2016/06/27/using-segues-and-delegates-for-navigation-controllers-in-swift-3-0/	Using Segues and Delegates for Navigation Controllers in Swift 3.0			20160627	0		0	0
 advanced	http://useyourloaf.com/blog/auto-adjusting-fonts-for-dynamic-type/	Auto Adjusting Fonts for Dynamic Type			20160627	0		0	0
 advanced	http://ericasadun.com/2016/06/27/dear-playgrounds-santa-playgrounds/	Dear Playgrounds Santa: Playgrounds	playground		20160627	0		0	0
-advanced	http://jamesonquave.com/blog/designing-animations-with-uiviewpropertyanimator-in-ios-10-and-swift-3/	Designing Animations with UIViewPropertyAnimator in iOS 10 and Swift 3	UIViewPropertyAnimator		20160628	0		0	0
+advanced	http://jamesonquave.com/blog/designing-animations-with-uiviewpropertyanimator-in-ios-10-and-swift-3/	Designing Animations with UIViewPropertyAnimator in iOS 10 and Swift 3	PropertyAnimators		20160628	0		0	0
 advanced	https://www.raywenderlich.com/127936/submit-an-app-part-1	How to Submit An App to Apple: From No Account to App Store – Part 1			20160628	0		0	0
 advanced	https://www.raywenderlich.com/127939/submit-an-app-part-2	How to Submit An App to Apple: From No Account to App Store – Part 2			20160628	0		0	0
 advanced	http://ericasadun.com/2016/06/28/that-integer-literal-thing/	That Integer Literal Thing			20160628	0		0	0
@@ -4917,7 +4917,7 @@ advanced	http://makeapppie.com/2016/07/11/programmatic-navigation-view-controlle
 advanced	http://useyourloaf.com/blog/pro-swift-and-swift-algorithms/	Pro Swift and Swift Algorithms			20160711	0		0	0
 advanced	https://www.raywenderlich.com/138190/swift-algorithm-club-swift-tree-data-structure	Swift Algorithm Club: Swift Tree Data Structure			20160711	0		0	0
 advanced	http://code.tutsplus.com/tutorials/how-to-create-an-xcode-source-editor-extension--cms-26772	How to Create an Xcode Source Editor Extension			20160711	0		0	0
-advanced	https://www.raywenderlich.com/139088/ios-10-screencast-property-animators-timing-functions	iOS 10 Screencast: Property Animators: Timing Functions			20160711	0		0	0
+advanced	https://www.raywenderlich.com/139088/ios-10-screencast-property-animators-timing-functions	iOS 10 Screencast: Property Animators: Timing Functions	PropertyAnimators		20160711	0		0	0
 advanced	http://commandshift.co.uk/blog/2016/07/12/pentominoes-part-six/	Pentominoes, part six: Gestures			20160711	0		0	0
 advanced	http://www.raizlabs.com/dev/2016/07/introducing-anchorage-readable-auto-layout-code-ios/	Introducing Anchorage: Readable Auto Layout Code for iOS	AutoLayout		20160712	0		0	0
 advanced	http://ashishkakkad.com/2016/07/ios-10-new-frameworks/	iOS 10 New Frameworks			20160712	0		0	0
@@ -4927,7 +4927,7 @@ advanced	https://www.raywenderlich.com/130197/magical-error-handling-swift	Magic
 advanced	http://ericasadun.com/2016/07/14/the-names-of-things/	The names of things			20160714	0		0	0
 advanced	http://christiantietze.de/posts/2016/07/til-consuming-newlines-nstextview/	TIL: How to Make NSTextView Reject Newlines			20160715	0		0	0
 advanced	http://ericasadun.com/2016/07/15/paleogene-therapy-whats-up-in-swift-evolution/	Paleogene Therapy: What’s up in Swift Evolution			20160715	0		0	0
-advanced	https://www.raywenderlich.com/139105/ios-10-screencast-property-animators-pause-scrub-reverse	iOS 10 Screencast: Property Animators: Pause, Scrub & Reverse			20160715	1		0	0
+advanced	https://www.raywenderlich.com/139105/ios-10-screencast-property-animators-pause-scrub-reverse	iOS 10 Screencast: Property Animators: Pause, Scrub & Reverse	PropertyAnimators		20160715	1		0	0
 advanced	http://ericasadun.com/2016/07/15/announcement-swift-3-endgame/	Announcement: Swift 3 Endgame and Swift 4 Kickoff			20160715	0		0	0
 advanced	http://ctarda.com/2016/07/the-reason-why-i-try-to-avoid-storyboards/	The reason why I try to avoid storyboards			20160715	0		0	0
 advanced	http://www.mav3r1ck.io/closures-with-swift-in/	Closures with Swift { () -> () in }			20160716	0		0	0
@@ -5082,3 +5082,13 @@ advanced	https://www.raywenderlich.com/140858/ios-10-screencast-measurements-uni
 advanced	http://christiantietze.de/posts/2016/08/transparent-table-header-view/	Transparent NSTableView Headers	mac:NSTableView		20160803	0		0	0
 advanced	https://medium.com/swift-programming/asynchronous-testing-e52db1b9b1fb	Asynchronous Testing	testing		20160804	0		0	0
 advanced	https://www.raywenderlich.com/140865/ios-10-screencast-memory-graph-debugger	iOS 10 Screencast: Memory Graph Debugger	testing		20160804	1		0	0
+advanced	http://www.atomicbird.com/blog/uistackview-flexible-design	Flexible UI Design with UIStackView	UIStackView		20160727	0		0	0
+advanced	http://ericasadun.com/2016/08/04/idiomatic-swift-conditional-unwrapping-initialization/	Idiomatic Swift: conditional unwrapping initialization			20160804	0		0	0
+advanced	http://ashishkakkad.com/2016/08/bye-bye-to-ns-from-swift/	Bye Bye to NS from Swift!!			20160805	0		0	0
+advanced	https://www.raywenderlich.com/138764/make-a-game-like-monster-island-tutorial	How to Make a Game Like Monster Island Tutorial			20160805	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-2-thread-sanitizer	iOS 10 Day by Day :: Day 2 :: Thread Sanitizer			20160805	0		0	0
+advanced	http://ericasadun.com/2016/08/05/ios-playgrounds-where-is-my-print-output/	iOS Playgrounds: Where is my print output?	playground		20160805	0		0	0
+advanced	http://ericasadun.com/2016/08/05/cleaning-up-single-if-case-use/	Cleaning up single if-case use			20160805	0		0	0
+advanced	http://mhorga.org/2016/08/07/ray-tracing-in-a-swift-playground-part-6.html	Ray tracing in a Swift playground part 6	raytracing		20160806	0		0	0
+advanced	http://www.ios-blog.co.uk/tutorials/xcode/how-to-create-a-new-single-view-application/	How to create a New Single View Application in Xcode			20160807	0		0	0
+advanced	http://www.atomicbird.com/blog/uistackview-table-cells	Using Stack Views in Table Cells			20160803	0		0	0
