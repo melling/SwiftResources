@@ -2500,6 +2500,13 @@ advanced	https://littlebitesofcocoa.com/244-grand-central-dispatch-in-swift-3	li
 advanced	https://littlebitesofcocoa.com/245-masking-views-with-text-using-catextlayer	little bites of cocoa: #245: Masking Views with Text Using CATextLayer			20160712	0		0	0
 advanced	https://littlebitesofcocoa.com/246-uitextfield-b-sides	little bites of cocoa: #246: UITextField B-sides			20160713	0		0	0
 advanced	https://littlebitesofcocoa.com/247-particle-effects-with-caemitterlayer	little bites of cocoa: #247: Particle Effects with CAEmitterLayer			20160714	0		0	0
+advanced	https://littlebitesofcocoa.com/248-installing-a-swift-toolchain	little bites of cocoa: #248: Installing a Swift Toolchain			20160801	0		0	0
+advanced	https://littlebitesofcocoa.com/249-enums-in-swift-3	little bites of cocoa: #249: Enums in Swift 3	enum		20160802	0		0	0
+advanced	https://littlebitesofcocoa.com/250-improvements-to-c-apis-in-swift-3	little bites of cocoa: #250: Improvements to C APIs in Swift 3			20160803	0		0	0
+advanced	https://littlebitesofcocoa.com/251-face-aware-image-views-with-aspectfillfaceaware	little bites of cocoa: #251: Face Aware Image Views with AspectFillFaceAware			20160804	0		0	0
+advanced	https://littlebitesofcocoa.com/252-compiling-swift-from-source	little bites of cocoa: #252: Compiling Swift from Source			20160808	0		0	0
+advanced	https://littlebitesofcocoa.com/253-watching-files-with-kzfilewatchers	little bites of cocoa: #253: Watching Files with KZFileWatchers			20160809	0		0	0
+advanced	https://littlebitesofcocoa.com/254-dynamically-mocking-network-requests-with-kakapo	little bites of cocoa: #254: Dynamically Mocking Network Requests with Kakapo			20160810	0		0	0
 advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	Split Views and Unexpected Keyboards	keyboard		20151122	0		0	0
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video		20151123	0		0	0
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode		20151123	0		0	0
@@ -5092,3 +5099,64 @@ advanced	http://ericasadun.com/2016/08/05/cleaning-up-single-if-case-use/	Cleani
 advanced	http://mhorga.org/2016/08/07/ray-tracing-in-a-swift-playground-part-6.html	Ray tracing in a Swift playground part 6	raytracing		20160806	0		0	0
 advanced	http://www.ios-blog.co.uk/tutorials/xcode/how-to-create-a-new-single-view-application/	How to create a New Single View Application in Xcode			20160807	0		0	0
 advanced	http://www.atomicbird.com/blog/uistackview-table-cells	Using Stack Views in Table Cells			20160803	0		0	0
+advanced	https://makeapppie.com/2016/08/08/how-to-make-local-notifications-in-ios-10/	How to Make Local Notifications in iOS 10			20160808	0		0	0
+advanced	https://medium.com/swift-programming/the-conciseness-of-swift-20522df78210	The Conciseness of Swift			20160808	0		0	0
+advanced	http://theswiftdev.com/2016/08/08/self-sizing-cells-with-rotation-support-in-swift-3/	Self sizing cells with rotation support in Swift 3			20160808	0		0	0
+advanced	https://www.raywenderlich.com/133825/uiactivityviewcontroller-tutorial	UIActivityViewController Tutorial: Sharing Data			20160808	0		0	0
+advanced	http://www.mokacoding.com/blog/impliticly-vs-force-unwrapping-swift-optionals	Implicitly vs Force Unwrapping Swift Optionals			20160808	0		0	0
+advanced	http://ericasadun.com/2016/08/08/questions-can-you-call-super-in-a-setter/	Questions: “Can you call super in a setter?”			20160808	0		0	0
+advanced	http://ericasadun.com/2016/08/09/dear-erica-taking-the-ns-off/	Dear Erica: Taking the NS off			20160809	0		0	0
+advanced	http://ericasadun.com/2016/08/10/more-fun-with-sequences/	More fun with sequences!	sequences		20160810	0		0	0
+advanced	http://ericasadun.com/2016/08/10/being-overly-clever-with-dates/	Being overly clever with dates	date		20160810	0		0	0
+advanced	http://www.appcoda.com/siri-speech-framework/	Building a Speech-to-Text App Using Speech Framework in iOS 10			20160809	0		0	0
+advanced	https://www.raywenderlich.com/141204/ios-10-screencast-measurement-formatter	iOS 10 Screencast: Measurement Formatter	Measurements		20160809	0		0	0
+advanced	https://www.raywenderlich.com/136272/drag-and-drop-tutorial-for-macos	Drag and Drop Tutorial for macOS	mac		20160810	0		0	0
+advanced	https://www.raywenderlich.com/141211/ios-10-screencast-audio-file-speech-transcription	iOS 10 Screencast: Audio File Speech Transcription			20160811	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/swift-initialization-with-closures-5ea1-79a4c0617ed4---4	Swift + Initialization with Closures			20160811	0		0	0
+advanced	http://theswiftdev.com/2016/08/11/all-about-errors-functors-monads-and-promises/	All about errors, functors, monads and promises			20160811	0		0	0
+advanced	https://www.bignerdranch.com/blog/video-cross-platform-game-templates-in-xcode-8/	Video: Cross-Platform Game Templates in Xcode 8			20160809	0		0	0
+advanced	http://christiantietze.de/posts/2016/08/clean-apps-structure-flow/	When You Code, You Design Both Structure and Information Flow			20160812	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-3-xcode-source-editor-extensions	iOS 10 Day by Day :: Day 3 :: Xcode Source Editor Extensions	xcode-plugin		20160812	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/08/experimenting-with-impacts-in-sidefx.html	Experimenting with Impacts in SideFX Houdini	metal		20160814	0		0	0
+advanced	http://www.mokacoding.com/blog/setting-up-firebase-without-cocoapods	Setting Up Firebase Without Using CocoaPods	firebase		20160814	0		0	0
+advanced	http://ctarda.com/2016/08/a-journey-of-thousand-miles/	A journey of thousand miles…			20160815	0		0	0
+advanced	http://useyourloaf.com/blog/use-high-contrast-for-legibility/	Use High Contrast For Legibility			20160815	0		0	0
+advanced	https://realm.io/news/altconf-conrad-kramer-writing-iOS-sdk/	How (Not) to Write an iOS SDK	video		20160714	0		0	0
+advanced	https://realm.io/news/slug-russ-bishop-contributing-open-source-swift-proposal/	Contributing to Swift: From Proposal to Shipped	video		20160721	0		0	0
+advanced	https://realm.io/news/altconf-scott-gardner-reactive-programming-with-rxswift/	Reactive Programming with RxSwift	video		20160725	0		0	0
+advanced	https://realm.io/news/open-source-swift-guide/	The Guide to Open Source Swift			20160726	0		0	0
+advanced	https://realm.io/news/slug-brandon-kase-grokking-lazy-sequences-collections/	Grokking Lazy Sequences & Collections	video		20160726	0		0	0
+advanced	https://realm.io/news/slug-craig-clayton-my-name-is-bond-swift-bond/	My name is Bond…SwiftBond	video		20160804	0		0	0
+advanced	https://realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/	What the Functor is a Monad	video:functional		20160808	0		0	0
+advanced	https://realm.io/news/slug-peter-livesey-managing-consistency-immutable-models/	Managing Consistency of Immutable Models	video		20160811	0		0	0
+advanced	https://realm.io/news/altconf-michael-gray-futures-promises-gcd/	Futures and Promises, or how I learned to stop worrying and love the GCD	concurrency		20160815	0		0	0
+advanced	https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021	Amazing Physically Based Rendering Using the New iOS 10 SceneKit	SceneKit		20160727	0		0	0
+advanced	https://medium.com/@gwendal.roue/how-to-build-an-ios-application-with-sqlite-and-grdb-swift-d023a06c29b3	How to build an iOS application with SQLite and GRDB.swift			20160727	0		0	0
+advanced	http://engineering.postmates.com/PMHTTP/	PMHTTP, a REST networking library for Swift/Obj-C			20160805	0		0	0
+advanced	https://medium.com/@dasdom/creating-a-smart-xcode-file-template-b5f2d7c8594b	Creating a ‘’smart’’ Xcode file template			20160810	0		0	0
+advanced	https://engineering.kitchenstories.io/this-simple-trick-will-change-how-you-think-about-table-views-706193654974	Complex table view state changes made easy			20160725	0		0	0
+advanced	http://www.jessesquires.com/migrating-to-swift-3/	Migrating to Swift 3			20160725	0		0	0
+advanced	https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2	A composable pattern for pure state machines with effects			20160725	0		0	0
+libs	https://github.com/BeauNouvelle/AspectFillFaceAware	An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill			20160725	0		0	0
+libs	https://github.com/MillmanY/UploadImage	Extension helper for UIImageView to Upload an image when post to server			20160725	0		0	0
+libs	https://github.com/nonameplum/PLCurrencyTextField	UITextField that support currency in the right way.			20160725	0		0	0
+libs	https://github.com/pablojotaguardiola/CodelessComponents-Swift	iOS UI Components to use with no code at all.			20160725	0		0	0
+advanced	https://github.com/vermont42/Podcasts	This is a list of podcasts of interest to iOS developers			20160725	0		0	0
+advanced	http://www.appcoda.com/cagradientlayer	Creating Gradient Colors Using CAGradientLayer	CALayer		20160726	0		0	0
+advanced	https://bjango.com/articles/pngoptimisation/	PNG optimisation			20160801	0		0	0
+libs	https://github.com/Nicejinux/NXDrawKit	NXDrawKit is a simple and easy but useful drawing kit for iPhone			20160726	0		0	0
+advanced	https://medium.com/ymedialabs-innovation/interactive-messages-in-ios-10-4cea542fbd9a	Interactive Messages in iOS 10			20160801	0		0	0
+libs	https://github.com/dkalaitzidis/SwiftyAvatar	A UiimageView class for creating circular avatar images, IBDesignable to make all changes via storyboard			20160801	0		0	0
+libs	https://github.com/snipsco/Postal	A swift framework for working with emails			20160801	0		0	0
+libs	https://github.com/devlucky/Kakapo	Dynamically Mock server behaviors and responses			20160801	0		0	0
+libs	https://github.com/shashankpali/EZYGradientView	Create gradients and blur gradients without a single line of code			20160801	0		0	0
+libs	https://github.com/PiXeL16/IBLocalizable	Localize your views directly in Interface Builder with IBLocalizable			20160801	0		0	0
+advanced	http://www.apokrupto.com/blog-1/2016/8/14/swift-protocols-and-the-law-of-unintended-consequences	Swift Protocols and the Law of Unintended Consequences			20160814	0		0	0
+advanced	http://basememara.com/enum-based-queue-factory-gcd/	Enum-based Queue Factory for GCD			20160814	0		0	0
+advanced	https://swifting.io/blog/2016/08/09/21-ios-security-101/	#21 iOS Security 101			20160809	0		0	0
+libs	https://github.com/erica/NSDate-Extensions	Practical real-world dates			20160809	0		0	0
+libs	https://github.com/Yalantis/PixPic	PixPic, a Photo Editing App			20160809	0		0	0
+libs	https://github.com/mindz-eye/MYTableViewIndex	A pixel perfect replacement for UITableView section index			20160809	0		0	0
+libs	https://github.com/Roylee-ML/PrismaSimpleImagePicker	This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor			20160809	0		0	0
+libs	https://github.com/krzysztofzablocki/KZFileWatchers	A micro-framework for observing file changes, both local and remote			20160809	0		0	0
+libs	https://github.com/Houzz/JSONCast	Easily create classes from parsed JSON and conform to NSCopying and NSEncoding			20160809	0		0	0
