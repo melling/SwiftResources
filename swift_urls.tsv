@@ -5160,3 +5160,56 @@ libs	https://github.com/mindz-eye/MYTableViewIndex	A pixel perfect replacement f
 libs	https://github.com/Roylee-ML/PrismaSimpleImagePicker	This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor			20160809	0		0	0
 libs	https://github.com/krzysztofzablocki/KZFileWatchers	A micro-framework for observing file changes, both local and remote			20160809	0		0	0
 libs	https://github.com/Houzz/JSONCast	Easily create classes from parsed JSON and conform to NSCopying and NSEncoding			20160809	0		0	0
+libs	https://github.com/146BC/StyleKit	A powerful & easy to use styling framework			20160809	0		0	0
+advanced	http://www.iosinsight.com/uitextfield-drop-down-list-in-swift/	UITextField Drop Down List In Swift			20160811	0		0	0
+advanced	https://youtu.be/BFZ4ZCw_9z4	Photo Album in Collection View! (Swift 2 in Xcode)	JaredDavidson:video		20160805	0		0	0
+advanced	https://appventure.me/2016/07/15/swift3-nsdata-data/	Data in Swift 3 parsing a Doom WAD File			20160815	0		0	0
+advanced	https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing	TestFlight Tutorial: iOS Beta Testing	testing		20160815	0		0	0
+advanced	http://swiftdeveloperblog.com/upload-image-to-aws-s3-bucket-in-swift/	Upload Image to AWS S3 Bucket. In Swift.			20160816	0		0	0
+advanced	https://videos.raywenderlich.com/screencasts/ios-10-visual-view-debugging	iOS 10 Screencast: Visual View Debugging	testing		20160816	1		0	0
+advanced	http://ericasadun.com/2016/08/16/canonical-hex/	Canonical Hex			20160816	0		0	0
+advanced	http://christiantietze.de/posts/2016/08/reswift-undo-middleware/	Putting ReSwift Actions on the Undo Stack Using Middleware			20160817	0		0	0
+advanced	https://www.raywenderlich.com/134844/pattern-matching-in-swift	Pattern Matching in Swift			20160817	0		0	0
+advanced	http://theswiftdev.com/2016/08/17/xcode-8-extensions/	Xcode 8 extensions			20160817	1		0	0
+advanced	https://medium.com/swift-programming/swift-typecasing-3cd156c323e	Swift: Typecasing			20160817	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/08/chaos-in-houdini-modeling-strange.html	Chaos in Houdini! Modeling Strange Attractors with Particles			20160817	0		0	0
+advanced	https://www.raizlabs.com/dev/2016/08/introducing-bentomap/	Introducing BentoMap			20160818	0		0	0
+advanced	https://www.raywenderlich.com/141850/ios-10-screencast-live-speech-recognition	iOS 10 Screencast: Live Speech Recognition			20160818	0		0	0
+advanced	http://christiantietze.de/posts/2016/08/switch-checkbox/	Switch VS Checkbox in User Interface Design			20160818	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-4-uiviewpropertyanimator	iOS 10 Day by Day :: Day 4 :: UIViewPropertyAnimator			20160818	0		0	0
+advanced	https://www.raywenderlich.com/141878/creating-a-framework	Creating a Framework			20160819	0		0	0
+advanced	http://ericasadun.com/2016/08/19/kid-fu-pay-for-play/	Kid-fu: Pay for play			20160819	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/08/21/result-types-part-one.html	Values and errors, part 1: 'Result' in Swift			20160820	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/08/simulating-belousov-zhabotinsky.html	Simulating Belousov-Zhabotinsky Reaction in Houdini			20160821	0		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/using-swifts-enums-for-quick-actions-a08c0f6d5b8b	Using Swift’s Enums for Quick Actions			20160821	0		0	0
+advanced	http://nshint.io/blog/2016/08/21/optional-protocol-methods-without-@objc/	Optional protocol methods without @objc			20160821	0		0	0
+advanced	http://www.thomashanning.com/xcode-treat-warnings-as-errors/	Xcode: Treat Warnings As Errors	xcode		20160822	0		0	0
+advanced	https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started	CloudKit Tutorial: Getting Started			20160822	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/08/23/result-types-part-two.html	Values and errors, part 2: eight languages compared			20160822	0		0	0
+advanced	http://christiantietze.de/posts/2016/08/assertions-kill-swift/	Assertions in Swift Kill Your Code	testing		20160822	0		0	0
+advanced	https://makeapppie.com/2016/08/22/accessing-the-digital-crown-in-watchos/	Accessing the Digital Crown in WatchOS	WatchKit		20160822	0		0	0
+advanced	http://ericasadun.com/2016/08/22/swift-nostalgia-letting-go-doesnt-mean-saying-goodbye/	Swift Nostalgia: Letting go doesn’t mean saying goodbye			20160822	0		0	0
+advanced	http://oleb.net/blog/2016/08/measurements-and-units-with-phantom-types/	Measurements and Units with Phantom Types			20160822	0		0	0
+advanced	https://www.raywenderlich.com/135551/cloudkit-js-tutorial	CloudKit JS Tutorial for iOS			20160823	0		0	0
+advanced	http://ericasadun.com/2016/08/23/how-do-you-beautify-guard-else-conditions/	How do you beautify guard-else conditions?			20160823	0		0	0
+advanced	https://www.raywenderlich.com/141982/ios-10-screencast-custom-units	iOS 10 Screencast: Custom Units			20160823	1		0	0
+advanced	http://ericasadun.com/2016/08/24/a-quicky-bezier-shapes/	A quicky: Bezier shapes			20160824	0		0	0
+advanced	http://www.thomashanning.com/concurrent-code-in-playgrounds/	Concurrent Code In Playgrounds	playground		20160825	0		0	0
+advanced	https://www.raywenderlich.com/139821/swift-algorithm-club-swift-binary-search-tree-data-structure	Swift Algorithm Club: Swift Binary Search Tree Data Structure			20160826	0		0	0
+advanced	https://www.raywenderlich.com/142218/ios-10-screencast-creating-xcode-8-extension	iOS 10 Screencast: Creating an Xcode 8 Extension			20160826	1		0	0
+advanced	https://www.raywenderlich.com/142370/screencast-creating-cocoapod	Screencast: Creating a CocoaPod			20160826	1		0	0
+advanced	https://medium.com/the-traveled-ios-developers-guide/swift-consuming-transforming-arrays-35ea27580c04	Swift + Consuming & Transforming Arrays			20160827	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/08/melting-geometry-in-houdini.html	Melting Geometry in Houdini			20160827	0		0	0
+advanced	http://swiftdeveloperblog.com/uitableviewrowaction-example-in-swift/	UITableViewRowAction Example in Swift			20160828	0		0	0
+advanced	http://www.thomashanning.com/wwdc-2016-the-7-best-talks/	WWDC 2016: The 7 Best Talks			20160829	0		0	0
+advanced	http://www.appcoda.com/calayer-introduction/	A Beginner’s Guide to CALayer	CALayer		20160829	0		0	0
+advanced	http://www.raizlabs.com/dev/2016/08/ib-free-living-without-interface-builder/	IB Free: Living Without Interface Builder and Loving It			20160829	0		0	0
+advanced	https://makeapppie.com/2016/08/29/make-a-watch-os-haptic-catalog-with-a-picker/	Make a Watch OS Haptic Catalog with a Picker	WatchKit		20160829	0		0	0
+advanced	https://www.raywenderlich.com/136692/introduction-google-cardboard-ios	Introduction to Google Cardboard for iOS			20160829	0		0	0
+advanced	http://ericasadun.com/2016/08/29/transformative-streams/	Transformative Streams			20160829	0		0	0
+advanced	http://mhorga.org/2016/08/30/the-model-i-o-framework.html	The Model I/O framework	mac		20160829	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-5-user-notifications	iOS 10 Day by Day :: Day 5 :: User Notifications			20160830	0		0	0
+advanced	https://www.invasivecode.com/weblog/interactive-animation-view-ios-10/?doing_wp_cron=1472697795.3222439289093017578125	Interactive View Animations in iOS 10			20160830	0		0	0
+advanced	https://www.raywenderlich.com/142590/ios-10-screencast-introducing-dateinterval	iOS 10 Screencast: Introducing DateInterval			20160830	1		0	0
+advanced	http://ericasadun.com/2016/08/30/optional-equality/	Optional Equality			20160830	0		0	0
+advanced	http://oleb.net/blog/2016/08/swift-3-strings/	Strings in Swift 3			20160831	0		0	0
