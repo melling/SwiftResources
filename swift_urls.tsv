@@ -5305,4 +5305,12 @@ advanced	https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/	#23 Not
 advanced	https://buildingvts.com/a-mostly-comprehensive-list-of-swift-3-0-and-2-3-changes-193b904bb5b1	A (mostly) comprehensive list of Swift 3.0 and 2.3 changes			20160831	0		0	0
 advanced	https://github.com/arvindhsukumar/PredicateEditor	A GUI for dynamically creating NSPredicates at runtime to query data in your iOS app.			20160903	0		0	0
 advanced	https://stfalcon.com/en/blog/post/animation-in-ios	Animation in iOS: native solutions and third-party frameworks			20160907	0		0	0
-advanced	https://github.com/ykyouhei/SwiftyConfiguration	Modern Swift API for Plist.			20160907	0		0	0
+advanced	https://github.com/ykyouhei/SwiftyConfiguration	Modern Swift API for Plist.	plists		20160907	0		0	0
+advanced	https://swiftunboxed.com/lang/closures-escaping-noescape-swift3/	Escaping and Nonescaping Closures in Swift 3	closures		20160908	0		0	0
+advanced	https://medium.com/@cocotutch/swift-custom-fonts-slightly-less-awful-f235e20027f3	Swift: Custom Fonts. Slightly Less Awful	fonts		20160903	0		0	0
+libs	https://github.com/gkye/ComplimentaryGradientView	Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js			20160903	0		0	0
+libs	https://github.com/thomaspaulmann/EmojiTimeFormatter	Format your dates/times as emojis			20160903	0		0	0
+libs	https://github.com/SwiftKickMobile/SwiftMessages	A very flexible message bar for iOS			20160903	0		0	0
+libs	https://github.com/exyte/ReadabilityKit	Preview extractor for news, articles and full-texts			20160903	0		0	0
+libs	https://github.com/andresinaka/SnapTimer	Implementation of Snapchat's stories timer			20160903	0		0	0
+libs	https://github.com/Yalantis/Segmentio	Animated top/bottom segmented control			20160903	0		0	0
