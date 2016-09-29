@@ -5314,3 +5314,45 @@ libs	https://github.com/SwiftKickMobile/SwiftMessages	A very flexible message ba
 libs	https://github.com/exyte/ReadabilityKit	Preview extractor for news, articles and full-texts			20160903	0		0	0
 libs	https://github.com/andresinaka/SnapTimer	Implementation of Snapchat's stories timer			20160903	0		0	0
 libs	https://github.com/Yalantis/Segmentio	Animated top/bottom segmented control			20160903	0		0	0
+advanced	http://swiftdeveloperblog.com/xcode-code-snippets-library-creating-and-customizing-xcode-snippets/	Xcode Code Snippets Library. Creating and Customizing Xcode Snippets.	Xcode		20160918	0		0	0
+advanced	http://www.thomashanning.com/embedding-whole-screen-into-uiscrollview/	Embedding a Whole Screen Into a UIScrollView Subsequently			20160918	0		0	0
+advanced	http://useyourloaf.com/blog/openurl-deprecated-in-ios10/	openURL Deprecated in iOS10			20160919	0		0	0
+advanced	https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2	Firebase Tutorial: Getting Started			20160919	0		0	0
+advanced	http://christiantietze.de/posts/2016/09/nslocale-uikit-availability-broken/	Swift 2.3 NSLocale UIKit API Changes Break iOS 8 Compatibility			20160919	0		0	0
+advanced	http://ericasadun.com/2016/09/19/my-terrible-no-good-horrible-updating-day/	My terrible no good horrible updating day			20160919	0		0	0
+advanced	https://www.natashatherobot.com/swift-3-0-refactoring-cues/	Swift 3.0 Refactoring Cues			20160920	0		0	0
+advanced	http://ashishkakkad.com/2016/09/steps-to-use-legacy-swift-in-xcode-8/	Steps to use Legacy Swift in Xcode 8			20160921	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/09/22/deque.html	Optimizing a copy-on-write double-ended queue in Swift			20160921	0		0	0
+advanced	http://www.russbishop.net/command-line-swift	Command Line Swift			20160921	0		0	0
+advanced	http://swiftdeveloperblog.com/email-address-validation-in-swift/	Email Address Validation in Swift			20160921	0		0	0
+advanced	https://www.bignerdranch.com/blog/what-use-are-swift-access-modifiers/	What Use are Swift Access Modifiers?			20160922	0		0	0
+advanced	https://www.raywenderlich.com/143000/ios-10-screencast-sirikit-resolution-confirmation	iOS 10 Screencast: SiriKit Resolution & Confirmation			20160922	0		0	0
+advanced	http://ericasadun.com/2016/09/22/style-how-would-you-fold-this/	Style: How would you fold this?			20160922	0		0	0
+advanced	http://inessential.com/2016/09/22/memory_graph_debugger_tips	Memory Graph Debugger Tips			20160922	0		0	0
+advanced	https://oleb.net/blog/2016/09/collection-associated-types/	What’s in a Collection			20160922	0		0	0
+advanced	https://makeapppie.com/2016/09/23/why-do-we-need-delegates-in-ios-and-watchos/	Why do we need Delegates in iOS and WatchOS?			20160923	0		0	0
+advanced	https://www.raywenderlich.com/144083/swift-algorithm-club-swift-linked-list-data-structure	Swift Algorithm Club: Swift Linked List Data Structure			20160923	0		0	0
+advanced	https://www.invasivecode.com/weblog/network-reachability-in-swift/	Network Reachability in Swift			20160923	0		0	0
+advanced	http://ericasadun.com/2016/09/23/literal-oddities/	Literal Oddities			20160923	0		0	0
+advanced	http://mhorga.org/2016/09/24/using-metalkit-part-17.html	Using MetalKit part 17	metal		20160923	0		0	0
+advanced	https://swiftyos.wordpress.com/2016/09/24/radical-message-learn-to-add-sirikit-in-your-messages-app/	Radical Message – Learn to add SiriKit in your messages app			20160923	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/09/stripy-viscous-fluid-impacts-in-houdini.html	Stripy Viscous Fluid Impacts in Houdini			20160925	0		0	0
+advanced	http://christiantietze.de/posts/2016/09/magic-numbers/	Magic Numbers Represent Concepts			20160925	0		0	0
+advanced	http://theswiftdev.com/2016/09/25/linting-swift-code/	Linting swift code			20160925	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/09/simulating-mitosis-in-houdini.html	Simulating Mitosis in Houdini			20160925	0		0	0
+advanced	https://www.natashatherobot.com/creating-a-framework-for-both-ios-and-watchos/	Creating a Framework for both iOS and watchOS			20160926	0		0	0
+advanced	https://makeapppie.com/2016/09/26/what-do-you-do-with-any/	What Do you do with Any?			20160926	0		0	0
+advanced	http://useyourloaf.com/blog/swift-3-access-controls/	Swift 3 Access Controls			20160926	0		0	0
+advanced	https://code.tutsplus.com/tutorials/an-introduction-to-the-usernotifications-framework--cms-27250	An Introduction to the UserNotifications Framework			20160926	0		0	0
+advanced	https://www.raywenderlich.com/136047/react-native-existing-app	React Native Tutorial: Integrating in an Existing App			20160926	0		0	0
+advanced	https://www.natashatherobot.com/how-to-reuse-paging-interfacecontrollers-in-watchos/	How to Reuse Paging Interface Controllers in watchOS	WatchKit		20160926	0		0	0
+advanced	http://masilotti.com/ui-testing-xcode-7/	UI Testing in Xcode 7	testing		20160926	0		0	0
+advanced	http://christiantietze.de/posts/2016/09/nslocale-availability-revisited/	Breaking NSLocale API Changes Revisited	NSLocale		20160927	0		0	0
+advanced	https://www.raywenderlich.com/145023/ios-10-screencast-collection-view-data-prefetching	iOS 10 Screencast: Collection View Data Prefetching	UICollectionView		20160927	1		0	0
+advanced	http://www.appcoda.com/cocoapods-making-guide/	The Complete Guide to Creating Your Own CocoaPods in Swift			20160928	0		0	0
+advanced	https://oleb.net/blog/2016/09/swift-option-sets/	Option Sets in Swift			20160928	0		0	0
+advanced	https://www.raywenderlich.com/145100/tvos-tutorial-using-tvml-templates	tvOS Tutorial: Using TVML Templates	AppleTV		20160928	0		0	0
+advanced	http://www.thomashanning.com/the-5-best-youtube-channels-for-ios-developers/	The 5 Best YouTube Channels For iOS Developers			20160928	0		0	0
+advanced	http://www.ioscreator.com/tutorials/change-color-status-bar-tutorial	Change the Color of the Status Bar Tutorial			20160929	0		0	0
+advanced	https://peterwitham.com/swift/basics/how-to-add-a-future-date-in-swift/	How to Calculate a Future Date in Swift	date		20160929	0		0	0
+advanced	https://www.raywenderlich.com/143215/ios-10-screencast-handling-interactions-sirikit	iOS 10 Screencast: Handling Interactions with SiriKit			20160929	1		0	0
