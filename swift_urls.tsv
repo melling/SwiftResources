@@ -5375,3 +5375,26 @@ advanced	http://mhorga.org/2016/09/30/using-metalkit-part-2-3-2.html	Using Metal
 advanced	https://www.raywenderlich.com/145257/tvos-top-shelf-tutorial-static-interactive	tvOS Top Shelf Tutorial: Static and Interactive	AppleTV		20160930	0		0	0
 advanced	https://www.raywenderlich.com/138712/make-game-like-can-knockdown	How to Make a Game Like Can Knockdown	SpriteKit		20160930	0		0	0
 advanced	https://oleb.net/blog/2016/09/playground-print-hook/	_playgroundPrintHook	playground		20160930	0		0	0
+advanced	http://www.globalnerdy.com/2016/08/18/how-to-work-with-dates-and-times-in-swift-3-part-1-dates-calendars-and-datecomponents/	How to work with dates and times in Swift 3, part 1: Dates, Calendars, and DateComponents	date		20160818	0		0	0
+advanced	http://www.globalnerdy.com/2016/08/22/how-to-work-with-dates-and-times-in-swift-3-part-2-dateformatter/	How to work with dates and times in Swift 3, part 2: DateFormatter	date		20160822	0		0	0
+advanced	http://www.globalnerdy.com/2016/08/29/how-to-work-with-dates-and-times-in-swift-3-part-3-date-arithmetic/	How to work with dates and times in Swift 3, part 3: Date arithmetic	date		20160829	0		0	0
+advanced	http://www.globalnerdy.com/2016/08/30/how-to-work-with-dates-and-times-in-swift-3-part-4-adding-swift-syntactic-magic/	How to work with dates and times in Swift 3, part 4: Adding Swift syntactic magic	date		20160830	0		0	0
+advanced	http://ericasadun.com/2016/10/04/responding-to-bad-errors-with-bug-reporting/	Responding to bad errors with bug reporting			20161004	0		0	0
+advanced	https://www.bignerdranch.com/blog/prefer-bare-enum-tags-when-thats-all-you-need/	Prefer Bare Enum Tags When That's All You Need	enum		20161005	0		0	0
+advanced	https://www.bignerdranch.com/blog/cleaning-up-messy-chaining-in-swift/	Video: Cleaning Up Messy Chaining in Swift	video		20161005	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-8-speech	iOS 10 Day by Day :: Day 8 :: Speech			20161005	0		0	0
+advanced	https://www.raywenderlich.com/143433/watchos-3-tutorial-part-3-animation	watchOS 3 Tutorial Part 3: Animation	WatchKit		20161005	0		0	0
+advanced	https://www.raywenderlich.com/141297/cocoa-bindings-macos	Cocoa Bindings on macOS	mac		20161005	0		0	0
+advanced	http://ericasadun.com/2016/10/05/fixed-floating-point-strides/	Fixed floating point strides			20161005	0		0	0
+advanced	http://www.ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial-ios10	Drawing Shapes with Core Graphics Tutorial	CoreGraphics		20161006	0		0	0
+advanced	https://www.raywenderlich.com/143220/ios-10-screencast-creating-sirikit-ui-extension	iOS 10 Screencast: Creating a SiriKit UI Extension	SiriKit		20161006	0		0	0
+advanced	http://ericasadun.com/2016/10/02/iterating-through-the-product-of-two-sequences/	Iterating through the product of two sequences			20161002	0		0	0
+advanced	http://www.thomashanning.com/xcode-8-mixing-auto-autoresizing-masks/	Xcode 8: Mixing Auto Layout and Autoresizing Masks	AutoLayout		20161002	0		0	0
+advanced	https://makeapppie.com/2016/10/03/introducing-table-views-in-swift-3/	Introducing Table Views in Swift 3			20161003	0		0	0
+advanced	http://useyourloaf.com/blog/split-view-controller-display-modes/	Split View Controller Display Modes			20161003	0		0	0
+advanced	https://www.raywenderlich.com/136010/carekit-tutorial-for-ios-part-1	CareKit Tutorial for iOS: Part 1	CareKit		20161003	0		0	0
+advanced	https://www.raywenderlich.com/136496/carekit-tutorial-for-ios-part-2		CareKit		20161003	0		0	0
+advanced	http://www.appcoda.com/ios10-user-notifications-guide/	Introduction to User Notifications Framework in iOS 10			20161004	0		0	0
+advanced	https://www.raywenderlich.com/143431/watchos-3-tutorial-part-1-getting-started	watchOS 3 Tutorial Part 1: Getting Started	WatchKit		20161004	0		0	0
+advanced	https://www.raywenderlich.com/143432/watchos-3-tutorial-part-2-tables	watchOS 3 Tutorial Part 2: Tables	WatchKit		20161004	0		0	0
+advanced	https://www.raywenderlich.com/145809/getting-started-core-data-tutorial	Getting Started with Core Data Tutorial	CoreData		20161006	0		0	0
