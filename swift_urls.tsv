@@ -5398,3 +5398,57 @@ advanced	http://www.appcoda.com/ios10-user-notifications-guide/	Introduction to 
 advanced	https://www.raywenderlich.com/143431/watchos-3-tutorial-part-1-getting-started	watchOS 3 Tutorial Part 1: Getting Started	WatchKit		20161004	0		0	0
 advanced	https://www.raywenderlich.com/143432/watchos-3-tutorial-part-2-tables	watchOS 3 Tutorial Part 2: Tables	WatchKit		20161004	0		0	0
 advanced	https://www.raywenderlich.com/145809/getting-started-core-data-tutorial	Getting Started with Core Data Tutorial	CoreData		20161006	0		0	0
+advanced	https://www.raywenderlich.com/145036/ios-10-screencast-introducing-uipreviewinteraction	iOS 10 Screencast: Introducing UIPreviewInteraction			20161004	0		0	0
+advanced	http://www.raizlabs.com/dev/2016/10/swift-2-x-3-0-compatibility/	Writing Libraries for Swift 2.x and 3.0 Compatibility			20161004	0		0	0
+advanced	http://www.ioscreator.com/tutorials/tab-bar-customisation-tutorial-ios10	Tab Bar Customisation Tutorial	TabBar		20161007	0		0	0
+advanced	https://www.bignerdranch.com/blog/constraintlayout-vs-auto-layout-how-do-they-compare/	ConstraintLayout vs Auto Layout: How Do They Compare?	AutoLayout		20161007	0		0	0
+advanced	https://www.raywenderlich.com/145860/core-data-migrations-tutorial-lightweight-migrations-2	Lightweight Migrations in Core Data Tutorial	CoreData		20161007	0		0	0
+advanced	https://www.raywenderlich.com/145877/core-data-tutorial-multiple-managed-object-contexts-2	Multiple Managed Object Contexts with Core Data Tutorial	CoreData		20161007	0		0	0
+advanced	http://ericasadun.com/2016/10/07/converting-optionals-to-thrown-errors/	Converting optionals to thrown errors			20161007	0		0	0
+advanced	http://ericasadun.com/2016/10/08/how-do-i-cast-an-optional-string-to-nsstring/	How do I: Cast an optional string to NSString			20161009	0		0	0
+advanced	http://useyourloaf.com/blog/updating-strings-for-swift-3/	Updating Strings for Swift 3	string		20161010	0		0	0
+advanced	https://makeapppie.com/2016/10/10/using-tableviews-in-subviews/	Using Tableviews in Subviews	UITableView		20161010	0		0	0
+advanced	https://www.raywenderlich.com/139277/uipresentationcontroller-tutorial-getting-started	UIPresentationController Tutorial: Getting Started	UIPresentationController		20161010	0		0	0
+advanced	https://oleb.net/blog/2016/10/optional-non-escaping-closures/	Optional Non-Escaping Closures	closures		20161010	0		0	0
+advanced	http://www.ioscreator.com/tutorials/local-notification-tutorial-ios10	Local Notification Tutorial			20161011	0		0	0
+advanced	https://www.raywenderlich.com/145318/spritekit-swift-3-tutorial-beginners	SpriteKit Swift 3 Tutorial for Beginners	SpriteKit		20161011	0		0	0
+advanced	https://www.raywenderlich.com/146122/intermediate-swift-3-course-now-available	Intermediate Swift 3 Course Now Available			20161011	1		0	0
+advanced	https://www.raywenderlich.com/146137/ios-10-screencast-taking-photos	iOS 10 Screencast: Taking Photos			20161011	1		0	0
+advanced	https://code.tutsplus.com/tutorials/create-a-parse-app-as-backend-for-ios-on-back4app--cms-27206	Host a Parse SDK Backend for Your iOS App on back{4}app			20161011	0		0	0
+advanced	http://www.appcoda.com/fmdb-sqlite-database/	Working with SQLite Databases in iOS with FMDB Library	fmdb		20161011	0		0	0
+advanced	https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-9-sirikit-intents	iOS 10 Day by Day :: Day 9 :: SiriKit Intents	SiriKit		20161012	0		0	0
+advanced	https://www.raywenderlich.com/146175/scene-kit-tutorial-swift-part-1-getting-started	Scene Kit Tutorial with Swift Part 1: Getting Started	SceneKit		20161012	0		0	0
+advanced	https://www.raywenderlich.com/139077/availability-attributes-swift	Availability Attributes in Swift			20161012	0		0	0
+advanced	https://www.raywenderlich.com/146176/scene-kit-tutorial-swift-part-2-nodes-2	Scene Kit Tutorial with Swift Part 2: Nodes	SceneKit		20161013	0		0	0
+advanced	https://oleb.net/blog/2016/10/generic-range-algorithms/	Generic Range Algorithms			20161013	0		0	0
+advanced	http://www.youtube.com/watch?v=mncFy1H7OUM	How To Make an App - Ep 1 - Introduction (Xcode 8, Swift 3, iOS 10)	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=HNMqPZoZezI	How To Make an App - Ep 2 - Playgrounds and Swift	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=htGBvkn0tN0	How To Make an App - Ep 3 - Xcode 8 Tutorial	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=DRTwrOhxnQk	How To Make an App - Ep 4 - App Anatomy	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=hhmmeVduIOc	How To Make an App - Ep 5 - Your First App	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=5So69J1xeCI	How To Make an App - Ep 6 - Auto Layout and Size Classes	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=2KyzuLC-w-8	How To Make an App - Ep 7 - Stack Views	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=gjkMVnlIcNE	How To Make an App - Ep 8 - Completing the User Interface	CodeWithChris:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=_AnarTyKJHE	How To Make an App - Ep 9 - Building Blocks of Swift Programming	CodeWithChris:video		20161008	0		0	0
+advanced	http://www.youtube.com/watch?v=wD_qb6ZGVHs	How To Make an App - Ep 10 - More Swift and UIKit	CodeWithChris:video		20161010	0		0	0
+advanced	http://www.youtube.com/watch?v=0AXfr6XArDE	How To Make an App - Ep 11 - Swift IBOutlet Properties	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=8KVkGBbpAvA	How To Make an App - Ep 12 - Methods and Button Taps	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=WlgEb8iJZy4	How To Make an App - Ep 13 - Image Asset Library in Xcode 8	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=a_s47MEMtqs	How To Make an App - Ep 14 - Randomizing the cards	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=HEvqiHdPG50	How To Make an App - Ep 15 - Using Arrays in Swift 3	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=Ddruyn_k_w4	How To Make an App - Ep 16 - Using IF statements in Swift 3	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=IyZxQDryMwY	How To Make an App - Ep 17 - Keeping Score	CodeWithChris:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=62ghv7kS3mQ	Firebase Anonymous Login in Swift - Xcode 8 iOS 10	VeaSoftware:video		20161006	0		0	0
+advanced	http://www.youtube.com/watch?v=4zIxgEnEako	Creating Sticker and iMessage Apps in iOS 10 Using Swift 3.0	AzamSharp:video		20161009	0		0	0
+advanced	http://www.youtube.com/watch?v=EsSLKyswZn4	Face Detection in Swift - Xcode 8 iOS 10	VeaSoftware:video		20161010	0		0	0
+advanced	http://www.youtube.com/watch?v=noR_LNbqgLQ	If Statements! (Swift Basics : Swift 3 in Xcode 8)	JaredDavidson:video		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=s8g_AKmE7kU	Image Filters in Swift - Xcode 8 iOS 10	VeaSoftware:video:ImageFilters		20161011	0		0	0
+advanced	http://www.youtube.com/watch?v=LdL99CH23E8	Let's Make Pong! (Swift 3 in Xcode : SpriteKit)	JaredDavidson:video:SpriteKit		20161012	0		0	0
+advanced	http://www.youtube.com/watch?v=dqad3XuMwHI	Playing Audio + Background Play! (Swift 3 in Xcode)	JaredDavidson:video		20161013	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/02/25/table-view-completed-part-6-of-6/	Table View – Completed (Part 6 of 6)	UITableView		20160225	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/09/26/zork-intro/	Zork – Intro			20160926	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/10/03/zork-game-screen/	Zork – Game Screen			20161003	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/10/10/zork-data-manager/	Zork – Data Manager			20161010	0		0	0
+advanced	http://www.globalnerdy.com/2016/09/05/swift-3-text-field-magic-part-1-creating-text-fields-with-maximum-lengths/	Swift 3 text field magic, part 1: Creating text fields with maximum lengths [Updated]			20160905	0		0	0
+advanced	http://www.globalnerdy.com/2016/09/12/swift-3-text-field-magic-part-2-creating-text-fields-that-accept-only-a-specific-set-of-characters/	Swift 3 text field magic, part 2: Creating text fields that accept only a specific set of characters			20160912	0		0	0
+advanced	http://www.globalnerdy.com/2016/10/09/swift-3-text-field-magic-part-3-creating-text-fields-that-ban-a-specific-set-of-characters/	Swift 3 text field magic, part 3: Creating text fields that ban a specific set of characters			20161009	0		0	0
