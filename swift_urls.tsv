@@ -5452,3 +5452,114 @@ advanced	https://theliquidfire.wordpress.com/2016/10/10/zork-data-manager/	Zork 
 advanced	http://www.globalnerdy.com/2016/09/05/swift-3-text-field-magic-part-1-creating-text-fields-with-maximum-lengths/	Swift 3 text field magic, part 1: Creating text fields with maximum lengths [Updated]			20160905	0		0	0
 advanced	http://www.globalnerdy.com/2016/09/12/swift-3-text-field-magic-part-2-creating-text-fields-that-accept-only-a-specific-set-of-characters/	Swift 3 text field magic, part 2: Creating text fields that accept only a specific set of characters			20160912	0		0	0
 advanced	http://www.globalnerdy.com/2016/10/09/swift-3-text-field-magic-part-3-creating-text-fields-that-ban-a-specific-set-of-characters/	Swift 3 text field magic, part 3: Creating text fields that ban a specific set of characters			20161009	0		0	0
+advanced	http://www.cocoawithlove.com/blog/2016/09/14/updating-cocoawithlove.html	Updating Cocoa with Love for Swift 3			20160914	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/09/22/deque.html	Optimizing a copy-on-write double-ended queue in Swift			20160921	0		0	0
+advanced	https://www.raywenderlich.com/145894/ios-10-screencast-providing-haptic-feedback	iOS 10 Screencast: Providing Haptic Feedback			20161013	0		0	0
+advanced	https://www.cocoawithlove.com/blog/specifying-execution-contexts.html	Specifying function execution contexts			20161014	0		0	0
+advanced	https://www.raywenderlich.com/146177/scene-kit-tutorial-swift-part-3-physics-2	Scene Kit Tutorial with Swift Part 3: Physics			20161014	0		0	0
+advanced	https://www.raywenderlich.com/138939/getting-started-mobile-analytics	Getting Started with Mobile Analytics			20161014	0		0	0
+advanced	http://ctarda.com/2016/10/my-take-on-ios-app-architecture/	My take on iOS app architecture			20161015	0		0	0
+advanced	http://www.figure.ink/blog/2016/10/15/testing-userdefaults	Testing UserDefaults			20161015	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/10/creating-geometric-structure-from.html	Creating a Geometric Structure from Mitosis			20161016	0		0	0
+advanced	http://www.mav3r1ck.io/parsing-json-data-with-swift-3/	Parsing JSON data with Swift 3	json		20161016	0		0	0
+advanced	http://ericasadun.com/2016/10/16/the-joys-of-ios-10-uikit-drawing/	The Joys of iOS 10 UIKit Drawing			20161016	0		0	0
+advanced	https://makeapppie.com/2016/10/17/custom-table-view-cells-in-swift-3/	Custom Table View Cells in Swift 3			20161017	0		0	0
+advanced	http://ctarda.com/2016/10/replacing-type-code-with-polymorphism/	Replacing Type Code with Polymorphism			20161017	0		0	0
+advanced	https://www.raywenderlich.com/146178/scene-kit-tutorial-swift-part-4-render-loop-2	Scene Kit Tutorial with Swift Part 4: Render Loop			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/09/14/updating-cocoawithlove.html	Updating Cocoa with Love for Swift 3			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/08/23/result-types-part-two.html	Values and errors, part 2: eight languages compared			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/08/21/result-types-part-one.html	Values and errors, part 1: 'Result' in Swift			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/07/30/timer-problems.html	Design patterns for safe timer usage			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html	Exponential time complexity in the Swift type checker			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/06/25/policing-whitespace.html	Parsing whitespace in an Xcode extension			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/05/19/random-numbers.html	Random number generators in Swift			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html	Mutexes and closure capture in Swift			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html	Comparing Swift to C++ for parsing			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/04/14/error-recovery-attempter.html	Presenting unanticipated errors to users			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/04/01/neither-tabs-nor-spaces.html	Indent with tabs or spaces? I wish I didn't need to know.			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/03/27/on-delete.html	Breaking Swift with reference counted structs			20161017	0		0	0
+advanced	https://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html	Errors: unexpected, composite, non-pure, external.			20161017	0		0	0
+advanced	https://www.raywenderlich.com/146179/scene-kit-tutorial-swift-part-5-particle-systems-2	Scene Kit Tutorial with Swift Part 5: Particle Systems			20161017	0		0	0
+advanced	https://code.tutsplus.com/tutorials/ios-10-creating-custom-notification-interfaces--cms-27251	iOS 10: Creating Custom Notification Interfaces			20161017	0		0	0
+advanced	https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa	Getting Started With RxSwift and RxCocoa			20161017	0		0	0
+advanced	https://code.tutsplus.com/tutorials/rapid-interactive-prototyping-with-xcode-playgrounds--cms-26637	Rapid, Interactive Prototyping With Xcode Playgrounds			20161017	0		0	0
+advanced	https://code.tutsplus.com/articles/whats-new-in-xcode-8--cms-26799	What's New in Xcode 8			20161018	0		0	0
+advanced	http://www.ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10	Draw Gradients with Core Graphics Tutorial			20161018	0		0	0
+advanced	https://code.tutsplus.com/articles/what-to-expect-from-swift-3--cms-26818	What to Expect From Swift 3			20161018	0		0	0
+advanced	http://www.ioscreator.com/tutorials/segmented-control-tutorial-ios10	Segmented Control Tutorial			20161018	0		0	0
+advanced	http://ashishkakkad.com/2016/10/refined-api-naming-migrating-to-swift-3/	Refined API Naming : Migrating to Swift 3!			20161018	0		0	0
+advanced	https://www.raywenderlich.com/146429/screencast-server-side-swift-vapor-getting-started	Screencast: Server Side Swift with Vapor: Getting Started			20161018	0		0	0
+advanced	https://code.tutsplus.com/tutorials/whats-new-in-watchos-3--cms-26943	What's New in watchOS 3?			20161019	0		0	0
+advanced	https://code.tutsplus.com/tutorials/how-to-create-an-xcode-source-editor-extension--cms-26772	How to Create an Xcode Source Editor Extension			20161019	0		0	0
+advanced	http://ericasadun.com/2016/10/19/holy-war-unswifty-procedural-vs-swifty-functional/	Holy war: Unswifty Procedural vs Swifty Functional	functional		20161019	0		0	0
+advanced	https://code.tutsplus.com/tutorials/create-an-imessage-app-in-ios-10--cms-26870	Create an iMessage App in iOS 10			20161019	0		0	0
+advanced	http://www.appcoda.com/automated-ui-test/	A Beginner’s Guide to Automated UI Testing in iOS	testing		20161019	0		0	0
+advanced	https://code.tutsplus.com/tutorials/whats-new-in-watchos-3-background-tasks--cms-27126	What's New in watchOS 3: Background Tasks			20161019	0		0	0
+advanced	https://code.tutsplus.com/articles/kickstart-your-ios-career-with-these-courses--cms-26879	Kickstart Your iOS Career With These 4 Courses			20161019	0		0	0
+advanced	http://masilotti.com/ui-testing-tdd/	Three Ways UI Testing Just Made Test-Driven Development Even Better			20161020	0		0	0
+advanced	https://www.raywenderlich.com/146603/ios-animation-tutorial-getting-started-2	iOS Animation Tutorial: Getting Started			20161020	0		0	0
+advanced	http://ericasadun.com/2016/10/20/which-code-style-reigned-supreme-unswifty-procedural-vs-swifty-functional-results/	Which code style reigned supreme? Unswifty Procedural vs Swifty Functional Results			20161020	0		0	0
+advanced	https://www.raywenderlich.com/146271/ios-10-screencast-capturing-photo-thumbnails	iOS 10 Screencast: Capturing Photo Thumbnails			20161020	0		0	0
+advanced	https://www.raywenderlich.com/139410/swift-algorithm-club-swift-trie-data-structure	Swift Algorithm Club: Swift Trie Data Structure			20161021	0		0	0
+advanced	https://www.raywenderlich.com/146692/ios-animation-tutorial-custom-view-controller-presentation-transitions-2	iOS Animation Tutorial: Custom View Controller Presentation Transitions			20161021	0		0	0
+advanced	http://ericasadun.com/2016/10/21/this-one-weird-trick-for-drawing-dashes/	This one weird trick for drawing dashes			20161021	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/10/more-chaos-in-houdini-simulating-double.html	More Chaos in Houdini: Simulating a Double Pendulum			20161022	0		0	0
+advanced	https://www.weheartswift.com/started-testing-swift-sandbox/	We started testing our Swift Sandbox!			20161023	0		0	0
+advanced	http://sketchytech.blogspot.com/2016/10/turn-and-face-strange-using-c-function.html	Turn and face the strange: Using a C function to merge (or stable) sort in Swift (Swift 3, Xcode 8)			20161023	0		0	0
+advanced	http://ericasadun.com/2016/10/23/animating-letters-into-place/	Animating letters into place			20161023	0		0	0
+advanced	https://makeapppie.com/2016/10/24/swift-ipad-playgroundsnot-just-a-cool-toy/	Swift iPad Playgrounds:Not Just A Cool Toy			20161024	0		0	0
+advanced	https://www.bignerdranch.com/blog/a-rubyists-perspective-on-testing-in-swift/	A Rubyist's Perspective on Testing in Swift			20161024	0		0	0
+advanced	https://www.raywenderlich.com/143128/background-modes-tutorial-getting-started	Background Modes Tutorial: Getting Started			20161024	0		0	0
+advanced	http://useyourloaf.com/blog/enum-raw-values-and-failable-initializers/	Enum Raw Values and Failable Initializers			20161024	0		0	0
+advanced	http://mhorga.org/2016/10/25/the-metalkit-org-website-is-up-and-running.html	The metalkit.org website is up and running	metal		20161024	0		0	0
+advanced	https://www.cocoawithlove.com/blog/testing-actions-over-time.html	Testing actions over time			20161025	0		0	0
+advanced	https://www.raywenderlich.com/146772/screencast-server-side-swift-vapor-templating-leaf	Screencast: Server Side Swift with Vapor: Templating with Leaf	vapor		20161025	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/10/chaotic-magnetic-pendulum-with-custom.html	Chaotic Magnetic Pendulum with Custom Radial Forces in Houdini			20161027	0		0	0
+advanced	https://www.raywenderlich.com/146274/ios-10-screencast-capturing-live-photos	iOS 10 Screencast: Capturing Live Photos			20161027	0		0	0
+advanced	http://christiantietze.de/posts/2016/10/nstreecontroller-children/	Resolving NSTreeController's "Ambiguous use of 'children'" in Swift 3			20161027	0		0	0
+advanced	https://oleb.net/blog/2016/10/swift-array-of-c-strings/	Passing an Array of Strings from Swift to C			20161027	0		0	0
+advanced	http://ericasadun.com/2016/10/27/concatenate-got-your-tongue/	Concatenate got your tongue?			20161027	0		0	0
+advanced	https://www.raywenderlich.com/143258/make-waiting-game-like-farmville-spritekit-swift	How to Make a Waiting Game Like Farmville with SpriteKit and Swift	SpriteKit		20161028	0		0	0
+advanced	http://ericasadun.com/2016/10/28/cgaffinetransform-constructors-and-transformers/	CGAffineTransform constructors and transformers			20161028	0		0	0
+advanced	https://oleb.net/blog/2016/10/swift-stdlib-source/	How to Read the Swift Standard Library Source			20161028	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/10/simulating-accretion-with-houdinis.html	Simulating Accretion with Houdini's Grains Solver			20161030	0		0	0
+advanced	http://theswiftdev.com/2016/10/30/macbook-pro-touch-bar-runner-game-tutorial/	MacBook Pro touch bar runner game tutorial			20161030	0		0	0
+advanced	http://www.ioscreator.com/tutorials/stopwatch-tutorial	StopWatch Tutorial			20161031	0		0	0
+advanced	http://useyourloaf.com/blog/local-notifications-with-ios-10/	Local Notifications with iOS 10			20161031	0		0	0
+advanced	https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2	Firebase Tutorial: Real-time Chat			20161031	0		0	0
+advanced	https://www.raywenderlich.com/146854/swift-algorithm-club-october-digest	Swift Algorithm Club: October Digest			20161031	0		0	0
+advanced	http://blog.scottlogic.com/2016/11/01/go-particle-simulation.html	Creating a Simple Particle Simulation with Go by William Ferguson			20161031	0		0	0
+advanced	https://medium.com/swift-programming/swift-userdefaults-protocol-4cae08abbf92?source=rss----5396e0e8bc29---4	Swift: UserDefaults protocol			20161101	0		0	0
+advanced	https://www.raywenderlich.com/146981/screencast-server-side-swift-vapor-configuring-database	Screencast: Server Side Swift with Vapor: Configuring a Database	vapor		20161101	0		0	0
+advanced	http://www.appcoda.com/barcode-reader-swift/	Building a Barcode and QR Code Reader in Swift 3 and Xcode 8			20161102	0		0	0
+advanced	https://www.raywenderlich.com/147118/use-nstouchbar-macos	How to Use NSTouchBar on macOS	mac		20161102	0		0	0
+advanced	http://khanlou.com/2016/10/emptiness/	Emptiness			20161102	0		0	0
+advanced	https://code.tutsplus.com/tutorials/upgrade-your-app-to-ios-10--cms-27535	Upgrade Your App to iOS 10			20161103	0		0	0
+advanced	https://www.raywenderlich.com/146277/ios-10-screencast-editing-live-photos	iOS 10 Screencast: Editing Live Photos			20161103	0		0	0
+advanced	https://www.weheartswift.com/swift-introduction-algorithms-part-1/	A Swift Introduction to Algorithms – Part 1			20161103	0		0	0
+advanced	https://www.raywenderlich.com/147291/27-free-ios-tutorials-now-updated-for-swift-3	27 Free iOS Tutorials Now Updated For Swift 3			20161103	0		0	0
+advanced	http://ericasadun.com/2016/11/03/swift-holy-war-comments-are-not-an-anti-pattern/	Swift Holy War: Comments are not an Anti-pattern			20161103	0		0	0
+advanced	https://medium.com/swift-programming/learn-how-to-build-an-imessage-app-with-swift-7b106ce9b033?source=rss----5396e0e8bc29---4	Learn How to Build an iMessage App with Swift			20161104	0		0	0
+advanced	https://makeapppie.com/2016/11/04/practical-autolayout-for-xcode-8/	Practical Autolayout For Xcode 8	AutoLayout		20161104	0		0	0
+advanced	http://www.youtube.com/watch?v=ZRIZNlIUzhA	For, While, & Repeat Loops! (Swift 3 in Xcode)	JaredDavidson:video		20161014	0		0	0
+advanced	http://www.youtube.com/watch?v=qO2uhK3uP8s	#103 Creating Sticker Pack App Using Swift 3.0	AzamSharp:video		20161017	0		0	0
+advanced	http://www.youtube.com/watch?v=tblk51B7tO0	#104 Creating RSVP iMessages App in iOS 10 Using Swift 3 Part 1	AzamSharp:video		20161017	0		0	0
+advanced	http://www.youtube.com/watch?v=uwsrOQuA3gg	#105 Creating RSVP iMessages App in iOS 10 Using Swift 3.0 Part 2			20161018	0		0	0
+advanced	http://www.youtube.com/watch?v=7M0VYy2jkEU	Let's Make Pong! (Pt. 2 : Swift 3 in Xcode : SpriteKit)	JaredDavidson:video		20161018	0		0	0
+advanced	http://www.youtube.com/watch?v=z1R3vyRqods	# 106 Creating RSVP iMessages App in iOS 10 Using Swift 3.0	AzamSharp:video		20161019	0		0	0
+advanced	http://www.youtube.com/watch?v=aCARkDqzBaM	Switch Cases! (Swift 3 in Xcode)	JaredDavidson:video		20161019	0		0	0
+advanced	http://www.youtube.com/watch?v=APNcacmGegM	Let's Make 4 Pics 1 Word! (Pt. 1 : Swift 3 in Xcode)	JaredDavidson:video		20161021	0		0	0
+advanced	http://www.youtube.com/watch?v=iAtI7dvdhaM	Multiple Storyboards in Swift - Xcode 8 iOS 10	VeaSoftware:video		20161022	0		0	0
+advanced	http://www.youtube.com/watch?v=HAmGKZkKCJg	Using Alamofire to Parse JSON! (Part 2 : Swift 3 in Xcode 8)	JaredDavidson:video		20161028	0		0	0
+advanced	http://www.youtube.com/watch?v=AMQ4QxZRal0	Using Alamofire to Parse JSON! (Part 3 : Swift 3 in Xcode 8)	JaredDavidson:video		20161029	0		0	0
+advanced	http://www.youtube.com/watch?v=0zYnZycQCx8	Spotify Search! (Finale : Swift 3 in Xcode 8)	JaredDavidson:video		20161101	0		0	0
+advanced	http://www.youtube.com/watch?v=MvDbDOsiCII	#107 Server Side Swift Using Vapor - Part 1	AzamSharp:video:vapor		20161102	0		0	0
+advanced	http://www.youtube.com/watch?v=MKFfz2YObuY	Let Make Pong! (Part 3 : Swift 3 in Xcode : SpriteKit)	JaredDavidson:video		20161102	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/10/17/zork-interpreter/	Zork – Interpreter			20161017	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/10/24/zork-targeting/	Zork – Targeting			20161024	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/10/31/zork-actions/	Zork – Actions			20161031	0		0	0
+advanced	http://codelle.com/blog/2016/10/overriding-the-ios-dynamic-type-font-family/	Overriding the iOS Dynamic Type font family			20161030	0		0	0
+advanced	http://blog.jtribe.com.au/just-keep-loading/	Just Keep Scrolling... Scrolling, Scrolling!			20161007	0		0	0
+advanced	http://www.iosinsight.com/swift-3-uitabbaritem-font/	Swift 3 UITabBarItem Font			20161011	0		0	0
+advanced	https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/	Unowned or Weak? Lifetime and Performance			20161026	0		0	0
+advanced	http://matthewfecher.com/app-developement/denver-swift-heads-presentation-swift-game-development-ios-osx-tvos/	Denver Swift Heads Presentation (Swift Game Development: iOS | OSX | tvOS)			20161024	0		0	0
