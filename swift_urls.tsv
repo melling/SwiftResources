@@ -3422,7 +3422,7 @@ advanced	http://www.codingexplorer.com/watch-connectivity-swift-application-cont
 advanced	http://blog.strv.com/tvos-weathervane	Developing a tvOS app - Weathervane	AppleTV		20160215	0		0	0
 advanced	http://engineering.postmates.com/Introducing-PMJSON	Introducing PMJSON, a Swift library for JSON encoding/decoding	json		20160212	0		0	0
 advanced	http://www.mokacoding.com/blog/why-hitting-the-network-is-bad-for-your-tests	Why hitting the network is bad for your test, and what to do about it	testing		20160215	0		0	0
-advanced	http://www.youtube.com/watch?v=TK6ojOulx80	How To Use Firebase (Swift, Xcode) - Ep 1 - Integrate Firebase SDK	fire base:video		20160215	0		0	0
+advanced	http://www.youtube.com/watch?v=TK6ojOulx80	How To Use Firebase (Swift, Xcode) - Ep 1 - Integrate Firebase SDK	firebase:video		20160215	0		0	0
 advanced	http://www.youtube.com/watch?v=TziN1O2x7pM	Game Center Leaderboards! (Swift 2 in Xcode)	GameCenter:video		20160215	0		0	0
 advanced	http://www.thedroidsonroids.com/blog/ios/whats-new-in-swift-2-2/	What’s new in Swift 2.2?			20160216	0		0	0
 advanced	https://medium.com/the-sup-app/bare-metal-working-with-metal-and-the-simulator-70e085e3a45	Bare Metal: Working with Metal and the Simulator	metal		20160216	0		0	0
@@ -4021,7 +4021,7 @@ libs	https://github.com/boycechang/BCColor	A lightweight but powerful color kit 
 libs	https://github.com/jakarmy/swift-summary	A summary of Apple's Swift language written on Playgrounds			20160415	0		0	0
 advanced	http://aplus.rs/2016/masterclass-code-signing/	Masterclass: Code signing & Provisioning profiles			20160410	0		0	0
 advanced	http://peterwitham.com/xcode/xcode-plugin-swiftlintxcode/	Xcode Plugin – SwiftLintXcode			20160415	0		0	0
-advanced	https://www.youtube.com/watch?v=_lPmG9159QY	‪Firebase Twitter Login in Swift - Xcode 7.3 iOS 9.3‬	fire base:video		20160415	0		0	0
+advanced	https://www.youtube.com/watch?v=_lPmG9159QY	‪Firebase Twitter Login in Swift - Xcode 7.3 iOS 9.3‬	firebase:video		20160415	0		0	0
 advanced	http://www.sunsetlakesoftware.com/2016/04/16/introducing-gpuimage-2-redesigned-swift	Introducing GPUImage 2, redesigned in Swift			20160416	0		0	0
 advanced	https://www.raywenderlich.com/131638/video-tutorial-intermediate-ios-animation-part-5-animation-delegate	Video Tutorial: Intermediate iOS Animation Part 5: Animation Delegate	video:animation		20160415	1		0	0
 advanced	https://www.andrewcbancroft.com/2016/04/17/deploying-parse-dashboard/	Deploying Parse Dashboard	ParseSDK		20160417	0		0	0
@@ -5573,3 +5573,19 @@ advanced	https://blog.prototypr.io/from-sketches-to-the-imessage-app-store-how-i
 advanced	https://overflow.buffer.com/2016/10/04/implementing-asyncdisplaykit-within-buffer-ios/	Smooth Scrolling in Buffer for iOS: How (and Why) We Implemented AsyncDisplayKit			20161004	0		0	0
 advanced	https://medium.com/ios-os-x-development/ios-tableview-with-mvc-a05103c01110	iOS Tableview with MVC			20161014	0		0	0
 advanced	https://medium.cobeisfresh.com/thinking-from-scratch-with-sets-in-swift-1b3050a76e45	Thinking from Scratch with Sets in Swift			20161017	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/11/animating-planet-engulfment-in-houdini.html	Animating Planet Engulfment in Houdini			20161106	0		0	0
+advanced	http://www.mokacoding.com/blog/better-build-phase-scripts	Better Xcode Run Script Build Phases			20161106	0		0	0
+advanced	http://swiftdeveloperblog.com/ios-settings-bundle-let-users-save-their-preferences-via-the-ios-settings-app/	iOS Settings Bundle – Let Users Save Their Preferences via the iOS Settings App			20161106	0		0	0
+advanced	http://www.ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios10	Dragging Views with Gestures Tutorial	gestures		20161107	0		0	0
+advanced	https://makeapppie.com/2016/11/07/beginning-auto-layout/	Beginning Auto Layout	AutoLayout		20161107	0		0	0
+advanced	https://www.raywenderlich.com/143712/firebase-remote-config-tutorial-for-ios	Firebase Remote Config Tutorial for iOS	firebase		20161107	0		0	0
+advanced	https://rainsoft.io/mastering-swift-essential-details-about-strings/	Mastering Swift: essential details about strings	string		20161005	0		0	0
+advanced	https://spin.atomicobject.com/2016/10/20/ios-image-filters-in-swift/	Working with iOS Image Filters in Swift			20161020	0		0	0
+advanced	https://grokswift.com/updating-nsurlsession-to-swift-3-0/	Updating NSURLSession Calls to Swift 3.0	NSURLSession		20160923	0		0	0
+advanced	https://jeremywsherman.com/blog/2016/09/22/a-practical-example-of-flatmap/	A Practical Example of FlatMap	functional:flatmap		20160922	0		0	0
+advanced	https://spin.atomicobject.com/2016/10/12/auto-layout-uitableview/	Getting Auto Layout to Work in a UITableView	AutoLayout		20161012	0		0	0
+advanced	https://swift.org/blog/whole-module-optimizations/	Whole-Module Optimization in Swift 3			20161021	0		0	0
+advanced	http://2016.funswiftconf.com	Functional Swift Conference 2016	functional:video		20161001	0		0	0
+advanced	https://ninjapro.wordpress.com/2016/10/28/should-i-use-struct-in-swift/	Should I use struct in Swift?			20161028	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/11/07/zork-navigation/	Zork – Navigation			20161107	0		0	0
+advanced	http://www.splinter.com.au/2016/11/06/swift-3-migration/	Swift 3 Migration			20161105	0		0	0
