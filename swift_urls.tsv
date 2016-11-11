@@ -2507,6 +2507,37 @@ advanced	https://littlebitesofcocoa.com/251-face-aware-image-views-with-aspectfi
 advanced	https://littlebitesofcocoa.com/252-compiling-swift-from-source	little bites of cocoa: #252: Compiling Swift from Source			20160808	0		0	0
 advanced	https://littlebitesofcocoa.com/253-watching-files-with-kzfilewatchers	little bites of cocoa: #253: Watching Files with KZFileWatchers			20160809	0		0	0
 advanced	https://littlebitesofcocoa.com/254-dynamically-mocking-network-requests-with-kakapo	little bites of cocoa: #254: Dynamically Mocking Network Requests with Kakapo			20160810	0		0	0
+advanced	https://littlebitesofcocoa.com/255-creating-a-colorconvertible-protocol	little bites of cocoa: #255: Creating a ColorConvertible Protocol 			20160829	0		0	0
+advanced	https://littlebitesofcocoa.com/256-uipasteboard-revisited	little bites of cocoa: #256: UIPasteboard Revisited			20160830	0		0	0
+advanced	https://littlebitesofcocoa.com/257-property-observers-on-local-variables	little bites of cocoa: #257: Property Observers on Local Variables			20160831	0		0	0
+advanced	https://littlebitesofcocoa.com/258-user-notifications-framework-basics	little bites of cocoa: #258: User Notifications Framework Basics			20160905	0		0	0
+advanced	https://littlebitesofcocoa.com/259-notification-triggers	little bites of cocoa: #259: Notification Triggers			20160906	0		0	0
+advanced	https://littlebitesofcocoa.com/260-new-notifications-capabilities	little bites of cocoa: #260: New Notifications Capabilities			20160907	0		0	0
+advanced	https://littlebitesofcocoa.com/261-rich-notifications	little bites of cocoa: #261: Rich Notifications			20160908	0		0	0
+advanced	https://littlebitesofcocoa.com/262-notification-content-extensions	little bites of cocoa: #262: Notification Content Extensions			20160909	0		0	0
+advanced	https://littlebitesofcocoa.com/263-changing-the-color-of-the-status-bar	little bites of cocoa: #263: Changing the Color of the Status Bar			20160913	0		0	0
+advanced	https://littlebitesofcocoa.com/264-keep-xcode-project-folders-organized-with-synx	little bites of cocoa: #264: Keep Xcode Project Folders Organized with Synx 			20160914	0		0	0
+advanced	https://littlebitesofcocoa.com/265-fading-audio-with-avaudioplayer	little bites of cocoa: #265: Fading Audio with AVAudioPlayer			20160915	0		0	0
+advanced	https://littlebitesofcocoa.com/266-notification-service-extensions	little bites of cocoa: #266: Notification Service Extensions 			20160916	0		0	0
+advanced	https://littlebitesofcocoa.com/267-using-the-mapitem-property-on-nsuseractivity	little bites of cocoa: #267: Using the mapItem Property on NSUserActivity			20160922	0		0	0
+advanced	https://littlebitesofcocoa.com/268-what-s-new-in-tab-bar-customization	little bites of cocoa: #268: What's New in Tab Bar Customization			20160923	0		0	0
+advanced	https://littlebitesofcocoa.com/269-taptic-engine-basics	little bites of cocoa: #269: Taptic Engine Basics			20160927	0		0	0
+advanced	https://littlebitesofcocoa.com/270-implementing-theming-with-costumekit	little bites of cocoa: #270: Implementing Theming with CostumeKit			20160929	0		0	0
+advanced	https://littlebitesofcocoa.com/271-beautiful-alerts-with-pmalertcontroller	little bites of cocoa: #271: Beautiful Alerts with PMAlertController			20161003	0		0	0
+advanced	https://littlebitesofcocoa.com/272-automatic-table-view-collection-view-animations-with-dwifft	little bites of cocoa: #272: Automatic Table View & Collection View Animations with Dwifft			20161004	0		0	0
+advanced	https://littlebitesofcocoa.com/273-automatically-generating-swift-initializers	little bites of cocoa: #273: Automatically Generating Swift Initializers 			20161005	0		0	0
+advanced	https://littlebitesofcocoa.com/274-swifty-attributed-strings-with-swiftyattributes	little bites of cocoa: #274: Swifty Attributed Strings with SwiftyAttributes			20161006	0		0	0
+advanced	https://littlebitesofcocoa.com/275-adding-imports-from-anywhere	little bites of cocoa: #275: Adding Imports from Anywhere			20161007	0		0	0
+advanced	https://littlebitesofcocoa.com/276-measurement-basics	little bites of cocoa: #276: Measurement Basics			20161017	0		0	0
+advanced	https://littlebitesofcocoa.com/277-measurementformatter-basics	little bites of cocoa: #277: MeasurementFormatter Basics			20161018	0		0	0
+advanced	https://littlebitesofcocoa.com/278-saving-time-with-source-editor-extensions	little bites of cocoa: #278: Saving Time With Source Editor Extensions			20161021	0		0	0
+advanced	https://littlebitesofcocoa.com/279-swiftier-forms-with-formvalidatorswift	little bites of cocoa: #279: Swiftier Forms with FormValidatorSwift			20161024	0		0	0
+advanced	https://littlebitesofcocoa.com/280-flowing-text-around-images-with-exclusion-paths	little bites of cocoa: #280: Flowing Text Around Images With Exclusion Paths 			20161025	0		0	0
+advanced	https://littlebitesofcocoa.com/281-touch-bar-basics	little bites of cocoa: #281: Touch Bar Basics			20161028	0		0	0
+advanced	https://littlebitesofcocoa.com/282-taming-the-keyboard-with-typist	little bites of cocoa: #282: Taming the Keyboard with Typist			20161031	0		0	0
+advanced	https://littlebitesofcocoa.com/283-generating-models-from-json-with-json2swift	little bites of cocoa: #283: Generating Models from JSON with json2swift			20161102	0		0	0
+advanced	https://littlebitesofcocoa.com/284-more-xcode-source-editor-extensions	little bites of cocoa: #284: More Xcode Source Editor Extensions			20161104	0		0	0
+advanced	https://littlebitesofcocoa.com/285-generating-random-data-with-randomkit	little bites of cocoa: #285: Generating Random Data with RandomKit			20161107	0		0	0
 advanced	http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html	Split Views and Unexpected Keyboards	keyboard		20151122	0		0	0
 advanced	http://realm.io/news/jp-simard-reverse-engineering-code-completion	Reverse Engineering Code Completion	xcode:video		20151123	0		0	0
 advanced	http://www.raywenderlich.com/110393/auto-layout-visual-format-language-tutorial	Auto Layout Visual Format Language Tutorial	AutoLayout:AutoLayoutCode		20151123	0		0	0
@@ -5589,3 +5620,35 @@ advanced	http://2016.funswiftconf.com	Functional Swift Conference 2016	functiona
 advanced	https://ninjapro.wordpress.com/2016/10/28/should-i-use-struct-in-swift/	Should I use struct in Swift?			20161028	0		0	0
 advanced	https://theliquidfire.wordpress.com/2016/11/07/zork-navigation/	Zork – Navigation			20161107	0		0	0
 advanced	http://www.splinter.com.au/2016/11/06/swift-3-migration/	Swift 3 Migration			20161105	0		0	0
+advanced	https://realm.io/news/tryswift-katsumi-kishikawa-mastering-textkit-swift-ios/	Mastering TextKit	TextKit:video		20161107	0		0	0
+advanced	https://realm.io/news/tryswift-andyy-hope-swift-eye-stringly-typed-api/	Swift Eye for the Stringly Typed API			20161030	0		0	0
+advanced	http://ericasadun.com/2016/11/07/holy-war-enum-hash-values-and-option-sets/	Holy War: Enum Hash Values and Option Sets			20161107	0		0	0
+advanced	https://realm.io/news/tryswift-natasha-nazari-building-better-language-app-swift-ios/	Building a Better Language App with Swift			20161104	0		0	0
+advanced	https://realm.io/news/jalkut-extending-xcode-8/	Extending Xcode 8			20161008	0		0	0
+advanced	https://realm.io/news/slug-raheel-ahmad-using-monads-functional-paradigms-in-practice-functors-patterns-swift/	Using Monads and Other Functional Paradigms in Practice	functional:monad		20161022	0		0	0
+advanced	https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/	Refactoring at Scale – Lessons Learned Rewriting Instagram’s Feed			20161030	0		0	0
+advanced	https://realm.io/news/tryswift-ellen-shapiro-pushing-envelope-ios-10-notifications/	Pushing the Envelope with iOS 10 Notifications			20160919	0		0	0
+advanced	https://realm.io/news/altconf-thomas-dohmke-continuous-delivery/	Continuous Delivery for iOS & Mac Apps			20160916	0		0	0
+advanced	https://realm.io/news/altconf-zev-eisenberg-easy-beautiful-typography-bonmot-library-ios-swift/	Easy, Beautiful Typography with BonMot			20160915	0		0	0
+advanced	https://realm.io/news/daniel-steinberg-swiftcasts-the-full-3-part-series/	SwiftCasts, The Full 3-Part Series			20161020	0		0	0
+advanced	https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming/	Turning UIKit Inside Out			20160822	0		0	0
+advanced	https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/	Bring Your App To Life with CALayers	CALayer		20160906	0		0	0
+advanced	http://useyourloaf.com/blog/completion-handlers-as-an-alternative-to-delegation/	Completion Handlers as an Alternative to Delegation			20161107	0		0	0
+advanced	http://www.atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow	Date Math is Hard, Let's Do it Tomorrow	date		20161105	0		0	0
+advanced	http://www.appcoda.com/grand-central-dispatch/	Grand Central Dispatch (GCD) and Dispatch Queues in Swift 3			20161107	0		0	0
+advanced	http://ericasadun.com/2016/11/08/swift-by-emoji-a-considered-approach/	Swift By Emoji: A considered approach			20161108	0		0	0
+advanced	https://www.raywenderlich.com/147318/screencast-server-side-swift-vapor-persisting-models	Screencast: Server Side Swift with Vapor: Persisting Models	vapor		20161108	0		0	0
+advanced	https://www.weheartswift.com/firebase-101/	Firebase 101	firebase		20161108	0		0	0
+advanced	http://www.youtube.com/watch?v=_raE5YQcE4Y	For, While, & Repeat Loops! (Swift 3 in Xcode)	JaredDavidson:video		20161108	0		0	0
+advanced	http://www.youtube.com/watch?v=Aegohk-3ffo	Spotify Search! (Finale : Swift 3 in Xcode 8)	JaredDavidson:video		20161108	0		0	0
+advanced	https://www.raywenderlich.com/139591/building-custom-collection-swift	Building a Custom Collection in Swift			20161109	0		0	0
+advanced	http://flexmonkey.blogspot.com/2016/11/reaction-diffusion-in-sidefx-houdini.html	Reaction Diffusion in SideFX Houdini			20161109	0		0	0
+advanced	http://theswiftdev.com/2016/11/09/server-side-swift/	Server-side Swift			20161109	0		0	0
+advanced	http://www.russbishop.net/mixing-initializers	Mixing Initializers			20161110	0		0	0
+advanced	https://www.weheartswift.com/swift-introduction-algorithms-part-2/	A Swift Introduction to Algorithms – Part 2			20161110	0		0	0
+advanced	https://www.raywenderlich.com/147324/screencast-server-side-swift-vapor-crud-database-options	Screencast: Server Side Swift with Vapor: CRUD Database Options			20161110	0		0	0
+advanced	http://www.russbishop.net/quick-easy-dispatchtime	Quick: Easy DispatchTime			20161110	0		0	0
+advanced	http://masilotti.com/xctest-documentation/	XCTest Documentation			20161111	0		0	0
+advanced	https://code.tutsplus.com/tutorials/ios-10-notification-service-extensions--cms-27550	iOS 10: Notification Service Extensions			20161111	0		0	0
+advanced	http://masilotti.com/ui-testing-cheat-sheet/	UI Testing Cheat Sheet and Examples			20161111	0		0	0
+advanced	http://www.mokacoding.com/blog/better-build-phase-scripts/	Better Xcode Run Script Build Phases			20161107	0		0	0
