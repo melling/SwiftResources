@@ -5635,7 +5635,7 @@ advanced	https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-p
 advanced	https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/	Bring Your App To Life with CALayers	CALayer		20160906	0		0	0
 advanced	http://useyourloaf.com/blog/completion-handlers-as-an-alternative-to-delegation/	Completion Handlers as an Alternative to Delegation			20161107	0		0	0
 advanced	http://www.atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow	Date Math is Hard, Let's Do it Tomorrow	date		20161105	0		0	0
-advanced	http://www.appcoda.com/grand-central-dispatch/	Grand Central Dispatch (GCD) and Dispatch Queues in Swift 3			20161107	0		0	0
+advanced	http://www.appcoda.com/grand-central-dispatch/	Grand Central Dispatch (GCD) and Dispatch Queues in Swift 3	concurrency		20161107	0		0	0
 advanced	http://ericasadun.com/2016/11/08/swift-by-emoji-a-considered-approach/	Swift By Emoji: A considered approach			20161108	0		0	0
 advanced	https://www.raywenderlich.com/147318/screencast-server-side-swift-vapor-persisting-models	Screencast: Server Side Swift with Vapor: Persisting Models	vapor		20161108	0		0	0
 advanced	https://www.weheartswift.com/firebase-101/	Firebase 101	firebase		20161108	0		0	0
@@ -5646,9 +5646,47 @@ advanced	http://flexmonkey.blogspot.com/2016/11/reaction-diffusion-in-sidefx-hou
 advanced	http://theswiftdev.com/2016/11/09/server-side-swift/	Server-side Swift			20161109	0		0	0
 advanced	http://www.russbishop.net/mixing-initializers	Mixing Initializers			20161110	0		0	0
 advanced	https://www.weheartswift.com/swift-introduction-algorithms-part-2/	A Swift Introduction to Algorithms – Part 2			20161110	0		0	0
-advanced	https://www.raywenderlich.com/147324/screencast-server-side-swift-vapor-crud-database-options	Screencast: Server Side Swift with Vapor: CRUD Database Options			20161110	0		0	0
+advanced	https://www.raywenderlich.com/147324/screencast-server-side-swift-vapor-crud-database-options	Screencast: Server Side Swift with Vapor: CRUD Database Options	vapor		20161110	0		0	0
 advanced	http://www.russbishop.net/quick-easy-dispatchtime	Quick: Easy DispatchTime			20161110	0		0	0
-advanced	http://masilotti.com/xctest-documentation/	XCTest Documentation			20161111	0		0	0
+advanced	http://masilotti.com/xctest-documentation/	XCTest Documentation	testing		20161111	0		0	0
 advanced	https://code.tutsplus.com/tutorials/ios-10-notification-service-extensions--cms-27550	iOS 10: Notification Service Extensions			20161111	0		0	0
-advanced	http://masilotti.com/ui-testing-cheat-sheet/	UI Testing Cheat Sheet and Examples			20161111	0		0	0
+advanced	http://masilotti.com/ui-testing-cheat-sheet/	UI Testing Cheat Sheet and Examples	testing		20161111	0		0	0
 advanced	http://www.mokacoding.com/blog/better-build-phase-scripts/	Better Xcode Run Script Build Phases			20161107	0		0	0
+advanced	https://realm.io/news/altconf-evan-stone-saving-lives-ibeacons/	Saving Lives with iBeacons	ibeacon		20161110	0		0	0
+advanced	http://www.youtube.com/watch?v=J8eifSFeYE8	How To Make an App - Xcode 8.1 Update Frames	CodeWithChris:video		20161110	0		0	0
+advanced	https://www.bignerdranch.com/blog/using-swift-enumerations-makes-segues-safer/	Using Swift Enumerations Makes Segues Safer	enum		20161111	0		0	0
+advanced	http://masilotti.com/xctest-helpers/	Custom Helpers in XCTest	testing		20161111	0		0	0
+advanced	http://masilotti.com/better-swift-unit-testing/	Better Unit Testing with Swift	testing		20161111	0		0	0
+advanced	http://ericasadun.com/2016/11/11/a-few-interesting-things-about-ios-swift-playgrounds/	A few interesting things about iOS Swift Playgrounds	playground		20161111	0		0	0
+advanced	https://www.weheartswift.com/combining-colors/	Combining Colors	color		20161111	0		0	0
+advanced	http://christiantietze.de/posts/2016/11/nsresponder-finding-beep/	Debugging NSBeep Error Sound in NSResponder Method Calls			20161112	0		0	0
+advanced	http://www.figure.ink/blog/2016/11/12/first-and-rest	First and Rest			20161112	0		0	0
+advanced	http://www.appcoda.com/mapkit-beginner-guide/	Working with MapKit: Annotations and Shape Rendering			20161113	0		0	0
+advanced	http://christiantietze.de/posts/2016/11/rocketdata-unidirectional-cache/	RocketData is a Uni-Directional UI Compontent Data Source			20161113	0		0	0
+advanced	http://www.bensnider.com/refactoring-an-mvvm-app-to-swift-3.html	Refactoring an MVVM App To Swift 3			20161113	0		0	0
+advanced	https://spin.atomicobject.com/2016/11/14/uisearchcontroller-add-search-uitableviews/	How to Use UISearchController to Add Search Your UITableViews	UISearchController		20161114	0		0	0
+advanced	http://hotcocoatouch.com/2016/11/16/composite-validators/	Composite Validator			20161116	0		0	0
+advanced	https://theliquidfire.wordpress.com/2016/11/14/zork-items-inventory/	Zork – Items & Inventory			20161114	0		0	0
+advanced	http://www.youtube.com/watch?v=xYXeeWtpHDU	# 108 Returning JSON from Vapor Server Side Swift	AzamSharp:video:vapor		20161113	0		0	0
+advanced	http://www.youtube.com/watch?v=pkLkU5U0P3M	Realm Issues with Xcode 8 and Swift 3.0			20161116	0		0	0
+advanced	https://makeapppie.com/2016/11/14/using-date-timeinterval-and-datecomponenets-in-swift-3/	Using Date, TimeInterval, and DateComponents in Swift 3	date		20161114	0		0	0
+advanced	https://www.raywenderlich.com/143874/websockets-ios-starscream	WebSockets on iOS with Starscream			20161114	0		0	0
+advanced	http://useyourloaf.com/blog/adding-hardware-keyboard-shortcuts/	Adding Hardware Keyboard Shortcuts			20161114	0		0	0
+advanced	https://www.raywenderlich.com/147812/video-tutorial-beginning-metal-part-1-introduction	Video Tutorial: Beginning Metal Part 1: Introduction	metal		20161114	1		0	0
+advanced	https://www.raywenderlich.com/147818/video-tutorial-beginning-metal-part-2-getting-started	Video Tutorial: Beginning Metal Part 2: Getting Started	metal		20161114	1		0	0
+advanced	https://www.raywenderlich.com/147820/video-tutorial-beginning-metal-part-3-triangles	Video Tutorial: Beginning Metal Part 3: Triangles	metal		20161114	1		0	0
+advanced	https://www.raywenderlich.com/147786/new-course-beginning-metal	New Course: Beginning Metal	metal		20161114	0		0	0
+advanced	http://ericasadun.com/2016/11/14/defer-defer-defer/	Defer; defer; defer			20161114	0		0	0
+advanced	https://www.raywenderlich.com/147327/screencast-server-side-swift-vapor-deploying-heroku-postgresql	Screencast: Server Side Swift with Vapor: Deploying to Heroku with PostgreSQL	vapor		20161115	0		0	0
+advanced	https://www.raywenderlich.com/147401/6-free-macos-tutorials-now-updated-swift-3	6 Free macOS Tutorials Now Updated For Swift 3	mac		20161115	0		0	0
+advanced	https://www.codementor.io/swift/tutorial/delegates-in-swift	How to Create Delegates in Swift			20161116	0		0	0
+advanced	https://code.tutsplus.com/tutorials/core-data-just-got-better--cms-27619	Core Data Just Got Better	CoreData		20161116	0		0	0
+advanced	http://ericasadun.com/2016/11/16/flybbertigybbets/	Flybbertigybbets			20161116	0		0	0
+advanced	https://www.raywenderlich.com/148123/video-tutorial-beginning-metal-part-4-indices-constants	Video Tutorial: Beginning Metal Part 4: Indices and Constants	metal		20161116	1		0	0
+advanced	https://www.raywenderlich.com/147824/screencast-server-side-swift-vapor-basic-controllers	Screencast: Server Side Swift with Vapor: Basic Controllers	vapor		20161117	0		0	0
+advanced	https://peterwitham.com/swift/calculate-date-swift-3-using-calendar-components/	How to Calculate a Date in Swift 3 Using Calendar Components	date		20161117	0		0	0
+advanced	http://ericasadun.com/2016/11/17/holy-wars-namespacing-hygiene/	Holy Wars: Namespacing Hygiene			20161117	0		0	0
+advanced	https://www.weheartswift.com/brain-warmers-part-1/	Brain Warmers – Part 1			20161118	0		0	0
+advanced	https://www.weheartswift.com/peak-finding/	Peak Finding			20161118	0		0	0
+advanced	https://www.raywenderlich.com/148141/swift-algorithm-club-swift-queue-data-structure	Swift Algorithm Club: Swift Queue Data Structure	algorithm		20161118	0		0	0
+advanced	https://www.raywenderlich.com/148127/video-tutorial-beginning-metal-part-5-shaders	Video Tutorial: Beginning Metal Part 5: Shaders	metal		20161118	1		0	0
