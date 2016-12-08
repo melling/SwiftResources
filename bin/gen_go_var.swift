@@ -131,7 +131,32 @@ func deriveSource(url: String) -> (String, String) {
     return (source, githubName)
 }
 
+func checkUrlImportFile(existingUrls:[String:Int]) {
+
+	let path = "foobar.txt"
+                    print("BOOOM!!!")
+    if let fileManager =  FileManager.default as FileManager! {
+ _ = try? fileManager.createDirectoryAtPath( path,
+                   withIntermediateDirectories: true,
+                                    attributes: nil )
+}
+
+	let importUrls = readLines(filePath: "/tmp/import_urls.txt")
+	for url in importUrls {
+
+                    print("NEW??: \(url)")
+                if let _ = existingUrls[url] {
+//                    print("Error: Duplicate URL: \(url)")
+                } else {
+                    print("NEW: \(url)")
+		}
+		
+	}
+
+}
+
 let lines = readLines(filePath: "/tmp/swift_urls.tsv")
+
 var allUrls:[String:Int] = [:]
 
 var ok:Int
@@ -192,6 +217,8 @@ for line in lines {
     }
     i += 1
 }
+
+checkUrlImportFile(existingUrls: allUrls)
 
 func printTagsArray() {
     
@@ -264,3 +291,5 @@ print("}")
 
 printTagsArray()
 printTagCountVar()
+
+
