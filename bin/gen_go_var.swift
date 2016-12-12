@@ -133,6 +133,7 @@ func deriveSource(url: String) -> (String, String) {
 
 func checkUrlImportFile(existingUrls:[String:Int]) {
 
+/*
 	let path = "foobar.txt"
                     print("BOOOM!!!")
     if let fileManager =  FileManager.default as FileManager! {
@@ -153,6 +154,7 @@ func checkUrlImportFile(existingUrls:[String:Int]) {
 		
 	}
 
+*/
 }
 
 let lines = readLines(filePath: "/tmp/swift_urls.tsv")
