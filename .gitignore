@@ -1,3 +1,4 @@
 db.go
 import_urls.txt
-
+duplicate_urls.txt
+new_urls.txt

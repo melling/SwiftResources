@@ -59,6 +59,53 @@ class UrlRecord {
 
 var database:[UrlRecord] = []
 
+/*: MARK: - File functions
+
+*/
+func createFile(fileName:String) throws {
+    do {
+        
+        try
+            "".write(
+                toFile: fileName,
+                atomically: false,
+                encoding: String.Encoding.utf8)
+        
+        print("Created: \(fileName)")
+    }  catch  {
+        throw error
+    }
+    
+}
+
+func removeFile(fileName:String) {
+    let fileManager = FileManager.default
+
+    do {
+        try fileManager.removeItem(atPath: fileName)
+        print("Removed: \(fileName)")
+    } catch let error {
+        print("Error: \(error.localizedDescription)")
+    }
+}
+
+func appendFile(_ aString:String, filePath: String) {
+    
+    if let fileHandle: FileHandle = FileHandle(forUpdatingAtPath: filePath) {
+        
+        let data = aString.data(using: String.Encoding(rawValue: String.Encoding.utf8.rawValue))
+        fileHandle.seekToEndOfFile()
+        
+        fileHandle.write(data!)
+        fileHandle.closeFile()
+        
+    } else {
+        print("File open failed")
+    }
+}
+
+// ==========================
+
 func readLines(filePath: String) -> [String] {
     //    var stream:NSStream = NSStream
     
@@ -75,13 +122,12 @@ func readLines(filePath: String) -> [String] {
             allLines = str1.components(separatedBy: "\n")
             
         } else {
-            print("file not found: \(filePath)")
+            print("ERROR: file not found: \(filePath)")
         }
         
         
     }
     return allLines
-    
 }
 
 func writeGoVar(groupNum: Int, url: String, name: String,
@@ -99,7 +145,8 @@ func writeGoVar(groupNum: Int, url: String, name: String,
             allTagStr += "\"\(t)\","
         }
     }
-    print("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date), \(isPaywall), \"\(apisUsed)\", \(recType), \(key)  },")
+
+    appendFile("{\(groupNum), \"\(url)\",\"\(name)\",\"\(lowerTitle)\" ,\"\(source)\", \"\(githubName)\", []string{\(allTagStr)}, \"\(image)\", \(date), \(isPaywall), \"\(apisUsed)\", \(recType), \(key)  },\n", filePath: "db.go")
 }
 
 func deriveSource(url: String) -> (String, String) {
@@ -131,30 +178,33 @@ func deriveSource(url: String) -> (String, String) {
     return (source, githubName)
 }
 
-func checkUrlImportFile(existingUrls:[String:Int]) {
+func checkUrlImportFileForDuplicates(existingUrls:[String:Int]) {
+    
+    
+    removeFile(fileName: "new_urls.txt")
+    removeFile(fileName: "duplicate_urls.txt")
+try? createFile(fileName: "new_urls.txt")
+try? createFile(fileName: "duplicate_urls.txt")
 
-/*
-	let path = "foobar.txt"
-                    print("BOOOM!!!")
+    let path = "foobar.txt"
+
     if let fileManager =  FileManager.default as FileManager! {
- _ = try? fileManager.createDirectoryAtPath( path,
-                   withIntermediateDirectories: true,
-                                    attributes: nil )
-}
-
-	let importUrls = readLines(filePath: "/tmp/import_urls.txt")
-	for url in importUrls {
-
-                    print("NEW??: \(url)")
-                if let _ = existingUrls[url] {
-//                    print("Error: Duplicate URL: \(url)")
-                } else {
-                    print("NEW: \(url)")
-		}
-		
-	}
-
-*/
+        _ = try? fileManager.createDirectory(atPath: path,
+                                              withIntermediateDirectories: true,
+                                              attributes: nil )
+    }
+    
+    let importUrls = readLines(filePath: "import_urls.txt")
+    
+    for url in importUrls {
+        
+        if let _ = existingUrls[url] {
+            appendFile("\(url)", filePath: "duplicate_urls.txt")
+        } else {
+            appendFile("\(url)", filePath: "new_urls.txt")
+        }
+        
+    }
 }
 
 let lines = readLines(filePath: "/tmp/swift_urls.tsv")
@@ -220,31 +270,34 @@ for line in lines {
     i += 1
 }
 
-checkUrlImportFile(existingUrls: allUrls)
+checkUrlImportFileForDuplicates(existingUrls: allUrls)
 
 func printTagsArray() {
     
     let names = allTags.keys.sorted( by: { $0.lowercased() < $1.lowercased() } )
     
     let varName = "var tagNameList = []string{"
-    
-    print("\(varName)")
+
+    appendFile("\(varName)\n", filePath: "db.go")
     for name in names {
-        print("\"\(name)\",", terminator:" ")
+        appendFile("\"\(name)\", ",  filePath: "db.go")
     }
-    print("}")
+    appendFile("\n}\n", filePath: "db.go")
     
 }
 
 func printTagCountVar() {
-    print("var tagCountDict = map[string]int{")
+    appendFile("var tagCountDict = map[string]int{", filePath: "db.go")
     for (key, value) in allTags.sorted(by: { $0.0.lowercased() < $1.0.lowercased() }) {
         //    let count = allTags[t]
-        print("\"\(key)\": \(value),")
+        appendFile("\"\(key)\": \(value),", filePath: "db.go")
     }
-    print("}")
+    appendFile("\n}\n", filePath: "db.go")
 }
 
+/*
+ sort by groupNumber, date, source
+*/
 database.sort(by: { (rec1, rec2) -> Bool in
     if rec1.groupNum < rec2.groupNum {
         return true
@@ -265,8 +318,12 @@ database.sort(by: { (rec1, rec2) -> Bool in
     return false
 })
 
-print("package webserver\n")
-print(" var urlList = []SwiftRec{")
+//: MARK: - Main
+
+removeFile(fileName: "db.go")
+try? createFile(fileName: "db.go")
+appendFile("package webserver\n", filePath: "db.go")
+appendFile(" var urlList = []SwiftRec{\n", filePath: "db.go")
 
 
 for row in database {
@@ -289,7 +346,7 @@ for row in database {
                recType: row.recType,
                key: row.key)
 }
-print("}")
+appendFile("\n}\n", filePath: "db.go")
 
 printTagsArray()
 printTagCountVar()
