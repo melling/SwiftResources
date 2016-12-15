@@ -203,9 +203,9 @@ try? createFile(fileName: "duplicate_urls.txt")
     for url in importUrls {
         
         if let _ = existingUrls[url] {
-            appendFile("\(url)", filePath: "duplicate_urls.txt")
+            appendFile("\(url)\n", filePath: "duplicate_urls.txt")
         } else {
-            appendFile("\(url)", filePath: "new_urls.txt")
+            appendFile("\(url)\n", filePath: "new_urls.txt")
         }
         
     }
