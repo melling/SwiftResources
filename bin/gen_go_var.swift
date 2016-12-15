@@ -178,6 +178,10 @@ func deriveSource(url: String) -> (String, String) {
     return (source, githubName)
 }
 
+/*
+ See if urls exist in the main file.
+ Don't currently check for duplicates within the import file
+*/
 func checkUrlImportFileForDuplicates(existingUrls:[String:Int]) {
     
     
