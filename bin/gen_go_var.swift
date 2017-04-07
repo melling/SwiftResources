@@ -118,7 +118,7 @@ func readLines(filePath: String) -> [String] {
             
             let aString = NSString(data: data! as Data, encoding: String.Encoding.utf8.rawValue)
             
-            let str1:String = aString as! String
+            let str1:String = aString! as String
             allLines = str1.components(separatedBy: "\n")
             
         } else {
